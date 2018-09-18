@@ -27,8 +27,5 @@ begin
     a[i] := t;
   end;
 
-  for i := 1 to N do
-    writeln(a[i]);
-
 end.
 
