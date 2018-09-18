@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="N37.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="12"/>
+        <CursorPos Y="18"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="21" HistoryIndex="20">
+      <Position1>
+        <Filename Value="N37.lpr"/>
+        <Caret Line="21" Column="65" TopLine="7"/>
+      </Position1>
+      <Position2>
+        <Filename Value="N37.lpr"/>
+        <Caret Line="18" TopLine="7"/>
+      </Position2>
+      <Position3>
+        <Filename Value="N37.lpr"/>
+        <Caret Line="14" TopLine="7"/>
+      </Position3>
+      <Position4>
+        <Filename Value="N37.lpr"/>
+        <Caret Line="16" TopLine="7"/>
+      </Position4>
+      <Position5>
+        <Filename Value="N37.lpr"/>
+        <Caret Line="18" TopLine="7"/>
+      </Position5>
+      <Position6>
+        <Filename Value="N37.lpr"/>
+        <Caret Line="14" TopLine="7"/>
+      </Position6>
+      <Position7>
+        <Filename Value="N37.lpr"/>
+        <Caret Line="16" TopLine="7"/>
+      </Position7>
+      <Position8>
+        <Filename Value="N37.lpr"/>
+        <Caret Line="18" TopLine="7"/>
+      </Position8>
+      <Position9>
+        <Filename Value="N37.lpr"/>
+        <Caret Line="14" TopLine="7"/>
+      </Position9>
+      <Position10>
+        <Filename Value="N37.lpr"/>
+        <Caret Line="16" TopLine="7"/>
+      </Position10>
+      <Position11>
+        <Filename Value="N37.lpr"/>
+        <Caret Line="18" TopLine="7"/>
+      </Position11>
+      <Position12>
+        <Filename Value="N37.lpr"/>
+        <Caret Line="14" TopLine="7"/>
+      </Position12>
+      <Position13>
+        <Filename Value="N37.lpr"/>
+        <Caret Line="16" TopLine="7"/>
+      </Position13>
+      <Position14>
+        <Filename Value="N37.lpr"/>
+        <Caret Line="18" TopLine="7"/>
+      </Position14>
+      <Position15>
+        <Filename Value="N37.lpr"/>
+        <Caret Line="14" TopLine="7"/>
+      </Position15>
+      <Position16>
+        <Filename Value="N37.lpr"/>
+        <Caret Line="16" TopLine="7"/>
+      </Position16>
+      <Position17>
+        <Filename Value="N37.lpr"/>
+        <Caret Line="22" TopLine="7"/>
+      </Position17>
+      <Position18>
+        <Filename Value="N37.lpr"/>
+        <Caret Line="24" TopLine="7"/>
+      </Position18>
+      <Position19>
+        <Filename Value="N37.lpr"/>
+        <Caret Line="25" TopLine="7"/>
+      </Position19>
+      <Position20>
+        <Filename Value="N37.lpr"/>
+        <Caret Line="14" TopLine="7"/>
+      </Position20>
+      <Position21>
+        <Filename Value="N37.lpr"/>
+        <Caret Line="30" TopLine="7"/>
+      </Position21>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="N37.lpr"/>
+        <Line Value="18"/>
+      </Item1>
+    </BreakPoints>
+    <Watches Count="3">
+      <Item1>
+        <Expression Value="i"/>
+      </Item1>
+      <Item2>
+        <Expression Value="l"/>
+      </Item2>
+      <Item3>
+        <Expression Value="lmax"/>
+      </Item3>
+    </Watches>
+  </Debugging>
+</CONFIG>
