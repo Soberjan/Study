@@ -26,8 +26,8 @@ begin
       a[i] := random(9);
       Write(a[i], ' ');
       Write(f, a[i], ' ');
-      Close(f);
     end;
+    Close(f);
 
     Writeln('Enter the right answer and files name');
     Readln(b);

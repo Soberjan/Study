@@ -9,12 +9,13 @@
         <Filename Value="tests_gen.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <CursorPos X="5" Y="42"/>
-        <UsageCount Value="21"/>
+        <TopLine Value="15"/>
+        <CursorPos X="12" Y="30"/>
+        <UsageCount Value="23"/>
         <Loaded Value="True"/>
       </Unit0>
     </Units>
-    <JumpHistory Count="11" HistoryIndex="10">
+    <JumpHistory Count="17" HistoryIndex="16">
       <Position1>
         <Filename Value="tests_gen.lpr"/>
         <Caret Line="6" Column="16"/>
@@ -59,6 +60,52 @@
         <Filename Value="tests_gen.lpr"/>
         <Caret Line="12" Column="43"/>
       </Position11>
+      <Position12>
+        <Filename Value="tests_gen.lpr"/>
+        <Caret Line="42" Column="5"/>
+      </Position12>
+      <Position13>
+        <Filename Value="tests_gen.lpr"/>
+        <Caret Line="22" Column="23" TopLine="13"/>
+      </Position13>
+      <Position14>
+        <Filename Value="tests_gen.lpr"/>
+        <Caret Line="26" TopLine="13"/>
+      </Position14>
+      <Position15>
+        <Filename Value="tests_gen.lpr"/>
+        <Caret Line="20" Column="39" TopLine="13"/>
+      </Position15>
+      <Position16>
+        <Filename Value="tests_gen.lpr"/>
+        <Caret Line="28" TopLine="13"/>
+      </Position16>
+      <Position17>
+        <Filename Value="tests_gen.lpr"/>
+        <Caret Line="30" Column="13" TopLine="13"/>
+      </Position17>
     </JumpHistory>
   </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="tests_gen.lpr"/>
+        <Line Value="24"/>
+      </Item1>
+    </BreakPoints>
+    <Watches Count="3">
+      <Item1>
+        <Expression Value="i"/>
+      </Item1>
+      <Item2>
+        <Expression Value="f"/>
+      </Item2>
+      <Item3>
+        <Expression Value="a"/>
+      </Item3>
+    </Watches>
+  </Debugging>
 </CONFIG>
