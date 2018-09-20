@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\LazarusApp\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1286836893"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiD:\Сашины наработки\Code\Lazarus_Projects\9.09.2018\lib\x86_64-win64&quot; &quot;-FuD:\Сашины наработки\Code\Lazarus_Projects\9.09.2018\&quot; &quot;-FUD:\Сашины наработки\Code\Lazarus_Projects\9.09.2018\lib\x86_64-win64\&quot; N36.lpr"/>
-</CONFIG>
