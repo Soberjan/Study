@@ -15,5 +15,12 @@ simple.exe < tests\04 > tests\04.out
 fc tests\04.a tests\04.out
 
 
+simple.exe < tests\05 > tests\05.out
+fc tests\05.a tests\05.out
+
+
+simple.exe < tests\06 > tests\06.out
+fc tests\06.a tests\06.out
+
 
 pause
