@@ -4,23 +4,25 @@ uses
   SysUtils;
 
 const
-  NLIM = 10;
-  TLIM = 4;
-  VLIM = 20;
+  NLIM = 4;
+  TLIM = 6;
+  VLIM = 10;
 var
   infile, anfile: TextFile;
   a: array [1..NLIM] of integer;
   ans, i, j, n: integer;
 begin
   Randomize();
-  for i := 1 to TLIM do
+  for i := 3 to TLIM do
   begin
-    n := NLIM - random(NLIM mod 2);
-    for j := 1 to n do
-      a[j] := random(VLIM) + 1;
 
-    for j := 1 to n do
-      Write(a[j], ' ');
+    a[1] := random(10) + 1;
+    a[2] := random(15) + 8;
+    a[3] := random(VLIM) + 1;
+    a[4] := random(VLIM) +5;
+
+    for j := 1 to 4 do
+      Writeln(a[j]);
     Writeln();
     Readln(ans);
 
@@ -28,7 +30,7 @@ begin
     Assign(anfile, 'tests/0' + IntToStr(i) + '.a');
     ReWrite(infile);
     ReWrite(anfile);
-    for j := 1 to n do
+    for j := 1 to 4 do
       writeln(infile, a[j]);
     writeln(anfile, ans);
     Close(infile);

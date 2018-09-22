@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\LazarusApp\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1286836893"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiD:\MyWorks\Code\Repositories\Study\C4\custom\1\Optimal\lib\x86_64-win64 -FuD:\MyWorks\Code\Repositories\Study\C4\custom\1\Optimal\ -FUD:\MyWorks\Code\Repositories\Study\C4\custom\1\Optimal\lib\x86_64-win64\ Optimal.lpr"/>
+</CONFIG>

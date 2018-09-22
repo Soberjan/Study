@@ -11,7 +11,6 @@ var
   infile, anfile: TextFile;
   a: array [1..NLIM] of integer;
   ans, i, j, n: integer;
-  c, d: string;
 begin
   Randomize();
   for i := 1 to TLIM do
@@ -29,6 +28,7 @@ begin
     Assign(anfile, 'tests/0' + IntToStr(i) + '.a');
     ReWrite(infile);
     ReWrite(anfile);
+    writeln(infile, n);
     for j := 1 to n do
       writeln(infile, a[j]);
     writeln(anfile, ans);

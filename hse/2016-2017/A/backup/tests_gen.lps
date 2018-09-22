@@ -4,33 +4,24 @@
     <PathDelim Value="\"/>
     <Version Value="10"/>
     <BuildModes Active="Default"/>
-    <Units Count="2">
+    <Units Count="1">
       <Unit0>
-        <Filename Value="Simple.lpr"/>
+        <Filename Value="tests_gen.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="12"/>
-        <CursorPos X="64" Y="31"/>
-        <UsageCount Value="20"/>
+        <TopLine Value="6"/>
+        <CursorPos X="45" Y="33"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit0>
-      <Unit1>
-        <Filename Value="..\DamnHomework1\task32.pas"/>
-        <EditorIndex Value="-1"/>
-        <CursorPos X="11" Y="40"/>
-        <UsageCount Value="10"/>
-      </Unit1>
     </Units>
     <JumpHistory HistoryIndex="-1"/>
   </ProjectSession>
   <Debugging>
-    <Watches Count="2">
+    <Watches Count="1">
       <Item1>
         <Expression Value="i"/>
       </Item1>
-      <Item2>
-        <Expression Value="j"/>
-      </Item2>
     </Watches>
   </Debugging>
 </CONFIG>
