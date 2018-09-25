@@ -1,50 +1,40 @@
-program Optimal;
-
-const
-  Nlim = 1000;
+program optimal;
 
 var
-  a: array [1..Nlim] of integer;
-  i, N, q, b, c, c1, max: integer;
+  ch, i, n, q, b, c, max: integer;
 
 begin
-  Readln(N);
+  Readln(n);
 
-  for i := 1 to N do
-    readln(a[i]);
+  q := 0;
+  b := 0;
+  c := 0;
+  max := 0;
+  ch := 0;
 
-   q := 0;
-   b := 0;
-   c := 0;
-   max := 0;
-
-  for i := 1 to N do
+  for i := 1 to n do
   begin
-    if (a[i] mod 14 = 0) and (a[i] > c) then
-      c := a[i]
-    else if (a[i] mod 7 = 0) and (a[i] > q) then
-      q := a[i]
-    else if (a[i] mod 2 = 0) and (a[i] > b) then
-      b := a[i]
-    else if (a[i] > max) and (a[i] <> q) and (a[i] <> b) and (a[i] <> c) then
-      max := a[i]
-    else if (a[i] = c) then c1 := a[i];
+    Readln(ch);
+    if (ch mod 14 = 0) and (ch > c) then
+      c := ch;
+    if (ch mod 7 = 0) and (ch > q) and (ch mod 14 <> 0) then
+      q := ch;
+    if (ch mod 2 = 0) and (ch > b) and (ch mod 14 <> 0) then
+      b := ch;
+    if (ch > max) and (ch <> q) and (ch <> b) then
+      max := ch;
   end;
 
-  if (max * c > q * b) and (max * c > q * c) and (max * c > b * c) and (max * c > c * c1) then
-    Writeln(max * c)
-  else if (q * b > b * c) and (q * b > q * c) and (q * b > c * c1) then
-    Writeln(q * b)
-  else if (b * c > q * c) and (b * c > c * c1) then
-    Writeln(b * c)
-  else if (q * c > c * c1) then
-    Writeln(q * c)
-  else if c * c1 > 0 then
-    Writeln(c * c1)
-  else
-    Writeln('0');
-
-
+  if (max * c > q * b) and (max * c > q * c) and (max * c > b * c) then
+    Writeln(max * c);
+  if (q * b > b * c) and (q * b > q * c) and (q * b > max * c) then
+    Writeln(q * b);
+  if (b * c > q * c) and (b * c > q * b) and (b * c > max * c) then
+    Writeln(b * c);
+  if (q * c > b * c) and (q * c > q * b) and (q * c > max * c) then
+    Writeln(q * c);
+  if (max * c = 0) and (q * b = 0) and (q * c = 0) and (b * c = 0) then
+    Writeln(0);
 
   Readln();
 

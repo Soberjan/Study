@@ -12,6 +12,8 @@ begin
   sum := 0;
   sumt := 0;
 
+  Readln();
+
   if valm <= vald then
   begin
     while kd > kr do

@@ -1,7 +1,10 @@
-C:\LazarusApp\fpc\3.0.4\bin\x86_64-win64\fpc.exe simple.lpr
-simple.exe < tests\00 > tests\00.out
-fc tests\00.a tests\00.out
-
-
+fpc.exe %~n0.lpr > temporaryfile.t
+for %%g IN ( tests\*.a ) do (
+%~n0.exe < tests\%%~ng > tests\%%~ng.out 
+fc %%g tests\%%~ng.out
+del tests\%%~ng.out                         
+)                                                                                  
+del *.o *.exe *.lps temporaryfile.t
+@RD /S /Q "Backup"
+@RD /S /Q "lib"                                        
 pause
-

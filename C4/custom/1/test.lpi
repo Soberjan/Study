@@ -11,10 +11,13 @@
       </Flags>
       <SessionStorage Value="InProjectDir"/>
       <MainUnit Value="0"/>
-      <Title Value="optimal"/>
+      <Title Value="test"/>
       <UseAppBundle Value="False"/>
       <ResourceType Value="res"/>
     </General>
+    <VersionInfo>
+      <StringTable ProductVersion=""/>
+    </VersionInfo>
     <BuildModes Count="1">
       <Item1 Name="Default" Default="True"/>
     </BuildModes>
@@ -28,7 +31,7 @@
     </RunParams>
     <Units Count="1">
       <Unit0>
-        <Filename Value="optimal.lpr"/>
+        <Filename Value="test.lpr"/>
         <IsPartOfProject Value="True"/>
       </Unit0>
     </Units>
@@ -37,7 +40,7 @@
     <Version Value="11"/>
     <PathDelim Value="\"/>
     <Target>
-      <Filename Value="optimal"/>
+      <Filename Value="test"/>
     </Target>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>

@@ -1,26 +1,23 @@
-program Simple;
+program simple;
 
 const
-  Nlim = 1000;
+  NLIM = 1000;
 
 var
-  a: array [1..Nlim] of integer;
-  Rmax, R, i, j, N: integer;
+  a: array [1..NLIM] of integer;
+  r, i, j, n: integer;
 
 begin
-  Readln(N);
-  for i := 1 to N do
+  Readln(n);
+  for i := 1 to n do
     Readln(a[i]);
 
-  Rmax := 0;
+  r := 0;
   for i := 1 to N - 1 do
     for j := i + 1 to N do
-    begin
-      R := a[i] * a[j];
-      if (Rmax < R) and (R mod 14 = 0) then
-        Rmax := R;
-    end;
+      if (r < a[i] * a[j]) and (a[i] * a[j] mod 14 = 0) then
+        r := a[i] * a[j];
 
-  Writeln(Rmax);
+  Writeln(r);
 end.
 
