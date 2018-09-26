@@ -1,54 +1,31 @@
 program test;
 
 const
-  TLIM = 1000;
+  NLIM = 20;
 
 var
-  i, j : integer;
+  a: array[1..NLIM] of integer;
+  i, j, n: integer;
 
   function simple(): integer;
-  const
-    NLIM = 10;
-    //TLIM = 4;
-    VLIM = 20;
   var
-    a: array [1..NLIM] of integer;
-    r, i, j, n: integer;
+    r, i, j: integer;
   begin
-    //for z := 1 to TLIM do
-    //begin
-    Randomize();
-    n := NLIM - random(NLIM mod 2);
-    for j := 1 to n do
-      a[j] := random(VLIM) + 1;
     r := 0;
-    for i := 1 to N - 1 do
+    for i := 1 to n - 1 do
     begin
-      for j := i + 1 to N do
+      for j := i + 1 to n do
         if (r < a[i] * a[j]) and (a[i] * a[j] mod 14 = 0) then
           r := a[i] * a[j];
     end;
-    simple := (r);
-
-    //end;
+    exit(r);
   end;
 
   function optimal(): integer;
 
-  const
-    NLIM = 10;
-    //TLIM = 4;
-    VLIM = 20;
   var
-    a: array[1..NLIM] of integer;
-    ch, i, n, q, b, c, j, max: integer;
+    ch, i, m2, m7, m14, max: integer;
   begin
-    //for z := 1 to TLIM do
-    //begin
-    Randomize();
-    n := NLIM - random(NLIM mod 2);
-    for j := 1 to n do
-      a[j] := random(VLIM) + 1;
     q := 0;
     b := 0;
     c := 0;
@@ -56,7 +33,7 @@ var
     ch := 0;
     for i := 1 to n do
     begin
-      if (a[i] mod 14 = 0) and (a[i] > c) then
+      if (a[i] mod 14 = 0) and (a[i] > m14) then
         c := ch;
       if (a[i] mod 7 = 0) and (a[i] > q) and (a[i] mod 14 <> 0) then
         q := ch;
@@ -67,26 +44,32 @@ var
     end;
 
     if (max * c > q * b) and (max * c > q * c) and (max * c > b * c) then
-      optimal := (max * c);
+      exit(max * c);
     if (q * b > b * c) and (q * b > q * c) and (q * b > max * c) then
-      optimal := (q * b);
+      exit(q * b);
     if (b * c > q * c) and (b * c > q * b) and (b * c > max * c) then
-      optimal := (b * c);
+      exit(b * c);
     if (q * c > b * c) and (q * c > q * b) and (q * c > max * c) then
-      optimal := (q * c);
+      exit(q * c);
     if (max * c = 0) and (q * b = 0) and (q * c = 0) and (b * c = 0) then
-      optimal := (0);
-    //end;
+      exit(0);
+     //exit(0);
   end;
 
 begin
 
-  for i := 1 to TLIM do
-  if simple() <> optimal() then
-    writeln('ERROR!');
+  for i := 1 to 1000 do
+  begin
+    n := NLIM - random(NLIM div 2);
+    for j := 1 to n do
+      a[j] := random(30) + 1;
+    if simple() <> optimal() then
+    begin
+      writeln('ERROR!');
+      optimal();
 
-
-
+    end;
+  end;
   Readln();
 
 end.

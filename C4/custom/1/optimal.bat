@@ -1,10 +1,11 @@
-fpc.exe %~n0.lpr > temporaryfile.t
-for %%g IN ( tests\*.a ) do (
-%~n0.exe < tests\%%~ng > tests\%%~ng.out 
-fc %%g tests\%%~ng.out
-del tests\%%~ng.out                         
+@echo off
+fpc.exe %~n0.lpr > %~n0.tmp
+for %%i IN ( tests\*.a ) do (
+%~n0.exe < tests\%%~ni > tests\%%~ni.out 
+fc %%i tests\%%~ni.out
+del tests\%%~ni.out                         
 )                                                                                  
-del *.o *.exe *.lps temporaryfile.t
-@RD /S /Q "Backup"
-@RD /S /Q "lib"                                        
+del %~n0.o %~n0.exe %~n0.tmp
+RD /S /Q Backup
+RD /S /Q lib                                        
 pause
