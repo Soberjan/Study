@@ -9,12 +9,25 @@
         <Filename Value="optimal.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="3"/>
-        <CursorPos X="40" Y="17"/>
-        <UsageCount Value="20"/>
+        <TopLine Value="15"/>
+        <CursorPos X="12" Y="40"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit0>
     </Units>
-    <JumpHistory HistoryIndex="-1"/>
+    <JumpHistory Count="3" HistoryIndex="2">
+      <Position1>
+        <Filename Value="optimal.lpr"/>
+        <Caret Line="23" Column="46"/>
+      </Position1>
+      <Position2>
+        <Filename Value="optimal.lpr"/>
+        <Caret Line="20" Column="41"/>
+      </Position2>
+      <Position3>
+        <Filename Value="optimal.lpr"/>
+        <Caret Line="19" Column="32"/>
+      </Position3>
+    </JumpHistory>
   </ProjectSession>
 </CONFIG>

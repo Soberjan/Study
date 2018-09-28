@@ -1,35 +1,44 @@
 program optimal;
 
 var
-  kr, kd, vald, valm, sum, sumt: integer;
+  amr, amd, amn, amdleft, vald, valm, sum, sumt: integer;
 
 begin
 
-  Readln(kr);
-  Readln(kd);
+  Readln(amr);
+  Readln(amd);
   Readln(vald);
   Readln(valm);
   sum := 0;
   sumt := 0;
+  amn := 0;
 
   if valm <= vald then
-    if (kd - kr) mod 4 <> 0 then
-      sum := ((kd-kr) div 4 + 1) * valm
-    else
-      sum
-
-
+    if (amd - amr) mod 4 <> 0 then
+      sum := ((amd - amr) div 4 + 1) * valm
+    else if (amd - amr) mod 4 = 0 then
+      sum := ((amd - amr) div 4) * valm;
   if vald * 4 < valm then
-  begin
-    while kd > kr do
+    sum := (amd - amr) * vald;
+
+  if (sum = 0) then
     begin
-      kr := kr + 1;
-      sum := sum + vald;
+      amn :=  amd - amr;
+      sum := (amn div 4) * valm;
+      amdleft := amn mod 4;
+      if amdleft <> 0 then
+      begin
+        sumt := amdleft * vald;
+        if sumt > valm then
+          sum := sum + valm
+        else
+          sum := sum + vald;
+      end;
     end;
-  end;
 
-
-
-
+  Writeln(sum);
 end.
+
+
+
 
