@@ -1,3 +1,3 @@
 del tests\*.out *.o *.exe *.lps
-/S /Q Backup
-/S /Q lib
+rd /S /Q Backup
+rd /S /Q lib
