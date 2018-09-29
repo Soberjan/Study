@@ -5,7 +5,5 @@ for %%i IN ( tests\*.a ) do (
 fc %%i tests\%%~ni.out
 del tests\%%~ni.out                         
 )                                                                                  
-del %~n0.o %~n0.exe %~n0.tmp
-RD /S /Q Backup
-RD /S /Q lib                                        
+del %~n0.o %~n0.exe %~n0.tmp                        
 pause

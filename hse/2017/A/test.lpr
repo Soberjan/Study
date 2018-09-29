@@ -1,11 +1,11 @@
 program test;
 
 var
-  i, simple_res, optimal_res, amr, amd, vald, valm, sum: integer;
+  i, simple_res, optimal_res, amr, amd, vald, valm: integer;
 
-  function simple(): integer;
+  function simple(amr, amd, vald, valm : integer): integer;
   var
-    sumt : integer;
+    sumt, sum : integer;
   begin
     sum := 0;
     sumt := 0;
@@ -34,30 +34,36 @@ var
         amr := amr + 4;
         sum := sum + valm;
       end
-      else if amd - amr < 4 then
+      else if (amd - amr < 4) and (amd - amr <> 0) then
       begin
-        amr := amr + 1;
-        sumt := sumt + vald;
+        while amd > amr do
+        begin
+          sumt := sumt + vald;
+          amr := amr + 1;
+        end;
+        if sumt >= valm then
+          sum := sum + valm
+        else if sumt < valm then
+          sum := sumt + sum;
       end;
-      if sumt > valm then
-        sum := sum + valm
-      else if sumt < valm then
-        sum := sumt + sum;
     end;
 
     exit(sum);
 
   end;
 
-  function optimal(): integer;
+  function optimal(amr, amd, vald, valm : integer): integer;
 
   var
-    amn, amdleft, sumt: integer;
+    amn, amdleft, sumt, sum: integer;
 
   begin
     amn := 0;
     sumt := 0;
     sum := 0;
+
+    if (amd < amr) then
+      exit(0);
 
     if valm <= vald then
       if (amd - amr) mod 4 <> 0 then
@@ -75,10 +81,10 @@ var
       if amdleft <> 0 then
       begin
         sumt := amdleft * vald;
-        if sumt > valm then
+        if sumt >= valm then
           sum := sum + valm
         else
-          sum := sum + vald;
+          sum := sum + sumt;
       end;
     end;
 
@@ -88,22 +94,19 @@ var
 begin
   for i := 1 to 1000 do
   begin
-    simple_res := 0;
-    optimal_res := 0;
-    sum := 0;
-    amr := random(15);
+    amr := random(10);
     amd := random(20) + 5;
-    vald := random(15);
+    vald := random(15) + 1;
     valm := random(20) + 10;
-    simple_res := simple();
+    simple_res := simple(amr, amd, vald, valm);
     Writeln(simple_res);
-    optimal_res := optimal();
+    optimal_res := optimal(amr, amd, vald, valm);
     Writeln(optimal_res);
 
     if simple_res <> optimal_res then
     begin
       writeln('ERROR!');
-      simple();
+      optimal(amr, amd, vald, valm);
     end;
   end;
   Readln();

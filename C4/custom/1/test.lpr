@@ -22,22 +22,24 @@ var
   end;
 
   function optimal(): integer;
-
   var
-    ch, i, m2, m7, m14, adm14, max: integer;
+    i, m2, m7, m14, adm14, max: integer;
   begin
     m2 := 0;
     m7 := 0;
     m14 := 0;
     max := 0;
-    ch := 0;
     adm14 := 0;
     for i := 1 to n do
     begin
       if (a[i] mod 14 = 0) and (a[i] = m14) then
         adm14 := a[i];
       if (a[i] mod 14 = 0) and (a[i] > m14) then
+      begin
+        if m14 > adm14 then
+          adm14 := m14;
         m14 := a[i];
+      end;
       if (a[i] mod 7 = 0) and (a[i] > m7) and (a[i] mod 14 <> 0) then
         m7 := a[i];
       if (a[i] mod 2 = 0) and (a[i] > m2) and (a[i] mod 14 <> 0) then
@@ -62,30 +64,25 @@ var
 
 begin
 
-  n := NLIM - random(NLIM div 2);
+  for i := 1 to 1000 do
+  begin
+    n := NLIM - random(NLIM div 2);
     writeln(n);
     for j := 1 to n do
       a[j] := random(30) + 1;
 
-  //for i := 1 to 1000 do
-  //begin
-  //  n := NLIM - random(NLIM div 2);
-  //  writeln(n);
-  //  for j := 1 to n do
-  //    a[j] := random(30) + 1;
-  //
-  //  simple_res := simple();
-  //  Writeln(simple_res);
-  //  optimal_res := optimal();
-  //  Writeln(optimal_res);
-  //
-  //  if simple_res <> optimal_res then
-  //  begin
-  //    writeln('ERROR!');
-  //    optimal();
-  //
-  //  end;
-  //end;
+    simple_res := simple();
+    Writeln(simple_res);
+    optimal_res := optimal();
+    Writeln(optimal_res);
+
+    if simple_res <> optimal_res then
+    begin
+      writeln('ERROR!');
+      optimal();
+
+    end;
+  end;
   Readln();
 
 end.

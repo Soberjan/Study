@@ -1,41 +1,53 @@
 program optimal;
 
 var
-  ch, i, n, q, b, c, max: integer;
+  num, i, n, m2, m7, m14, adm14, max: integer;
 
 begin
   Readln(n);
 
-  q := 0;
-  b := 0;
-  c := 0;
+  m7 := 0;
+  m2 := 0;
+  m14 := 0;
   max := 0;
-  ch := 0;
+  num := 0;
 
   for i := 1 to n do
   begin
-    Readln(ch);
-    if (ch mod 14 = 0) and (ch > c) then
-      c := ch;
-    if (ch mod 7 = 0) and (ch > q) and (ch mod 14 <> 0) then
-      q := ch;
-    if (ch mod 2 = 0) and (ch > b) and (ch mod 14 <> 0) then
-      b := ch;
-    if (ch > max) and (ch <> q) and (ch <> b) then
-      max := ch;
+    Readln(num);
+    if (num mod 14 = 0) and (num = m14) then
+      adm14 := num;
+    if (num mod 14 = 0) and (num > m14) then
+    begin
+      if m14 > adm14 then
+        adm14 := m14;
+      m14 := num;
+    end;
+    if (num mod 7 = 0) and (num > m7) and (num mod 14 <> 0) then
+      m7 := num;
+    if (num mod 2 = 0) and (num > m2) and (num mod 14 <> 0) then
+      m2 := num;
+    if (num > max) and (num <> m7) and (num <> m2) and (num <> m14) and
+      (num <> adm14) then
+      max := num;
   end;
 
-  if (max * c > q * b) and (max * c > q * c) and (max * c > b * c) then
-    Writeln(max * c);
-  if (q * b > b * c) and (q * b > q * c) and (q * b > max * c) then
-    Writeln(q * b);
-  if (b * c > q * c) and (b * c > q * b) and (b * c > max * c) then
-    Writeln(b * c);
-  if (q * c > b * c) and (q * c > q * b) and (q * c > max * c) then
-    Writeln(q * c);
-  if (max * c = 0) and (q * b = 0) and (q * c = 0) and (b * c = 0) then
+  if (max * m14 > m7 * m2) and (max * m14 > m7 * m14) and
+    (max * m14 > m2 * m14) and (max * m14 > m14 * adm14) then
+    Writeln(max * m14);
+  if (m7 * m2 > m2 * m14) and (m7 * m2 > m7 * m14) and (m7 * m2 > max * m14) and
+    (m7 * m2 > m14 * adm14) then
+    Writeln(m7 * m2);
+  if (m2 * m14 > m7 * m14) and (m2 * m14 > m7 * m2) and
+    (m2 * m14 > max * m14) and (m2 * m14 > m14 * adm14) then
+    Writeln(m2 * m14);
+  if (m7 * m14 > m2 * m14) and (m7 * m14 > m7 * m2) and
+    (m7 * m14 > max * m14) and (m7 * m14 > m14 * adm14) then
+    Writeln(m7 * m14);
+  if (m14 * adm14 > max * m14) and (m14 * adm14 > m7 * m2) and
+    (m14 * adm14 > m2 * m14) and (m14 * adm14 > m7 * m14) then
+    Writeln(m14 * adm14);
+  if (max * m14 = 0) and (m7 * m2 = 0) and (m7 * m14 = 0) and
+    (m2 * m14 = 0) and (m14 * adm14 = 0) then
     Writeln(0);
-
-  Readln();
-
 end.

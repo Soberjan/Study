@@ -13,8 +13,8 @@ begin
     Readln(a[i]);
 
   r := 0;
-  for i := 1 to N - 1 do
-    for j := i + 1 to N do
+  for i := 1 to n - 1 do
+    for j := i + 1 to n do
       if (r < a[i] * a[j]) and (a[i] * a[j] mod 14 = 0) then
         r := a[i] * a[j];
 

@@ -13,32 +13,32 @@ begin
   sumt := 0;
   amn := 0;
 
-  if valm <= vald then
-    if (amd - amr) mod 4 <> 0 then
-      sum := ((amd - amr) div 4 + 1) * valm
-    else if (amd - amr) mod 4 = 0 then
-      sum := ((amd - amr) div 4) * valm;
-  if vald * 4 < valm then
-    sum := (amd - amr) * vald;
+  if (amd <= amr) then
+      Writeln(0);
 
-  if (sum = 0) then
+    if valm <= vald then
+      if (amd - amr) mod 4 <> 0 then
+        sum := ((amd - amr) div 4 + 1) * valm
+      else if (amd - amr) mod 4 = 0 then
+        sum := ((amd - amr) div 4) * valm;
+    if vald * 4 < valm then
+      sum := (amd - amr) * vald;
+
+    if (sum = 0) then
     begin
-      amn :=  amd - amr;
+      amn := amd - amr;
       sum := (amn div 4) * valm;
       amdleft := amn mod 4;
       if amdleft <> 0 then
       begin
         sumt := amdleft * vald;
-        if sumt > valm then
+        if sumt >= valm then
           sum := sum + valm
         else
-          sum := sum + vald;
+          sum := sum + sumt;
       end;
     end;
 
   Writeln(sum);
 end.
-
-
-
 

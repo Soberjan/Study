@@ -1,55 +1,55 @@
 program simple;
 
 var
-  kr, kd, vald, valm, sum, sumt: integer;
+  amr, amd, vald, valm, sum, sumt: integer;
 
 begin
 
-  Readln(kr);
-  Readln(kd);
-  Readln(vald);
-  Readln(valm);
   sum := 0;
   sumt := 0;
-
+  Readln(amr);
+  Readln(amd);
+  Readln(vald);
+  Readln(valm);
   if valm <= vald then
   begin
-    while kd > kr do
+    while amd > amr do
     begin
-      kr := kr + 4;
+      amr := amr + 4;
       sum := sum + valm;
     end;
   end;
   if vald * 4 < valm then
   begin
-    while kd > kr do
+    while amd > amr do
     begin
-      kr := kr + 1;
+      amr := amr + 1;
       sum := sum + vald;
     end;
   end;
 
-  while kd > kr do
+  while amd > amr do
   begin
-    if kd - kr >= 4 then
+    if amd - amr >= 4 then
     begin
-      kr := kr + 4;
+      amr := amr + 4;
       sum := sum + valm;
     end
-    else if kd - kr < 4 then
+    else if (amd - amr < 4) and (amd - amr <> 0) then
     begin
-      kr := kr + 1;
-      sumt := sumt + vald;
+      while amd > amr do
+      begin
+        sumt := sumt + vald;
+        amr := amr + 1;
+      end;
+      if sumt >= valm then
+        sum := sum + valm
+      else if sumt < valm then
+        sum := sumt + sum;
     end;
   end;
-  if sumt > valm then
-    sum := sum + valm
-  else
-    sum := sumt + sum;
+
   Writeln(sum);
-
-  Readln();
-
 end.
 
 
