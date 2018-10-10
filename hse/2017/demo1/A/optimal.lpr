@@ -1,31 +1,36 @@
 program optimal;
-uses math;
+
+uses
+  Math;
 
 var
-    n, m, a, b, x, y, q, r: integer;
+  n, m, a, b, x, y, q, r: QWord;
+
+  function optimal(): QWord;
+
+  var
+    x, y, q, r: QWord;
 
   begin
-    Readln(n);
-    Readln(m);
-    Readln(a);
-    Readln(b);
-
     if m - n <= 0 then
-    begin
-      Writeln(0);
-      exit;
-    end;
+      exit(0);
     if a * 4 <= b then
-    begin
-      Writeln((m - n) * a);
-      exit;
-    end;
+      exit((m - n) * a);
 
     q := (m - n) div 4;
     r := (m - n) mod 4;
+
     x := ifthen(r * a > b, 0, r);
-    y := ifthen(r * a > b, q + 1,q);
+    y := ifthen(r * a > b, q + 1, q);
 
-    Writeln(x * a + y * b);
+    exit(x * a + y * b);
+  end;
+
+begin
+  Readln(n);
+  Readln(m);
+  Readln(a);
+  Readln(b);
+
+  Writeln(optimal());
 end.
-
