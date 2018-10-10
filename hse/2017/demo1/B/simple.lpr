@@ -1,0 +1,6 @@
+program simple;
+
+begin
+
+end.
+
