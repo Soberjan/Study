@@ -4,12 +4,12 @@ uses
   Math;
 
 var
-  n, m, a, b, x, y, q, r: QWord;
+  n, m, a, b: Int64;
 
-  function optimal(): QWord;
+  function optimal(): Int64;
 
   var
-    x, y, q, r: QWord;
+    x, y, q, r: Int64;
 
   begin
     if m - n <= 0 then

@@ -4,11 +4,11 @@ uses
   Math;
 
 var
-  a, b, m, n: QWord;
+  a, b, m, n: Int64;
 
-  function simple(): QWord;
+  function simple(): Int64;
   var
-    x, y, s: QWord;
+    x, y, s: Int64;
   begin
     if m <= n then
       exit(0);
