@@ -119,8 +119,8 @@ var
   end;
 
 begin
-  //assign(input, 'tests\04');
-  //reset(input);
+  assign(input, 'tests\04');
+  reset(input);
   Readln(n, k);
   for i := 1 to n do
     Readln(a[i]);
