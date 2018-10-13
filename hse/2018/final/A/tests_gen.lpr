@@ -28,8 +28,8 @@ begin
     ReWrite(infile);
     ReWrite(anfile);
     Writeln(infile, h1, ' ', m1);
-    Writeln(infile, h2, m2);
-    Writeln(infile, d, a);
+    Writeln(infile, h2, ' ', m2);
+    Writeln(infile, d, ' ', a);
     writeln(anfile, ans);
     Close(infile);
     Close(anfile);
