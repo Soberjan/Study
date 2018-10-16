@@ -13,7 +13,7 @@ var
   a: array[1..NLIM] of Time;
   i, j, n, o_res, s_res : integer;
 
-  function less(r, l: Time): boolean;
+  function less(l, r: Time): boolean;
   begin
     exit((r.h < l.h) or ((r.h = l.h) and (r.m < l.m)) or
       ((r.h = l.h) and (r.m = l.m)) and (r.s <= l.s));
@@ -24,7 +24,7 @@ var
     k : integer;
   begin
     k := 1;
-    if less(a[j], a[j - 1]) then
+    if less(a[j - 1], a[j]) then
       k += 1;
     exit(k);
   end;
