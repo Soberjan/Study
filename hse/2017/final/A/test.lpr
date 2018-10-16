@@ -1,70 +1,65 @@
 program test;
-
 uses
   Math;
 
-const
-  NLIM = 10;
+type
+  return_time = record
+    h3, m3, days: integer;
+  end;
 
 var
-  a: array[1..NLIM] of integer;
-  i, j, n : integer;
+  i, h1, m1, h2, m2, d, a: integer;
+  simple_res, optimal_res: return_time;
 
-  function simple(): integer;
-  var
-    r, i, j: integer;
-  begin
-    r := 0;
-    for i := 1 to n - 1 do
-    begin
-      for j := i + 1 to n do
-        if (a[i] * a[j] > r) and (a[i] * a[j] mod 14 = 0) then
-          r := a[i] * a[j];
-    end;
-    exit(r);
-  end;
+function simple(): return_time;
+var
+  gr_time: integer;
+  r_t: return_time;
+begin
+  gr_time := h1 - d;
+  gr_time += h2;
 
-  function optimal(): integer;
-  var
-    i, m2, m7, m14, maxa, maxb: integer;
+  gr_time := ifthen(m1 + m2 >= 60, gr_time + 1, gr_time);
+  r_t.m3 := ifthen(m1 + m2 >= 60, m1 + m2 - 60, m1 + m2);
 
-  begin
-    m2 := 0;
-    m7 := 0;
-    m14 := 0;
-    maxa := 0;
-    maxb := 0;
+  r_t.h3 := gr_time + a;
+  r_t.days := r_t.h3 div 24;
+  r_t.h3 := r_t.h3 mod 24;
 
-    for i := 1 to n do
-    begin
-      if (a[i] mod 14 = 0) and (a[i] > m14) then
-        m14 := a[i];
-      if (a[i] mod 7 = 0) and (a[i] > m7) and (a[i] mod 14 <> 0) then
-        m7 := a[i];
-      if (a[i] mod 2 = 0) and (a[i] > m2) and (a[i] mod 14 <> 0) then
-        m2 := a[i];
-      if (a[i] >= maxa) then
-      begin
-        maxb := maxa;
-        maxa := a[i];
-      end
-      else if a[i] >= maxb then
-        maxb := a[i];
-    end;
-    exit(max(m2 * m7, ifthen(m14 = maxa, m14 * maxb, m14 * maxa)));
+  exit(r_t);
+end;
 
-  end;
+function optimal(): return_time;
+var
+  r_t: return_time;
+
+begin
+  r_t.h3 := h1 + h2 - d + a;
+
+  r_t.h3 := ifthen(m1 + m2 >= 60, r_t.h3 + 1, r_t.h3);
+  r_t.m3 := ifthen(m1 + m2 >= 60, m1 + m2 - 60, m1 + m2);
+
+  r_t.days := r_t.h3 div 24;
+  r_t.h3 := r_t.h3 mod 24;
+
+  exit(r_t);
+end;
 
 begin
 
-  for i := 1 to 10000 do
+  for i := 1 to 1000000 do
   begin
-    n := NLIM - random(NLIM div 2);
-    for j := 1 to n do
-      a[j] := random(30) + 1;
-    if simple() <> optimal() then
-      writeln('error!');
+    h1 := random(23);
+    h2 := random(23);
+    m1 := random(59);
+    m2 := random(59);
+    d := random(25) - 11;
+    a := random(25) - 11;
 
+    simple_res := simple();
+    optimal_res := optimal();
+    if (simple_res.h3 <> optimal_res.h3) or (simple_res.m3 <> optimal_res.m3) or (simple_res.days <> optimal_res.days) then
+      writeln('error!');
   end;
   writeln('done!');
   Readln();

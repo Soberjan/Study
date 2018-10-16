@@ -2,46 +2,41 @@ program simple;
 uses
   Math;
 
-var
-  h1, m1, h2, m2, h3, m3, d, a, belt, days: integer;
-
-begin
-  //assign(input, 'tests\01');
-  //reset(input);
-  Read(h1, m1, h2, m2, d, a);
-  days := 0;
-  h3 := 0;
-  m3 := 0;
-
-  belt := -1 * (d - a);
-  if abs(d - a) > 13 then
-    begin
-    if d - a < 0 then
-      belt := -1 * (26 - belt)
-    else if d - a > 0 then
-      belt := 26 - belt;
-    days := days + 1;
-    end;
-
-  days := days + (h2 div 24);
-  h1 := ifthen(h2 > 24, h1 + (h2 mod 24), h1 + h2);
-
-  m3 := m1 + m2;
-  if m1 + m2 > 60 then
-    begin
-    m3 := m1 + m2 - 60;
-    h3 := h3 + 1;
-    end;
-
-  h3 := h3 + h1 + belt;
-  while h3 > 24 do
-  begin
-    h3 := h3 - 24;
-    days := days + 1;
+type
+  return_time = record
+    h3, m3, days: integer;
   end;
 
-  Writeln(h3, ' ', m3, ' ', days);
-  readln();
+var
+  h1, m1, h2, m2, d, a: integer;
+  ans: return_time;
+
+function simple(): return_time;
+var
+  gr_time, i: integer;
+  r_t: return_time;
+
+begin
+  gr_time := h1 - d;
+  gr_time += h2;
+
+  gr_time := ifthen(m1 + m2 >= 60, gr_time + 1, gr_time);
+  r_t.m3 := ifthen(m1 + m2 >= 60, m1 + m2 - 60, m1 + m2);
+
+  r_t.h3 := gr_time + a;
+  r_t.days := r_t.h3 div 24;
+  r_t.h3 := r_t.h3 mod 24;        7
+
+  exit(r_t);
+end;
+
+begin
+  Readln(h1, m1);
+  Readln(h2, m2);
+  Readln(d, a);
+
+  ans := simple();
+  Writeln(ans.h3, ' ', ans.m3, ' ', ans.days);
 
 end.
 

@@ -5,7 +5,7 @@ uses
 
 const
   NLIM = 100;
-  TLIM = 10;
+  TLIM = 9;
 var
   infile, anfile: TextFile;
   a: array [1..NLIM] of byte;
@@ -13,10 +13,10 @@ var
   n: byte;
 begin
   Randomize();
-  for i := 2 to TLIM do
+  for i := 9 to TLIM do
   begin
-    n := random(9) + 1;
-    m := random(15);
+    n := random(15) + 1;
+    m := random(100);
     for j := 1 to m do
       a[j] := random(n - 1) + 1;
 
