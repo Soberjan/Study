@@ -4,11 +4,13 @@ uses
   Math;
 
 var
-  a, b, m, n: Int64;
+  m, n: Int64;
+  a, b: integer;
 
   function simple(): Int64;
   var
-    x, y, s: Int64;
+    x, s: Int64;
+    y: integer;
   begin
     if m <= n then
       exit(0);

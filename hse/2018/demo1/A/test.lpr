@@ -51,8 +51,6 @@ begin
       writeln('error!');
   end;
   writeln('done!');
-  Readln();
-
 end.
 
 

@@ -4,13 +4,14 @@ uses
   Math;
 
 var
-  n, m, a, b: Int64;
+  n, m: Int64;
+  a, b: integer;
 
   function optimal(): Int64;
 
   var
-    x, y, q, r: Int64;
-
+    x, y, q: Int64;
+    r: shortint;
   begin
     if m - n <= 0 then
       exit(0);
