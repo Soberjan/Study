@@ -91,9 +91,9 @@ var
       end;
     end;
 
-    if kh = 1 then
+    if k mod 2 = 1 then
       res := min(a[i1 + 1] - a[n - i2], a[i1] - a[i2 - 1]);
-    if kh = 0 then
+    if k mod 2 = 0 then
       res := a[i1] - a[i2];
 
     exit(res);

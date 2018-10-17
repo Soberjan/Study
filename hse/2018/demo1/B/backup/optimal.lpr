@@ -18,7 +18,7 @@ function optimal(): integer;
       begin
         max := i;
         for j := i + 1 to n do
-          if abs(A[j]) > abs(A[max]) then
+          if A[j] > A[max] then
             max := j;
         t := a[max];
         a[max] := a[i];
@@ -28,7 +28,7 @@ function optimal(): integer;
     min := a[k + 1];
     max2 := a[k + 1];
     for i := k + 1 to n do
-      if a[i] < min then
+      if abs(a[i]) < abs(min) then
         min := a[i];
     for i := k + 1 to n do
       if a[i] > max2 then
