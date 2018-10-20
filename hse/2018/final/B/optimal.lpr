@@ -1,0 +1,5 @@
+program optimal;
+
+begin
+
+end.

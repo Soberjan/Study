@@ -5,7 +5,7 @@ uses
 
 var
   m, n: Int64;
-  a, b: integer;
+  a, b: smallint;
 
   function simple(): Int64;
   var
@@ -27,10 +27,7 @@ var
 
 begin
 
-  Readln(n);
-  Readln(m);
-  Readln(a);
-  Readln(b);
+  Readln(n, m, a, b); 
 
   Writeln(simple());
 end.

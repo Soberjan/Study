@@ -21,10 +21,8 @@ var
   end;
 
   function optimal(): integer;
-
   var
     x, y, q, r: integer;
-
   begin
     if m - n <= 0 then
       exit(0);

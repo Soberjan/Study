@@ -5,13 +5,13 @@ uses
 
 var
   n, m: Int64;
-  a, b: integer;
+  a, b: smallint;
 
   function optimal(): Int64;
 
   var
-    x, y, q: Int64;
-    r: shortint;
+    y, q: Int64;
+    r, x: shortint;
   begin
     if m - n <= 0 then
       exit(0);

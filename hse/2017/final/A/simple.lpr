@@ -1,42 +1,99 @@
 program simple;
+
 uses
   Math;
 
 type
-  return_time = record
-    h3, m3, days: integer;
+  localtime = record
+    h: longint;
+    m, days, zone: shortint;
   end;
 
-var
-  h1, m1, h2, m2, d, a: integer;
-  ans: return_time;
 
-function simple(): return_time;
 var
-  gr_time, i: integer;
-  r_t: return_time;
+  Result, place1, flight: localtime;
+
+  function ToUtc(time: localtime): localtime;
+  var
+    i: byte;
+  begin
+    if time.zone <> 0 then
+    begin
+      if time.zone < 0 then
+        for i := 1 to abs(time.zone) do
+          time.h += 1;
+      if time.zone > 0 then
+        for i := 1 to time.zone do
+          time.h -= 1;
+    end;
+    exit(time);
+  end;
+
+  function ToLocal(time: localtime): localtime;
+  var
+    i: byte;
+  begin
+    if flight.zone <> 0 then
+    begin
+      if flight.zone < 0 then
+        for i := abs(flight.zone) - 1 downto 0 do
+          time.h -= 1;
+      if flight.zone > 0 then
+        for i := flight.zone - 1 downto 0 do
+          time.h += 1;
+    end;
+    exit(time);
+  end;
+
+  function FlightTime(time: localtime): localtime;
+  var
+    i: byte;
+  begin
+    if flight.h <> 0 then
+    begin
+      for i := flight.h - 1 downto 0 do
+      begin
+        time.h += 1;
+        if time.h = 24 then
+        begin
+          time.days += 1;
+          time.h := 0;
+        end;
+      end;
+      exit(time);
+    end;
+  end;
+
+  function simple(): localtime;
+  var
+    r_t: localtime;
+  begin
+    r_t := ToUtc(place1);
+    r_t := FlightTime(r_t);
+    r_t.h := ifthen(place1.m + flight.m >= 60, r_t.h + 1, r_t.h);
+    r_t.m := ifthen(place1.m + flight.m >= 60, place1.m + flight.m -
+      60, place1.m + flight.m);
+    r_t := ToLocal(r_t);
+    while r_t.h >= 24 do
+    begin
+      r_t.h -= 24;
+      r_t.days += 1;
+    end;
+    if r_t.h < 0 then
+    begin
+      r_t.days -= 1;
+      r_t.h := 24 + r_t.h;
+    end;
+    exit(r_t);
+  end;
 
 begin
-  gr_time := h1 - d;
-  gr_time += h2;
 
-  gr_time := ifthen(m1 + m2 >= 60, gr_time + 1, gr_time);
-  r_t.m3 := ifthen(m1 + m2 >= 60, m1 + m2 - 60, m1 + m2);
+  Readln(place1.h, place1.m);
+  Readln(flight.h, flight.m);
+  Readln(place1.zone, flight.zone);
 
-  r_t.h3 := gr_time + a;
-  r_t.days := r_t.h3 div 24;
-  r_t.h3 := r_t.h3 mod 24;        7
-
-  exit(r_t);
-end;
-
-begin
-  Readln(h1, m1);
-  Readln(h2, m2);
-  Readln(d, a);
-
-  ans := simple();
-  Writeln(ans.h3, ' ', ans.m3, ' ', ans.days);
+  Result := simple();
+  Writeln(Result.h, ' ', Result.m, ' ', Result.days);
 
 end.
-

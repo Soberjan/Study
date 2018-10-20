@@ -37,8 +37,8 @@ function optimal(): integer;
   end;
 
 begin
-  assign(input, 'tests\03');
-  reset(input);
+  //assign(input, 'tests\03');
+  //reset(input);
   Read(n, k);
   for i := 1 to n do
     Read(a[i]);

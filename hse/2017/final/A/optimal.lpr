@@ -1,42 +1,43 @@
 program optimal;
+
 uses
   Math;
 
 type
-  return_time = record
-    h3, m3, days: integer;
+  localtime = record
+    m, days, zone: shortint;
+    h: longint;
   end;
 
-
-
 var
-  h1, m1, h2, m2, d, a: integer;
-  result: return_time;
+  Result, place1, flight: localtime;
 
-function optimal(): return_time;
-var
-  r_t: return_time;
+  function optimal(): localtime;
+  var
+    r_t: localtime;
+
+  begin
+    r_t.h := place1.h + flight.h - place1.zone + flight.zone;
+
+    r_t.h := ifthen(place1.m + flight.m >= 60, r_t.h + 1, r_t.h);
+    r_t.m := ifthen(place1.m + flight.m >= 60, place1.m + flight.m -
+      60, place1.m + flight.m);
+
+    r_t.days := r_t.h div 24;
+    r_t.h := r_t.h mod 24;
+
+    exit(r_t);
+  end;
 
 begin
-  r_t.h3 := h1 + h2 - d + a;
+  assign(input, 'tests\10');
+  reset(input);
 
-  r_t.h3 := ifthen(m1 + m2 >= 60, r_t.h3 + 1, r_t.h3);
-  r_t.m3 := ifthen(m1 + m2 >= 60, m1 + m2 - 60, m1 + m2);
+  readln(place1.h, place1.m);
+  readln(flight.h, flight.m);
+  readln(place1.zone, flight.zone);
 
-  r_t.days := r_t.h3 div 24;
-  r_t.h3 := r_t.h3 mod 24;
-
-  exit(r_t);
-end;     
-
-begin
-  readln(h1, m1);
-  readln(h2, m2);
-  readln(d, a);
-
-
-  result := optimal();
-  Writeln(result.h3, ' ', result.m3, ' ', result.days);
+  Result := optimal();
+  Writeln(Result.h, ' ', Result.m, ' ', Result.days);
   readln();
 end.
-

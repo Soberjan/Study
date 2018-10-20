@@ -4,20 +4,19 @@ uses
   Math;
 
 const
-  NLIM = 100;
+  NLIM = 30;
 
 var
-  a: array[1..NLIM] of integer;
-  n, k, i,simple_res: integer;
+  a: array[1..NLIM] of longint;
+  n, k, i, j, t, maxx: longint;
 
-  function noncomf(c: integer): integer;
+  function noncomf(c: integer): longint;
   var
-    i, maxt, mint: integer;
+    i, maxt, mint: longint;
   begin
     maxt := -273;
-    mint := 1000000000;
-    i := n;
-    while c > 0 do
+    mint := 10000000;
+    for i := 1 to n do
     begin
       if c mod 2 = 1 then
       begin
@@ -25,50 +24,53 @@ var
         mint := min(mint, a[i]);
       end;
       c := c div 2;
-      i -= 1;
     end;
-    //for i := n downto 0 do
-    //begin
-    //  if c mod 2 = 1 then
-    //  begin
-    //    maxt := max(maxt, a[i]);
-    //    mint := min(mint, a[i]);
-    //  end;
-    //  c := c div 2;
-    //end;
     exit(maxt - mint);
   end;
 
-  function popcount (n: integer): integer;
+  function popcount(n: integer): longint;
   begin
     popcount := 0;
-    while(n > 0) do
+    while (n > 0) do
     begin
       popcount += n mod 2;
       n := n div 2;
     end;
-
   end;
 
-  function simple(): integer;
+  function simple(): longint;
   var
-    c, maxc, minnoncomf: integer;
+    c, maxc, minnoncomf: longint;
   begin
+    if (n - k <= 1) then
+      exit(0);
     maxc := (1 shl n) - 1;
     minnoncomf := noncomf(maxc);
-    for c := 0 to maxc - 1 do
+    for c := 1 to maxc - 2 do
       if popcount(c) = n - k then
-        minnoncomf := min(minnoncomf, noncomf(c));
+        if (noncomf(c) < minnoncomf) then
+          minnoncomf := min(minnoncomf, noncomf(c));
+
     exit(minnoncomf);
   end;
 
 begin
-  assign(input, 'tests\00');
-  reset(input);
+  //assign(input, 'tests\03');
+  //reset(input);
+
   Readln(n, k);
   for i := 1 to n do
-    Readln(a[i]);
-  simple_res := simple();
-  Writeln(simple_res);
+    Read(a[i]);
+  for i := 1 to n - 1 do
+  begin
+    maxx := i;
+    for j := i to n do
+      if (a[j] > a[maxx]) then
+        maxx := j;
+    t := a[maxx];
+    a[maxx] := a[i];
+    a[i] := t;
+  end;
+  Writeln(simple());
 end.
 

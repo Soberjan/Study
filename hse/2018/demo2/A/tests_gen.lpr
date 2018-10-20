@@ -4,11 +4,12 @@ uses
   SysUtils;
 
 const
-  NLIM = 5;
+  NLIM = 12;
   TLIM = 6;
 var
   infile, anfile: TextFile;
-  ans, i, j, n, y, mth, d, h, m, s, ms: integer;
+  ans, j, n: longint;
+  h, m, s, i: byte;
 begin
   Randomize();
   for i := 3 to TLIM do
@@ -21,17 +22,11 @@ begin
     writeln(infile, n);
     for j := 1 to n do
     begin
-      y := random(20) + 2000;
-      mth := random(11) + 1;
-      d := (30) + 1;
       h := random(23);
       m := random(59);
       s := random(59);
-      ms := random(59);
-      Write(y, ' ', mth, ' ', d, ' ', h, ' ', m, ' ', s, ' ', ms);
-      Writeln();
-      Write(infile, y, ' ', mth, ' ', d, ' ', h, ' ', m, ' ', s, ' ', ms);
-      Writeln(infile);
+      Writeln(h, ' ', m, ' ', s);
+      Writeln(infile, h, ' ', m, ' ', s);
     end;
 
     Readln(ans);

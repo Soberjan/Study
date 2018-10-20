@@ -2,9 +2,12 @@ program test;
 uses
   Math;
 
+const
+  NLIM = 30;
+
 var
-  a: array[1..100] of integer;
-  maxnum, t, i, j, h, n, k, simple_res, optimal_res: integer;
+  a: array[1..NLIM] of longint;
+  maxnum, t, i, j, h, n, k, simple_res, optimal_res: longint;
 
   function noncomf(c: integer): integer;
   var
@@ -12,8 +15,7 @@ var
   begin
     maxt := -273;
     mint := 1000000000;
-    i := 1;
-    while c > 0 do
+    for i := 1 to n do
     begin
       if c mod 2 = 1 then
       begin
@@ -21,7 +23,6 @@ var
         mint := min(mint, a[i]);
       end;
       c := c div 2;
-      i += 1;
     end;
     exit(maxt - mint);
   end;
@@ -36,19 +37,15 @@ var
     end;
   end;
 
-  function simple(): integer;
+  function simple(): longint;
   var
-    c, maxc, minnoncomf: integer;
+    c, maxc, minnoncomf: longint;
   begin
     if (n - k <= 1) then
       exit(0);
     maxc := (1 shl n) - 1;
     minnoncomf := noncomf(maxc);
-    popcount(28);
-     for c := 26 to maxc - 1 do
-      if popcount(c) = n - k then
-        minnoncomf := min(minnoncomf, noncomf(c));
-    for c := 1 to maxc - 1 do
+    for c := 1 to maxc - 2 do
       if popcount(c) = n - k then
         minnoncomf := min(minnoncomf, noncomf(c));
     exit(minnoncomf);
@@ -102,7 +99,6 @@ var
   end;
 
 begin
-
   for i := 1 to 10000 do
   begin
     k := random(3) + 1;

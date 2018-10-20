@@ -4,21 +4,44 @@ uses
   SysUtils;
 
 const
-  NLIM = 50;
-  TLIM = 12;
+  NLIM = 30;
+  TLIM = 10;
   VLIM = 35;
 var
   infile, anfile: TextFile;
-  a: array [1..NLIM] of integer;
-  ans, i, j, n, k: integer;
+  a: array [1..NLIM] of longint;
+  ans, i, j, h, t, maxnum, n, k: longint;
+
+
 begin
   Randomize();
-  for i := 9 to TLIM do
+  for i := 2 to TLIM do
   begin
     n := random(30) + 1;
     k := random(10);
+    repeat
+      k := random(10);
+    until k < n;
     for j := 1 to n do
       a[j] := random(VLIM) - 15;
+
+    Assign(infile, 'tests/0' + IntToStr(i));
+    ReWrite(infile);
+    writeln(infile, n, ' ', k);
+    for j := 1 to n do
+      write(infile, a[j], ' ');
+    Close(infile);
+
+    for j := 1 to n - 1 do
+    begin
+      maxnum := j;
+      for h := j + 1 to n do
+        if a[h] > a[maxnum] then
+          maxnum := h;
+      t := a[maxnum];
+      a[maxnum] := a[j];
+      a[j] := t;
+    end;
 
     Writeln(n, ' ', k);
     for j := 1 to n do
@@ -26,16 +49,9 @@ begin
     Writeln();
     Readln(ans);
 
-    Assign(infile, 'tests/0' + IntToStr(i));
     Assign(anfile, 'tests/0' + IntToStr(i) + '.a');
-    ReWrite(infile);
     ReWrite(anfile);
-    write(infile, n, ' ', k);
-    writeln(infile);
-    for j := 1 to n do
-      writeln(infile, a[j]);
     writeln(anfile, ans);
-    Close(infile);
     Close(anfile);
   end;
 end.
