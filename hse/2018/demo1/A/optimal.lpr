@@ -28,10 +28,7 @@ var
   end;
 
 begin
-  Readln(n);
-  Readln(m);
-  Readln(a);
-  Readln(b);
+  Readln(n, m, a, b);
 
   Writeln(optimal());
 end.

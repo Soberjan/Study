@@ -1,13 +1,16 @@
 program optimal;
 
 var
-  n, k, unix1, unix2: longint;
+  n: longint;
   h, m, s: byte;
 
   function optimal(): longint;
   var
-    i: longint;
+    i, unix1, unix2, k: longint;
   begin
+    Readln(h, m, s);
+    unix1 := h * 3600 + m * 60 + s;
+    k := 1;
     for i := 2 to n do
     begin
       Readln(h, m, s);
@@ -19,11 +22,8 @@ var
     exit(k);
   end;
 
-begin          
-  k := 1;
+begin
   Readln(n);
-  Readln(h, m, s);
-  unix1 := h * 3600 + m * 60 + s;
   Writeln(optimal());
   Readln();
 end.

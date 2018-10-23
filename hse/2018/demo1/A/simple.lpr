@@ -9,8 +9,8 @@ var
 
   function simple(): Int64;
   var
-    x, s: Int64;
-    y: integer;
+    x, y, s: Int64;
+  
   begin
     if m <= n then
       exit(0);

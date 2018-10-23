@@ -1,32 +1,24 @@
 program simple;
 
-const
-  NLIM = 10000;
 var
-  a: array[1..NLIM] of byte;
+  a: array[1..10000] of byte;
   m, i: smallint;
   n: byte;
 
   function simple(): byte;
   var
     b: array[1..100] of byte;
-    i, maxloops: smallint;
-    first_participant: byte;
+    i, leader: smallint;
   begin
-    for i := 1 to n do
-      b[i] := 0;
-    maxloops := 0;
-
+    leader := a[1];
+    FillByte(b, n, 0);
     for i := 1 to m do
     begin
       b[a[i]] += 1;
-      if b[a[i]] > maxloops then
-      begin
-        maxloops := b[a[i]];
-        first_participant := a[i];
-      end;
+      if b[a[i]] > b[leader] then
+        leader := a[i];
     end;
-    exit(first_participant);
+    exit(leader);
   end;
 
 begin

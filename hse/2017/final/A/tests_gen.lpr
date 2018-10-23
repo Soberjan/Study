@@ -12,12 +12,12 @@ begin
   Randomize();
   for i := 2 to TLIM do
   begin
-    h1 := random(23);
-    m1 := random(59);
+    h1 := random(24);
+    m1 := random(60);
     h2 := random(72);
-    m2 := random(59);
-    d := random(25) - 11;
-    a := random(25) - 11;
+    m2 := random(60);
+    d := random(26) - 11;
+    a := random(26) - 11;
     Writeln(h1, ' ', m1);
     Writeln(h2, ' ', m2);
     Writeln(d, ' ', a);
