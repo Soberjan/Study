@@ -1,4 +1,5 @@
 program test;
+
 uses
   Math;
 
@@ -7,7 +8,7 @@ const
 
 var
   a: array[1..NLIM] of longint;
-  maxnum, t, i, j, h, n, k, simple_res, optimal_res: longint;
+  i, j, n, k, simple_res, optimal_res: longint;
 
   function noncomf(c: integer): integer;
   var
@@ -27,10 +28,10 @@ var
     exit(maxt - mint);
   end;
 
-  function popcount (n: integer): integer;
+  function popcount(n: integer): integer;
   begin
     popcount := 0;
-    while(n > 0) do
+    while (n > 0) do
     begin
       popcount += n mod 2;
       n := n div 2;
@@ -51,50 +52,75 @@ var
     exit(minnoncomf);
   end;
 
-  function optimal(): integer;
+  procedure SortArray();
   var
-    i, i1, i2, j, max, t, kh, res: integer;
+    i, j, max, t: longint;
   begin
     max := 0;
     t := 0;
-    kh := k;
-    if (n - k <= 1) then
-      exit(0);
-    if (k > 0) then
+    for i := 1 to n do
     begin
-      for i := 1 to k do
-      begin
-        max := i;
-        for j := i + 1 to N do
-          if a[j] > a[max] then
-            max := j;
-        t := a[max];
-        a[max] := a[i];
-        a[i] := t;
-      end;
+      max := i;
+      for j := i + 1 to n do
+        if a[j] > a[max] then
+          max := j;
+      t := a[max];
+      a[max] := a[i];
+      a[i] := t;
     end;
+  end;
 
+  function FindNonComf(kh: longint): longint;
+  var
+    i1, i2, t, noncomf1, noncomf2, noncomf3, noncomf4, ans: longint;
+  begin
     i1 := 1;
     i2 := n;
-    while kh >= 1 do
+    while kh > 0 do
     begin
-      kh -= 2;
-      if a[i1 + 1] = a[i1] then
-        i2 -= 2
-      else
+      if a[i1] <> a[i2] then
       begin
-        i1 += 1;
-        i2 -= 1;
+        if a[i1 + 1] - a[i2] < a[i1] - a[i2 - 1] then
+          i1 += 1
+        else
+          i2 += 1;
       end;
-    end;
+      if (a[i1] = a[i + 1]) or (a[i2] = a[i2 + 1]) then
+      begin
+        t := i1;
+        i1 += kh;
+        noncomf2 := a[i1] - a[i2];
+        i1 := t;
 
-    if kh = 1 then
-      res := min(a[i1 + 1] - a[n - i2], a[i1] - a[i2 - 1]);
-    if kh = 0 then
-      res := a[i1] - a[i2];
+        t := i2;
+        i2 -= kh;
+        noncomf3 := a[i1] - a[i2];
+        i2 := t;
+
+        noncomf4 := FindNonComf(kh - 1);
+      end;
+      kh -= 1;
+    end;
+    noncomf1 := a[i1] - a[i2];
+    if (noncomf1 > 0) and (noncomf2 > 0) and (noncomf3 > 0) then
+    begin
+    ans := min(noncomf1, noncomf2);
+    ans := min(ans, noncomf3);
+    ans := min(ans, noncomf4);
+    end;
+    exit(ans);
+  end;
+
+  function optimal(): longint;
+  var
+    res: longint;
+  begin
+    if (n - k <= 1) then
+      exit(0);
+    //SortArray();  раскоммитить после переноса в optimal
+    res := FindNonComf(k);
 
     exit(res);
-
 
   end;
 
@@ -106,16 +132,7 @@ begin
     for j := 1 to n do
       a[j] := random(30) - 15;
 
-    for j := 1 to n - 1 do
-    begin
-      maxnum := j;
-      for h := j + 1 to n do
-        if a[h] > a[maxnum] then
-          maxnum := h;
-      t := a[j];
-      a[j] := a[maxnum];
-      a[maxnum] := t;
-    end;
+    SortArray();
 
     simple_res := simple();
     optimal_res := optimal();

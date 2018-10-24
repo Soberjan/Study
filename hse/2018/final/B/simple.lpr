@@ -9,6 +9,7 @@ const
   NLIM = 10000;
 var
   a: array[1..NLIM] of Guest;
+  res: Guest;
   n, i: longint;
 
   procedure SortArray();
@@ -17,7 +18,6 @@ var
     i, j, m: longint;
   begin
     for i := 1 to n - 1 do
-      //Сортируем массив по перовму значению
     begin
       m := i;
       for j := i + 1 to n do
@@ -39,7 +39,7 @@ var
       while a[ih].a = -1 do
         ih -= 1;
 
-      if (a[i].b > a[ih].b) then
+      if (a[i].b > a[ih].b) and (a[i].a <= a[ih].b) then
         a[i].a := a[ih].b + 1;
 
       if (a[i].b <= a[ih].b) then
@@ -67,20 +67,16 @@ var
     end;
   end;
 
-  function Simple(): byte;
+  procedure Simple();
   begin
     SortArray();
     SeekGuestTime();
     SortBack();
-
-    exit(0);
   end;
 
-
-
 begin
-  Assign(input, 'tests\02');
-  reset(input);
+  //Assign(input, 'tests\03');
+  //reset(input);
 
   Readln(n);
   for i := 1 to n do
@@ -88,8 +84,9 @@ begin
     Readln(a[i].a, a[i].b);
     a[i].i := i;
   end;
-
-  Writeln(Simple());
+  simple();
+  for i := 1 to n do
+    Writeln(a[i].a, ' ', a[i].b);
 
 end.
 

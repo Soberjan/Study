@@ -1,11 +1,11 @@
 program test;
 uses math;
 var
-  i, n, m, a, b: integer;
+  i, n, m, a, b: longint;
 
-  function simple(): integer;
+  function simple(): longint;
   var
-    x, y, s: integer;
+    x, y, s: longint;
   begin
     if m <= n then
       exit(0);
@@ -20,9 +20,9 @@ var
     exit(s);
   end;
 
-  function optimal(): integer;
+  function optimal(): longint;
   var
-    x, y, q, r: integer;
+    x, y, q, r: longint;
   begin
     if m - n <= 0 then
       exit(0);

@@ -5,7 +5,6 @@ uses
 
 const
   NLIM = 30;
-  TLIM = 10;
   VLIM = 35;
 var
   infile, anfile: TextFile;
@@ -15,9 +14,9 @@ var
 
 begin
   Randomize();
-  for i := 2 to TLIM do
+  for i := 2 to 5 do
   begin
-    n := random(30) + 1;
+    n := random(15) + 1;
     k := random(10);
     repeat
       k := random(10);

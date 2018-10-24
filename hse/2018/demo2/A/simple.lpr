@@ -3,7 +3,7 @@ program simple;
 
 type
   Time = record
-    k, h, m, s: integer;
+    k, h, m, s: longint;
   end;
 
 const
@@ -11,7 +11,7 @@ const
 
 var
   a: array[1..Nlim] of Time;
-  i, n, k: integer;
+  i, n, k: longint;
 
   function less(l, r: Time): boolean;
   begin
