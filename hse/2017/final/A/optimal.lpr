@@ -3,46 +3,42 @@ program optimal;
 uses
   Math;
 
-type
-  localtime = record
-    m, zone: shortint;
-    h, days: longint;
+
+  procedure fix_hours(var h, d: longint);
+  begin
+    d += h div 24;
+    h := h mod 24;
   end;
 
-var
-  Result, place1, flight: localtime;
-
-  function optimal(): localtime;
+  procedure optimal();
   var
-    r_t: localtime;
+    hd, md, hf, mf, d, a, dd: longint;
   begin
-    r_t.days := 0;
-    r_t.h := place1.h + flight.h - place1.zone + flight.zone;
-    if r_t.h < 0 then
-    begin
-      r_t.h += 24;
-      r_t.days -= 1;
-    end;
+    readln(hd, md);
+    readln(hf, mf);
+    readln(d, a);
+    dd := 0;
 
-    r_t.h := ifthen(place1.m + flight.m >= 60, r_t.h + 1, r_t.h);
-    r_t.m := ifthen(place1.m + flight.m >= 60, place1.m + flight.m -
-      60, place1.m + flight.m);
+    hd += 24 - d;
+    dd -= 1;
+    fix_hours(hd, dd);
 
-    r_t.days := r_t.days + (r_t.h div 24);
-    r_t.h := r_t.h mod 24;
+    hd += hf + (md + mf) div 60;
+    md := (md + mf) mod 60;
+    fix_hours(hd, dd);
 
-    exit(r_t);
+    hd += 24 + a;
+    dd -= 1;
+    fix_hours(hd, dd);
+
+    Writeln(hd, ' ', md, ' ', dd);
   end;
 
 begin
-  //assign(input, 'tests\10');
+  //Assign(input, 'tests\00');
   //reset(input);
 
-  readln(place1.h, place1.m);
-  readln(flight.h, flight.m);
-  readln(place1.zone, flight.zone);
+  optimal();
 
-  Result := optimal();
-  Writeln(Result.h, ' ', Result.m, ' ', Result.days);
   readln();
 end.

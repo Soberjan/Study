@@ -1,41 +1,39 @@
 program optimal;
+uses
+  Math;
 
 var
-  a : array[1..100] of integer;
-  i, n, k : integer;
+  a : array[1..200000] of longint;
+  i, n, k : longint;
 
-function optimal(): integer;
+  function optimal(): longint;
   var
-    i, j, max, t, min, max2: integer;
+    i, j, m, t, i1, i2, noncomf: longint;
   begin
-    max := 0;
-    t := 0;
     if (n - k <= 1) then
       exit(0);
-    if (k > 0) then
+    m := 0;
+    t := 0;
+    for i := 1 to n do
     begin
-      for i := 1 to n do
-      begin
-        max := i;
-        for j := i + 1 to n do
-          if abs(A[j]) > abs(A[max]) then
-            max := j;
-        t := a[max];
-        a[max] := a[i];
-        a[i] := t;
-      end;
+      m := i;
+      for j := i + 1 to n do
+        if a[j] < a[m] then
+          m := j;
+      t := a[m];
+      a[m] := a[i];
+      a[i] := t;
     end;
-    min := a[k + 1];
-    max2 := a[k + 1];
-    for i := k + 1 to n do
-      if a[i] < min then
-        min := a[i];
-    for i := k + 1 to n do
-      if a[i] > max2 then
-        max2 := a[i];
-    exit(max2 - min);
-  end;
-
+    i2 := n - k - 1;
+    noncomf := a[n] - a[1];
+    for i1 := 1 to k do
+    begin
+      i2 += 1;
+      noncomf := min(noncomf, a[i2] - a[i1]);
+    end;
+    noncomf := min(noncomf, a[n] - a[k + 1]);
+    exit(noncomf);
+  end;    
 begin
   //assign(input, 'tests\03');
   //reset(input);

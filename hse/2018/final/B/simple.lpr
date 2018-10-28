@@ -4,15 +4,32 @@ type
   Guest = record
     a, b, i: longint;
   end;
+  CheckProperty = function(a, m: Guest): boolean;
 
 const
-  NLIM = 10000;
+  NLIM = 100000;
+
 var
-  a: array[1..NLIM] of Guest;
-  res: Guest;
+  a: array[1..100000] of Guest;
   n, i: longint;
 
-  procedure SortArray();
+  function CheckId(a, m: Guest): boolean;
+  begin
+    if a.i < m.i then
+      exit(true)
+    else
+      exit(false);
+  end;
+
+  function CheckA(a, m: Guest): boolean;
+  begin
+    if (a.a < m.a) or ((a.a = m.a) and (a.b < m.b)) then
+      exit(true)
+    else
+      exit(false);
+  end;
+
+  procedure SortArray(f: CheckProperty);
   var
     t: Guest;
     i, j, m: longint;
@@ -21,45 +38,7 @@ var
     begin
       m := i;
       for j := i + 1 to n do
-        if a[j].a < a[m].a then
-          m := j;
-      t := a[m];
-      a[m] := a[i];
-      a[i] := t;
-    end;
-  end;
-
-  procedure SeekGuestTime();
-  var
-    i, ih: longint;
-  begin
-    for i := 2 to n do
-    begin
-      ih := i - 1;
-      while a[ih].a = -1 do
-        ih -= 1;
-
-      if (a[i].b > a[ih].b) and (a[i].a <= a[ih].b) then
-        a[i].a := a[ih].b + 1;
-
-      if (a[i].b <= a[ih].b) then
-      begin
-        a[i].a := -1;
-        a[i].b := -1;
-      end;
-    end;
-  end;
-
-  procedure SortBack();
-  var
-    t: Guest;
-    i, j, m: longint;
-  begin
-    for i := 1 to n - 1 do
-    begin
-      m := i;
-      for j := i + 1 to n do
-        if a[j].i < a[m].i then
+        if f(a[j], a[m]) then
           m := j;
       t := a[m];
       a[m] := a[i];
@@ -68,14 +47,33 @@ var
   end;
 
   procedure Simple();
+  var
+    i, max: longint;
   begin
-    SortArray();
-    SeekGuestTime();
-    SortBack();
+    SortArray(@CheckA);
+
+    max := a[1].b;
+    for i := 2 to n do
+    begin
+      if (a[i].b <= max) then
+      begin
+        a[i].a := -1;
+        a[i].b := -1;
+      end;
+      if (a[i].b > max) and (a[i].a <= max) then
+        begin
+          a[i].a := max + 1;
+          max := a[i].b;
+        end
+      else if (a[i].a >= max) then
+        max := a[i].b;
+    end;
+
+    SortArray(@CheckId);
   end;
 
 begin
-  //Assign(input, 'tests\03');
+  //Assign(input, 'check\14');
   //reset(input);
 
   Readln(n);
