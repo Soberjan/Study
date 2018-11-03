@@ -1,9 +1,7 @@
 @echo off
-fpc.exe %~n0.lpr > %~n0.tmp
-for %%i IN ( check\*.a ) do (
-%~n0.exe < check\%%~ni > check\%%~ni.out 
-fc %%i check\%%~ni.out
-del check\%%~ni.out                         
-)                                                                                  
-del %~n0.o %~n0.exe %~n0.tmp                                         
+set dst=check
+g++ -O2 --std=gnu++11 -m32 -lm %~n0.cpp -o %~n0.exe
+for %%i in (%dst%\*.) do (%~n0.exe <%%i >%dst%\%%~ni.out
+fc /A %dst%\%%~ni.out %dst%\%%~ni.a)
+del %dst%\*.out %~n0.exe %~n0.tmp %~n0.o
 pause
