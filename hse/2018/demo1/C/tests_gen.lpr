@@ -4,20 +4,29 @@ uses
   SysUtils;
 
 const
-  NLIM = 10;
+  NLIM = 100;
   TLIM = 4;
   VLIM = 20;
 var
   infile, anfile: TextFile;
-  a: array [1..NLIM] of integer;
-  ans, i, j, n: integer;
+  a: array [1..NLIM, 1..NLIM] of char;
+  ans, i, j, h, n, m: shortint;
 begin
   Randomize();
   for i := 1 to TLIM do
   begin
-    n := NLIM - random(NLIM mod 2);
+    n := random(10);
+    m := random(10);
     for j := 1 to n do
-      a[j] := random(VLIM) + 1;
+    begin
+      for h := 1 to m do
+
+
+
+
+
+
+    end;
 
     for j := 1 to n do
       Write(a[j], ' ');

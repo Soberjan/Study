@@ -24,14 +24,12 @@ var
     Writeln();
     Readln(ans);
 
-    if i < 10 then
-      fmt := 'tests/0'
-    else
-      fmt := 'tests/';
-    s := (fmt  + IntToStr(i));
 
-    Assign(infile, s);
-    Assign(anfile, s + '.a');
+    fmt := '%.2d';
+    s := Format(fmt, [i]);
+
+    Assign(infile,'tests\' + s);
+    Assign(anfile, 'tests\' + s + '.a');
     ReWrite(infile);
     ReWrite(anfile);
     writeln(infile, n, ' ', m);
@@ -44,17 +42,17 @@ var
 
 begin
   Randomize();
-  for i := 2 to 9 do
+  for i := 2 to 2 do
   begin
     n := random(15) + 1;
     m := random(10);
    CreateTest(i, n, m);
   end;
-  for i := 10 to 13 do
-  begin
-    n := 100;
-    m := 10000;
-    CreateTest(i, n, m);
-  end;
+  //for i := 10 to 13 do
+  //begin
+  //  n := 100;
+  //  m := 10000;
+  //  CreateTest(i, n, m);
+  //end;
 end.
 

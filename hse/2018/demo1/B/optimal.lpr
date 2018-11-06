@@ -8,7 +8,7 @@ var
 
   function optimal(): longint;
   var
-    i, j, m, t, i1, i2, noncomf: longint;
+    i, j, m, t, noncomf: longint;
   begin
     if (n - k <= 1) then
       exit(0);
@@ -24,14 +24,9 @@ var
       a[m] := a[i];
       a[i] := t;
     end;
-    i2 := n - k - 1;
-    noncomf := a[n] - a[1];
-    for i1 := 1 to k do
-    begin
-      i2 += 1;
-      noncomf := min(noncomf, a[i2] - a[i1]);
-    end;
-    noncomf := min(noncomf, a[n] - a[k + 1]);
+    noncomf := a[n - k] - a[1];
+    for i := 1 to k + 1 do
+      noncomf := min(noncomf, a[n - k - 1 + i] - a[i]);
     exit(noncomf);
   end;    
 begin

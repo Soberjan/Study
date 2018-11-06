@@ -1,3 +1,2 @@
-del tests\*.out *.o *.exe *.lps *.tmp
-rd /S /Q Backup
-rd /S /Q lib
+del tests\*.out *.depend *.layout *.exe
+rd /S /Q bin obj
