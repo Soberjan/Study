@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="tests_gen.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="42" Y="17"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="4" HistoryIndex="3">
+      <Position1>
+        <Filename Value="tests_gen.lpr"/>
+        <Caret Line="39" Column="26" TopLine="18"/>
+      </Position1>
+      <Position2>
+        <Filename Value="tests_gen.lpr"/>
+        <Caret Line="13" Column="31" TopLine="4"/>
+      </Position2>
+      <Position3>
+        <Filename Value="tests_gen.lpr"/>
+        <Caret Line="4" Column="12"/>
+      </Position3>
+      <Position4>
+        <Filename Value="tests_gen.lpr"/>
+        <Caret Line="20" Column="23" TopLine="10"/>
+      </Position4>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
