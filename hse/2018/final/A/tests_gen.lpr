@@ -11,7 +11,6 @@ var
   a: array [1..NLIM] of byte;
   ans, i, j, m: integer;
   n: byte;
-  fmt, s: string;
 
   procedure CreateTest(i, n, m: integer);
   begin
@@ -24,12 +23,8 @@ var
     Writeln();
     Readln(ans);
 
-
-    fmt := '%.2d';
-    s := Format(fmt, [i]);
-
-    Assign(infile,'tests\' + s);
-    Assign(anfile, 'tests\' + s + '.a');
+    Assign(infile, Format('tests\%.2d', [i])); 
+    Assign(anfile, Format('tests\%.2d.a', [i]));
     ReWrite(infile);
     ReWrite(anfile);
     writeln(infile, n, ' ', m);

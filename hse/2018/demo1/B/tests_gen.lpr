@@ -17,10 +17,7 @@ begin
   for i := 2 to 5 do
   begin
     n := random(15) + 1;
-    k := random(10);
-    repeat
-      k := random(10);
-    until k < n;
+    k := random(n); 
     for j := 1 to n do
       a[j] := random(VLIM) - 15;
 

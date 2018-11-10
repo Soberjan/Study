@@ -7,58 +7,30 @@ type
   Guest = record
     a, b, i: longint;
   end;
-  //CheckProperty = function(a, m: Guest): boolean;
-  CheckProperty = function(a: Guest): longint;
+  CheckProperty = function(a, m: Guest): boolean;
 var
   a: array[1..100000] of Guest;
   n, i: longint;
 
-  //function CompareById(a, m: Guest): boolean;
-  //begin
-  //  if a.i < m.i then
-  //    exit(True)
-  //  else
-  //    exit(False);
-  //end;
-  //
-  //function CompareByA(a, m: Guest): boolean;
-  //begin
-  //  if (a.a < m.a) or ((a.a = m.a) and (a.b < m.b)) then
-  //    exit(True)
-  //  else
-  //    exit(False);
-  //end;
-  //
-  //procedure SortArray(f: CheckProperty);
-  //var
-  //  t: Guest;
-  //  i, j, m: longint;
-  //begin
-  //  for i := 1 to n - 1 do
-  //  begin
-  //    m := i;
-  //    for j := i + 1 to n do
-  //      if f(a[j], a[m]) then
-  //        m := j;
-  //    t := a[m];
-  //    a[m] := a[i];
-  //    a[i] := t;
-  //  end;
-  //end;
-
-  function CompareById(a: Guest): longint;
+  function CompareById(a, m: Guest): boolean;
   begin
-    exit(a.i);
+    if a.i < m.i then
+      exit(True)
+    else
+      exit(False);
   end;
 
-  function CompareByA(a: Guest): longint;
+  function CompareByA(a, m: Guest): boolean;
   begin
-    exit(a.a);
+    if (a.a < m.a) or ((a.a = m.a) and (a.b < m.b)) then
+      exit(True)
+    else
+      exit(False);
   end;
 
-  procedure swap(var a, b: longint);
+  procedure swap(var a, b: Guest);
   var
-    t: longint;
+    t: Guest;
   begin
     t := a;
     a := b;
@@ -67,17 +39,18 @@ var
 
   function partition(f: CheckProperty; lo, hi: longint): longint;
   var
-    pivot, i, j: longint;
+    pivot: Guest;
+    i, j: longint;
   begin
-    pivot := f(a[hi]);
+    pivot := a[hi];
     i := lo;
     for j := lo to hi - 1 do
-      if f(a[j]) <= pivot then
+      if f(a[j], pivot) then
       begin
-        swap(f(a[i]), f(a[j]));
+        swap(a[i], a[j]);
         i := i + 1;
       end;
-    swap(f(a[i]), f(a[hi]));
+    swap(a[i], a[hi]);
     exit(i);
   end;
 
@@ -97,7 +70,6 @@ var
   var
     i, curr: longint;
   begin
-    //SortArray(@CompareByA);
     quicksort(@CompareByA, 1, n);
 
     curr := a[1].b;
@@ -117,7 +89,6 @@ var
     end;
 
     quicksort(@CompareById, 1, n);
-    //SortArray(@CompareById);
   end;
 
 begin
