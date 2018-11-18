@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542558620 source:d:\myworks\code\repositories\study\open\qualification\c\optimal.cpp
+	<iostream>
+	<math.h>
+	<algorithm>
+

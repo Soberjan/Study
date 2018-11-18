@@ -17,10 +17,10 @@ var
 
 begin
   Randomize();
-  for i := 6 to 8 do
+  for i := 9 to 10 do
   begin
-    n := random(20) + 2;
-    q := random(10) + 1;
+    n := random(100) + 2;
+    q := random(100) + 1;
     for j := 1 to n do
       a[j] := random(5);
 
