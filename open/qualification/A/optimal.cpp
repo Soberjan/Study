@@ -5,11 +5,9 @@ using namespace std;
 
 long n, k, x;
 
-long optimal(){
-//    if (x < n - k)
-//        return n;
-    long z = ceil(double(x) / (n - k));
-    return x % (n - k) ? x + k * z : n * z;
+long long optimal(){
+    long long z = ceil(double(x) / (n - k));
+    return x + k * z;
 }
 
 int main()
