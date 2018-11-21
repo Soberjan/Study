@@ -30,9 +30,9 @@ long optimal(){
 int main()
 {
     //freopen("tests\\00", "r", stdin);
-    cin.tie(0);
-    cout.tie(0);
-    ios_base::sync_with_stdio(false);
+//    cin.tie(0);
+//    cout.tie(0);
+//    ios_base::sync_with_stdio(false);
     cin >> n >> p >> k;
     for (int i = 0; i < n; i++)
         cin >> a[i];
