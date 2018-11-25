@@ -4,8 +4,8 @@ using namespace std;
 
 void CreateTest(int i){
     int n = 3;
-    int p = rand() / 100;
-    int k = rand() / 20;
+    int p = rand() % 100;
+    int k = rand() % 20;
     int a[10];
     for (int j = 0; j < n; j++)
         a[j] = rand() / 30;
