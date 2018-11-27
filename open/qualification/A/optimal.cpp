@@ -3,10 +3,10 @@
 
 using namespace std;
 
-long n, k, x;
+int n, k, x;
 
 long long optimal(){
-    long long z = ceil(double(x) / (n - k));
+    long long z = ((x % (n - k)) >= 0.5) ? x / (n - k) + 1 : x / (n - k);
     return x + k * z;
 }
 
