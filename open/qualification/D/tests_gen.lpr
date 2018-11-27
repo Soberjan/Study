@@ -17,10 +17,10 @@ var
 
 begin
   Randomize();
-  for i := 9 to 10 do
+  for i := 1 to 5 do
   begin
-    n := random(100) + 2;
-    q := random(100) + 1;
+    n := 20;
+    q := 15;
     for j := 1 to n do
       a[j] := random(5);
 
@@ -31,8 +31,8 @@ begin
       if help <= 3 then
       begin
         b[j].c := '!';
-        b[j].b := random(n) + 1;
-        b[j].a := random(b[j].b) + 1;
+        b[j].a := random(n) + 1;
+        b[j].b := random(5) + 1;
       end
       else
       begin

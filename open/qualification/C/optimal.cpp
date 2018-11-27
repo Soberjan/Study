@@ -28,8 +28,8 @@ int optimal(){
 int main()
 {
     //freopen("tests\\00", "r", stdin);
-//    cin.tie(0);
-//    cout.tie(0);
+    cin.tie(0);
+    cout.tie(0);
     ios_base::sync_with_stdio(false);
 
     cin >> n >> p >> k;

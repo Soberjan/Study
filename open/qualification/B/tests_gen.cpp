@@ -11,6 +11,12 @@ void CreateTest(int i){
         printf("%c", 'a');
     printf("%c", 'b');
     fclose(stdout);
+
+    sprintf(buf, "tests\\%.2d.a", i);    
+    freopen (buf, "w", stdout);
+    printf("%d\n", 1);
+    fclose(stdout);
+
     }
 
 
