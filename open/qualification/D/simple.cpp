@@ -17,7 +17,7 @@ void simple(){
         if (c == '?'){
             for (int j = x; j < y; j++)
                 b[a[j]] = 1;
-            int num = 0, idx = 0;
+            int num = 0;
             for (int j = 0; j < n; j++)
                 if (b[j] != 1){
                     num = j;
@@ -29,8 +29,8 @@ void simple(){
     }
 int main()
 {
-    //freopen("tests\\00", "r", stdin);
-//    cin.tie(0);
+    //freopen("tests\\01", "r", stdin);
+    //    cin.tie(0);
 //    cout.tie(0);
 //    ios_base::sync_with_stdio(false);
     cin >> n >> q;
