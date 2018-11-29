@@ -1,14 +1,6 @@
 #include <iostream>
-#include<algorithm>
 #include<stdio.h>
 using namespace std;
-
-void fix_time(int& h, int& minutes, int& days) {
-    h += minutes / 60;
-    minutes = minutes % 60;
-    days += h / 24;
-    h = h % 24;
-}
 
 int main()
 {
