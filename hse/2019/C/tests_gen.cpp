@@ -1,19 +1,21 @@
 #include <iostream>
 #include <time.h>
 #include <stdio.h>
+#include <algorithm>
 using namespace std;
 
 void CreateTest(int i){
-    int n = rand() % 100;
-    int h = rand() % 40;
-    int f = rand() % n;
+    int n = rand() % 25 + 5;
+    int h = rand() % n + 1;
+    int f = rand() % n + 1;
     int a[110];
-    for (int j = 0; j < n; j++)
-        a[j] = rand() % 100;
-    printf("%2d %2d %2d \n", n, h, f);
+    for (int j = 0; j < h; j++)
+        a[j] = rand() % n + 1;
+    sort(a, a + h);
+    printf("%d %d %d \n", n, h, f);
     printf("\n");
-    for (int j = 0; j < n; j++)
-        printf("d ", a[j]);
+    for (int j = 0; j < h; j++)
+        printf("%d ", a[j]);
     printf("\n");
     int ans;
     scanf("%2d", &ans);
@@ -21,10 +23,10 @@ void CreateTest(int i){
     char buf [50];
     sprintf(buf, "tests\\%.2d", i);
     freopen (buf, "w", stdout);
-    printf("%2d %2d %2d \n", n, h, f);
+    printf("%d %d %d \n", n, h, f);
     printf("\n");
-    for (int j = 0; j < n; j++)
-        printf("d ", a[j]);
+    for (int j = 0; j <h; j++)
+        printf("%d ", a[j]);
     fclose(stdout);
 
     sprintf(buf, "tests\\%.2d.a", i);
