@@ -9,8 +9,7 @@ int main()
    //freopen("tests/00", "r", stdin);
     int n;
     cin >> n;
-    double s = (int)log2(5);
-    cout << s;
-    cout << ((n % 2 == 0) ? (int)log2(n) + 2 : (int)log2(n) + 3);
+    int lg = log2(n);
+    cout << (n <= (1<<lg) + (1<<(lg-1)) ? lg + 2 : lg + 3);
     return 0;
 }
