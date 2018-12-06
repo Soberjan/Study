@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    //freopen("tests/02", "r", stdin);
+    //freopen("tests/04", "r", stdin);
     const int NLIM = 10000;
     int n, h, f, a[NLIM];
     cin >> n >> h >> f;

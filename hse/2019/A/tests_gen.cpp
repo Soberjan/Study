@@ -7,8 +7,7 @@ void CreateTest(int i){
     int p = rand() % n + 1;
     int q = rand() % n + 1;
     char buf [50];
-    printf("%d %d %d\n",n, p, q);
-
+ 
     sprintf(buf, "tests\\%.2d", i);
     freopen (buf, "w", stdout);
     printf("%d %d %d\n", n, p, q);
