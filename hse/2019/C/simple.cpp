@@ -4,45 +4,26 @@
 using namespace std;
 
 const int NLIM = 32;
-int n, h, f, a[NLIM], smax = 0;
-bitset<32> b;
-
+int n, h, f, a[NLIM];
 int main ()
 {
-    freopen("tests/03", "r", stdin);
+  //  freopen("tests/01", "r", stdin);
 
     cin >> n >> h >> f;
     for (int i = 0; i < h; i++)
         cin >> a[i];
 
+    bitset<32> z;
     for (int i = 0; i < h; i++)
-        b[a[i] - 1] = 1;
-
-    for (int i = 0, s = 0, smax = 0; i < (1<<(n-1)); i++, smax=max(s, smax), s = 0)
+        z[a[i]-1] = 1;
+    int smax = 0;
+    for (int i = 0, s = 0; i < (1<<(n-1)); i++, smax=max(s, smax), s = 0)
         if (__builtin_popcount(i) == f){
-            bitset<32> c(f<<1);
-            c[0] = 1;
-            c[n] = 1;
-            for (int l = 0, r=c._Find_next(l); r<=n; l = r, r = c._Find_next(l)){
-                int* p = upper_bound(a, a + h, r) - 1;
-                s += ((p <a)||(*p <= l)) * (r - 1);
-            }
+            bitset<32> w(i);
+            for (int l = 0, r = w._Find_first(), q = z._Find_first(); r < NLIM; l = r + 1, q = z._Find_next(r), r = w._Find_next(r))
+                if (q>r)
+                    s += r - l + 1;
         }
     cout << smax;
     return 0;
 }
-//
-//            int lwall = 0, rwall = 0, inf = 0;
-//            for (int j = 0; j < n; j++){
-//                if (b[j] == 1)
-//                    inf = 1;
-//                if (c[j] == 1){
-//                    lwall = j + 1;
-//                    if (inf == 0){
-//                        s += lwall - rwall;
-//                        rwall = lwall;
-//                        lwall = n;
-//                    }
-//                    inf = 0;
-//                }
-//            }
