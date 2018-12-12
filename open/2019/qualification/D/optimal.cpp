@@ -8,7 +8,7 @@ struct MyBitset{
     int k; unsigned long long *p;
     void init(int n){k=n/64; p=new unsigned long long[k];}
     void reset(){memset(p,0,8*(k+1));}
-    void set(int num){int z = num/64; p[z]|=(1<<num%64);}
+    void set(int num){int z = num/64; p[z]|=((unsigned long long)1<<num%64);}
     void print(int x, int y){
         cout << k << "\n";
         for(int i=0; i<=k; i++)
