@@ -11,7 +11,7 @@ void print(){
             cout << a[i][j];
         cout << "\n";
         }
-    }
+}
 
 void simple(){
     for (int i=0; i<n; i++)
@@ -42,12 +42,12 @@ void simple(){
                 s-=1;
             }
     }
-    print();
+//    print();
     }
 
 
 int main(){
-    freopen("tests\\08", "r", stdin);
+  //  freopen("tests\\08", "r", stdin);
 
     cin >> n;
     for (int i = 0; i < n; i++)

@@ -6,10 +6,10 @@ using namespace std;
 
 struct MyBitset{
     int k; unsigned long long *p;
-    void init(int n){k=n/64; p=new unsigned long long[k];}
-    void reset(){memset(p,0,8*(k+1));}
+    void init(int n){k=n/64; p=new unsigned long long[k];}  //память
+    void reset(){memset(p,0,8*(k+1));}                      //смепть - неправильная штучка
     void set(int num){int z = num/64; p[z]|=((unsigned long long)1<<num%64);}
-    void print(int x, int y){
+    void print(int x, int y){                              //штучка - размер ull - использовать константу
         cout << k << "\n";
         for(int i=0; i<=k; i++)
             cout << p[i] << " ";
