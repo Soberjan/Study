@@ -13,7 +13,7 @@ void CreateTest(int i){
     freopen (buf, "w", stdout);
     n = NLIM - rand()%(NLIM/2);
     cout << n << endl;
-    for (int i = 1; i <= n; i++){
+    for (int i = 0; i < n; i++){
         int c = rand() % n + 1;
         while (a[c]==1)
             c = rand() % n + 1;
@@ -21,7 +21,7 @@ void CreateTest(int i){
         cout << c << " ";
     }
     cout << endl;
-    for (int i = 1; i <= n; i++){
+    for (int i = 0; i < n; i++){
         int c = rand() % n + 1;
         while (b[c]==1)
             c = rand() % n + 1;
@@ -30,9 +30,9 @@ void CreateTest(int i){
     }
     cout << endl;
     fclose(stdout);
-    for (int i = 1; i <= n; i++)
+    for (int i = 0; i < n; i++)
         a[i] = 0;
-    for (int i = 1; i <= n; i++)
+    for (int i = 0; i < n; i++)
         b[i] = 0;
     }
 
