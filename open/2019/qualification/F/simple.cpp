@@ -23,15 +23,15 @@ void print(int c[21]){
 bool simple(){
     for (int i = 0; i < n; i++)
         c[0][i] = i+1; // инкрементация? вспомнить.
-    print(c[0]);
+//    print(c[0]);
     for (int i = 1; i < 100; i++){
         for (int j = 0; j < n; j++)
             c[i][a[j]-1]=c[i-1][j];
-        print(c[i]);
-        if (compare(c[i], b) == 1)
+//        print(c[i]);
+        if (compare(c[i], b))
             return 1;
         for (int j = 0; j < i; j++)
-            if (compare(c[i], c[j]) == 1)
+            if (compare(c[i], c[j]))
                 return 0;
     }
     return 0;
@@ -39,12 +39,12 @@ bool simple(){
 
 int main()
 {
-    freopen("tests/08", "r", stdin);
+//    freopen("tests/00", "r", stdin);
     cin >> n;
     for (int i = 0; i < n; i++)
         cin >> a[i];
     for (int i = 0; i < n; i++)
         cin >> b[i];
-    cout << (simple() == 1 ? "Yes" : "No");
+    cout << (simple() ? "Yes" : "No");
     return 0;
 }
