@@ -14,14 +14,12 @@ void print(bitset<100> a){
 }
 
 int optimal(){
-    bitset<1000000> u;// увеличить размер
+    bitset<1000000> u;
     u.set();
     pair<int, int>* sum = new pair<int, int>[n];
-    for (int i = n, q = 0; i != 0; q++){ // как оформить? i=n или i=0?
-        bitset<1000000> sh; sh[n] = 1; int s = 0;  // создаем "графы"
+    for (int i = n, q = 0; i != 0; q++){
+        bitset<1000000> sh; sh[n] = 1; int s = 0;  // создаем графы
         for (int j = u._Find_first(); u[j]==1; u[j]=0, sh[j]=1, i--, s++, j=a[j]-1);
-//        print(u);
-//        print(sh);
 
         for (int j = sh._Find_first(); j < n; j = sh._Find_next(j)){ //проверяем, если в массиве b нам необходимо анализировать значение, выходящее за пределы нашего "графа"
             bool ch = 0;
@@ -32,7 +30,7 @@ int optimal(){
                 return 0;
         }
 
-        int s1 = 0, s2 = 0, j = sh._Find_first();
+        int s1 = 0, s2 = 0, j = sh._Find_first(); //проверяем, с каким интервалом числа в данном графе встают на нужные места
         for (int q = b[j] - 1; q != j; s1++, q = a[q]-1);
         for (j = sh._Find_next(j); j < n; s2 = 0, j = sh._Find_next(j)){
             for (int q = b[j] - 1; q != j; s2++, q = a[q] - 1);
@@ -40,7 +38,7 @@ int optimal(){
                 return 0;
         }
 
-        sum[q].first = s; sum[q].second = s1;
+        sum[q].first = s; sum[q].second = s1;//сверяем данный граф с уже имеющимися графами
         for (int i = 0; i < q; i++){
             pair<int, int> mx, mn;
             mx = (sum[q].first > sum[i].first) ? sum[q] : sum[i];
@@ -56,7 +54,7 @@ int optimal(){
 
 int main()
 {
-//    freopen("tests/06", "r", stdin);
+    //freopen("tests/06", "r", stdin);
     cin >> n;
     for (int i = 0; i < n; i++)
         cin >> a[i];
