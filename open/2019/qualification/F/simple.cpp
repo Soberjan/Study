@@ -22,7 +22,7 @@ void print(int c[21]){
 
 bool simple(){
     for (int i = 0; i < n; i++)
-        c[0][i] = i+1; // инкрементация? вспомнить.
+        c[0][i] = i + 1; 
 //    print(c[0]);
     for (int i = 1; i < 100; i++){
         for (int j = 0; j < n; j++)
