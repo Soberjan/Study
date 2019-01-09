@@ -44,20 +44,15 @@ list<int> optimal(){
 int main()
 {
     //freopen("tests/03", "r", stdin);
-//    cin >> n >> m;
-//    for (int i = 0; i < m; i++)
-//        cin >> p[i].X >> p[i].Y;
-//
-//    list<int> c = optimal();
-//
-//    cout << c.size();
-//    for (list<int>::iterator it = c.begin(); it != c.end(); ++it)
-//        cout << *it << " ";
+    cin >> n >> m;
+    for (int i = 0; i < m; i++)
+        cin >> p[i].X >> p[i].Y;
 
-    int a[3] = {1, 2, 3}, b[5] = {3,4,5,6,7};
-    set<int> ac (a,a+3);
-    set<int>bc (b,b+5);
-    set<int>ec;
-    set_union(ac.begin(), ac.end(), bc.begin(), bc.end(), inserter(ec, ec.begin()));
+    list<int> c = optimal();
+
+    cout << c.size();
+    for (list<int>::iterator it = c.begin(); it != c.end(); ++it)
+        cout << *it << " ";
+
     return 0;
 }
