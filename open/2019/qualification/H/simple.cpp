@@ -5,7 +5,7 @@ using namespace std;
 int l, r;
 
 int simple(){
-    int a[20], x = l;
+    int a[100], x = l;
     for (int i = l, s = 1, s2 = 1; i <= r; i++, s2 = 1){
         int b = i, c = 0;
         while (b != 0){
@@ -15,7 +15,7 @@ int simple(){
         }
         for (int j = 0; j < c; j++)
             s2 *= a[j];
-        if ((s2 >= s) && (s2 <= r) && (s2 >= l)){
+        if (s2 >= s){
             s = s2;
             x = i;
         }
@@ -25,7 +25,7 @@ int simple(){
 
 int main()
 {
-//    freopen("tests/01", "r", stdin);
+//    freopen("tests/04", "r", stdin);
     cin >> l >> r;
 
     cout << simple();
