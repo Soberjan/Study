@@ -1,56 +1,81 @@
-#include <iostream>
-#include <stdio.h>
-#include <string>
+#include <cstdio>
+#include <algorithm>
 #include <vector>
-#include <sstream>
-#include <locale>
+#include <cstring>
 using namespace std;
-#define ll long long
 
-//double minfloat(vector<string> words){
-//    return (min(min(a[0])))
-//}
-
-//string minword(vector<string> words){
-//return 0;
-//}
-//
-//int minint(vector<string> words){
-//return ni;
-//}
-
-string simple(string line){
-    vector<string> words;
-    istringstream iss(line);
-    string word;
-    while (getline(iss, word, '\t'))
-        words.push_back(word);
-    bool fl, wd;
-    for(int i = 0; i < line.size(), fl==0, wd==0; i++)
-        if (line[i]=='.')
-            fl = 1;
-        else if (isalpha(line[i]))
-            wd = 1;
-//    if (fl)
-//        return minfloat(vector<string> words)
-//    if (wd)
-//        return minword(vector<string> words)
-//    return minint
+char a[3][20];
+int minword(){
+    int lst = 0;
+    for (int i = 1; i < 3; i++)
+        if (strcmp(a[i], a[lst]) < 0)
+            lst = i;
+    return lst;
 }
+
+int minfloat(){
+    int dot[3] = {};
+    int b[3];
+    int c[3][20];
+    for (int i = 0; i < 3; i++)
+        for (int j = 0; dot[i] == 0; j++)
+            if (j=='.')
+                dot[i] = j;
+
+    for (int i = 0; i <3; i++)
+        sscanf(a[i].substr(0, strlen(a[i]) - dot[i]), "%d", b[i]);
+
+    for (int i = 0; i < 3; i++)
+        for (int j = dot[i]+1; j < strlen(a[i]); j++)
+            sscanf(a[i], "%d", c[i][j]);
+
+    int m = 0;
+    for (int i = 1; i < 3; i++)
+        if (b[i] < b[m])
+            m = 0;
+        else if (b[i]==b[m])
+            if(strcmp(c[i], c[m]) < 0)
+                m = i;
+
+    return m;
+}
+
+int minint(){
+    int m = 0;
+    for (int i = 1; i < 3; i++)
+        if (a[i] < a[m])
+            m = i;
+    return m;
+}
+
 
 int main()
 {
     freopen("tests/00", "r", stdin);
-    string line;
-//    while (getline(cin, line))
-//        cout << simple(line) << endl;
-//    string str = "afaf  adf as asdf";
-//    string word;
-//    istringstream words(str);
-//    getline(words, word, '\t');
-//    cout << word;
-    string a = "AB";
-    string b = "12";
-    cout << a.compare(b);
+
+    int q;
+    while (q != EOF) {
+        q = scanf("%s\t%s\t%s", a[0], a[1], a[2]);
+        //printf("%d\t%d\t%d\n", strlen(a[0]), strlen(a[1]), strlen(a[2]));
+        for (int i = 0; i < 3; i++){
+            bool isAl = 0, isFl = 0;
+            for (int j = 0; (j < (int)strlen(a[i])) && (!isAl) && (!isFl); j++)
+                if ( (a[i][j] >= 65) && (a[i][j] <= 90) )
+                    isAl = 1;
+                else if (a[i][j] == '.')
+                    isFl = 1;
+            }
+
+            int z = 0;
+            if (isAl)
+                z = minword();
+            else if (isFl)
+                z = minfloat();
+            else
+                z = minint();
+            printf("%s\n", a[z]);
+    }
+
+        //printf("%s\t%s\t%s\t%d\n", a[0],a[1], a[2], q);
     return 0;
 }
