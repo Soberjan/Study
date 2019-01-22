@@ -5,6 +5,7 @@
 using namespace std;
 
 char a[3][20];
+
 int minword(){
     int lst = 0;
     for (int i = 1; i < 3; i++)
@@ -15,35 +16,42 @@ int minword(){
 
 int minfloat(){
     int dot[3] = {};
-    int b[3];
-    int c[3][20];
+    char b[3][20];
+    char c[3][20];
+    int d[3];
     for (int i = 0; i < 3; i++)
         for (int j = 0; dot[i] == 0; j++)
-            if (j=='.')
+            if (a[i][j]=='.')
                 dot[i] = j;
 
-    for (int i = 0; i <3; i++)
-        sscanf(a[i].substr(0, strlen(a[i]) - dot[i]), "%d", b[i]);
+    for (int i = 0; i < 3; i++)
+        for (int j = 0; j < dot[i]; j++)
+            b[i][j] = a[i][j];
+    for (int i = 0; i < 3; i++)
+        sscanf(b[i], "%d", &d[i]);
 
     for (int i = 0; i < 3; i++)
-        for (int j = dot[i]+1; j < strlen(a[i]); j++)
-            sscanf(a[i], "%d", c[i][j]);
+        for (int j = dot[i] + 1, z = 0; j < (int)strlen(a[i]) + 1; j++, z++)
+            c[i][z] = a[i][j];
+    //printf("%s\t%s\t%s\t", c[0], c[1], c[2]);
 
     int m = 0;
     for (int i = 1; i < 3; i++)
-        if (b[i] < b[m])
-            m = 0;
+        if (d[i] < d[m])
+            m = i;
         else if (b[i]==b[m])
-            if(strcmp(c[i], c[m]) < 0)
-                m = i;
+            m = strcmp(c[i], c[m]) < 0 ? i : m;
 
     return m;
 }
 
 int minint(){
     int m = 0;
+    int d[3];
+    for (int i = 0; i < 3; i++)
+        sscanf(a[i], "%d", &d[i]);
     for (int i = 1; i < 3; i++)
-        if (a[i] < a[m])
+        if (d[i] < d[m])
             m = i;
     return m;
 }
@@ -51,14 +59,11 @@ int minint(){
 
 int main()
 {
-    freopen("tests/00", "r", stdin);
+    //freopen("tests/01", "r", stdin);
 
-    int q;
-    while (q != EOF) {
-        q = scanf("%s\t%s\t%s", a[0], a[1], a[2]);
-        //printf("%d\t%d\t%d\n", strlen(a[0]), strlen(a[1]), strlen(a[2]));
+    while (scanf("%s\t%s\t%s", a[0], a[1], a[2]) != EOF) {
+        bool isAl = 0, isFl = 0;
         for (int i = 0; i < 3; i++){
-            bool isAl = 0, isFl = 0;
             for (int j = 0; (j < (int)strlen(a[i])) && (!isAl) && (!isFl); j++)
                 if ( (a[i][j] >= 65) && (a[i][j] <= 90) )
                     isAl = 1;
@@ -75,7 +80,5 @@ int main()
                 z = minint();
             printf("%s\n", a[z]);
     }
-
-        //printf("%s\t%s\t%s\t%d\n", a[0],a[1], a[2], q);
     return 0;
 }
