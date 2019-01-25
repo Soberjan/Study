@@ -2,6 +2,7 @@
 #include <algorithm>
 #include <vector>
 #include <cstring>
+#include <iostream>
 using namespace std;
 
 char a[3][20];
@@ -24,13 +25,14 @@ int minfloat(){
             if (a[i][j]=='.')
                 dot[i] = j;
 
-    for (int i = 0; i < 3; i++)
+    for (int i = 0; i < 3; b[i][dot[i]] = 0, i++)
         for (int j = 0; j < dot[i]; j++)
             b[i][j] = a[i][j];
+    //cout << b[0] << ' ' << b[1] << ' ' << b[2];
     for (int i = 0; i < 3; i++)
-        sscanf(b[i], "%d", &d[i]);
+        d[i] = (int)strlen(b[i]);
 
-    for (int i = 0; i < 3; i++)
+    for (int i = 0; i < 3; c[i][(int)strlen(a[i])] = 0, i++)
         for (int j = dot[i] + 1, z = 0; j < (int)strlen(a[i]) + 1; j++, z++)
             c[i][z] = a[i][j];
     //printf("%s\t%s\t%s\t", c[0], c[1], c[2]);
@@ -39,9 +41,12 @@ int minfloat(){
     for (int i = 1; i < 3; i++)
         if (d[i] < d[m])
             m = i;
-        else if (b[i]==b[m])
-            m = strcmp(c[i], c[m]) < 0 ? i : m;
-
+        else if (d[i]==d[m]){
+            if (strcmp(b[i], b[m]) < 0)
+                m = i;
+            else if (strcmp(b[i], b[m]) == 0)
+                m = strcmp(c[i], c[m]) < 0 ? i : m;
+        }
     return m;
 }
 
