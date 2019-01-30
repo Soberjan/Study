@@ -1,0 +1,7 @@
+
+Memo Musicali è un'applicazione sviluppata dalla Apple Inc. per il sistema operativo iOS. Essa serve per registrare una traccia di un qualsiasi strumento musicale, tra cui la voce. Le tracce tracce registrate vengono salvate in modo non compresso sull'applicazione. È stata pubblicata il 20 gennaio 2016[1].
+
+L'applicazione offre la possibilità di registrare tracce di vari strumenti e salvarle senza alcuna compressione. L'applicazione, mentre registra, analizza anche la traccia audio e mostra gli accordi suonati. È inoltre possibile attivare l'accompagnamento di un bassista o batterista virtuale che seguono il ritmo dell'utente. Per ogni traccia salvata è possibile rinominarla o aggiungere un Voto e un tag, come Strofa o Bridge. Le tracce possono essere trasferite su Logic Pro X o direttamente condivise su SoundCloud o YouTube[2][3].
+
+Memo Musicali, appena aperta, mostra un bottone blu al centro della schermata che, se premuto, inizia a registrare. Durante la registrazione, in basso viene mostrato il grafico della frequenza sonora. In alto sono presenti 3 tasti: Auto che, se attivo, l'applicazione inizia a registrare appena sente l'utente suonare, uno che permette di accedere alla libreria delle registrazioni e uno che offre la possibilità di accordare lo strumento. In basso sono presenti i pulsanti per aggiungere i tag alla traccia, per attivare l'accompagnamento del basso o della batteria e per eliminare la traccia registrata.
+

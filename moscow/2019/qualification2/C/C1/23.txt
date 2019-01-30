@@ -1,0 +1,9 @@
+
+Vous pouvez partager vos connaissances en l’améliorant (comment ?) selon les recommandations des projets correspondants.
+
+Carbon est l'une des Interfaces de programmation (API) de Mac OS. Il fournit des accès en langage C aux services du système. Carbon permet une bonne rétrocompatibilité des programmes afin qu'ils fonctionnent sur les versions désormais obsolètes que sont Mac OS 8 et Mac OS 9.
+
+Carbon consiste en un vaste ensemble de fonctions pour gérer les fichiers, la mémoire, les données, l'interface ainsi que d'autres services du système. Il est implémenté comme les autres API, dans Mac OS X, il est réparti dans différents frameworks (chacun étant une structure construite autour d'une bibliothèque partagée), principalement « Carbon.framework », « ApplicationServices.framework » et « CoreServices.framework ». Dans les Mac OS plus anciens, il est présent dans une seule bibliothèque partagée nommée 'CarbonLib'.
+Carbon n'est pas conçu comme un système discret, mais il ouvre toutes les fonctionnalités du Mac OS X aux développeurs qui ne connaissent pas l'objective-C nécessaire pour l'API Cocoa. 
+Carbon est compatible avec les différents formats d’exécutables disponibles pour Mac OS PowerPC. La compatibilité binaire entre Mac OS X et les versions antérieures nécessite l'utilisation d'un fichier Preferred Executable Format, qu'Apple n'a jamais supporté dans son IDE Xcode.
+

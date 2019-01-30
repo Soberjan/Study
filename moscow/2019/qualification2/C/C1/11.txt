@@ -1,0 +1,143 @@
+
+«Քուալքոմ»[3] («Qualcomm Inc.») — ընկերությունը մշակում է անլար կապի միջոցներ, ինչպես նաև SoC  էլեկտրոնային սխեմաներ, գտնվում է ԱՄՆ-ի Կալիֆոռնիա նահանգի Սան Դիեգո քաղաքում:
+
+Ընկերությունը հիմնադրվել է 1985 թվականին Իրվին Ջեյկոբսի և Ֆրանկլին Անտոնիոի [4] կողմից։
+
+1999 թվականին ընկերության բաժնետոմսերը վաճառվել են  Ericsson ընկերությանը։
+
+2000 թվականին ընկերությունը ձեռք է բերել SnapTrack,  A-GPS համակարգերի մշակողին, որը աշխատում է բջջային հեռախոսներում  gpsOne ապրանքանիշի ներքո։
+
+2000 թվականին բջջային հեռախեսների արտադրությունը վաճառվել է Ճապոնական Kyocera ընկերությանը։ Ընկերությունը կենտրոնացել է անլար կապի տեխնոլոգիաների նախագծմանը և լիցենզավորմանը, ինչպես նաև  զբաղվում  է  ASIC ընկերությամբ , որը իրացնում է արդ տեխնոլոգիաները։
+2000 թվականին Qualcomm ընկերությունը չորսամյա պայմանագիր է կնքել  Ubiquam ընկերության հետ, որը մշակում է  բջջային հեռախոսներ  CDMA-450 ստանդարտով։
+
+2006 թվականին Քուալքոմ ընկերությունը միացել է  Flarion Technologies ընկերությանը, մասնագիտանալով OFDM կապի ոլորտում[5]։
+2011 թվականին տեղի ունեցավ ընկերության ամենախոշոր ձեռքբերումը, երբ Qualcomm 3․1 միլիարդ դոլարով Atheros Communications ընկերությանը դարձրեց իր դուստր ընկերությունը[6]։
+
+2014 թվականի մարտին գլխավոր տնօրենի պաշտոնը զբաղեցրել է Սթիվեն Մոլենկոպֆը[7]։
+
+2016 թվականին Հարավային Կորեայի  հակամենաշնորհային հանձնաժողովը տուգանել է ամերիկյան Qualcomm ընկերությանը $853 ամերիկյան դոլարով, հակամենաշնորհային օրենսդրությունը խաղտելու և առևտրում իր դիրքերը չարաշահելով (կատարել է անազնիվ առևտուր)։
+Նաև Քուալքոմը մեղադրվում է այն բանում, որ  իր հաճախորդներին պարտադրել է ստորագրել  ինտեգրալ  սխեմաների վաճառքի  լիցենզիաների  արտոնագրված պայմանագրերը, սակայն այդ ինտեգրալ սխեմաների  պատենդները Քուալքոմ ընկերությանը չեն պատկանում։ 2015 թվականին Քուալքոմ ընկերությանը Չինաստանում տուգանել են $975 միլիոն դոլար[8]։
+
+CDMA Chipsets, BREW, Eudora, OmniTRACS, MediaFLO, QChat, uiOne։
+
+2005 թվականին ARM ընկերության կաղմից լիցենզավորված Cortex A8 միջուկով պրոցեսորի հիմանն վրա Qualcomm ընկերությունը բջջային հեռախոսների միկրոպրոցեսոր է մշակել Scorpion միջուկով։ Չիպը լիովին ունի այն նույն հրահանգները ինչ, որ ունի ARMv7, բայց ARM հիմնարար միջուկի հետ համեմատած փոփոխվել է։ Scorpion աշխատում է ավելի քան 1 ԳՀց հաճախությամբ։ Պրոցեսորը պատրաստված է 65 նմ տեխնոլոգիայով։
+
+2008 թվականին թաղարկվել է  HTC Touch Diamond կոմունիկատորը, որը աշխատել է  Qualcomm MSM7201A պրոցեսորով 528 ՄՀց հաճախությամբ։
+
+Qualcomm MSM7201A համարվում է Qualcomm MSM7200(A) մոդիֆիկացված անալոգը։ 
+Պրոցեսորը հիմնված է ARMv6 բազայի հրահանգների հիմանն վրա։ Ինչպես նաև  HTC Touch Diamond համարվում է միակ կոմունիկատորը, որը լիովին օգտագործվել է արագացուցիչ դրայվեր ATI Imageo համար։
+
+Qualcomm ընկերության չիպերը սկսած MSM7200  ունեն  AMD ընկերության Imageon  ներկառուցված գրաֆիկական չիպ։
+
+Qualcomm պրոցեսորները ունեն 2D/3D արագացուցիչ, հիմնված OpenGL ES և DirectX Mobile հիմանն վրա և ապահովում են ծրագրային մշակում մինչև 133 միլիոն պիքսել վայրկյանում, նաև տեսախցիկի աջակցություն մինչև 10 մեգապիքսել, ապարատային կոդավորում և ապակոդավորում  MPEG4  և  H.264  ծրագրերով։
+Չնայած իր ներուժին (2008 թվական), Քուալքոմի չիպեչը միայն տեսականորեն են հզոր Nvidia GoForce5500 և Intel 2700G-ից, բայց ОС Google Android հայտնվելը դրությունը ամբաղջովին փոխել է Qualcomm ընկերության կողմը։
+Մեկ միջուկանի MSM8930 չիպը ունի 2․5 ԳՀց հաճախություն և նախատեսված է սմարթֆոնների համար։
+
+2013  թվականի դրությամբ  Qualcomm թողարկել է պրոցեսորներ ինչպիսիք են
+
+QPST (Qualcomm Product Support Tool), QXDM (Qualcomm eXtensible Diagnostic Monitor) —պաշտոնական անվճար ծրագրային ապահովում Քուալքոմի (QPST)  ծրագրավորման և (QXDM) ախտորոշման համար:
+
+IMOD — գունավոր պատկերների ձևավորման տեխնոլոգիա մշակված Qualcomm ընկերության կողմից, որի հիմքում ընկած է լուսային ալիքների ինտերֆերացիա մեթոդը:
+
+21st Century Fox ·
+Activision Blizzard ·
+Adobe ·
+Alexion Pharmaceuticals ·
+Align Technology ·
+Ամազոն ·
+Amgen ·
+Apollo Group ·
+Էփլ ·
+Applied Materials ·
+Autodesk ·
+ADP ·
+Baidu ·
+Bed Bath & Beyond ·
+Biogen Idec ·
+BMC Software ·
+Broadcom ·
+C.H. Robinson ·
+CA, Inc. ·
+Celgene ·
+Cephalon ·
+Cerner ·
+Check Point ·
+Cintas ·
+Cisco ·
+Citrix ·
+Cognizant ·
+Comcast ·
+Քոստքո ·
+Dell ·
+Dentsply ·
+DirecTV ·
+Dish Network ·
+Իբէյ ·
+Electronic Arts ·
+Expedia ·
+Expeditors International ·
+Express Scripts ·
+Ֆեյսբուք ·
+Fastenal ·
+Fiserv ·
+Flextronics ·
+FLIR Systems ·
+Foster Wheeler ·
+Garmin ·
+Genzyme ·
+Gilead Sciences ·
+Գուգլ ·
+Henry Schein ·
+Hologic ·
+Illumina ·
+Infosys ·
+Ինթել ·
+Intuit ·
+Intuitive Surgical ·
+J.B. Hunt ·
+Joy Global ·
+KLA-Tencor ·
+Lam Research ·
+Liberty Media ·
+Life Technologies ·
+Linear Technology ·
+Logitech ·
+Marvell ·
+Mattel ·
+Maxim Integrated Products ·
+Microchip Technology ·
+Մայքրոսոֆթ ·
+Millicom ·
+Mylan ·
+Նեթֆլիքս ·
+News Corporation ·
+NII ·
+Nvidia ·
+O'Reilly Automotive ·
+Օրաքլ ·
+Paccar ·
+Patterson Companies ·
+Paychex ·
+PayPal ·
+Քուալքոմ ·
+Research In Motion ·
+Ross Stores ·
+SanDisk ·
+Seagate ·
+Sears ·
+Sigma-Aldrich ·
+Staples ·
+Ստարբաքս ·
+Stericycle ·
+Symantec ·
+Սինոփսիս ·
+The Priceline Group ·
+Urban Outfitters ·
+VeriSign ·
+Vertex Pharmaceuticals ·
+Virgin Media ·
+Vodafone ·
+Warner Chilcott ·
+Wynn Resorts ·
+Xilinx
+

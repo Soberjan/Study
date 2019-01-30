@@ -1,0 +1,44 @@
+
+
+
+
+
+iCloud ist ein Online-Dienst des Unternehmens Apple, mit dem Daten gespeichert und synchronisiert werden können. Der Dienst wurde am 6. Juni 2011 im Rahmen der Entwicklerkonferenz WWDC vorgestellt[1] und am 12. Oktober 2011 gestartet. iCloud ersetzt Apples vorherigen Online-Dienst MobileMe, der am 1. Juli 2012 vollständig abgeschaltet wurde.
+
+Mit iCloud ist es möglich, Daten auf maximal zehn[2] Apple-Geräten und Microsoft-Windows-Rechnern synchron zu halten. Neben Mails, Kontakten und Kalendereinträgen, die bereits mit MobileMe synchronisiert werden konnten, können Fotos, Dokumente und Einstellungen automatisch in iCloud hochgeladen und zwischen allen Geräten des Besitzers synchronisiert werden. Für iOS-Geräte dient iCloud auch als Backup.
+
+Im iTunes Store gekaufte Multimedia-Inhalte können von allen Geräten des Nutzers heruntergeladen werden.
+
+Die Funktion „Mein iPhone suchen“ ermöglicht es, den Aufenthaltsort eines iOS-Gerätes zu bestimmen, etwa im Fall eines Verlusts. Mit der Funktion „Meine Freunde finden“ kann der aktuelle Standort auch anderen Personen bekanntgegeben werden.[3]
+
+Jedem Nutzer stehen in iCloud kostenlos 5 GB Speicherplatz zur Verfügung. Eigene Fotos in Photostream sowie bei Apple gekaufte Inhalte wie Musik, Apps oder Bücher werden nicht auf diesen Speicherplatz angerechnet.[4] Zusätzlicher Speicherplatz kann kostenpflichtig erworben werden.
+
+Auf der WWDC 2012 wurden folgende Funktionen präsentiert, die mit OS X Mountain Lion und iOS 6 im Herbst 2012 eingeführt wurden:[5][6]
+
+Auf der WWDC 2013 wurden weitere Funktionen vorgestellt, welche in iOS 7 und OS X Mavericks „Mavericks“ im Herbst 2013 eingeführt wurden:[7]
+
+Auf der WWDC 2014 wurden weitere Funktionen gezeigt, welche in iOS 8 und OS X Yosemite „Yosemite“ im Herbst 2014 eingeführt wurden:[8]
+
+Mit Einführung von iCloud für iOS wurde es lediglich von iWork für iOS unterstützt, seit der Veröffentlichung von Mac OS X Lion ist die Verwendung auch unter iWork für Mac möglich.[9] iCloud kann zudem in Software von Drittanbietern genutzt werden, die diese über den App Store anbieten.
+
+Der Dienst iTunes Match startete  in den USA für zunächst jährlich 24,99 US-Dollar, in Deutschland (24,99 €) und der Schweiz (CHF 35) ist er seit dem 16. Dezember 2011 verfügbar. Die GEMA, die in Deutschland viele Musiker vertritt, hatte zunächst eine einjährige Experimentalvereinbarung mit Apple abgeschlossen.[10][11]
+
+iTunes Match erstellt für jeden Titel in der Musikbibliothek des Nutzers einen akustischen Fingerabdruck und gleicht die Bibliothek so mit dem im iTunes Store verfügbaren Angebot ab. Wenn ein Titel auch im iTunes Store verfügbar ist, wird er ab sofort behandelt, als wäre er im iTunes Store gekauft worden. Musikstücke geringer Tonqualität werden gegen bessere Kopien ausgetauscht und können auch behalten werden, wenn das iTunes-Match-Abo nicht verlängert wird.[2] Nicht im iTunes Store erhältliche Titel werden hochgeladen; sie können während der Laufzeit des iTunes-Match-Abos zu allen Geräten eines Nutzers gestreamt oder heruntergeladen werden.[12]
+
+Apple bietet auf iCloud.com die Möglichkeit, alle iCloud-Dienste über ein Webinterface zu nutzen, welches im Quelltext als "CloudOS" bezeichnet wird.[13] Dort können auf iCloud Drive gespeicherte Dateien heruntergeladen oder in browserbasierten Versionen von Pages, Numbers und Keynote bearbeitet werden. Zudem stehen Mail, Kontakte, Kalender, Notizen, Erinnerungen und die "mein iPhone suchen"-Funktion zur Verfügung.
+
+Apple betreibt Rechenzentren in mehreren US-Bundesstaaten.[14]
+
+In iCloud hochgeladene Daten werden mit dem Algorithmus AES-128 verschlüsselt und bei Speicherdiensten wie Amazon S3 oder Windows Azure abgelegt, während die Schlüssel sowie Metadaten wie der Dateiname oder Zugriffsrechte in Apples Rechenzentren gespeichert werden.[15]
+
+Da die Server in den USA stehen, unterliegen sie nicht dem deutschen, sondern dem wesentlich schwächeren US-amerikanischen Datenschutzrecht. Stiftung Warentest bewertete den Datenschutz bei allen US-amerikanischen Cloud-Anbietern daher nur als ausreichend.[16]
+
+Der Stromverbrauch der Rechenzentren wurde stark debattiert.
+Ein im April 2012 veröffentlichter Greenpeace-Bericht kritisierte, dass Apple sehr selektiv und intransparent sei, was die Veröffentlichung von Energiedaten betrifft. Der Bericht kritisiert außerdem die von Apple genutzten Energieträger. Greenpeace hatte den Energiebedarf eines Apple-Rechenzentrums im US-Bundesstaat North Carolina anhand der Investitionskosten in Höhe von 1 Mrd. US-Dollar auf 100 Megawatt geschätzt.[17] Davon kämen nur 10 % aus umweltfreundlichen Quellen, der Rest stamme aus Kohle- und Atomkraftwerken.[18] Die Branchenseite DataCenterKnowledge.com wies jedoch darauf hin, dass in den Investitionskosten auch Kosten für eine Solaranlage und Brennstoffzellen enthalten sind, die vor Ort einen Teil des benötigten Stroms erzeugen sollen. Die tatsächlichen Kosten des Rechenzentrums und damit der Energieverbrauch seien also deutlich geringer als von Greenpeace angenommen. Apple erklärte, das Rechenzentrum benötige bei voller Auslastung nur rund 20 Megawatt Leistung, davon würden 60 % vor Ort aus regenerativen Quellen erzeugt.[17] Die restlichen 40 % seien zugekauft und ebenfalls aus erneuerbaren Energien.[14]
+
+In einem im April 2014 veröffentlichten Bericht erklärte Greenpeace, dass Apple das einzige untersuchte Unternehmen war, das alle Rechenzentren vollständig auf erneuerbare Energien umgestellt habe.[19]
+
+Zur Aktivierung des Dienstes ist mindestens ein iPhone, iPad oder iPod touch mit dem Apple-Betriebssystem iOS 5 oder ein Mac mit Mac OS X Lion oder neuer beziehungsweise Windows Vista oder neuer mit zusätzlicher iCloud-Software erforderlich.[20] Die Nutzung des Webservices über iCloud.com ist mittlerweile auch ohne ein iOS- oder MacOS- Gerät möglich.[21]
+
+Anfang September 2014 wurde eine Sicherheitslücke in der Funktion „Find My iPhone“ bekannt.[22] Über diese Funktion, die eigentlich Nutzern beim Auffinden eines iPhones oder iPads helfen soll, konnte über ein Tool namens iBrute ein zu einfach gewähltes Passwort eines bestimmten Nutzers mittels Brute-Force ermittelt werden, da Apple keine Begrenzung für die Anmeldeversuche eingebaut hatte. Kurz nach Bekanntwerden der Sicherheitslücke wurde diese von Apple geschlossen und es werden nur noch zehn Anmeldeversuche in „Find My iPhone“ gestattet.[23]
+

@@ -1,0 +1,101 @@
+
+Apple Inc., i vardagslag benämnt Apple, är ett amerikanskt dator- och hemelektronikföretag grundat 1976 av Steve Jobs, Steve Wozniak och Ronald Wayne. Företaget har cirka 110 000 anställda och omsatte 2015 nästan 234 miljarder amerikanska dollar. 
+
+Apple var en av de tidigaste tillverkarna av persondatorer och först med att serietillverka datorer med grafiskt användargränssnitt och datormus. Under 1980-talet hårdnade konkurrensen och Apples marknadsandel krympte.[2][3][4]
+
+Produkterna är kända för sin användarvänlighet samt påkostade och eleganta design. Företaget och dess chefsdesigner Jonathan Ive har vunnit ett flertal designpriser och utmärkelser för produktinnovation. Utmärkande för Apple är att deras nya produkter marknadsförs med namn som börjar med ett gement i före en versal; exempel inkluderar iMac, iPod, iTunes, iMovie, iPhone, iPad. Detta i kan antingen stå för internet, intelligent eller relatera till engelskans ord för 'jag' – I.
+
+Några av Apples mest framgångsrika produkter är persondatorn Macintosh – framför allt enhetsdatorn Imac, operativsystemet Mac OS X, mp3-spelaren Ipod och den internetbaserade musikaffären Itunes Store. Apples senaste satsningar inkluderar mobiltelefonen Iphone och surfplattan Ipad. Iphone står för huvuddelen, cirka 65 procent, av företagets intäkter.
+
+Den 2 augusti 2018 blev Apple det första börsnoterade amerikanska företaget att värderas till en biljon amerikanska dollar.[5]
+
+Apple Computer grundades den 1 april 1976 av Steve Jobs, Steve Wozniak och Ronald Wayne. Ronald Wayne drog sig ganska snart ur det nystartade företaget och ersattes med tiden av Mike Markkula.
+
+Företaget sålde 200 enheter av sin första datormodell Apple I. År 1977 lanserades Jobs och Wozniaks andra datormodell Apple II som blev en stor succé på hemdatormarknaden och gjorde Apple till en viktig aktör på den växande marknaden. Apple nådde störst framgång med Apple II 1982 och 1985, då Apple II ensam stod för drygt 15-16 procent av hemdatormarknaden – en siffra Apple hittills aldrig nått upp till igen.[källa behövs] År 1980 blev Apple ett börsnoterat företag. Samma år släpptes Apple III. De många problemen med Apple III gjorde dock att modellen gick till historien som en av Apples största floppar. Apples huvudsakliga konkurrenter på datormarknaden på 1970-talet och början av 1980-talet var Commodore, Texas Instruments och Atari.[6]
+
+Medan Apple fortsatte att växa började man leta efter duktiga företagsledare. År 1983 övertalade Jobs John Sculley, en av Pepsicos chefer att bli VD för Apple, med den berömda frågan: "Vill du sälja sockervatten resten av livet, eller vill du förändra världen?". Apple anställde Sculley i förhoppning om att förbättra marknadsföringen och därmed företagets försäljning. Samma år släppte Apple datorn Apple Lisa.
+
+1984 introducerades Macintosh, den första kommersiellt framgångsrika persondatorn med ett grafiskt användargränssnitt. Inspirationen till användargränssnittet kom från Xerox PARC och vidareutvecklades för konsumentbruk. Tekniker som menyer, "drag & släpp", dubbelklick och papperskorg revolutionerade persondatorn och är idag fortfarande förhärskande. Macintoshs utveckling påbörjades av Jef Raskin (som dock redan 1981 tvingades avgå efter en dispyt med Jobs).
+
+Framgången med Macintosh ledde till att Apple övergav Apple II till förmån för Mac-produktlinjen. Originalmacen vidareutvecklades till Mac Plus 1986 och utifrån den skapades Mac SE, Mac II 1987, Mac Classic och Mac LC 1990. Under 1980-talet tog Frog design fram designen på Apples persondatorer.
+
+År 1985 fick Sculley och Jobs samarbetssvårigheter.[källa behövs] Jobs blev ombedd att lämna företaget och startade istället företaget Next. 1989 lanserade företaget sin första bärbara dator med namnet Macintosh Portable. Datorn var förhållandevis stor och klumpig och försäljningssuccén uteblev.
+
+Den bärbara datorn Powerbook 100 lanserades 1991. Datorn tillverkades av Sony då Apple bedömde sig att inte ha den färdighet som fordrades för att minska på storleken jämfört tidigare modeller.[7] Samma år nådde Apple 11 procent av hemdatormarknaden med sina Macintoshdatorer,[källa behövs] vilket nästan kan jämföras med framgångarna med Apple II på 1980-talet. Detta var dock sista gången Apple hade marknadsandelar på över 10 procent. Konkurrenterna Commodore och Atari var nära konkurs, och snart kom Apple att bara ha PC-datorer som konkurrenter.[6]
+
+År 1993 släppte Apple handdatorn Newton. På grund av en stadigt sjunkande lönsamhet fick även Sculley 1993 lämna Apple Computer och ersattes av Michael Spindler.
+
+År 1994 bytte Apple processorer i sina datorer, från att tidigare ha använt Motorola 680X0-processorer gick företaget över till att använda PowerPC-processorer och lanserade därmed de första datorerna i Power Macintosh-familjen. Till en början köpte Apple in kopparbaserade PowerPC-processorer från IBM och aluminiumbaserade PowerPC-processorer från Motorola. Snart kom man dock endast att använda IBM:s processorer, då de kopparbaserade processorerna visserligen är något dyrare, men också marginellt snabbare.
+
+År 1996 ersatte Gil Amelio Spindler som vd tidigt under året. I slutet av året lade Apple ett uppköpsbud på Next. Samma år lanserades spelkonsolen Apple Pippin. Konsolen blev ingen succé och har kallats för en av världens tio sämsta spelkonsoler,[8] och en av de 25 värsta teknikprodukterna genom tiden[9].
+
+År 1997 slutförde Apple uppköpet av Next för drygt 400 miljoner dollar. Samma år kom Bill Gates från Microsoft och Steve Jobs överens om att Microsoft skulle investera 150 miljoner amerikanska dollar i Apple.[10] Vid tiden var Apple nära att gå i konkurs.[11] Till följd av detta utsågs Jobs till tillförordnad VD för företaget.[12] Jobs påbörjade stora förändringar och strömlinjeformning av företaget.[källa behövs] Apple lanserade sin webbutik Apple Store och sina lokala butiker i USA. Teknik från Next fann sin väg in i Apples produkter, främst operativsystemet NeXTstep som utvecklats till Mac OS X.
+
+Under Jobs ledning ökades företagets försäljning markant med bland annat Imac lanserad 1998. Imac var den första dator som marknadsfördes kanske i första hand för sitt utseende, även om den också hade andra mycket goda egenskaper.[källa behövs] Imac saknade de traditionella portarna för SCSI och ADB och använde istället standarden USB som då var tämligen okänd men senare blivit det dominerande sättet att ansluta periferienheter till datorer. De största nyheterna var annars datorns design samt avsaknaden av diskettstation. Sedan dess har lockande formgivning och kraftfull marknadsföring fungerat väl för Apple. Steve Jobs lyckades förvandla Apple från ett företag nära konkurs till världens dyraste företag och har fått ett flertal priser och utmärkelser.
+
+De första Macintoshmodellerna med Firewire, USB och Airport lanseras 1999. Vid millennieskiftet hade datormodellerna bantats ner till endast fyra produktlinjer med klara skillnader. Hemanvändarna hade Imac och Ibook, proffsanvändarna hade Power Mac och Powerbook.
+
+År 2000 lanserades onlinetjänsten Itools. Den döptes 2002 om till .Mac och blev en betaltjänst. Senare kom den att ersättas av Mobileme, vilket i sin tur ersattes av Icloud 2011.
+
+Apple ifrågasatte 2007 i ett öppet brev till de fyra största musikbolagen nyttan av kopieringsskydd på musik som laddas ner via internetbutiker.[13][14]
+
+I augusti 2011 sade Jobs upp sig som VD på grund av sin långt framskridna cancer och efterträddes av Tim Cook. Jobs avled i oktober samma år.[15]
+
+Hösten 2014 lanserades den mobila betaltjänsten Apple Pay.[16]
+
+Det finns många teorier bakom namnet "Apple" (apple = äpple på svenska). Vissa menar att det valdes för att hamna före Atari i telefonkatalogen men äpple ska även ha varit Steve Jobs favoritfrukt och han upplevde en trevlig sommar jobbandes på en fruktträdgård i Oregon.[källa behövs] Ytterligare en teori är att namnet är taget efter Beatles skivbolag Apple Records som för övrigt mött Apple Computer i rättssalen i flera omgångar angående just namnet.[17] Det påstås också att det skall anspela på Isaac Newtons äpple.[källa behövs] En vanligt förekommande feluppfattning är att företagets namn och logotyp, ett halvätet äpple, skulle vara en hyllning till Alan Turing, som vissa tror begick självmord genom att äta ett cyanidinjicerat äpple.[18] Såväl Steve Jobs,[18] som logotypens formgivare,[19] har dementerat detta.
+
+Apple var enligt amerikansk press i början av 2011 världens högst värderade varumärke. Brandchannels årliga undersökning utsåg Apple till världens starkaste varumärke år 2004 och samma år toppade Apple tidningen Wireds årliga "Top 40" som rankar företag som är ledande inom teknik och innovation.[20]
+
+I och med att företaget lanserar allt fler hemelektronikprodukter beslutade de i januari 2007 att ta bort ändelsen Computer från namnet.
+
+Bland produkterna märks de stationära datorerna Mac Mini, Imac och Mac Pro, de bärbara Macbook, och Macbook Pro, deras smartphone Iphone, musikspelarserien Ipod och surfplattan Ipad samt klockan Apple Watch som lanserades 24 april 2015 i USA och 17 juli 2015 i Sverige.
+
+Apple har ett antal serverprodukter för företagsmarknaden. Basen i detta utgjordes fram till februari 2011 av 1U-servern Xserve som fanns med en eller två processorer och blev mycket populära som noder i beräkningskluster, främst i läkemedelsindustrin. I samma familj återfanns Xserve RAID som var en 3U-modul med plats för 14 hårddiskar. Till denna kunde man välja att köra Apples egen SAN-plattform kallad Xsan som gjorde det möjligt att direktansluta många datorer till samma hårddisk. Det var en populär lösning för studior som sysslade med videoredigering och ville samordna sin lagringsyta. På Xserve kördes en serverversion av operativsystemet som kallas Mac OS X Server, och som implementerar en mängd olika tekniker baserad på öppen källkod som till exempel webbservern Apache, applikationservern Jboss och databasservern MySQL. Utöver detta är också en av Apples minst kända produkter WebObjects som används för att utveckla webbtillämpningar baserat på Java-teknik. Under första kvartalet av 2011 presenterade Apple också Mac Mini som serverversion, och även superdatorn Mac Pro som server.
+
+På utvecklarkonferensen Worldwide Developers Conference 2005 meddelade Apple att Mac OS X i hemlighet kompilerats för Intel-processorer sedan 2001 och att företaget skulle ersätta IBM:s och Motorolas PowerPC-processorer med Intels motsvarigheter. Första modellerna Powerbook (som då bytte namn till Macbook Pro) och Imac med Intel-processorer lanserades i januari 2006, följt av Mac mini i februari. I mars lyckades några personer med hjälp av diverse hack ta hem den prispott som utlovats för att installera Windows XP på en Mac. I april 2006 släppte dock Apple en betaversion av sitt eget verktyg Boot Camp, som underlättar installationen av Microsoft Windows på Appletillverkade datorer. Boot Camp släpptes i skarp version i oktober 2007, som en del av Mac OS X 10.5 "Leopard".
+
+Itunes är företagets satsning på försäljning av musik över Internet. Uppskattningsvis stod Itunes för nästan 69 procent av all digital musikförsäljning i USA 2010, men har tappat marknadsandel sedan dess.[21] 2014 stod Itunes för 14 procent av världens digitala musikförsäljning.[22]
+
+Apple har tillverkat ett eget tangentbord, som är kallat Magic Keyboard, till sina datorer. Det finns även en trådlös variant utan numerisk del, Apple Wireless Keyboard, som använder sig av Bluetooth- teknik. Det går också att ansluta till Ipod touch, Iphone och Ipad med IOS 4.0 eller högre.
+
+I januari 2010 lanserade Apple Ipad, en tabletdator som körs på en utarbetad och anpassad version av IOS. Denna hade en skärm på 9,7 tum och en upplösning på 1024 x 768, och därmed HD-kvalificerad. Den 25 mars 2011 släpptes i Sverige en uppdaterad version, Ipad 2, med samma skärm men med nio gånger snabbare grafik och två Facetime-kameror.
+
+År 2000 visade Apple upp betaversionen av Mac OS X samt Mac G4 Cube.
+
+År 2001 släppte Apple den första versionen av operativsystemet Mac OS X samt den första versionen av musikspelaren Ipod lite senare samma år.
+
+År 2002 startade Apple en seriös serversatsning med en rackmonterbar serverdator – Xserve.
+
+År 2003 lanserades Itunes Music Store.
+
+År 2004 lanserades Ipod mini för att stärka greppet om marknaden för MP3-spelare.
+
+År 2005 lanserades Mac mini i ett försök att ta sig in på marknaden för lågprisdatorer. Datorn säljs utan skärm, mus och tangentbord för att hålla kostnaderna för kunden nere, och säljs därför med sloganen BYODKM vilket åsyftar att datorn såldes utan skärm, tangentbord och mus.
+
+År 2006 bytte Apple processortyp i sina persondatorer till x86 med Intel som leverantör.[23] En av Apples äldsta produktlinjer, Powerbook, lades ner och ersattes av snarlika Macbook Pro. Ibook ersattes med Macbook i samband med bytet av processorarkitektur. Apple släppte en betaversion av programmet Boot Camp, som låter användaren installera Microsoft Windows på Mac-datorer med Intel-processor.
+
+Iphone är en serie smarttelefoner med pekskärm och kamera. Den första modellen annonserades i januari 2007 och försäljning inleddes i juni samma år.[24] Den nionde generationen av smarttelefonen, bestående av två modeller, lanserades i september 2015.[25] Telefonen står för cirka 65 procent av företagets intäkter, med årsförsäljning till den 27 juni 2015 på 146,5 miljarder amerikanska dollar (cirka 1 210 miljarder svenska kronor).[26] Marknadsförings-, utvecklings- och fraktkostnader ej medräknade har den uppskattade vinstmarginalen på Iphone-telefoner i USA stigit från 55 procent 2007 till 69–74 procent 2014.[27] Marginalen kan vara ännu högre utanför USA.[28]
+
+Nya modeller av smarttelefonen lanseras årligen i en tvåårscykel. I cykelns första år ges telefonen ny form, och nästa året upprustas telefonens teknik.[29]
+
+Ipad är en serie surfplattor med pekskärm. Den första modellens lanserades i januari 2010 för att konkurrera med läsplattan Kindle.[30] Sedan dess har flera nya modeller lanserats, och idag är Apples senaste versioner iPad air 2, iPad mini 4 och iPad pro.
+
+Företaget har en svit egna programvaror främst inriktade på den grafiska branschen. Exempel på dessa är videoredigeringsprogrammet Final Cut. I samlingspaketet Final Cut Studio ingår även DVD-programmet DVD Studio Pro, videoeffektsprogrammet Motion och komprimeringsprogrammet Compressor. Bland övriga produkter finns musikerprogrammet Logic Pro samt bildredigeringsprogrammet Aperture. Utöver dess har Apple även Quicktime Player och den molnbaserade tjänsten Mobileme, och i juni 2011 presenterades även den nya tjänsten Icloud som också är molnbaserad. Man har även tre program för kontoret som är kompatibla med Microsoft Office- dokument och det är Keynote för presentationer och Pages för ordbehandling/sidlayout samt Numbers för kalkylering. Alla Mac- datorer levereras med programsviten Ilife som innehåller Itunes för musik, Iphoto för att organisera och bildbehandla, Imovie för enkel videoredigering, samt upp till Ilife '09 IDVD för att göra DVD-skivor av filmer och foton samt Iweb för att göra webbsidor med hjälp av Mobileme.
+
+IOS är ett operativsystem. Den första Iphonemodellen offentliggjordes 2007 med en version av operativsystemet OS X.[31] Operativsystemet kom senare att få namnet Iphone OS.[32]
+
+På den årliga Worldwide Developers Conference (WWDC) i San Francisco juni 2010 presenterade Apple IOS 4, efterföljaren till Iphone OS 3. Notera att man även valde att ändra namnet till IOS. Det visade upp helt ny rad med funktioner, däribland möjlighet att ändra bakgrundsbild, ansluta Bluetooth- tangentbord, multitasking och möjligheten att sortera sina appar i mappar.
+
+På Worldwide Developers Conferense i juni 2011 presenterades också IOS 5. Det finns också IOS 6.
+
+Vid WWDC den 10 juni 2013 meddelade Apple att man skulle komma med ett IOS 7. Lanseringen skedde under hösten 2013 och innebar stora förändringar när det kommer till det mobila operativsystemets utseende.[33]
+
+Den 16 september 2015 lanserades IOS 9.[34] Ett betydande antal kunder drabbades av problem när de försökte installera operativsystemet.[35]
+
+Då Apple är ett av världens största företag, utsätts det ständigt för kritik rörande oetiska och eventuellt olagliga affärsmetoder. Den vanligaste kritiken handlar om missbruk av dominerande ställning.[36][37]
+
+EU-kommissionen beslutade i augusti 2016 att Apples upplägg där företagets vinst flyttas till Irland för beskattning var olagligt då ett särskilt avtal mellan det Irländska skatteverket och Apple gjorde att skatten blev i stort sett obefintlig, ned till 0,5 promille i effektiv skatt. [38] Dels innebar upplägget att Apple gavs en konkurrensfördel då andra företag betalar skatt, dels att skatteintäkterna i praktiken uteblir där de egentligen skall betalas. Skatteflykten innebär därför ett brott både mot konkurrenslagar och mot skattelagar. Finansdepartementet i USA uttrycker däremot oro över domen då det kan innebära att amerikanska bolag inte kan ta hem lika mycket vinster till USA.
+
+
+

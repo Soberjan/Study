@@ -1,0 +1,45 @@
+
+Läkemedel, farmaka, eller i dagligt tal "medicin", definieras av läkemedelslagen som varor med syfte "att förebygga, påvisa, lindra eller bota sjukdom eller symtom på sjukdom eller att användas i likartat syfte" (SFS 1992:859). Läkemedlet skall tillföras människor eller djur och det skall vara en bruksfärdig produkt, inte en råvara. Läkemedlen baserades från början huvudsakligen på naturprodukter, främst medicinalväxter, men många framställs numera syntetiskt. Läkemedel kan också framställas semisyntetiskt, genom att man utgår från en naturlig substans som modifieras måttligt. Dock är naturen en viktig källa för läkemedelssubstanser fortfarande idag. 70 % av de läkemedel som introducerade 1981-2006 har ett mer eller mindre naturligt ursprung.
+
+Exempel på syntetiska läkemedel är kinoloner (en typ av antibiotika). De flesta andra antibiotika, till exempel penicilliner, är semisyntetiska. Morfin framställs ur råopium och kodein framställs vanligtvis genom att modifiera naturligt morfin.
+
+Naturläkemedel är en vardaglig samlingsbenämning på läkemedel där den verksamma beståndsdelen kommer från naturen. I svensk lagstiftning indelas de i kategorierna växtbaserade läkemedel, traditionellt växtbaserade läkemedel samt naturläkemedel, där de två senare godkänns enligt förenklade förfaranden och endast är avsedda för egenvård.
+
+Tillverkning, och framförallt utveckling av läkemedel fram till en godkänd produkt är en resurskrävande process som kan ta lång tid.
+
+Ett läkemedel kan sägas ha tre typer av namn: det kemiska namnet, det generiska och varunamnet.
+
+Det kemiska namnet på substanserna är ofta långt och komplicerat och används vanligen inte i vårdsammanhang. Anledningen till att namnet ofta blir långt är att kemisk nomenklatur är avpassad för att kunna ge ett unikt namn för miljontals kemiska föreningar. Ett exempel på ett kemiskt namn: [o-(2,6-Dikloroanilino)fenyl]ättiksyra.
+
+Det generiska namnet för substansen ovan är diklofenak, ett vanligt antiinflammatoriskt läkemedel. Generikanamnet, som är avsett att vara lagom långt för att gå att uttala och komma ihåg, är (nästan alltid) detsamma över hela världen, med några smärre skillnader i stavning som följer liknande principer som när kemikalienamn översätts. Diklofenak stavas exempelvis diclofenac på engelska och diclofénac på franska. Ofta bildas generikanamnet genom att några stavelser plockas från det fullständiga kemiska namnet. Generiska namn används i forskningssammanhang och står i Sverige på medicinförpackningarna (men i lite mindre stil än varunamnet). I vissa länder skriver läkare recept med generikanamnet, men inte i Sverige. För en del mediciner används generikanamnet + företagsnamnet som varunamn, till exempel Diklofenak Sandoz, där Sandoz alltså är företaget. Som generiskt namn används oftast International nonproprietary name, INN. Se även Generiska läkemedel.
+
+Varunamnet är (förutom i det just nämnda fallet) ett fantasinamn, valt av tillverkaren. Det är ofta klatschigare än generikanamnet. Samma företag kan välja olika varunamn i olika länder, och när patentet går ut kan andra tillverkare hitta på nya varunamn. Detta leder till en uppsjö olika namn på samma sak, vilket gör det hela komplicerat. För diklofenak är Voltaren, Eeze och Alterflex exempel på varunamn. För paracetamol finns i Sverige bland annat varunamnen Alvedon, Panodil, Curadon, Reliv och Pamol.
+
+Konventionen är att man skriver varunamnet med stor förstabokstav och generikanamnet med liten sådan, såvida det inte är först i en mening. Alltså Voltaren, men diklofenak.
+
+För att ha rätt att sälja ett läkemedel måste den som marknadsför det ansöka om tillstånd från Läkemedelsverket. Läkemedelsverket är en oberoende myndighet som granskar den vetenskapliga dokumentationen (som kan omfatta stora mängder dokument) och avgör om produkten uppfyller lagstiftningens krav på ändamålsenlighet, effektivitet, säkerhet (vad gäller biverkningar) och kvalitet. Läkemedelsverket granskar också bipacksedel och produktresumé före ett godkännande. Ett vanligt missförstånd är att Läkemedelsverket gör tester (klinisk prövning) av läkemedel, men det ansvaret ligger på tillverkaren.
+
+Alla läkemedel måste vara tillverkade enligt god tillverkningssed (GMP) och forskning kring läkemedel måste följa God forskningssed (GCP) samt de etiska reglerna i Helsingforsdeklarationen.
+
+Sedan Sverige gick med i EU arbetar Läkemedelsverket i enlighet med de regler och procedurer som tillämpas i det europeiska systemet för godkännande av läkemedel. Det finns idag cirka 4 400 godkända läkemedel i Sverige för försäljning.
+
+Från 1971 till och med juni 2009 hade Apoteket AB ensamrätt till detaljhandel med läkemedel. Inom grossisthandeln råder fri etableringsrätt men i praktiken finns bara två aktörer på den svenska marknaden, Kronans Droghandel (KD) och Tamro. Flertalet läkemedel får endast köpas mot recept. Receptbelagda läkemedel brukar betecknas Rx efter den speciella symbol som de markeras med i läkemedelsförteckningen. Receptfria läkemedel betecknas Ex eller OTC (Over The Counter, eftersom de får säljas "över disk").
+
+De mest sålda läkemedlen i Sverige 2008 räknat i kronor var Enbrel, Symbicort, Remicade, Humira och Lipitor.
+
+De största företagen på svenska marknaden 2008 räknat i omsättning var Astra Zeneca, Pfizer, Glaxo Smith Kline, Wyeth och Roche [1]
+
+Genom nya regler som trädde i kraft 1 juli 2009 bröts Apoteket AB:s ensamrätt att bedriva detaljhandel med vissa läkemedel. Monopolet ersattes med ett system där den som har fått tillstånd av Läkemedelsverket ska få bedriva detaljhandel med de läkemedel och varor som tidigare har omfattats av Apoteket AB:s ensamrätt. Handeln ska bedrivas på öppenvårdsapotek. För att få tillstånd måste den sökande dels uppfylla vissa krav på lämplighet, dels visa att den har förutsättningar att uppfylla en rad krav som ställs på verksamheten. [2]
+
+På Läkemedelsverkets webbplats finns register[3] över samtliga i Sverige godkända läkemedel. Där finns också beslut om nya godkännanden, indragningar, varningar, råd och rekommendationer. 
+
+De flesta läkemedel som har marknadsföringstillstånd i Sverige presenteras också på Fass.se [4], en hälsoportal som drivs av LIF - de forskande läkemedelsföretagen.
+
+Information om läkemedel som godkänts för användning i alla EU-länder, via den så kallade "centrala proceduren", finns på European Medicines Agency[5], webbplats för den Europeiska läkemedelsmyndigheten (EMA).
+
+Läkemedel klassificeras efter så kallat indikationsområde och tilldelas en ATC-kod. Nedan följer ett antal läkemedelsgrupper och vilken ATC-kod de ingår i inom parentes.
+
+Huvudartikel: Beredningsformer
+
+Läkemedelsberedningar är beredningar tillverkade för att man ska kunna tillföra den aktiva substansen i kroppen. Vanliga exempel är tabletter, stolpiller och oral lösning.
+
