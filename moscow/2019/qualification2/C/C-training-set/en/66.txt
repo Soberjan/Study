@@ -1,0 +1,24 @@
+
+(Release) Android 7.1.1  Nougat
+
+The Sony Xperia X Performance is an Android smartphone produced by Sony. Part of the Sony Xperia X series, the device was unveiled along with the Sony Xperia XA and Sony Xperia X at MWC 2016 on February 22, 2016.[2][3] It was Sony's flagship smartphone for the first half of 2016.
+
+The device features a 5.0 inches (13 cm) 1080p screen, also features a 64-bit 2.0 GHz quad-core Qualcomm Snapdragon 820 MSM8996 64-bit system-on-chip with 3 GB of RAM. The device also has 32 GB and 64 GB internal storage with microSD card expansion up to 200 GB and includes non-removable 2700 mAh battery.[4]
+
+The rear-facing camera of the Xperia X Performance is 23 megapixels with sensor size of 1/2.3 inch and an aperture of f/2.0, featuring Sony Exmor RS image sensor with quick launch and also features hybrid autofocus that utilizes phase detection autofocus that can focus the object within 0.03 seconds. Also the device is water and dust resistant with an IP rating of 65 and 68 and features a fingerprint sensor as well. The U.S. variant will include a free Qnovo Quick Charge 2.0 charger in the box. This would be the first time ever that Sony Mobile has included something extra for its U.S. smartphone customers. [5]
+
+The Xperia X Performance is preinstalled with Android 6.0.1 Marshmallow with Sony's custom interface and software.[6] On August 23, 2016, Sony announced that the Xperia X Performance would receive an upgrade to Android 7.0 Nougat.[7]
+
+On November 29, 2016, the Android 7.0 Nougat update for the Xperia X Performance was officially rolled out. [8] An update to Android 7.1.1 rolled out in April 2017.
+
+On 27 November 2017 Android 8.0 Oreo has been upgraded for Sony Xperia X Performance through build number 41.3.A.0.401.
+
+Here are the complete description of the Xperia X Performance variants in the world:
+
+UMTS HSPA+ 800 (Band VI), 800 (Band XIX), 850 (Band V), 900 (Band VIII), 1700 (Band IV), 1900 (Band II), 2100 (Band I) MHz 
+LTE (Bands 1, 2, 3, 7, 8, 12, 13, 17, 19, 20, 21, 26, 28, 38, 39, 40, 41 (SO-04H)/ 1, 2, 3, 4, 8, 12, 17, 41 (502SO)[9]
+
+The Sony Xperia X Performance made its market debut in Taiwan on June 15, 2016.
+
+
+

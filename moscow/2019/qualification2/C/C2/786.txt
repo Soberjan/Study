@@ -1,0 +1,9 @@
+
+MaxiCode è un sistema di simboli leggibili da una macchina, di pubblico dominio, in origine creato e usato da United Parcel Service. Serve per tracciare e gestire la spedizione dei pacchi, ricorda un codice a barre ma usa dei punti disposti in una griglia esagonale al posto delle barre. 
+
+Il maxicode è stato standardizzato nella direttiva ISO/IEC 16023:2000, ciascun MaxiCode può avere fino a 884 moduli esagonali che sono disposti in 33 file, ciascuna delle quali può essere composta fino 30 moduli.[1] Il Maxicode può conenere fino a 93 caratteri alfanumerici o fino a 138 numeri,[1] fino ad 8 Maxicode possono essere collegati insieme per trasportare più dati. 
+
+La simbologia del Maxicode fu messa a disposizione dall'UPS nel 1992.
+
+I simboli del Maxicode portano due messaggi separati, uno primario e uno secondario: quello primario di norma incorpora un codice postale, un codice a tre cifre della nazione e un codice a tre cifre che indica la classe del servizio, mentre quello secondario di solito riporta l'indirizzo del destinatario e tutte le altre informazioni richieste.[1]
+

@@ -1,0 +1,35 @@
+
+Intel Corporation è un'azienda multinazionale USA fondata nel 1968 con sede a Santa Clara (California).
+
+Produce dispositivi a semiconduttore, microprocessori, componenti di rete, chipset per motherboard (scheda madre), chip per schede video e molti altri circuiti integrati, ed è considerata una delle più importanti nel settore.
+
+Nel 1968 Robert Noyce e Gordon Moore lasciano la Fairchild Semiconductor e fondano la Integrated Electronics Corporation, successivamente abbreviata in Intel Corporation. Poco dopo Andrew Grove, arrivò alla direzione della società.
+Intel all'inizio produceva componenti per memorie e, durante gli anni settanta, era divenuta leader nella produzione di memorie DRAM, SRAM e ROM. Da quando però nel 1971 Marcian Hoff, Federico Faggin, Stanley Mazor e Masatoshi Shima costruirono il primo microprocessore, l'Intel 4004. Nel 1973 registrò vendite per 66 milioni di dollari.[4]
+
+Nel 1983 toccò al presidente della società, Andy Grove, trasformare la produzione, abbandonando la costruzione di memorie per passare alla produzione di microprocessori. Lo stesso Andy Grove descrisse questa transizione nel libro Only the Paranoid Survive. Un elemento chiave di questo processo fu sicuramente l'8086 che nel 1982 viene scelto per i PC IBM alla condizione (imposta da IBM) di avere una seconda fonte di produzione. La seconda fonte sarà AMD, che con uno scambio di licenze diviene il secondo fornitore di processori 8088 e 8086 per i PC IBM. Il "problema" dei secondi fornitori sarà sempre presente fino all'avvento del Pentium.
+
+Durante gli anni novanta la Intel Architecture Labs (IAL) fu la maggior responsabile delle innovazioni hardware dei personal computer, fra cui il bus PCI, il bus PCI Express, l'Universal Serial Bus (USB) e le prime architetture per server multiprocessori (SMP).
+
+Intel ha un accordo con Advanced Micro Devices dal 1976: ognuna delle due major può usare le tecnologie brevettate dal concorrente senza dover richiederne il consenso.
+
+Nel 1993 viene lanciato il Pentium capostipite di una famiglia di successo. Nel corso degli anni '90. controllo totale del mercato dei processori x86 procurò all'Intel negli anni molte cause da parte delle autorità antitrust.
+
+Nel settembre del 2007 la società ha acquisito Havok, sviluppatore noto in ambito software per lo sviluppo dell'omonimo motore fisico utilizzato in più di 150 videogiochi.[5]
+Nell'ottobre dello stesso anno ha raggiunto un accordo extragiudizionario con Transmeta: la società accusava Intel di aver violato alcune sue proprietà intellettuali. Intel ha pagato 250 milioni di dollari per aver accesso non esclusivo a tutti i brevetti della società.[6] Nel febbraio del 2008 la società è stata citata in giudizio dall'University of Wisconsin-Madison per aver violato il brevetto statunitense 5.781.752 nei processori Core 2.[7]
+
+Nel 2008 crea la Numonyx[8] assieme ad STMicroelectronics e Francisco Partners.
+
+Nel maggio del 2009 riceve una multa da 1.06 miliardi di euro dall'Antitrust europeo per abuso di posizione dominante.[9]
+Nel novembre 2009 Intel si accorda con AMD a pagare 1,25 miliardi di dollari per ritirare le denunce che AMD le aveva inflitto permettendo ad AMD di risanare parte dei debiti cumulati.[10]
+
+Tra la fine del 2014 e l'inizio del 2015 è uscita la quinta generazione di processori con architettura Broadwell. Ad agosto 2015 sono stati presentati i processori i3, i5, i7 e Pentium di sesta generazione con la nuova architettura Skylake . Nei mesi successivi sono poi usciti l'intel core i3 e il pentium di sesta generazione. I processori Skylake hanno un processo produttivo a 14 nanometri e hanno grafiche integrati più potenti rispetto alla precedente generazione. Nell'estate 2016 Intel ha presentato la settima generazione di processori desktop e mobile, conosciuti con il nome Kaby Lake. I Kaby Lake hanno caratteristiche simili ai loro predecessori ma vantano secondo i dati Intel un incremento prestazionale del 30%. Sia i processori Skylake che i processori KabyLake sono compatibili con il socket LGA1151. Nell'agosto 2017 è stato presentato un aggiornamento dei processori Intel, denominato Kaby Lake Refresh, a cui è stato assegnato lo stato di "ottava generazione" e che Intel afferma essere circa il 40% più veloci dei precedenti. L'incremento delle prestazioni è stato misurato in appropriate condizioni operative mediante un benchmark sviluppato da Intel stessa.
+
+Nel 2015 Intel si è mostrata interessata al mondo dei droni, in particolare alle applicazioni possibili grazie alle camere ad alta definizione di cui sono dotati i droni moderni ed ha avviato una partnership con Qualcomm. La collaborazione ha portato alla creazione delle RealSense Cameras, cioè potenti videocamere in grado di effettuare la scansione di una stanza in pochi secondi ed offrire una esperienza 3D senza precedenti.[11]
+
+Il 21 giugno 2018, l'amministratore delegato Brian Krzanich si dimette per una relazione consensuale che ha avuto con una dipendente, iniziata 10 anni prima e terminata nel 2013 prima che Krzanich diventasse CEO. La politica interna che proibisce ai manager di avere relazioni con dipendenti è stata introdotta nel 2011. Robert "Bob" H. Swan, già CFO, è stato nominato CEO temporaneo fino a nomina del nuovo CEO permanente.
+
+Lo slogan usato inizialmente nelle pubblicità era «The computer inside»[12], nel 1991 si iniziò ad utilizzare «Intel inside», che, nel 2006, venne sostituito da «Leap Ahead» («Balzare in avanti»).[13][14]. Nel maggio 2009 divenne «Sponsors of Tomorrow».[15] Dal 2013 è «Look inside», molto simile a quello utilizzato dal 1991 al 2006.[3][16]
+
+Nel celebre sceneggiato di fantascienza A for Andromeda, prodotto dalla BBC nel 1961, scritto da Fred Hoyle con la collaborazione di John Elliot, un colosso privato interessato a un immaginario computer alieno si chiama, per pura coincidenza, Intel.
+
+Altri progetti

@@ -1,0 +1,11 @@
+
+Pentium är en processorserie från Intel. Den är en utveckling av äldre mikroprocessorer från Intel såsom 8088, 8086, 80286, 80386 och 80486. Datorer byggda kring dessa processorer brukar kallas PC-kompatibla. Intel Pentium arbetar enligt x86-strukturen.
+
+Det finns andra tillverkare av processorer med samma instruktionsuppsättning, t.ex. AMD med sina K5- och K6-processorer. Datorer med sådana processorer kunde vid den tiden betraktas som PC-kompatibla, vilket vid tidigare tillfällen var en sanning med modifikation.
+
+Den första pentiumprocessorn lanserades 22 mars 1993. Pentium var Intels första processor som hade flera pipelines. Den hade två pipelines som var fem steg långa.
+
+Pentiumprocessorn hade två kända konstruktionsfel. Det första, den så kallade FDIV-buggen, innebar att flyttalsberäkningar med divisioner kunde ge felaktiga resultat. Den andra, F00F-buggen, innebar att en viss instruktion gjorde att hela processorn låste sig tills datorn manuellt startades om.
+
+Pentium-processorn kompletterades 1995 av Pentium Pro och ersattes helt av Pentium II 1997.
+

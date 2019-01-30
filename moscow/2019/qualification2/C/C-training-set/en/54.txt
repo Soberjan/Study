@@ -1,0 +1,11 @@
+
+The VXI bus architecture is an open standard platform for automated test based upon VMEbus.  VXI stands for VME eXtensions for Instrumentation, defining additional bus lines for timing and triggering as well as mechanical requirements and standard protocols for configuration, message-based communication, multi-chassis extension, and other features. In 2004, the 2eVME extension was added to the VXI bus specification, giving it a maximum data rate of 160 MB/s.
+
+The basic building block of a VXI system is the mainframe or chassis. This contains up to 13 slots into which various modules (instruments) can be added. The mainframe also contains all the power supply requirements for the rack and the instruments it contains. Instruments in the form of VXI Modules then fit the slots in the rack. VXI bus modules are typically 6U in height (see Eurocard) and C-size (unlike VME bus modules which are more commonly B-size). It is therefore possible to configure a system to meet a particular requirement by selecting the required instruments.
+
+The basic architecture of the instrument system is described in US Patent 4,707,834. This Patent was freely licensed by Tektronix to the VXIbus Consortium. The VXIbus grew from the VME bus specification, it was established in 1987 by Hewlett Packard (now Keysight Technologies), Racal Instruments (now Astronics Test Systems), Colorado Data Systems, Wavetek and Tektronix.  VXI is promoted by the VXIbus Consortium, whose sponsor members are currently (in alphabetical order) Astronics Test Systems (formerly Racal Instruments), Bustec, Keysight Technologies, National Instruments, Teradyne, and VTI Instruments (formerly known as VXI Technology)
+.[1]
+ZTEC Instruments is a participating Executive Member. VXI's core market is in Military and Avionics Automatic Test Systems. 
+
+The VXIplug&play Alliance specified additional hardware and software interoperability standards, notably the Virtual Instrument Software Architecture or VISA, although the alliance was eventually merged with the IVI Foundation. Application software that supports VXIplug&play instrument drivers for controlling instruments include LabVIEW and MATLAB. 
+

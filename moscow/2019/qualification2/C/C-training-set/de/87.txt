@@ -1,0 +1,16 @@
+
+Viiv ist eine Marke des Unternehmens Intel. In Langform spricht Intel von Intel Viiv Technology.
+
+Das [.mw-parser-output .IPA a{text-decoration:none}wɐɪf] ausgesprochene Kunstwort steht für Vitality (Lebensfreude) und Vibrancy (Lebendigkeit). Das entsprechende Logo kennzeichnet seit Anfang 2006 eine neue Plattform für „wohnzimmertaugliche“ PCs. Das Konzept ähnelt Intels Centrino und soll ebenfalls zu einer starken Marke ausgebaut werden.
+
+PCs auf Viiv-Basis werden mit dem Microsoft Windows Media Center und einer Fernbedienung ausgeliefert. Außerdem umfasst die Plattform einen von Intel produzierten Dual-Core-Prozessor (Pentium D, Core Duo, Pentium Extreme Edition, Core 2 Duo, Core 2 Extreme oder Core 2 Quad), einen Intel-Chipsatz, mindestens 5.1-Raumklang sowie eine drahtgebundene Netzwerkanbindung, wobei Intel den Hardware-Herstellern weiter explizit empfiehlt, eine a/b/g-WLAN-Schnittstelle einzugliedern.
+
+Außerdem sollen Viiv-PCs die sogenannte Intel Quick Resume Technology unterstützen, d. h. eine Art Standby-Modus (den Standby-Modus S4), bei dem das Viiv-System selbst mit einer Fernbedienung innerhalb von Sekunden ein- und ausgeschaltet werden kann. In diesem „Standby“-Modus läuft der Rechner allerdings z. B. zum Zweck von Video-Aufzeichnungen oder als Daten-Server weiter, nur die Video- und Audio-Ausgänge werden abgeschaltet.
+Verpflichtend ist auch die sogenannte Intel Matrix Storage Technology, die Controller und Speichermedium adressiert. Der Controller muss „RAID ready“ sein, das Langzeit-Speichermedium (normalerweise eine SATA-Festplatte) muss NCQ unterstützen.
+
+Zusammenfassend handelt es sich bei Viiv um eine Zusammenstellung von verschiedenen Merkmalen:
+
+Mitte Dezember 2007 kündigte Intel an, sein Engagement für die Viiv-Plattform weitgehend aufzugeben.[1]
+
+Für das laut Intel gescheiterte Viiv-Konzept[2] sollte ein CE31xx (Codename „Canmore“) genannter Chip[3] in bereits bekannte Heimelektronikgeräte eingebaut werden und dort Web- und Multimedia-Anwendungen ermöglichen. Damit sollte der Chip eine Erweiterung für die Unterhaltungselektronik hin zu PC-Funktionalität werden. Ein Erfolg am Markt blieb aber aus.[4]
+

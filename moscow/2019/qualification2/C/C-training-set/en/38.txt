@@ -1,0 +1,9 @@
+
+ARP (Autoradiopuhelin, "car radio phone") was the first commercially operated public mobile phone network in Finland. The technology is zero-generation (0G), since although it had cells, moving between them was not seamless. The network was proposed in 1968 and building began in 1969. It was launched in 1971, and reached 100% geographic coverage in 1978 with 140 base stations. The ARP network was closed at the end of 2000 along with NMT-900.
+
+ARP was a success and reached great popularity (10,800 users in the year 1977, with a peak of 35,560 in 1986), but the service eventually became too congested and was gradually replaced by the more modern NMT technology.  However, ARP was the only mobile phone network with 100% percent coverage for some time thereafter, and it remained popular in many special user groups.
+
+ARP operated on 150 MHz frequency (80 channels on 147.9 - 154.875 MHz band). Transmission power ranged from 1 watt to 5 watts. It first used only half-duplex transmission, meaning that receiving and transmitting voice could not happen at the same time. Later, full-duplex car phones were introduced. Being analog, it had no encryption and calls could be listened to with scanners. It started as a manually switched service, but was fully automated in 1990; however, by that time the number of subscribers had dwindled down to 980 users. ARP did not support handover, so calls would disconnect when moving to a new cell area.  The cell size was approximately 30 km.
+
+The first ARP mobile terminals were extremely large for the time and could only be fitted in cars' trunks, with a handset near the driver's seat. ARP was also expensive. In the 1990s, handhelds were introduced in ARP but they never became popular as more modern equipment was already available in other systems like NMT.
+

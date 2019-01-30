@@ -1,0 +1,15 @@
+
+Intel 80386, även känd som Intel386, i386 eller bara 386, är en processor tillverkad av det amerikanska företaget Intel. Processorn var banbrytande då den lanserades 1986 eftersom den var en radikal förbättring av föregångaren Intel 80286. Processorn fanns i hastigheter från 16 MHz till 40 MHz och var den första x86-processorn som hade en 32-bitarsarkitektur.
+
+Många av egenskaperna i föregångaren 80286 kom aldrig att utnyttjas i någon högre grad, annat än i OS/2, vilket gjorde 386-processorn särskilt betydelsefull. Senare förbättringar av arkitekturen har i högre grad handlat om prestanda. Sålunda kompilerades till exempel Debians mainstreamversion att fungera också på 386-processorer ända fram till versionen utgiven 2002 (stödd till mars 2006).
+
+De flesta förbättringarna kunde användas endast i 32 bitars "skyddat läge", inte i 16-bitars kompatibilitetslägen, varför ordbredden kom att uppfattas som väldigt viktig i den i386-dominerade PC-världen. Bland förbättringarna kan nämnas 4 GB minnesrymd, sidvis minneshantering, som underlättade implementering av virtuellt minne, och att processer kunde förhindras att skriva över varandras minne. 32-bitars program blev långsamt vanliga, kompatibilitetslägena användes länge i många program.
+
+Processorn kom med tiden att bli ersatt av uppföljaren Intel 80486, introducerad 1989. Produktion av 386-processorn (för specialändamål) avslutades 2007.
+
+SL-processorn var en lågspänningsmodell, specifikt designad för bärbara datorer. Den hade ett cacheminne på 16-64 kilobyte, SMI (System Management Interrupt) med strömsparfunktioner och utökat minnesstöd. Den kom också med ett 82360SL I/O undersystem - den första kombinationen av många funktioner i ett och samma chipset.  
+
+SX-processorn var en billigare variant av den vanliga 386-processorn, som började benämnas 386DX när SX-processorn lanserades. Skillnaden var att den kommunicerade med 16 bitar externt, precis som 286-processorn, medan den arbetade med 32 bitar internt.
+
+80387 var en matematikprocessor som kunde installeras på moderkort med en sockel för en sådan, vilket gjorde att matematiska beräkningar med flyttal gick mycket fortare.
+

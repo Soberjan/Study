@@ -1,0 +1,7 @@
+
+Ein Mobile Module Connector (MMC) ist ein von Intel entwickelter Sockel für Prozessormodule in Notebooks.
+
+Zunächst wurde eine erste Generation von Prozessormodulen mit Sockeln nach der Spezifikation MMC-1 angeboten. Zur Anwendung kam er mit den Prozessoren Mobile Pentium, Mobile Pentium MMX und Mobile Pentium II. Der Sockel hatte vier Reihen mit insgesamt 280 Pins. Auf dem Prozessormodul befanden sich außer dem Prozessor auch die passende Northbridge, Level-2-Cache und CPU-Spannungsregler. Über den MMC-1-Sockel bestand eine PCI-Schnittstelle zur Hauptplatine des Rechners.
+
+Später wurde eine zweite Generation nach der Spezifikation MMC-2 vorgestellt. Der Sockel hatte 10 Reihen mit insgesamt 400 Pins. Neben dem Prozessor befanden sich auf dem Modul weiterhin Northbridge und CPU-Spannungsregler. Der Cache war nur in frühen Exemplaren auf dem Modul bis Prozessoren mit integriertem Cache (On-die Cache) auf den Markt kamen. Zur Hauptplatine bestand eine AGP/PCI-Schnittstelle, die bereits schnelle 3D-Grafik ermöglichte.
+

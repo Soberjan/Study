@@ -1,0 +1,83 @@
+
+Auf dem Großen Feldberg im Taunus (Hochtaunus) – nahe Ober- bzw. Niederreifenberg im Gemeindegebiet von Schmitten im hessischen Hochtaunuskreis – befinden sich mehrere Sendeanlagen für Fernsehen und Radio sowie Amateurfunkdienst.
+
+1937 wurde auf dem Großen Feldberg (879 m ü. NHN)[1] ein Fernmeldeturm aus einem Stahlbetonunterbau und einem Holzaufbau errichtet, der ursprünglich als Fernsehsendeturm dienen sollte und im Zweiten Weltkrieg militärisch genutzt wurde. 1945 wurde der Turm nach Bombentreffern fast vollständig zerstört. Der Wiederaufbau erfolgte 1950/51 in veränderter Form. Seit 1987 steht er wegen seiner einzigartigen Konstruktion unter Denkmalschutz.[2] Die Antenne der ehemaligen UKW-Radio- bzw. UHF-TV-Sendeanlage auf dem Fernmeldeturm Großer Feldberg wurde 2007 abgebaut.[3]
+
+Die Deutsche Funkturm (DFMG), eine Tochtergesellschaft der Deutschen Telekom, ist Eigentümerin des Turmes, betrieben wird er durch die T-Systems, ebenfalls eine Tochter der Deutschen Telekom.
+
+Hier wurden bis zur Umstellung auf DAB-T/DVB-T Hit Radio FFH (105,9 MHz mit 100 kW) und AFN (98,7 MHz mit 60 kW) im Radiobereich in Rundstrahlung horizontal sowie ZDF (Kanal 34 mit 500 kW) und hr Fernsehen (Kanal 54 mit 500 kW) ebenfalls in Rundstrahlung horizontal ausgestrahlt.
+
+Der 1902 vom Taunusklub errichtete Aussichtsturm wurde 1943 von einem deutschen Militärflugzeug im dichten Nebel gerammt und brannte dabei vollständig aus. 1949 baute der Hessische Rundfunk den Turm, mit auf seiner Spitze befindlichem Antennenträger für die UKW-Frequenz, wieder auf. Der Antennenträger ist heute eine Reserveanlage.[4]
+
+Als höchstes Bauwerk existiert auf dem Großen Feldberg ein 116,17 m hoher, abgespannter Rohrmast des Hessischen Rundfunks für die Verbreitung von Radio- und Fernsehprogrammen.
+
+Als T-Systems noch die Sendeanlage am Fernmeldeturm betrieb, wurden die hr-UKW-Programme, sowie Das Erste (Kanal 08 mit 100 kW in Rundstrahlung und horizontaler Polarisation) vom hr-Rohrmast ausgestrahlt.
+
+Am 4. Oktober 2004 wurde hier mit DVB-T-Ausstrahlungen zusammen mit zwei anderen Standorten im Rhein-Main-Gebiet begonnen.[5] Seit der DVB-T-Umstellung in den restlichen Teilen Hessens am 29. Mai 2006 werden sämtliche Rundfunkdienste, sei es Fernsehen oder Radio, vom hr-Rohrmast ausgestrahlt. Aufgrund der nun höheren Antennenposition wurde die effektive Strahlungsleistung von AFN von vorher 60 kW auf 50 kW horizontale Rundstrahlung verringert.
+
+Am 18. Januar 2017 übergab AFN die Frequenz 98,7 MHz, auf der über 50 Jahre lang die zahlreichen amerikanischen Militärstandorte im Rhein-Main-Gebiet und im Raum Gießen/Wetzlar versorgt worden waren, an den Deutschlandfunk. Dieser ist dadurch erstmals flächendeckend in der Region auf UKW empfangbar. AFN ist seit dem nur noch in Wiesbaden über den Sender Mainz-Kastel für die in der Nähe befindlichen Militäranlagen zu hören.[6]
+
+Zwischen dem hr-Rohrmast und dem Aussichtsturm befindet sind das Gebäude des Hessischen Rundfunks mit Sendersaal und Weichenraum. Das Gebäude trägt einen Reserve-Mast.[7]
+
+Das erste UKW-Hörfunkprogramm im Rhein-Main-Gebiet startete hier. 1952 wurde auf 89,3 MHz mit 10 kW ERP das damalige hr Frankfurt bzw. Erste Programm gesendet. Ein weiteres Programm, damals Zweites Programm genannt (das heutige hr2-kultur), lief damals ebenfalls mit 10 kW ERP auf 93,3 MHz. 1954 sendete das Erste Programm mit 60 kW ERP auf 88,5 MHz, das Zweite Programm lief dann auf 92,1 MHz ebenfalls mit 60 kW ERP. Alle Frequenzen liefen damals, wie auch die heutigen, in horizontaler Rundstrahlung.
+
+Beim Antennendiagramm sind im Falle gerichteter Strahlung die Hauptstrahlrichtungen in Grad angegeben.
+
+DAB beziehungsweise Digitales Mobiles Fernsehen (DMB) wird in vertikaler Polarisation und im Gleichwellenbetrieb (Single Frequency Network) mit anderen Sendern ausgestrahlt. DAB von Hessen Digital Radio im Band III VHF startete hier am 1. Januar 2001 und wurde bis 1. November 2001 nur von hier aus verbreitet.
+
+
+
+Wechsel auf Kanal 12C ab Februar 2019 
+
+
+
+Der Handy-TV-Betreiber MFD hat die Lizenzen für DMB im Jahre 2008 zurückgegeben. Alle Projekte in Deutschland, diesen Standard betreffend wurden bis 2010 beendet. Für die Übertragung von Handy TV hat sich zunächst DVB-H, welches durch die EU-Kommission befürwortet wurde, durchgesetzt.
+
+Die DVB-T-Ausstrahlungen vom Rohrmast des Hessischen Rundfunks laufen im Gleichwellenbetrieb mit anderen Sendestandorten. In ganz Hessen war dieses Sendernetz, als es am 4. Oktober und 6. Dezember 2004 schrittweise startete, das erste seiner Art. Die Ausstrahlung wurde am 29. März 2017 eingestellt.
+
+HbbTV-Dienste
+
+Am 31. Mai 2016 wurde mit der Ausstrahlung des Hochauflösenden DVB-T2 HD im Rhein-Main-Gebiet begonnen. Seit diesem Zeitpunkt können Das Erste, ProSieben, Sat.1, RTL, VOX und das ZDF über Antenne auf Kanal 59 mit 50 kW vom Feldberg in High Definition (HD) empfangen werden. Der Europaturm in Frankfurt am Main, sowie der Fernmeldeturm Hohe Wurzel in Wiesbaden, strahlen ebenfalls auf Kanal 59 das HD-Signal ab.[8] Am 29. März 2017 ist der Regelbetrieb von DVB-T2 gestartet.
+
+Im alten Fernmeldeturm der DFMG und im Aussichtsturm des hr sind Amateurfunkrelais untergebracht.[9] Die Relais werden unter Funkamateuren oft „2-m-Feldberg“ oder „70-cm-Feldberg“ genannt. Aktuelle Störungsmeldungen und Detailinformationen über die unter anderem nachfolgend aufgeführten Amateurfunk-Sendeanlagen auf dem Großen Feldberg findet man auf der Webseite des Betreibers der Anlage, der Taunus Relais Gruppe.
+
+Der Militärfunkdienst AFRTS (Armed Forces Radio and Television Service), zu dem AFN TV und AFN Radio gehören, führte zum 10. Mai 2004, nachdem bisher keine RDS PS aufgeschaltet war, die Kennung 98.7___ ein. Am 29. Mai 2006 wurden alle UKW-Radioprogramme, die bis dahin vom Fernmeldeturm ausgestrahlt wurden, auf den hr-Rohrmast verlagert. Anfang April 2008 änderte AFRTS die RDS-PS-Kennung in AFNEAGLE.
+
+Die anderen Parameter entsprechen der UKW-Tabelle, wobei die AFN-Frequenz im Januar 2017 an den Deutschlandfunk übergeben worden ist.
+
+Vor dem Start von DVB-T liefen am Großen Feldberg bis zum 6. Dezember 2004 in analogem PAL die nachfolgenden Programme.
+
+Die DVB-T-Sendeantennen sind auf dem Großen Feldberg ausschließlich am hr-Rohrmast montiert.
+
+Zum Start von DVB-T in Rhein-Main wurden am 4. Oktober 2004 Veränderungen in der Kanalverteilung vorgenommen. So wurde Kanal 57 in Aschaffenburg Gailbach (Stengerts) mit ProSieben (damals 200 W horizontale Rundstrahlung) eingestellt. Kanal 22 in Wiesbaden mit AFN Prime Atlantic (Hessen) wurde dort auf Kanal 42 verlegt und lief bis Anfang Juni 2008 unverändert mit 2 kW horizontaler Rundstrahlung. So konnten am 4. Oktober 2004 Kanal 22 (ZDFmobil Multiplex: ZDF, ZDFinfo mit 3sat, KiKA mit ZDFneo und dem mittlerweile eingestellten MHP-Dienst ZDFdigitext) und Kanal 57 (ARD Digital national/regional Multiplex: Das Erste (hr), dem damaligen Hessen Fernsehen, dem damaligen Südwest Fernsehen RP und Phoenix) bereits digital in Betrieb gehen. Die anderen Kanäle (8: Das Erste (hr), 34: ZDF und 54: Hessen Fernsehen) liefen bis zum 6. Dezember 2004 weiter analog. An diesem Tag kam dann auch Kanal 64 (Gemischt privat Rhein-Main Multiplex: rheinmaintv, Eurosport und die mittlerweile eingestellten terranova sowie tvnah) hinzu. In Rhein-Main hat man vertikale Polarisation zur Ausstrahlung von DVB-T gewählt um Zimmerantennenempfang zu begünstigen.
+
+Am 29. Mai 2006 wurden im Zuge der Einführung von DVB-T in anderen Bereichen Hessens wiederum einige Veränderungen an der Kanalbelegung und den technischen Parametern der Sender in Rhein-Main vorgenommen. So wurde der Multiplex ARD Digital national (hr) von damals Kanal 8 auf Kanal 57 verschoben, da ein Band-III-VHF-Empfang in Zimmerantennengebieten mit den bei DVB-T-Receivern oft mitgelieferten Antennen nur sehr schlecht möglich ist. Diese Antennen sind meistens nur für den UHF-Band IV/V Empfang geeignet. Deshalb und aufgrund des Vorhabens der sporadischen Aufschaltung von Dolby-Digital-Inhalten hinter seinen Hauptprogrammen Das Erste (hr) und hr-Fernsehen, was mehr Bitrate benötigt, hat der hr entschieden, diese Programme in einen Multiplex auf einen Band-IV/V-UHF-Kanal zu legen und die Parameter des Band-III-VHF-Kanals 8 zugunsten eines stabileren Empfangsverhaltens durch Veränderung des Fehlerschutzes von 3/4 auf 2/3 anzupassen. Diese Anpassung führt zu einer niedrigeren Gesamtbitrate des Kanals 8, der bis zum 29. Mai 2006 eine Bitrate von 13,06 Mbit/s bot und heute nur noch 11,61 Mbit/s bietet. Deshalb hat man hier auf die Ausstrahlung des WDR Fernsehens zugunsten einer besseren Bildqualität bei den anderen Programmen verzichtet. Zugleich hat man hessenweit die vollständige Ausstrahlung des Programms EinsFestival, welches zuvor einen eigenen Programmplatz belegte, eingestellt. Nun teilt sich arte mit EinsFestival (mittlerweile in one umbenannt) einen Programmplatz. Die freigewordene Kapazität nutzt der hr für die zuvor erwähnten Dolby Digital Übertragungen. Ebenso soll die Einsparung eines Programmplatzes wiederum zu einer besseren Bildqualität bei den anderen Programmen im Multiplex des Kanals 57 führen.
+
+Am 4. Dezember 2007 wurde der Multiplex ARD Digital national (hr) von Kanal 57 auf Kanal 37 verschoben. Dieser Kanal war zuvor am Donnersberg (Kirchheimbolanden) in der Pfalz in Betrieb und übertrug jahrzehntelang analog das Programm des ZDF. Auf Kanal 57 läuft nun der Multiplex ARD Digital national (SWR) auf dem Donnersberg.
+
+Anfang Juni 2008 startete ein DVB-H-Test von Mobile 3.0 auf Kanal 42 vom Europaturm in Frankfurt. Daraufhin wurde AFN Prime Atlantic Hessen aus Wiesbaden von Kanal 42 (2 kW ND H) auf Kanal 29 verlegt und läuft jetzt nur noch mit 1 kW horizontaler Rundstrahlung. Aufgrund einer besseren Frequenzlage war zum Teil sogar ein besserer Empfang von AFN als zuvor möglich.
+
+Am 15. Juli 2008 wurde die analoge terrestrische Ausstrahlung von AFN Prime Atlantic Hessen in ganz Hessen eingestellt. Der Kanal 29 in Wiesbaden ist seitdem außer Betrieb. 
+
+Der DVB-H-Testlauf wurde im November 2008 beendet.
+
+Nach langer Zeit wurde am 7. November 2008 im Gemischt privat Multiplex Rhein-Main auf Kanal 64 mit Bibel TV wieder ein viertes Programm aufgeschaltet.
+
+Am 25. November 2008 wurde im Zuge der Aufschaltung von DVB-T am Pfaffenberg bei Aschaffenburg die Regionalversion Nord (Franken) beim Bayerischen Fernsehen für DVB-T im Rhein-Main-Gebiet aufgeschaltet. Zuvor war hier die Version Süd (Schwaben/Altbayern) aufgeschaltet. 
+
+Am 27. Oktober 2010 wechselte der Gemischt privat Multiplex Rhein-Main von Kanal 64 auf Kanal 52. Seit der Frequenzauktion 2010 für LTE ist der Bereich über Kanal 60 für andere Dienste reserviert.
+
+Nach Koordinierung und Einigung der Regional Radiocommunication Conference 2006 (RRC 06)[10] sind für Hessen zukünftig nutzbare Kanäle international festgelegt worden. Die Entscheidungshoheit auf nationaler Ebene in Bezug auf die Kanalvergabe an die Programmanbieter liegt bei der Bundesnetzagentur (BNetzA), die theoretisch auch eine andere Aufteilung der verfügbaren Kanäle festlegen könnte.
+
+Bei DAB ist ein Band-III-VHF-Kanal in vier Teile, auch vier Blöcke oder bei der Frequenzkoordinierung auch Four Layer genannt, aufgeteilt. Bei DVB-T ist ein Band-IV/V-UHF-Kanal (in Ausnahmen auch ein Band-III-VHF-Kanal) gleich einem Multiplex oder Bouquet. Hier wird bei der Frequenzkoordinierung der Kanal insgesamt als Layer bezeichnet.
+
+Im Folgenden sind die Koordinierungen nach RRC-06 aufgeführt. Die Einträge, die den Großen Feldberg betreffen, sind hervorgehoben.
+
+Die DVB-H-Norm wurde für mobile Geräte mit kleinem Display geschaffen und bot ein sehr robustes Signal. Dienste, die hier übertragen werden sollten, sollten zum Teil frei verfügbar sein, zum Teil auch gegen Entgelt abonniert werden. Der Betrieb kam nicht über eine Testphase hinaus. Vorgesehen war, dass DVB-H idealerweise wie DVB-T von mehreren Standorten im Gleichwellenbetrieb verbreitet wird. Nach Planung der Hessischen Landesanstalt für privaten Rundfunk und neue Medien (LPR Hessen) war in Hessen ein DVB-H-Regelbetrieb in den nachfolgenden Bedeckungen – auch Versorgungsgebiete genannt – geplant. Die Tests unter dem Joint Venture Mobile 3.0 (MFD) wurden am 2. November 2008 beendet, die Lizenzen wurden anschließend zurückgegeben. Ein großflächiger Neustart des Systems unter einem neuen Betreiberkonsortium wurde nicht umgesetzt.
+
+Die folgenden RRC-06-Zuordnungen sind in Hessen bereits in Betrieb (geordnet nach dem jeweiligen Multiplex).
+
+Die in folgender Tabelle aufgestellten Zuordnungen sind noch frei.
+
+Die unten stehenden Kanäle entsprechen nicht der RRC-06-Zuordnung für das jeweilige Gebiet und können in die noch freien Zuordnungen umziehen.
+

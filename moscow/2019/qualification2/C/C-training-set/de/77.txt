@@ -1,0 +1,103 @@
+
+Der oder das Niet (Plural Niete; in Deutschland umgangssprachlich und in Österreich und der Schweiz auch fachsprachlich als die Niete, Plural Nieten bezeichnet) ist ein plastisch verformbares, zylindrisches Verbindungselement. Nietverbindungen werden zum Nieten von flachen Materialteilen (z. B. Blechen, Kunststoffteilen, Leder oder robusten Baumwollstoffen) eingesetzt.
+
+Durch die Verformung des Niets bei einer Kaltnietung wird eine formschlüssige Nietverbindung mehrerer Bauteile hergestellt. Nach einer Warmnietung entsteht beim Abkühlen des Niets durch Schrumpfen zusätzlich ein Kraftschluss.
+
+Niete werden vor allem aus Metallen und Legierungen, aber auch Kunststoffen hergestellt.
+
+Das Wort Niet stammt vom althochdeutschen Wort hniutan („befestigen“) ab. Im Mittelhochdeutschen soll Niet zudem für einen breitgeschlagenen Nagel stehen.
+
+Das Wort ist in mehreren Formen und Genera üblich:
+
+Beide Formen mischen sich zunehmend. Man findet DIN-Normen auf „Nieten“[3], auch ÖNORMen auf Plural „Niete“.[4]
+
+In die zu verbindenden Bauteile müssen Bohrungen eingebracht werden, die einen etwas größeren Durchmesser als der Niet haben. Durch diese Bauteile wird der Niet hindurchgeschoben, so dass er darüber hinaussteht. Anschließend wird das überstehende Ende des Niets durch Bearbeiten mit dem Hammer zu einem Kopf (dem so genannten Schließkopf) geformt, der die Bauteile sicher verbindet. Der dem Schließkopf gegenüber liegende Teil des Niets heißt Setzkopf, der Teil dazwischen Nietschaft.
+
+Niete bieten gegenüber Schrauben den Vorteil, dass in keines der Bauteile ein Gewinde eingebracht werden muss. Ein Nachteil ist, dass die Verbindung nicht zerstörungsfrei zu lösen ist.
+Dieser Nachteil ist jedoch in einigen Bereichen der wichtigste Vorteil dieser Fügetechnik – eben dort, wo es auf unlösbare Verbindungen ankommt. Dazu gehört unter anderem der Flugzeugbau, bei dem Nietverbindungen die wesentliche Grundlage der Strukturbauteile darstellen. Im Gegensatz zu Schraubverbindungen, welche durch komplexe Messungen (Drehmoment u. Ä.) überprüft werden müssten, ist eine formschlüssige Nietverbindung optisch und ohne Messaufwand an dem geformten Schließkopf zu erkennen.
+
+Ein Niet ist ein zylindrischer (ausgenommen Sonderformen) Bolzen aus Metall, der ein verdicktes Ende – den Kopf – hat. Je nach Verwendungszweck werden unterschiedliche Kopfformen verarbeitet, beispielsweise Halbrund-, Senk-, Flachrund- und Flachsenkkopf. Der Niet liegt mit dem Kopf auf der einen Seite der zu verbindenden Werkstücke an. Der Schaft wird durch das vorgebohrte oder vorgestanzte Loch durchgesteckt und durch Druck in die Breite verformt, so dass die Werkstücke fest miteinander verbunden werden. Der Druck kann plötzlich durch Schlag oder kontinuierlich z. B. durch eine hydraulische Presse aufgebracht werden. Niete mit einem Durchmesser von mehr als 8 mm werden warm geschlagen, das heißt im  Schmiedefeuer auf Gelbglut erwärmt, glühend eingeschlagen und der Kopf geformt. Beim Abkühlen zieht sich der Niet zusammen und verspannt die zu verbindenden Werkstücke. Somit wird zwischen Kalt- und Warmnietverbindungen unterschieden.
+
+Die klassische Vollniet-Verbindung ist in technischen Anwendungen heute vielfach durch die Schweißverbindung ersetzt. Genietet wird nur noch dort, wo Schweißen nicht geeignet ist, wie zum Beispiel im Leichtbau oder bei nicht schweißbaren Materialien, sowie bei der Reparatur alter Nietverbindungen.
+
+Gründe hierfür können sein:
+
+Konventionelle Nietverfahren sind:
+
+Die wohl älteste Verbindungstechnik ist das Vernieten durch Vollniete.[5] Die Ursprünge des Nietens mit Vollnieten lassen sich in die Bronzezeit zurückverfolgen. Dennoch hat diese Verbindungsmethode wichtige Merkmale, die sie auch heute noch bei sicherheitskritischen Verbindungen unersetzlich macht. Dazu gehört neben Stahlkonstruktionen für Bauwerke vor allem der Flugzeugbau. Auch neue Flugzeuge werden heute noch durch das Vernieten von Blechstrukturen mit Vollnieten hergestellt.
+
+Der wichtigste Grund für die Verwendung von Vollnieten liegt in der einfachen Herstellung von Nietverbindungen und darin, dass die Qualität der Verbindung durch bloßes Ansehen ohne Hilfsmittel geprüft werden kann. Das ist wohl der wichtigste Grund, warum bei sicherheitskritischen Anwendungen, die einer hohen Dauerschwingbelastung ausgesetzt sind, Vollniete zum Einsatz kommen. Der sichere Sitz der Verbindung ist rein optisch durch die Form der Ausprägung des Setzkopfes zu prüfen.
+
+An Flugzeugen, bei denen die Struktur durch tausende Nietverbindungen gesichert wird, ist somit eine leichte Überprüfung der Verbindungsqualität möglich. Weiterhin ist die Beständigkeit einer Vollnietverbindung bei Dauerschwingbelastung jedem anderen Fügeverfahren überlegen. Zum Beispiel ist das ab 1937 von Dornier gebaute Flugzeug (DO24 ATT) heute noch im Flugeinsatz.
+
+Nach der Form des Kopfes werden diese Niete auch Halbrundniet und Senkniet genannt.
+
+Der Halbhohlniet[6] entspricht dem Vollniet, besitzt jedoch einseitig ein offenes Ende, das durch einen Dorn gespreizt oder umgebördelt wird, statt zu einem Kopf geformt zu werden.
+
+Ein Hohlniet[7] ist eine Hülse, welche oft bereits einen einseitig angeformten Kragen oder einen geschlossenen Kopf besitzt.
+
+Offene Enden werden beim Zusammendrücken des Nietes mit speziell geformten Nietsetzern oder entsprechenden Zangen aufgeweitet und nach außen zum zu verbindenden Material hin umgerollt.
+
+Hohlniete sind weniger belastbar und werden auch für dekorative Zwecke (z. B. an Gürteln) oder zur Lochverstärkung in Papier und Pappe eingesetzt.
+
+Manche Hohlniete sind einseitig verschlossen und auf der gegenüberliegenden Seite mit einer Nietkappe versehen, so dass nach dem Stauchen keine Öffnung mehr zu sehen ist.
+
+Nach dem Einführen des Grundkörpers und dem Zusammendrücken der zu verbindenden Bauteile wird ein Ring um das überstehende genutete Ende des Nietbolzens geformt.[8] Dadurch ist es möglich, die Festigkeit der Verbindung noch zu erhöhen, da der Niet selbst nicht verformt wird und daher aus gehärtetem Material bestehen kann.
+
+Ein Blindniet wird auch Zugdornniet oder Popniet(e) genannt. Es handelt sich um eine spezielle Form des Hohlniets, die nur den Zugang zu einer Seite der zu verbindenden Bauteile erfordert und mit einer speziellen Blindnietzange befestigt wird. Der Blindniet besteht neben dem eigentlichen, hohlen Nietkörper mit Kopf an der Vorderseite und aus einem längeren, durchgesteckten Dorn mit Kopf außen vor dem Nietende, der mit einer Sollbruchstelle versehen ist.
+
+Beim Blindnieten erfolgt der Fügevorgang von nur einer (im Regelfall der äußeren) Seite des Bauteils aus. Der Blindniet wird von der Gegenseite durch die Bohrung eingeführt, durch Druck auf den Kopf die zu verbindenden Bauteile aufeinander gedrückt, anschließend wird auf der Arbeitsseite der am Kopf herausragende Dorn mit einer auf dem Kopf aufgesetzten Blindnietzange herausgezogen. Das führt zu einer Stauchung und somit zu einer Aufweitung des Niets in und hinter der Bohrung.
+In der ersten Phase verkürzt die Stauchung den hohlen Nietkörper. Dadurch vergrößert sich der Durchmesser. Zum Ende der ersten Phase ist die Bohrung vollkommen durch den Niet ausgefüllt. Erst wenn sich der Blindniet nicht weiter im Durchmesser ausdehnen kann, bildet sich hinter der Bohrung eine nennenswerte Aufweitung. Am Ende des Vorgangs reißt der Dorn an der Sollbruchstelle innerhalb des Nietkörpers ab und der stehende Rest ragt nicht aus dem Niet hervor; der abgerissene Teil des Dorns befindet sich dann in der Zange und wird entsorgt. Bei Blindnieten für Spezialanwendungen (Flugzeug u. Ä.) wird der im Niet verbleibende Dornrest mit einem beim Verarbeiten eingepressten Ring gesichert. Dadurch können sich keine Teile lösen und die höhere Scherfestigkeit des Dornmaterials kann voll genutzt werden.
+
+Gängige Durchmesser für Blindniete sind 2,4 mm, 3,2 mm, 4 mm und 4,8 mm.
+
+Umgangssprachlich wird der Blindniet auch als POP-Niet bezeichnet, was von der Marke POP des ersten Herstellers Emhart Teknologies herrührt. Der POP-Niet wurde in Deutschland von der Firma Gebr. Titgemeyer GmbH & Co. KG aus Osnabrück in den 1950er-Jahren eingeführt. Die Markteinführung der POP-Blindniete in der Schweiz erfolgte durch die KVT-Koenig AG.
+
+Sonderformen[9]:
+
+Ziel des Stanznietens ist das mittelbare, nicht lösbare Verbinden von Blechteilen ohne das beim gewohnten Vollnieten oder Blindnieten notwendige Vorlochen. Zu diesem Zweck kommt ein Nietelement (Hilfsfügeteil) zum Einsatz, das gleichzeitig als Stempel fungiert. Abhängig vom verwendeten Nietelement sind prinzipiell zwei Stanznietverfahren von Bedeutung: Stanznieten mit Vollniet oder Stanznieten mit Halbhohlniet. Gemeinsam ist beiden Verfahren, dass sie eine zweiseitige Zugänglichkeit der Bauteile erfordern und dass die Herstellung der Verbindung in einem einstufigen Setzvorgang geschieht.
+
+Beim Stanznieten mit Vollniet entsteht die Verbindung in einem durchgehenden Stanz- und Umformvorgang, bei dem der Niet selbst nicht umgeformt wird. Die zu verbindenden Blechteile werden auf die Matrize gelegt. Der obere Teil des Setzwerkzeugs fährt nach unten auf die zu verbindenden Blechteile. Gleichzeitig wird das konkav ausgebildete Nietelement automatisch zugeführt und positioniert. Durch die Setzeinheit werden die Blechteile vorgespannt. Nun drückt der eigentliche Nietstempel das Nietelement durch die Fügeteile, wobei aus beiden Blechen ein kreisrundes Stück (Stanzbutzen) ausgestanzt wird. Das Verarbeitungsgerät für das Stanznieten mit Vollniet ist so konzipiert, dass es den Stempel nach dem Stanzen der Fügeteile einen genau definierten Weg (kraft- oder weggesteuert) gegen den Widerstand der Fügeteile nach unten drückt. Dabei werden die Bleche mit dem Kraftaufwand, der für die nachfolgend beschriebenen Fertigungsteilschritte erforderlich ist, auf die Matrize gepresst. Aufgrund der ringförmig erhabenen Struktur des Stempels und der Matrize wird das Fügematerial plastisch umgeformt. Der stempel- und matrizenseitige Fügewerkstoff fließt in den durch die konkave Form des Nietelementes freigegebenen Raum. Damit ist das Fügen beendet. Wesentliche Bedingung für eine feste Verbindung bei unterschiedlichen Belastungsrichtungen ist beim Stanznieten mit Vollniet die kontrollierte, vollständige Füllung des Freiraumes, der durch die Geometrie des Nietelementes vorgegeben wird; erst dadurch wird eine kraft- und formschlüssige Verbindung erzielt.
+
+Es wird eine hohe Zugfestigkeit erreicht. Ein beidseitiger fast bündiger Abschluss ist möglich. Bleche können unterschiedlich dick und aus unterschiedlichem Material sein. Die Gesamtblechdicke beträgt typischerweise 1,8–7 mm. Üblich sind Niete aus Edelstahl oder Aluminium [8].
+
+Auch beim Stanznieten mit Halbhohlniet dient das Nietelement als Einweg-Schneidstempel. Allerdings wird es selbst dabei ebenfalls umgeformt. Die zu verbindenden Blechteile werden auf die Matrize gelegt. Mit dem Aufsetzen der Setzeinheit während des Vorschubs wird die Fügestelle fixiert. Mit dem weiteren Vorschub wird dann das Nietelement der Fügestelle zugeführt. Im sich anschließenden Fügevorgang stanzt das Stanznietelement, anders als beim Stanznieten mit Vollniet, nur das obere Blechteil durch und formt das untere Blechteil plastisch zu einem Schließkopf um. Die Form des Schließkopfes wird dabei wesentlich durch die Kontur der Matrizengravur bestimmt. Nach Erreichen einer eingestellten Maximalkraft (kraftgesteuert) bzw. eines vorgegebenen Weges (weggesteuert) erfolgt der Rückhub. Das Nietelement erhält im plastisch umgeformten unteren Blechteil über eine Kragenbildung seinen Schließkopf. Der aus dem oberen Blechteil ausgestanzte Stanzbutzen füllt den hohlen Nietschaft aus und wird darin eingeschlossen. Das Erreichen einer großen Verspreizung des Nietschaftes ist eine wichtige geometrische Kenngröße. Sie hat wesentlichen Einfluss auf die übertragbaren Scherzug- und Kopfzugkräfte. Durch die Stauchung des Stanznietes wird ein hochfester und spaltfreier, d. h. dichter Formschluss der Fügeteile erreicht. Außerdem wird der Stanzniet axial und radial verspannt, so dass ein Kraftschluss in die Verbindung eingebracht wird.
+
+Die Blechdicke beträgt üblicherweise 0,75–2 mm [8].
+
+Eine Sonderform des Stanznietens ist das Hydrostanznieten, bei dem ein Hochdruckfluid als Stempelersatz wirkt.
+
+Es gibt auch Niete, die aus Blech gestanzt, erhaben geformt und mit mehreren scharfen Spitzen in Kleidung oder Hundehalsbänder, textil oder aus Leder eingeschlagen werden können, man unterscheidet dabei zwischen Pyramiden-, Spitz-, Killer-, Säbel- und Hexenniete; die letzten werden besonders gerne in der Punkszene auf Lederjacken getragen. Die oft schräg stehenden konischen Spitzen krümmen sich beim Eindringen ins Material oder Anstehen an der Schrägfläche eines Gegenwerkzeugs, die dann gebogenen Spitzen halten den Niet – eigentlich durch Verklammerung, die Applikation wird Niete genannt, weil sie den Anschein eines Nietkopfs ergibt.
+
+Fertig geschlagene Nietverbindungen dürfen beim Anschlagen mit einem Prüfhammer nicht „prellen“, sie müssen die Bauteile spielfrei verbinden. Prellende Niete dürfen nicht nachgeschlagen, sondern müssen komplett ausgetauscht werden. Erweisen sich mehr als 5 % aller Niete eines Bauteiles als erneuerungsbedürftig, so sind sämtliche Niete auszutauschen.
+
+Überlappungs- und Laschennietungen
+
+einschnittig, zweischnittig oder i-schnittige Verbindung
+
+Belastungen und Verformungen
+
+Nietabstandswahl
+
+Zum Schließen der Niete gibt es auch spezielles Werkzeug, den sogenannten Döpper, der mit Werkzeugen wie zum Beispiel „Nietezange“, Blindnietzange oder pneumatisch betriebenem „Niethammer“ und „Gegenhalter“ betrieben wird.
+
+Knotenpunkt
+
+Knotenpunkt
+
+Auflagepunkt
+
+Fachwerkdruckstab
+
+Fachwerkdruckstab
+
+Brückenaufbau
+
+Nietträger
+
+Eiffelturm
+
+Beispiel Knotenpunkt
+
+Müngstener Brücke: einige der 950.000 Niete
+

@@ -1,0 +1,53 @@
+
+Unter dem Markennamen AMD Athlon II vermarktet AMD Mehrkernprozessoren für Notebooks. Daneben gibt es auch Athlon-II-Prozessoren für Desktopsysteme. Im Zuge der Vorstellung der Turion-II-Prozessoren wurden die Athlon-II-Prozessoren für das Low-End-Segment eingeführt.
+
+Genauso wie der Athlon II für Desktopsysteme und der Turion II basiert der Athlon II für Notebooks auf der K10-Architektur. Allerdings wurde die FPU auf lediglich 64 Bit beschnitten, während die Turion-II-Prozessoren mit einer vollständigen, 128 bit breiten FPU ausgeliefert werden. Während die ersten Modelle (Kennbuchstabe „M“) noch auf DDR2-Speicher beschränkt waren, kamen im Mai 2010 neuere Versionen, die mit DDR3 betrieben werden können, bezeichnet durch die Kennbuchstaben „P“ und „N“.
+
+Als weitere Ableger des Athlon II gibt es den Athlon II Neo, der eine Leistungsaufnahme von nur 12 W aufweist. Hier ist neben einem 1,3 GHz-Dualcore (K325) auch der einzige von AMD unter dem Namen „Athlon II“ angebotene Singlecore mit 1,7 GHz zu finden (K125). Zudem bietet AMD mit der V-Serie zwei weitere Singlecore-Prozessoren, basierend auf dem Athlon II an. Zum Einen den V105, welcher mit einer Stromaufnahme von nur 9 W und einer Taktfrequenz von 1,2 GHz bevorzugt in Netbooks eingesetzt wird und zum Anderen der V120 mit einer Stromaufnahme von 25 W und einer Taktfrequenz von 2,2 GHz. Anders als die älteren Neo-Modelle verfügen der Athlon II Neo aber auch die Prozessoren der V-Serie über den normalen Sockel S1.
+
+Am29000 • Am286 • Am386 • Am486 • 5x86 • K5 • K6 • K6-2 • K6-III • K7 • K8/K8L • K9 • K10 • Bobcat • Bulldozer • Jaguar • Steamroller • Puma • Zen 
+
+AMD64 • AMD-V • HSA • Mantle • live! • Quad FX • QuantiSpeed • Turbo Core
+
+Epyc
+
+Ryzen • Threadripper
+
+Ryzen
+
+Ryzen
+
+Llano (K10) •          Trinity,          Richland (Piledriver) •          Kaveri (Steamroller) •          Carrizo, Bristol Ridge (Excavator)
+
+Ontario, Zacate (Bobcat) • Kabini, Temash (Jaguar) • Beema, Mullins (Puma)
+
+Ontario G-Serie
+
+Opteron (K8) • Opteron (K9) • Opteron (K10) • Opteron (Bulldozer) • Opteron (Piledriver)
+
+Phenom • Phenom II
+
+Phenom II
+
+Athlon (K7) • Athlon XP • Athlon 64 (FX) • Athlon 64 X2 • Athlon X2 • Athlon II
+
+Athlon XP-M • Mobile Athlon 64 • Athlon 64 X2 • Athlon X2 • Athlon II
+
+Athlon MP
+
+Turion 64 • Turion 64 X2 • Turion X2 • Turion II
+
+Sempron (K7) • Sempron (K8)
+
+Mobile Sempron
+
+Duron
+
+Mobile Duron
+
+GX • LX • NX • NX 2001
+
+Alchemy
+
+690-Serie • 700-Serie • 800-Serie • 900-Serie • AM4-Chipsätze
+

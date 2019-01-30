@@ -1,0 +1,22 @@
+
+Glass OS (Google XE) is a version of Google's Android operating system designed for Google Glass. "glass-omap" Tag is used in referring to the modified Android code which can be found inside Kernel Repository.[5]
+
+The following list shows the main changes happened for each update release.[6] For more detailed release notes visit the support website. 
+
+Initial release.
+
+XE5 updates included[7]:
+
+XE6 updates include[8]:
+
+Glass updates by itself automatically over the air. Glass will check Google servers periodically for updates. When an update is available, Glass will download it to the device and will install the update all by itself. This happens under the condition of active battery charging and a reliable Wi-Fi connection.[9]
+
+
+Root access can be easily obtained by using the following script using the rooted bootloader.[10]
+
+Extract the desired factory system image package to flash Glass back to factory specifications, then run the following script.[10] Boot and system images can be found on Google Glass developer website.
+
+The kernel source code is easily attainable from the Google repository by using the following script. 
+
+To build kernel from the source code, first download the GCC toolchain from the same repository. 
+Then, build the kernel using these commands.

@@ -1,0 +1,22 @@
+
+Il non ripudio (noto anche col termine inglese non-repudiation) si riferisce alla condizione secondo la quale l'autore di una dichiarazione non potrà negare la paternità e la validità della dichiarazione stessa. Il termine è spesso visto in un contesto legale in cui si mette in discussione l'autenticità di una firma. In tal caso, l'autenticità è "ripudiata".
+
+In generale, il non ripudio associa azioni o cambiamenti a un unico individuo (l'autore).
+Per garantire la sicurezza, per esempio, è preferibile implementare un sistema di accesso ristretto ai possessori di una determinata keycard. Il non ripudio risulterebbe violato se non viene gestita e applicata una corretta politica di non condivisione delle keycard o se non viene correttamente segnalato lo smarrimento di una di esse.
+In caso di violazione, sarebbe complicato risalire a chi ha effettivamente effettuato l'accesso.
+Allo stesso modo, in campo informatico, il proprietario di un account su un computer non deve assolutamente permettere l'uso di tale account a terzi, ad esempio fornendo la propria password di accesso. Anche in questo caso va gestita una politica per la garanzia del non ripudio.
+Questo impedisce al proprietario dell'account di negare la paternità delle azioni eseguite dopo l'accesso.[1]
+
+Per quanto riguarda la sicurezza digitale, il significato e l'applicazione del non ripudio si riferisce a:[2]
+
+L'integrità dei dati, in genere, è la condizione più semplice da garantire. In genere, l'hash dei dati, ad esempio con SHA2, garantisce una bassissima probabilità che i dati vengano alterati. 
+Data la probabilità non nulla, è ancora possibile manomettere dati in transito, sia attraverso un Attacco man in the middle o phishing.. Per questo, l'integrità dei dati deve essere confermata dal destinatario, il quale deve possedere le informazioni necessarie per la verifica della genuinità.
+Il metodo più comune per la verifica dell'origine dei dati è il passaggio per i certificati digitali, una forma di Infrastruttura a chiave pubblica da cui dipende la firma digitale.
+Si noti che la chiave pubblica, in questo caso, non viene utilizzata per la crittografia dei dati e l'obiettivo non è quello di raggiungere la riservatezza, dal momento che un messaggio firmato con una chiave privata può essere letto da chiunque utilizzando la chiave pubblica. Verificando l'origine del certificato/firma digitale, si può, con ragionevole certezza, associare l'informazione a qualcuno che possiede la corrispondente chiave privata. Se le chiavi non sono correttamente tutelate e tenute segrete, la contraffazione digitale diventerebbe un grave problema.
+
+I modi attraverso i quali si può tentare di ripudiare una firma, presenta una sfida per l'affidabilità delle firme stesse. L'approccio standard per mitigare questi rischi è quello di coinvolgere un terzo di fiducia.
+
+I due TTPs più comuni sono gli analisti forensi e i notai. Un analista forense specializzato in calligrafia può analizzare una firma, confrontarla con una conosciuta e stabilirne l'effettiva legittimità. Il notaio invece diventa il testimone, cioè colui che verifica l'identità dell'individuo, controllando le varie credenziali e la veridicità delle caratteristiche descritte nel certificato fornito. 
+Inoltre, il notaio fornisce l'ulteriore vantaggio di mantenere i registri di tutte le verifiche, corredati da tutte le credenziali controllate e dalla firma corretta, precedentemente verificata dall'analista forense. Per questa doppia sicurezza, i notai risultano i TTP più comuni.
+Per quanto riguarda il mondo digitale, l'unico TTP è il repository per i certificati a chiave pubblica. In questo modo il destinatario ha la possibilità di verificare l'origine di un'informazione, anche se non è mai stato effettuato uno scambio diretto di informazioni pubbliche. La firma digitale, tuttavia, è identica in entrambi gli usi, legali e illegali - se qualcuno possiede la chiave privata possono creare una firma "reale". La protezione della chiave privata è l'idea che sta alla base della Common Access Card (CAC) del Dipartimento della Difesa degli Stati Uniti d'America, che lega alla card una chiave, associata inoltre ad un numero di identificazione personale (PIN) che deve essere verificato per avere il permesso di utilizzare la carta stessa per la crittografia e la firma digitale.
+

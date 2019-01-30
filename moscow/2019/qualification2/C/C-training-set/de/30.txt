@@ -1,0 +1,20 @@
+
+Quarzglas, auch als Kieselglas bezeichnet, ist ein Glas, das im Gegensatz zu den gebräuchlichen Gläsern keine Beimengungen von Soda oder Calciumoxid enthält, also aus reinem Siliziumdioxid (SiO2) besteht. Industriell hergestelltes Quarzglas hat abhängig vom Vormaterial und Fertigungsprozess unterschiedliche Konzentrationen von Verunreinigungen, die im ppm- bzw. für synthetisches Kieselglas im ppb-Bereich liegen.[4]
+
+Es kann durch Aufschmelzung und Wiedererstarrung von Quarz (Quarzsand oder künstlich hergestellt) gewonnen werden, daher auch die Bezeichnung Quarzglas und die englische Bezeichnung fused quartz oder fused silica.
+
+Natürlich entstandenes Quarzglas wird als Lechatelierit bezeichnet.
+
+Richard Küch (1860–1915), Physiker und Chemiker, entdeckte 1899, dass Siliziumdioxid in einer Knallgasflamme blasenfrei und in höchster Reinheit zu schmelzen ist, und machte Quarzglas für die Industrie als Massenprodukt verwendbar.[5]
+
+Quarzglas besonderer Reinheit ist für Wellenlängen von 190–3500 nm transparent, hat jedoch normalerweise ein durch OH-Gruppen verursachtes Absorptionsband bei ca. 2500–3000 nm. Verbesserte Infrarot-Transmission zwischen Wellenlängen von 2200 bis 3000 nm wird durch verringerten Hydroxy-Gruppen-(OH-Gruppen-)Gehalt erreicht. Der Normalwert liegt bei 100 ppm, bei verbesserter IR-Transmission fällt er auf 1–3 ppm.
+
+Durch Dotierung mit Titan kann UV-C-Absorption, durch Cer-Dotierung kann Absorption im gesamten Ultraviolettbereich erreicht werden (UV-blockende Halogenglühlampen).
+
+In der instrumentellen Analytik werden Küvetten aus Quarzglas zur Messung von Volumina unter 50 nl eingesetzt. Erst die besonderen Eigenschaften des Quarzglases ermöglichen Messapparaturen und Zuführungskanäle unter 0,1 mm Durchmesser.
+Wegen der teilweise sehr geringen spezifischen Absorption der Proben kann die Schichtdicke nicht beliebig verkleinert werden. Daraus folgt, dass immer geringere Querschnitte der Messapparaturen und der Zuführungskanäle bis unter 0,1 mm Durchmesser gefordert sind. So werden Messvolumen von weniger als 50 nl erreicht. Die Fertigung erfolgt mittels Mikrolithographie und Ätzen. Weitere wichtige Eigenschaften von Quarzglas für die Herstellung von Küvetten sind sein hoher Reintransmissionsgrad zwischen etwa 200 bis 4.000 nm, seine gute chemische Widerstandsfähigkeit und die geringe elektrische Leitfähigkeit.
+
+Nachteilig ist, dass Quarzglas schwer zu verarbeiten ist.
+
+Der sehr niedrige Ausdehnungskoeffizient von Quarzglas bewirkt dessen hohe Temperaturwechselbeständigkeit. Dies und die hohe Erweichungstemperatur des Quarzglases erlauben es, Bauteile, Rohre und Gefäße herzustellen, die Temperaturen von bis zu 1.400 °C standhalten.
+

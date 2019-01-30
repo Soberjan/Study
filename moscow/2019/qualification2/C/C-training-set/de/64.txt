@@ -1,0 +1,463 @@
+
+Der Brewster-Winkel (nach Sir David Brewster, 1781–1868) oder Polarisationswinkel ist eine Größe der Optik. Er gibt den Winkel an, bei dem von Licht, das auf die Grenzfläche zweier dielektrischer Medien einfällt, nur die senkrecht zur Einfallsebene polarisierten Anteile (bezogen auf die elektrische Feldkomponente) reflektiert werden. Das reflektierte Licht ist dann linear polarisiert.
+
+Bei der Reflexion an der Grenzfläche zweier Medien, von denen mindestens eines kein ideales Dielektrikum ist, wird das Licht nur teilweise polarisiert. Im Gegensatz zum idealen Fall wird hier also immer auch ein Teil des parallel zur Einfallsebene polarisierten Anteils reflektiert, dieser weist aber in ganz analoger Weise beim sogenannten Pseudo-Brewster-Winkel ein Minimum auf.[1]
+
+Eine elektromagnetische Welle, z. B. sichtbares Licht, welche nicht senkrecht auf eine Grenzfläche zwischen zwei Medien auftrifft, wird teilweise reflektiert und teilweise in das zweite Medium hinein gebrochen. Der reflektierte bzw. der gebrochene Anteil ist dabei zumindest teilweise polarisiert. Dies lässt sich beispielsweise mithilfe eines Polarisationsfilters beobachten. Wenn man bei konstantem Einfallswinkel den Filter um die Ausbreitungsrichtung des reflektierten Lichtes rotiert, so lässt sich ein Helligkeitsminimum feststellen, wenn die Transmissionsachse des Filters in der Einfallsebene der Welle liegt. Die Tiefe dieses Helligkeitsminimums ist abhängig vom gewählten Einfallswinkel. Bei einem bestimmten Einfallswinkel ist die Helligkeit im Minimum null, es wird dann also ausschließlich nur noch senkrecht zur Einfallsebene polarisiertes Licht reflektiert. Dieser Einfallswinkel wird Brewster-Winkel genannt. Sein Wert ist abhängig von den Brechungsindizes der Medien, zwischen denen der Übergang stattfindet. Er ist also abhängig vom Material der Medien und von der Frequenz der elektromagnetischen Welle.
+
+Die Beobachtungen werden durch die fresnelschen Formeln beschrieben, mit deren Hilfe sich das Reflexionsvermögen in Abhängigkeit vom Einfallswinkel 
+
+
+
+
+θ
+
+
+1
+
+
+
+
+
+{\displaystyle \theta _{\mathrm {1} }}
+
+ und den Brechungsindizes 
+
+
+
+
+n
+
+1
+
+
+
+
+{\displaystyle n_{1}}
+
+, 
+
+
+
+
+n
+
+2
+
+
+
+
+{\displaystyle n_{2}}
+
+ für die jeweilige Polarisation des einfallenden Lichts berechnen lässt (siehe Abbildung).
+
+Eine unpolarisierte Welle lässt sich in zwei zueinander senkrecht linear polarisierte Anteile zerlegen. Die Vektoren der elektrischen Feldstärke liegen dabei senkrecht bzw. parallel zur Einfallsebene (senkrecht bzw. parallel linear polarisierter Anteil, auch s- bzw. p-Polarisation genannt).
+Der eintreffende Lichtstrahl regt die Elektronen des Materials zum Schwingen an (Verschiebungspolarisation). Es entsteht dadurch eine Ansammlung von atomaren Dipolen (hertzsche Dipole), die in Polarisationsrichtung schwingen und dadurch Sekundärwellen ausstrahlen, die nur in Richtung des reflektierten und des gebrochenen Strahles konstruktiv interferieren.
+
+Beim senkrecht polarisierten Anteil liegen Ein- und Ausfallsrichtung senkrecht zur Schwingungsrichtung der Dipole und somit in einer Richtung, in die ein hertzscher Dipol maximal ausstrahlt. Dabei bleibt die Polarisation erhalten. Anders verhält es sich bei der Anregung durch den parallel polarisierten Anteil, hier ergibt sich ein vom Einfallswinkel 
+
+
+
+
+θ
+
+1
+
+
+
+
+{\displaystyle \theta _{1}}
+
+ veränderlicher Winkel 
+
+
+
+α
+=
+
+90
+
+∘
+
+
+−
+(
+
+θ
+
+1
+
+
++
+
+θ
+
+2
+
+
+)
+
+
+{\displaystyle \alpha =90^{\circ }-(\theta _{1}+\theta _{2})}
+
+ zwischen der Schwingungsrichtung der hertzschen Dipole und der Richtung der reflektierten Welle. Mit dem Anregungswinkel variiert auch die Strahlungsintensität 
+
+
+
+I
+
+
+{\displaystyle I}
+
+ des Dipols(
+
+
+
+I
+∼
+
+sin
+
+2
+
+
+⁡
+α
+
+
+{\displaystyle I\sim \sin ^{2}\alpha }
+
+), daher werden beide Polarisationsanteile mit unterschiedlicher Intensität abgestrahlt und das reflektierte Licht ist teilweise polarisiert.
+Im Fall 
+
+
+
+α
+=
+0
+
+
+{\displaystyle \alpha =0}
+
+ (Richtung der Dipolachse ist identisch mit der Richtung der Reflexion) erfolgt für den parallel polarisierten Anteil keine Abstrahlung der Dipole in Reflexionsrichtung und das reflektierte Licht ist vollständig senkrecht linear polarisiert.
+
+Der Einfallswinkel 
+
+
+
+
+θ
+
+B
+
+
+
+
+{\displaystyle \theta _{B}}
+
+ (Brewster-Winkel), unter dem beim Übergang zwischen zwei beliebigen, nicht magnetisierbaren Medien das reflektierte Licht vollständig senkrecht polarisiert ist, lässt sich aus dem snelliusschen Brechungsgesetz und der zuvor beschriebenen Strahlungscharakteristik der Dipole (erzwungene Schwingung) herleiten. Im Folgenden wird angenommen, dass der Strahl von der Luft aus auf ein anderes Material trifft. Für Luft kann man in guter Näherung einen Brechungsindex von 
+
+
+
+
+n
+
+1
+
+
+=
+1
+
+
+{\displaystyle n_{1}=1}
+
+ annehmen. Das Material habe den Brechungsindex 
+
+
+
+
+n
+
+2
+
+
+
+
+{\displaystyle n_{2}}
+
+.
+
+Das snelliussche Brechungsgesetz lautet:
+
+Für einen im Brewster-Winkel einfallenden Strahl verläuft der gebrochene Strahl senkrecht zum reflektierten Strahl:
+
+zusammen mit dem Reflexionsgesetz (Einfallswinkel 
+
+
+
+
+θ
+
+1
+
+
+
+
+{\displaystyle \theta _{1}}
+
+ gleich Reflexionswinkel 
+
+
+
+
+θ
+
+
+a
+
+
+
+
+
+{\displaystyle \theta _{\mathrm {a} }}
+
+) erhält man durch Einsetzen
+
+und nach Umstellen
+
+Anhand des vorhergehenden Abschnittes ist erkennbar, dass eine Glasplatte als Polarisator verwendet werden kann, indem man sie im Brewster-Winkel bestrahlt.
+
+Mit den oben bezeichneten Winkeln und dem Brechungsgesetz gilt:
+
+Unter der Annahme bei den verwendeten Materialien Luft (
+
+
+
+
+n
+
+1
+
+
+=
+1
+
+
+{\displaystyle n_{1}=1}
+
+) und gewöhnlichem Glas (Kalk-Natron-Glas, 
+
+
+
+
+n
+
+2
+
+
+=
+1
+
+,
+
+55
+
+
+{\displaystyle n_{2}=1{,}55}
+
+, beachte: kein Quarzglas (
+
+
+
+
+
+S
+i
+O
+
+
+2
+
+
+
+
+{\displaystyle \mathrm {SiO} _{2}}
+
+), dort 
+
+
+
+
+n
+
+2
+
+
+=
+1
+
+,
+
+46
+
+
+{\displaystyle n_{2}=1{,}46}
+
+ und 
+
+
+
+
+θ
+
+
+B
+,
+
+L
+u
+f
+t
+−
+S
+i
+
+O
+
+2
+
+
+
+
+
+
+
+
+{\displaystyle \theta _{\mathrm {B,\mathrm {Luft-SiO_{2}} } }}
+
+ entsprechend 
+
+
+
+55
+
+,
+
+
+59
+
+∘
+
+
+
+
+{\displaystyle 55{,}59^{\circ }}
+
+) handele es sich um ideale, nicht absorbierende Materialien (Dielektrika), gilt das oben beschriebene brewstersche Gesetz:
+
+Für den Übergang von Luft in Glas ergibt sich ein Brewster-Winkel:
+
+Gemäß den Fresnel-Gleichungen ergeben sich für den senkrechten bzw. parallelen Anteil des einfallenden Lichtes folgende Reflexionsgrade (
+
+
+
+
+R
+
+s
+
+
+
+
+{\displaystyle R_{s}}
+
+ bzw. 
+
+
+
+
+R
+
+p
+
+
+
+
+{\displaystyle R_{p}}
+
+):
+
+mit 
+
+
+
+
+
+
+n
+~
+
+
+
+=
+
+
+
+n
+
+2
+
+
+
+n
+
+1
+
+
+
+
+
+
+{\displaystyle {\tilde {n}}={\frac {n_{2}}{n_{1}}}}
+
+ und 
+
+
+
+
+θ
+
+1
+
+
+=
+
+θ
+
+B
+,
+
+L
+u
+f
+t
+−
+G
+l
+a
+s
+
+
+
+
+
+{\displaystyle \theta _{1}=\theta _{B,\mathrm {Luft-Glas} }}
+
+
+
+Das reflektierte Licht ist demnach vollständig senkrecht zur Einfallsebene linear polarisiert.
+
+Bei Einstrahlung unpolarisierten Lichts (alle Polarisationen gleich stark vertreten) lässt sich der Reflexionsgrad über das arithmetische Mittel der beiden Komponenten bestimmen, es gilt:
+
+Für den beschriebenen Übergang von unpolarisiertem Licht werden daher nur 8,5 % der eingestrahlten Intensität (im Brewster-Winkel) reflektiert.
+

@@ -1,0 +1,603 @@
+
+
+
+
+
+Intel Corporation (von englisch Integrated electronics, dt. „integrierte Elektronik“) ist ein US-amerikanischer Halbleiterhersteller mit Hauptsitz in Santa Clara (Silicon Valley), Kalifornien. Er wurde 1968 von Mitarbeitern des Unternehmens Fairchild Semiconductor gegründet. Die Europazentrale befindet sich seit 1974 in München.[4] Intel ist vor allem für PC-Mikroprozessoren bekannt, bei denen das Unternehmen weltweit einen Marktanteil von ungefähr 80 % hält. Außerdem produziert Intel diverse weitere Arten von Mikrochips für Computer, zum Beispiel Chipsätze für Mainboards („Intel ICH“, „Intel GMA“), WLAN- und Netzwerkkarten sowie Embedded-CPUs und Flash-Speicher.
+
+Mit einem Umsatz von 64,0 Milliarden US-Dollar, bei einem Gewinn von 11,1 Mrd. USD, steht Intel laut Forbes Global 2000 auf Platz 594 der weltgrößten Unternehmen (Stand: Geschäftsjahr 2017). Das Unternehmen kam im Juni 2018 auf eine Marktkapitalisierung von 254,8 Mrd. USD.[5]
+
+Intel wurde am 18. Juli 1968 von Gordon E. Moore und Robert Noyce als Moore-Noyce Electronics in Mountain View, Kalifornien gegründet, nachdem sie Fairchild Semiconductor verlassen hatten. Bald darauf wurde auch Andy Grove eingestellt, der das Unternehmen in den 1980ern und 1990ern leitete. Das Ziel der Firma war es, Arbeitsspeicher für Computer auf Halbleiterbasis zu entwickeln und auf den Markt zu bringen. Die Hochintegration (Very Large Scale Integration, VLSI) von Transistoren auf Silizium steckte im Jahr 1968 noch in den Kinderschuhen und Intel entwickelte für die Herstellung von Halbleiterschaltungen den PMOS-Prozess, das heißt, einen Prozess für die Herstellung von elektrischen Schaltungen mit p-Kanal-Metall-Oxid-Halbleiter-Feldeffekttransistoren unter Nutzung einer Gate-Elektrode aus Polysilizium (daher auch Silizium-Gate-Technik genannt).
+
+Das erste Produkt der Firma war aber ein bipolares 64-bit-Schottky-RAM. Dieses wurde im April 1969 unter der Produktbezeichnung „Intel 3101“ vorgestellt. Im Juli 1969 wurde mit dem Intel 1101 der erste SRAM-Chip, der mit dem PMOS-Prozess hergestellt wurde, auf den Markt gebracht. Erst im Oktober 1975 – nach der Hälfte der ursprünglich veranschlagten Zeit – gelang der erste große Sprung nach vorn: Intel stellte unter der Produktbezeichnung „1103“ den ersten DRAM-Speicherbaustein vor, der auf dem PMOS-Prozess basierte und die Vorzüge der Hochintegration zu bieten hatte. Während Schaltungen in Bipolartechnik nur noch bei Hochgeschwindigkeitsbauteilen den Vorzug genossen, entwickelte sich fortan die MOS-Technologie (von PMOS über NMOS und HMOS zu CMOS) zur bevorzugten Halbleiter-Fertigungstechnik.
+
+Gordon Moore hatte 1965 einen Trend erkannt, der später als Mooresches Gesetz nicht nur die Geschichte von Intel, sondern die Entwicklung der gesamten Halbleitertechnologie maßgeblich geprägt hat.
+
+Bis Mitte der 1980er Jahre war DRAM das Hauptgeschäft von Intel. Die wachsende Konkurrenz durch japanische Halbleiterhersteller und der damit verbundene Umsatzrückgang führten aber 1983 zu einer Umorientierung des Geschäftsmodells. Der Erfolg des Personal Computers von IBM veranlasste Intel, sich fortan auf Mikroprozessoren zu konzentrieren und die DRAM-Produktion aufzugeben.
+
+Auf der Solid State Circuits Conference des Jahres 1971 stellte Dov Frohman das erste EPROM (löschbarer (einmal-)beschreibbarer Speicherchip) der Welt vor. Das Intel-EPROM 1702 war ein großer Erfolg und wurde bis Mitte der 1980er Jahre in hohen Stückzahlen verlangt, nicht zuletzt weil Intel viele Jahre der einzige Hersteller war, der EPROMs in hoher Stückzahl produzieren konnte.
+Bis 2008 war Intel zusammen mit Spansion einer der größten Hersteller von Flash-Speichern. Ende März 2008 gliederte Intel den größten Teil der Flash-Produktion in ein Joint-Venture-Unternehmen mit STMicroelectronics aus. Das neue Unternehmen bekam den Namen Numonyx.
+Intel stellt darüber hinaus auch die 520er SSD-Reihe vor, eine schnelle Solid State Disk, der Nachfolger des Hard Disk Drives.[6]
+
+Als erster Mikroprozessor der Welt (zumindest nach Intel-Lesart) wurde am 15. November 1971 der 4-Bit-Prozessor Intel 4004 vorgestellt. Diesen soll Intel auf eigene Verantwortung entwickelt haben, als das japanische Unternehmen Nippon Calculating Machine Corporation eigentlich einen spezialisierten Tischrechnerchip beauftragt hatte.
+Der 1974 eingeführte Intel 8080 wird allgemein als erster vollwertiger Mikroprozessor angesehen. Es handelt sich dabei um einen 8-Bit-Mikroprozessor, der als Nachfolger des Intel 8008 (Markteinführung 1972) entwickelt wurde. Diese ersten Mikroprozessoren legten den Grundstein für viele weitere Produkte auf ähnlicher Basis und verhalfen Intel zu seiner starken Marktmacht. Zu dieser Baureihe gehören neben dem seltener eingesetzten Nachfolgetyp Intel 8085 eine ganze Palette von passenden I/O-Bausteinen, z. B. der Intel 8255 für parallele Ein- und Ausgabe.
+
+Basierend auf den Entwicklungen der Mikroprozessoren der 80er Reihe stellte Intel 1977 den Mikrocontroller 8048 vor, der jedoch bereits 1980 durch den Mikrocontroller 8051 ersetzt wurde. Durch geschickte Lizenzpolitik (u. a. an Siemens und Philips) wurde der Mikrocontroller 8051 Stammvater einer der am weitesten verbreiteten Familien von Mikrocontrollern.
+
+Die bekannteste Baureihe von Intel sind die x86 Mikroprozessoren, deren erstes Modell im Jahre 1978 mit dem 8086/8088 erschien und im weit verbreiteten IBM-PC verbaut wurde. Heute produziert Intel Chips für Desktop-Computer (Pentium-Dual-Core-Serie, Celeron-Serie, Intel-Core-2-Serie, Intel-Core-i-Serie), für Notebooks (Pentium-Dual-Core, Core Duo, Core 2 Duo und inzwischen auch i3-, i5-, i7- und i9-Modelle) und für Workstations sowie Server (Xeon-Serie). Der große Serverprozessor Itanium 2 kann seine hohe Rechenleistung nur mit seinem nativen Befehlssatz IA-64 ausspielen. x86-Maschinencode (IA-32) führt er über eine integrierte Hardware-Emulation nur langsam aus.
+
+Der große Erfolg der x86er Reihe führte zu einer marktbeherrschenden Stellung in der PC-Industrie; zeitweise kamen 85 % der PC-CPUs von Intel. So kam es immer wieder zu Untersuchungen der amerikanischen Wettbewerbsbehörde FTC und Klagen von Konkurrenten. Der heute einzige größere Konkurrent auf diesem Sektor ist AMD; ironischerweise war Robert Noyce mit seinem Gründungskapital auch für die Gründung dieser Firma mitentscheidend. Seit 1976 hat AMD ein Patentaustauschabkommen mit Intel, so dass alle technischen Innovationen wechselseitig genutzt werden können. In den letzten Jahren hat hier mit dem Stromverbrauch bzw. der Abwärme ein weiteres Kriterium Bedeutung erlangt.
+
+Intel ist mit großem Abstand Weltmarktführer bei Grafikchips. So benutzen die meisten Bürorechner und Notebooks auf Centrino-Technologie eine Intel-Plattform mit integrierter Grafik (IGPs). Intel hatte zwar mit dem i740 Ende der 1990er auch einen Grafikchip für Steckkarten im Angebot, stellte diese Aktivitäten aber danach wieder ein. Später arbeitete Intel wieder an einer diskreten GPU unter dem Codenamen Larrabee,[7] deren Entwicklung im Dezember 2009 jedoch eingestellt wurde.
+
+Auch für das Internet der Dinge will Intel Plattformen anbieten. Ein erster Schritt in die Richtung erfolgte mit der Vorstellung des Projekts Intel Edison, welches jedoch im Dezember 2017 wieder eingestellt wurde.
+
+1999 geriet Intel in öffentliche Kritik, als die gerade vorgestellten ersten Pentium-III-Prozessoren (mit 450 und 500 MHz) mit einer weltweit eindeutigen Nummer („Prozessor-ID“) versehen waren, die per Software ausgelesen werden konnte. Kritiker befürchteten, diese eindeutige Seriennummer könne als Grundlage für das Ausspionieren und die Überwachung von Computeranwendern dienen. Aufgrund des öffentlichen Drucks hat Intel die Prozessor-ID standardmäßig abgeschaltet und in späteren Prozessor-Generationen ganz auf sie verzichtet.
+
+Mit seinem AppUp Developer Program (IADP) versucht Intel, auch auf dem hart umkämpften Smartphone-Markt Fuß zu fassen. Laut Björn Taubert, Marketing Manager bei Intel, bietet das IADP „erfahrenen wie ambitionierten App-Entwicklern einen zentralen Kanal, um erstentwickelte oder portierte Windows- und HTML-5-Applikationen für eine Vielzahl von Endgeräten bei bis zu 70 Prozent Umsatzbeteiligung zu vertreiben“.[8]
+
+Anfang Januar 2012 stellte Intel auf der Messe CES in Las Vegas das erste Mal ein Smartphone vor, das mit einem eigenen Chipsatz ausgestattet ist. Im April gleichen Jahres erschien in Indien mit dem Modell Lava Xolo X900 das erste Intel-Smartphone.[9] Ende Mai folgte das unter dem Dach von Lenovo produzierte LePhone K800 in China. Mit dem Orange San Diego wurde das insgesamt weltweit dritte Intel-Smartphone am 6. Juni in Großbritannien auf den Markt gebracht.[10]
+
+Im Jahr 2003 kaufte Intel den High-Performance-Computing-Bereich der Pallas GmbH, der aus der SUPRENUM ausgegründet wurde, um die eigene Clustering-Sparte zu stärken.[11]
+Im Jahr 2007 übernahm Intel das irische Unternehmen Havok, das vor allem wegen seiner Physik-Engine bekannt ist.[12]
+Im Juli 2009 kaufte Intel das Softwareunternehmen Wind River auf.[13]
+Mitte August 2010 kündigte Intel überraschend an, McAfee[14] (einen US-amerikanischen Produzenten von Antivirus- und Computersicherheitssoftware) für 7,68 Milliarden US-Dollar[15] zu übernehmen.[16]
+
+Am 31. Januar 2011 wurde der Verkauf des bisherigen Infineon Bereichs Wireless Solutions für 1,4 Milliarden US-Dollar an Intel abgeschlossen. Das dabei neu entstandene Unternehmen hat weltweit rund 3.500 Mitarbeiter und firmiert jetzt als Intel Deutschland GmbH.[17]
+
+Anfang September 2016 kündigte Intel an, 51 % der Anteile seiner Sparte IT-Sicherheit (McAfee), an den Finanzinvestor TPG für 3,1 Milliarden US-Dollar zu verkaufen.[18]
+
+Da Intel auf vielen Geschäftsfeldern aktiv ist, hat das Unternehmen auch entsprechend viele Konkurrenten.
+
+Bei Netzwerkchips konkurriert man mit Freescale, Broadcom, Marvell und AMCC. Im Flash-Bereich gehören Spansion, Samsung, Toshiba und SK Hynix zu den größten Konkurrenten. Beim Bau von Prozessoren für Supercomputer und Deep Learning gehören Nvidia, IBM und AMD zu den Konkurrenten.
+
+Beim ursprünglichen Intel-Kerngeschäft der x86-Prozessoren und Chipsätze für Mainboards ist inzwischen ein Duopol entstanden und AMD der einzig verbliebene nennenswerte Konkurrent. Andere Firmen wie Centaur Technology, Cyrix, SiS oder Transmeta haben sich entweder aus dem Markt zurückgezogen oder konzentrieren sich auf Nischenprodukte. Im Januar 2006 wurde der erste Apple Macintosh mit einem Intel-Prozessor vorgestellt. Während frühere Macintosh-Modelle mit Prozessoren von Motorola (68000) oder IBM (PowerPC G3, G5) ausgestattet waren, festigte dieser Schritt Intels Marktposition im PC-Bereich zusätzlich.
+
+Nachdem Intel sich in der Vergangenheit in vielen Bereichen gegen seine Konkurrenten durchsetzen konnte, sieht sich Intel seit einigen Jahren im Prozessoren-Markt, mehreren neuen und sehr erfolgreichen Wettbewerbern gegenüber. Anders als in den früheren Jahren der Chip-Fertigung, handelt es sich dabei nicht um voll integrierte Unternehmen, sondern um jeweils in ihrem Bereich hoch spezialisierte Firmen. Unternehmen wie ARM oder Imagination Technologies kümmern sich dabei um die grundlegende Architekturentwicklung der Chips. In einer zweiten Stufe erstellen Unternehmen, wie Qualcomm, Apple, Nvidia oder MediaTek daraus dann fertige Prozessoren-Designs, welche anschließend von Auftragsfertigern, wie TSMC, Samsung oder Globalfoundries produziert werden.
+
+Viele dieser Unternehmen sind in ihrem Teil-Markt inzwischen größer als Intel und haben gemeinsam weite Teile des Prozessoren-Marktes übernommen. Vor allem auf dem Markt der SoC, für Smartphones, Tablets, TVs und viele weitere elektronische Geräte unserer Zeit, dominieren diese Unternehmen den Markt. Intel ist es trotz enormer Anstrengungen nicht gelungen, sein Quasi-Monopol bei x86-Prozessoren auf diese Marktbereiche auszudehnen. Bedingt durch die zurückgehende Bedeutung der x86-PC-Prozessoren, geht konsequent auch Intels Bedeutung auf dem Prozessoren-Markt zurück.
+
+Zum Jahreswechsel 2005/2006 verabschiedete sich Intel vom 37 Jahre alten Firmenlogo sowie der Bestandteilmarke „intel inside“, die bisher auf Produkten von Fremdherstellern angebracht wurde, die eine CPU von Intel enthielten.
+
+Der neue Schriftzug wird nun, wie schon zuvor bei „intel inside“, durch einen ovalen Wirbel eingerahmt. Das „e“ im Schriftzug ist nicht mehr tiefgestellt. Das Firmenlogo wird situationsabhängig durch den Slogan „leap ahead“ (deutsch: „Einen Sprung voraus“) ergänzt. Die neue Hausschrift ist eine modifizierte Variante der Neo Sans bzw. Neo Tech.
+
+Mit der Änderung des Firmenlogos geht auch eine Änderung der Marketingstrategie einher.
+
+Intel ist Sponsor im Bereich E-Sport und unterstützt z. B. folgende deutsche Clans:
+
+Des Weiteren wird der Electronic-Sports-League-Cup[20] von Intel getragen.
+
+Seit Dezember 2013 wirbt Intel auf Trikot-Innenseite des FC Barcelona.[21]
+
+Intel erhält seit 1976 vierteljährlich Patentgebühren für x86-Prozessoren von AMD. Durch ein Cross-Licensing-Abkommen von 2001 darf Intel die patentrechtlich geschützte AMD64-Mikroarchitektur nutzen. Im Gegenzug dazu darf AMD neuere Intel-Technologien nutzen.[29]
+
+Das Fortbildungsprogramm Intel – Lehren für die Zukunft hatte das Ziel, Lehrern Kompetenzen für die Integration von digitalen Medien in ihrem Unterricht zu vermitteln.
+„Intel Lehren – Grundkurs“ war Teil der weltweiten Aktion, die Intel gemeinsam mit Microsoft und führenden PC-Herstellern zu Beginn des Jahres 2000 für die Fortbildung von Lehrern aller Schulformen gestartet hatte.
+Der Grundkurs war Ende 2004 ausgelaufen.[30]
+Die Nachfolgemaßnahme „Intel Lehren – Interaktiv“ steht seit 2010 für die Lehrkräfte aller Bundesländer zur Verfügung.[31]
+
+Seit Juni 2018 übernimmt Robert Swan neben seiner Rolle als CFO auch vorübergehend die Rolle des CEO.[32]
+
+Die vorigen CEOs waren:
+
+Chairman of the Board:
+
+Präsident:
+
+21st Century Fox |
+Activision Blizzard |
+Adobe Systems |
+Alexion Pharmaceuticals |
+Align Technology |
+Alphabet |
+Amazon.com |
+American Airlines Group |
+Amgen |
+Analog Devices |
+Apple |
+Applied Materials |
+ASML |
+Autodesk |
+Automatic Data Processing |
+Baidu |
+Biogen |
+BioMarin Pharmaceutical |
+Booking Holdings |
+Broadcom Inc. |
+Cadence Design Systems |
+CA Technologies |
+Celgene |
+Cerner Corporation |
+Charter Communications |
+Check Point |
+Cintas |
+Cisco |
+Citrix |
+Cognizant Technology Solutions |
+Comcast |
+Costco |
+CSX Corporation |
+Ctrip.com International |
+Dentsply Sirona |
+Dollar Tree |
+eBay |
+Electronic Arts |
+Expedia |
+Express Scripts |
+Facebook |
+Fastenal |
+Fiserv |
+Gilead Sciences |
+Hasbro |
+Henry Schein |
+Hologic |
+IDEXX Laboratories |
+Illumina |
+Incyte |
+Intel |
+Intuit |
+Intuitive Surgical |
+J. B. Hunt |
+JD.com |
+KLA-Tencor |
+Lam Research |
+Liberty Global |
+Marriott International |
+Maxim Integrated |
+MercadoLibre |
+Microchip Technology |
+Micron Technology |
+Microsoft |
+Mondelēz International |
+Monster Beverage |
+Mylan |
+NetEase |
+Netflix |
+Nvidia |
+O’Reilly Auto Parts |
+Paccar |
+Paychex |
+PayPal |
+PepsiCo |
+Qualcomm |
+Qurate Retail |
+Regeneron Pharmaceuticals |
+Ross Stores |
+Seagate |
+Shire PLC |
+Sirius XM Holdings |
+Skyworks Solutions |
+Starbucks |
+Symantec |
+Synopsys |
+Take-Two Interactive |
+Tesla, Inc. |
+Texas Instruments |
+The Kraft Heinz Company |
+T-Mobile US |
+Ulta Beauty |
+Verisk Analytics |
+Vertex Pharmaceuticals |
+Vodafone Group |
+Walgreens Boots Alliance |
+Western Digital |
+Workday, Inc. |
+Wynn Resorts |
+Xilinx
+
+3M |
+American Express |
+Apple |
+Boeing |
+Caterpillar |
+Chevron |
+Cisco |
+The Coca-Cola Company |
+Disney |
+DowDuPont |
+ExxonMobil |
+Goldman Sachs |
+Home Depot |
+IBM |
+Intel |
+Johnson & Johnson |
+JPMorgan Chase & Co. |
+McDonald’s Corporation |
+Merck |
+Microsoft |
+Nike |
+Pfizer |
+Procter & Gamble |
+Travelers |
+United Technologies Corporation |
+UnitedHealth |
+Visa Inc. |
+Verizon Communications |
+Walgreens Boots Alliance |
+Walmart
+
+Nicht-x86-Prozessoren:
+4004 |
+4040 |
+8008 |
+8080 |
+8085 |
+iAPX 432 |
+i860 |
+i960 |
+Itanium |
+Itanium 2 |
+XScale
+
+Bis 4. Generation:
+8086 |
+8088 |
+80186 |
+80188 |
+80286 |
+i386 |
+i486DX |
+i486DX2 |
+DX4 |
+i486GX |
+i486SL/SL-NM |
+i486SX |
+i486SX2 |
+Overdrive-Versionen
+
+Pentium-Serie: 
+Desktop:
+Pentium (MMX) |
+Pentium II |
+Pentium III |
+Pentium 4 |
+Pentium 4 XE |
+Pentium D |
+Pentium XE |
+Pentium Dual-Core |
+Overdrive-Versionen  
+
+Mobil:
+Mobile Pentium 4 |
+Pentium M |
+Pentium Dual-Core  
+Server:
+Pentium Pro
+
+Atom-Serie: 
+Atom  
+
+Celeron-Serie: 
+Desktop:
+Celeron (P6) |
+Celeron (NetBurst) |
+Celeron D |
+Celeron (Core) |
+Celeron Dual-Core  
+Mobil:
+Mobile Celeron |
+Celeron M
+
+Core-Serie: 
+Core Solo |
+Core Duo |
+Core 2 |
+Intel-Core-i-Serie: Core i3, Core i5, Core i7 (Liste)
+
+Xeon-Serie: 
+Server:
+Xeon (P6) |
+Xeon (NetBurst) |
+Xeon (Core) |
+Xeon (Nehalem) |
+Xeon (Sandy Bridge) |
+Xeon (Ivy Bridge) |
+Xeon (Haswell) |
+Xeon (Broadwell) |
+Xeon (Skylake) |
+Xeon (Kaby Lake) |
+Xeon (Coffee Lake)
+
+x86-kompatible SoCs: Quark |
+Edison
+
+x86-Mikroarchitekturen:
+8086 |
+80186 |
+80286 |
+80386 |
+80486 |
+P5 |
+P6 |
+NetBurst |
+Core Solo/Core Duo |
+Core 2 |
+Nehalem/Westmere |
+Sandy Bridge/Ivy Bridge |
+Haswell |
+Broadwell |
+Skylake |
+Kaby Lake |
+Coffee Lake |
+Whiskey Lake |
+Cannon Lake |
+Ice Lake  •  
+Atom
+
+Non-x86-Mikroarchitekturen:
+Mikrocontroller: MCS-48 |
+MCS-51 |
+MCS-96  •  
+Server: Itanium |
+Itanium 2
+
+GPU-Mikroarchitekturen:
+Larrabee |
+Intel HD Graphics
+
+PAC418 (Slot M) •
+PAC611 (Slot 3) •
+Sockel 1248
+
+Sockel 8 •
+Slot 2 •
+Sockel 603 •
+Sockel 604 •
+Sockel 771 •
+Sockel 1366 •
+Sockel 2011 •
+Sockel 2011-3 •
+Sockel 3647
+
+Sockel 486 •
+Sockel 1 •
+Sockel 2 •
+Sockel 3 •
+Sockel 6 •
+Sockel 4 •
+Sockel 5 •
+Sockel 7 •
+Sockel 8 •
+Slot 1 •
+Sockel 370 •
+Sockel 423 •
+Sockel 478 •
+Sockel 775 •
+Sockel 1156 •
+Sockel 1155 •
+Sockel 1150 •
+Sockel 1151 •
+Sockel 2066
+
+MMC-1 •
+MMC-2 •
+Sockel 495 •
+Sockel 479 •
+Sockel M •
+Sockel P •
+Sockel G1 •
+Sockel G2 •
+Sockel G3
+
+3M |
+AES Corporation |
+Alaska Air Group |
+American Airlines Group |
+American Electric Power |
+American Express |
+American Water Works Company |
+Apple |
+Avis Budget Group |
+Boeing |
+Caterpillar Inc. |
+CenterPoint Energy |
+Chevron Corporation |
+C. H. Robinson Worldwide |
+Cisco |
+Consolidated Edison |
+CSX Corporation |
+Delta Air Lines |
+Dominion Resources |
+Duke Energy |
+DuPont |
+Edison International |
+Exelon |
+Expeditors International of Washington |
+ExxonMobil |
+FedEx |
+FirstEnergy |
+General Electric |
+Goldman Sachs |
+IBM |
+Intel Corporation |
+JB Hunt Transport Services |
+Jetblue Airways |
+Johnson & Johnson |
+JPMorgan Chase |
+Kansas City Southern |
+Kirby Corporation |
+Landstar Systems |
+Matson |
+McDonald’s |
+Microsoft |
+Merck & Co. |
+NextEra Energy |
+Nike |
+NiSource |
+Norfolk Southern Corporation |
+Pfizer |
+PG&E |
+Procter & Gamble |
+Public Service Enterprise Group |
+Ryder System |
+Southern Company |
+Southwest Airlines |
+The Coca-Cola Company |
+The Home Depot |
+The Walt Disney Company |
+Travelers |
+Union Pacific Corporation |
+United Continental Holdings |
+UnitedHealth |
+United Parcel Service |
+United Technologies Corporation |
+Verizon Communications |
+Visa Inc. |
+Walmart
+
+20th Century Fox A-Aktien |
+20th Century Fox B-Aktien |
+3M |
+Abbott Laboratories |
+AbbVie |
+Accenture |
+Allergan |
+Allstate |
+Apple |
+Alphabet Inc. A-Aktien |
+Alphabet C-Aktien |
+Altria Group |
+Amazon.com |
+American Express |
+AIG |
+Amgen |
+AT&T |
+Bank of America |
+Bank of New York Mellon |
+Berkshire Hathaway |
+Biogen |
+BlackRock |
+Boeing |
+Booking Holdings |
+Bristol-Myers Squibb |
+Capital One |
+Caterpillar |
+Charter Communications |
+Chevron Corporation |
+Celgene |
+Cisco Systems |
+Citigroup |
+Coca-Cola |
+Colgate-Palmolive |
+Comcast |
+ConocoPhillips |
+Costco Wholesale |
+CVS Caremark |
+Danaher Corporation |
+DowDuPont |
+Duke Energy |
+Eli Lilly and Company |
+Emerson Electric Company |
+Exelon |
+ExxonMobil |
+Facebook |
+FedEx |
+Ford |
+General Dynamics |
+General Electric |
+General Motors |
+Gilead Sciences |
+Goldman Sachs |
+Halliburton |
+The Home Depot |
+Honeywell International |
+Intel |
+IBM |
+JPMorgan Chase |
+Johnson & Johnson |
+Kinder Morgan |
+KraftHeinz |
+Lockheed Martin |
+Lowe’s |
+Mastercard |
+McDonald’s |
+Medtronic |
+Merck |
+Metlife |
+Microsoft |
+Mondelēz International |
+Monsanto |
+Morgan Stanley |
+NextEra Energy |
+Nike |
+Occidental Petroleum |
+Oracle |
+PayPal |
+PepsiCo |
+Pfizer |
+Philip Morris International |
+Procter & Gamble |
+Qualcomm |
+Raytheon |
+Schlumberger |
+Simon Property |
+Southern Company |
+Starbucks |
+Target Corporation |
+Texas Instruments |
+Time Warner |
+U.S. Bancorp |
+Union Pacific Corporation |
+United Parcel Service |
+United Technologies Corporation |
+UnitedHealth |
+Verizon Communications |
+Visa Inc. |
+Walmart |
+Walgreens Boots Alliance |
+The Walt Disney Company |
+Wells Fargo
+
+Abbott Laboratories |
+Alphabet Inc. |
+Apple |
+AT&T |
+Banco Santander |
+Bank of America |
+BASF |
+Berkshire Hathaway |
+BHP Billiton |
+BP |
+Chevron |
+Cisco |
+Citigroup |
+Coca-Cola |
+Commonwealth Bank of Australia |
+ConocoPhillips |
+Eni |
+ExxonMobil |
+Gazprom |
+General Electric |
+GlaxoSmithKline |
+HSBC |
+IBM |
+Intel |
+Johnson & Johnson |
+JPMorgan Chase |
+McDonald’s |
+Merck & Co |
+Microsoft |
+Mitsubishi UFJ Financial Group |
+Nestlé |
+Novartis |
+Oracle |
+PepsiCo |
+Pfizer |
+Philip Morris International |
+Procter & Gamble |
+Qualcomm |
+Hoffmann-La Roche |
+Royal Dutch Shell |
+Samsung Electronics |
+Sanofi |
+Schlumberger |
+Siemens |
+Telefónica |
+Total |
+Toyota |
+Verizon Communications |
+Vodafone Group |
+Walmart
+
+37.388388888889-121.96336111111Koordinaten: 37° 23′ 18,2″ N, 121° 57′ 48,1″ W
+

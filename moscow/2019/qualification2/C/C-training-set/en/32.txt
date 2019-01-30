@@ -1,0 +1,133 @@
+
+ATX (Advanced Technology eXtended) is a motherboard configuration specification developed by Intel in 1995 to improve on previous de facto standards like the AT design.  It was the first major change in desktop computer enclosure, motherboard and power supply design in many years, improving standardization and interchangeability of parts. The specification defines the key mechanical dimensions, mounting point, I/O panel, power and connector interfaces between a computer case, a motherboard and a power supply.
+
+ATX is the most common motherboard design.[1] Other standards for smaller boards (including microATX, FlexATX, nano-ITX, and mini-ITX) usually keep the basic rear layout but reduce the size of the board and the number of expansion slots.  Dimensions of a full-size ATX board are 12 × 9.6 in (305 × 244 mm), which allows many ATX chassis to also accept microATX boards.  The official ATX specifications were released by Intel in 1995 and have been revised numerous times since. The most recent ATX motherboard specification is version 2.2.[2] The most recent ATX12V power supply unit specification is 2.4,[3] released in April 2013. EATX (Extended ATX) is a bigger version of the ATX motherboard with 12 x 13 inch dimensions. Advantages of having an EATX motherboard is dual socket support.
+
+In 2004, Intel announced the BTX (Balanced Technology eXtended) standard, intended as a replacement for ATX. As of  2018[update], the ATX design still remains popular, while BTX has been introduced by some manufacturers.
+
+On the back of the computer case, some major changes were made to the AT standard. Originally AT style cases had only a keyboard connector and expansion slots for add-on card backplates. Any other onboard interfaces (such as serial and parallel ports) had to be connected via flying leads to connectors which were mounted either on spaces provided by the case or brackets placed in unused expansion slot positions.
+
+ATX allowed each motherboard manufacturer to put these ports in a rectangular area on the back of the system with an arrangement they could define themselves, though a number of general patterns depending on what ports the motherboard offers have been followed by most manufacturers. Cases are usually fitted with a snap-out panel, also known as an I/O plate or I/O shield, in one of the common arrangements. If necessary, I/O plates can be replaced to suit a motherboard that is being fitted; the I/O plates are usually included with motherboards not designed for a particular computer. The computer will operate correctly without a plate fitted, although there will be open gaps in the case which may compromise the EMI/RFI screening and allow ingress of dirt and random foreign bodies.  Panels were made that allowed fitting an AT motherboard in an ATX case. Some ATX motherboards come with an integrated I/O plate.
+
+ATX also made the PS/2-style mini-DIN keyboard and mouse connectors ubiquitous. AT systems used a 5-pin DIN connector for the keyboard and were generally used with serial port mice (although PS/2 mouse ports were also found on some systems). Many modern motherboards are phasing out the PS/2-style keyboard and mouse connectors in favor of the more modern Universal Serial Bus. Other legacy connectors that are slowly being phased out of modern ATX motherboards include 25-pin parallel ports and 9-pin RS-232 serial ports. In their place are onboard peripheral ports such as Ethernet, FireWire, eSATA, audio ports (both analog and S/PDIF), video (analog D-sub, DVI, HDMI, or DisplayPort), extra USB ports, and Wi-Fi.
+
+Several ATX-derived designs have been specified that use the same power supply, mountings and basic back panel arrangement, but set different standards for the size of the board and number of expansion slots. Standard ATX provides seven slots at 0.8 in (20 mm) spacing; the popular Micro-ATX size removes 2.4 inches (61 mm) and three slots, leaving four. Here width refers to the distance along the external connector edge, while depth is from front to rear. Note each larger size inherits all previous (smaller) colors area.
+
+Note: AOpen has conflated the term Mini ATX with a more recent 15 × 15 cm (5.9 × 5.9 in) design. Since references to Mini ATX have been removed from ATX specifications since the adoption of microATX, the AOpen definition is the more contemporary term and the one listed above is apparently only of historical significance.
+
+A number of manufacturers have added one, two or three additional expansion slots (at the standard 0.8 inch spacing) to the standard 12-inch ATX motherboard width.
+
+Form factors considered obsolete in 1999 included Baby-AT, full size AT, and the semi-proprietary LPX for low-profile cases. Proprietary motherboard designs such as those by Compaq, Packard-Bell, Hewlett Packard and others existed, and were not interchangeable with multi-manufacturer boards and cases. Portable and notebook computers had custom motherboards unique to their particular products.[4]
+
+Although true E-ATX is 12 × 13 in (305 × 330 mm) most motherboard manufacturers also refer to motherboards with measurements 12 × 10.1 in (305 × 257 mm), 12 × 10.4 in (305 × 264 mm), 12 × 10.5 in (305 × 267 mm) and 12 × 10.7 in (305 × 272 mm) as E-ATX. While E-ATX and SSI EEB (Server System Infrastructure (SSI) Forum's Enterprise Electronics Bay (EEB)) share the same dimensions, the screw holes of the two standards do not all align; rendering them incompatible.
+
+In 2008, Foxconn unveiled a Foxconn F1 motherboard prototype, which has the same width as a standard ATX motherboard, but an extended 14.4" length to accommodate 10 slots.[5] The firm called the new 14.4 × 9.6 in (366 × 244 mm) design of this motherboard "Ultra ATX"[6] in its CES 2008 showing. Also unveiled during the January 2008 CES was the Lian Li Armorsuit PC-P80 case with 10 slots designed for the motherboard.[7]
+
+The name "XL-ATX" has been used by at least three companies in different ways.
+
+In September 2009, EVGA Corporation had already released a 13.5 × 10.3 in (343 × 262 mm) "XL-ATX" motherboard as its EVGA X58 Classified 4-Way SLI.[8]
+
+Gigabyte Technology launched another XL-ATX motherboard, with model number GA-X58A-UD9 in 2010 measuring at 13.6 × 10.3 in (345 × 262 mm), and GA-X79-UD7 in 2011 measuring at 12.8 × 10.0 in (324 × 253 mm). In April 2010, Gigabyte announced its 12.8 × 9.6 in (325 × 244 mm) GA-890FXA-UD7 motherboard that allowed all seven slots to be moved downward by one slot position. The added length could have allowed placement of up to eight expansion slots, but the top slot position is vacant on this particular model.
+
+MSI released MSI X58 Big Bang in 2010, MSI P67 Big Bang Marshal in 2011, MSI X79 Xpower Big Bang 2 in 2012 and MSI Z87 Xpower in 2013 all of them are 13.6 × 10.4 in (345 × 264 mm). Although these boards have room for additional expansion slots (9 and 8 total, respectively), all three provide only seven expansion connectors; the topmost positions are left vacant to provide more room for the CPU, chipset and associated cooling.
+
+In 2010, EVGA Corporation released a new motherboard, the "Super Record 2", or SR-2, whose size surpasses that of the "EVGA X58 Classified 4-Way SLI". The new board is designed to accommodate two Dual QPI LGA1366 socket CPUs (e.g. Intel Xeon), similar to that of the Intel Skulltrail motherboard that could accommodate two Intel Core 2 Quad processors and has a total of seven PCI-E slots and 12 DDR3 RAM slots. The new design is dubbed "HPTX" and is 13.6 × 15 in (345 × 381 mm).[9]
+
+The ATX specification requires the power supply to produce three main outputs, +3.3 V, +5 V and +12 V. Low-power −12 V and +5 VSB (standby) supplies are also required. The −12 V supply is primarily used to provide the negative supply voltage for RS-232 ports and is also used by one pin on conventional PCI slots primarily to provide a reference voltage for some models of sound cards.  The 5 VSB supply is used to produce trickle power to provide the soft-power feature of ATX when a PC is turned off, as well as powering the real-time clock to conserve the charge of the CMOS battery.  A −5 V output was originally required because it was supplied on the ISA bus; it was removed in later versions of the ATX standard, as it became obsolete with the removal of the ISA bus expansion slots (the ISA bus itself is still found in any computer which is compatible with the old IBM PC specification (e.g., not found in the PlayStation 4.[10])
+
+Originally, the motherboard was powered by one 24-pin connector. An ATX power supply provides a number of peripheral power connectors and (in modern systems) two connectors for the motherboard: an 8-pin (or 4+4-pin) auxiliary connector providing additional power to the CPU and a main 24-pin power supply connector, an extension of the original 20-pin version. 20-pin MOLEX 39-29-9202 at the motherboard. 20-pin MOLEX 39-01-2200 at the cable.  The connector pin pitch is 4.2 mm (one sixth of an inch).
+
+Four wires have special functions:
+
+Generally, supply voltages must be within ±5% of their nominal values at all times. The little-used negative supply voltages, however, have a ±10% tolerance. There is a specification for ripple in a 10 Hz–20 MHz bandwidth:[2]
+
+The 20–24-pin Molex Mini-Fit Jr. has a power rating of 600 volts, 8 amperes maximum per pin (while using 18 AWG wire).[15] As large server motherboards and 3D graphics cards have required progressively more and more power to operate, it has been necessary to revise and extend the standard beyond the original 20-pin connector, to allow more current using multiple additional pins in parallel. The low circuit voltage is the restriction on power flow through each connector pin; at the maximum rated voltage, a single Mini-Fit Jr pin would be capable of 4800 watts.
+
+ATX power supplies generally have the dimensions of 150 × 86 × 140 mm (5.9 × 3.4 × 5.5 in),[16]:23–24 with the width and height being the same as the preceding LPX (Low Profile eXtension) form factor (which are often incorrectly referred to as "AT" power supplies due to their ubiquitous use in later AT and Baby AT systems, even though the actual AT power supply form factor was physically larger) and share a common mounting layout of four screws arranged on the back side of the unit. That last dimension, the 140 mm depth, is frequently varied, with depths of 160, 180, 200 and 230 mm used to accommodate higher power or modular connectors.
+
+Original AT cases (flat case style) have an integrated power switch that protruded from the power supply and
+sits flush with a hole in the AT chassis.  It utilizes a paddle-style DPST switch and is similar to the PC and PC-XT style power supplies.
+
+Later AT (so-called "Baby AT") and LPX style computer cases have a power button that is directly connected to the system computer power supply (PSU). The general configuration is a double-pole latching mains voltage switch with the four pins connected to wires from a four-core cable. The wires are either soldered to the power button (making it difficult to replace the power supply if it failed) or blade receptacles were used.
+
+An ATX power supply is typically controlled by an electronic switch connected to the power button on the computer case and allows the computer to be turned off by the operating system. In addition, many ATX power supplies have an equivalent-function manual switch on the back that also ensures no power is being sent to the components. When the switch on the power supply is turned off, however, the computer cannot be turned on with the front power button.
+
+The power supply's connection to the motherboard was changed from the older AT and LPX standards; AT and LPX had two similar connectors that could be accidentally interchanged by forcing the different keyed connectors into place, usually causing short-circuits and irreversible damage to the motherboard (the rule of thumb for safe operation was to connect the side-by-side connectors with the black wires together). ATX uses one large, keyed connector which can not be connected incorrectly. The new connector also provides a 3.3 volt source, removing the need for motherboards to derive this voltage from the 5 V rail. Some motherboards, particularly those manufactured after the introduction of ATX but while LPX equipment was still in use, support both LPX and ATX PSUs.[17]
+
+If using an ATX PSU for purposes other than powering an ATX motherboard, power can be fully turned on (it is always partly on to operate "wake-up" devices) by shorting the "power-on" pin on the ATX connector (pin 16, green wire) to a black wire (ground), which is what the power button on an ATX system does.  A minimum load on one or more voltages may be required (varies by model and vendor); the standard does not specify operation without a minimum load and a conforming PSU may shut down, output incorrect voltages, or otherwise malfunction, but will not be hazardous or damaged.[18]  An ATX power supply is not a replacement for a current-limited bench laboratory DC power supply, instead it is better described as a bulk DC power supply.[19]
+
+The original ATX specification called for a power supply to be located near to the CPU with the power supply fan drawing in cooling air from outside the chassis and directing it onto the processor. It was thought that in this configuration, cooling of the processor would be achievable without the need of an active heatsink.[2] This recommendation was removed from later specifications; modern ATX power supplies usually exhaust air from the case.
+
+ATX, introduced in late 1995, defined three types of power connectors:
+
+The power distribution specification defined that most of the PSU's power should be provided on 5 V and 3.3 V rails, because most of the electronic components (CPU, RAM, chipset, PCI, AGP and ISA cards) used 5 V or 3.3 V for power supply. The 12 V rail was only used by fans and motors of peripheral devices (HDD, FDD, CD-ROM, etc.)
+
+While designing the Pentium 4 platform in 1999/2000, the standard 20-pin ATX power connector was found insufficient to meet increasing power-line requirements; the standard was significantly revised into ATX12V 1.0 (ATX12V 1.x is sometimes inaccurately called ATX-P4). ATX12V 1.x was also adopted by AMD Athlon XP and Athlon 64 systems. However, some early model Athlon XP and MP boards (including some server boards) and later model lower-end motherboards do not have the 4-pin connector as described below.
+
+Numbering of the ATX revisions may be a little confusing: ATX refers to the design, and goes up to version 2.2 in 2004 (with the 24 pins of ATX12V 2.0) while ATX12V describes only the PSU.
+For instance, ATX 2.03 is pretty commonly seen on PSU from 2000 & 2001 and often include the P4 12V connector, even if the norm itself does not define it yet![2]
+
+The main changes and additions in ATX12V 1.0 (released in February 2000) were:
+
+Formally called the +12 V Power Connector, this is commonly referred to as the P4 connector because this was first needed to support the Pentium 4 processor.
+
+Before the Pentium 4, processors were generally powered from the 5 V rail. Later processors operate at much lower voltages, typically around 1 V and some draw over 100 A. It is infeasible to provide power at such low voltages and high currents from a standard system power supply, so the Pentium 4 established the practice of generating it with a DC-to-DC converter on the motherboard next to the processor, powered by the 4-pin 12 V connector.
+
+This is a minor revision from August 2000. The power on the 3.3 V rail was slightly increased and other smaller changes were made.
+
+A relatively minor revision from January 2002. The only significant change was that the −5 V rail was no longer required (it became optional). This voltage was required by the ISA bus, which is no longer present on almost all modern computers.
+
+Introduced in April 2003 (a month after 2.0). This standard introduced some changes, mostly minor. Some of them are:
+
+ATX12V 2.x brought a very significant design change regarding power distribution. By analyzing the power demands of then-current PCs, it was determined that it would be much cheaper and more practical to power most PC components from 12 V rails, instead of from 3.3 V and 5 V rails.
+
+In particular, PCI Express expansion cards take much of their power from the 12 V rail (up to 5.5 A), while the older AGP graphics cards took only up to 1 A on 12 V and up to 6 A on 3.3 V. The CPU is also driven by a 12 V rail, while it was done by a 5 V rail on older PCs (before the Pentium 4).
+
+The power demands of PCI Express were incorporated in ATX12V 2.0 (introduced in February 2003), which defined quite different power distribution from ATX12V 1.x:
+
+This is a minor revision from June 2004. An errant reference for the −5 V rail was removed. Other minor changes were introduced.[23]
+
+This is a minor revision from March 2005. The power was slightly increased on all rails. Efficiency requirements changed.
+
+Also released in March 2005[2] it includes corrections and specifies High Current Series wire terminals for 24-pin main and 4-pin +12 V power connectors.
+
+Effective March 2007. Recommended efficiency was increased to 80% (with at least 70% required) and the 12 V minimum load requirement was lowered. Higher efficiency generally results in less power consumption (and less waste heat) and the 80% recommendation brings supplies in line with new Energy Star 4.0 mandates.[24] The reduced load requirement allows compatibility with processors that draw very little power during startup.[25] The absolute over-current limit of 240 VA per rail was removed, allowing 12 V lines to provide more than 20 A per rail.[citation needed]
+
+This revision became effective in February 2008. It added a maximum allowed ripple/noise specification of 400 millivolts to the PWR_ON and PWR_OK signals, requires that the DC power must hold for more than 1 millisecond after the PWR_OK signal drops, clarified country-specific input line harmonic content and electromagnetic compatibility requirements, added a section about Climate Savers, updated recommended power supply configuration charts, and updated the cross-regulation graphs.
+
+This the unofficial name given to the later revisions of the v2.31 spec.[26]
+
+This is the current version of the ATX12V spec, published in April 2013. It is specified in Revision 1.31 of the 'Design Guide for Desktop Platform Form Factors', which names this as ATX12V version 2.4.[3]
+
+SFX is merely a design for a power supply casing, with the power specifications almost identical to ATX. Thus, an SFX power supply is mostly pin-compatible with the ATX power supply as the main difference is its reduced dimensions; the only electrical difference is that the SFX specifications do not require the −5 V rail. Since −5 V is required only by some ISA-bus expansion cards, this is not an issue with modern hardware and decreases productions costs. As a result, ATX pin 20, which carried −5 V, is absent in current power supplies; it was optional in ATX and ATX12V version 1.2 and deleted as of ATX version 1.3.
+
+SFX has dimensions of 125 × 100 × 63.5 mm (width × depth × height), with a 60 mm fan, compared with the standard ATX dimensions of 150 × 86 × 140 mm. Optional 80 or 40 mm fan replacement increases or decreases the height of an SFX unit.[27]
+
+Some manufacturers and retailers incorrectly market SFX power supplies as µATX or MicroATX power supplies.[citation needed]
+
+Another small power supply design with standard ATX specification connectors. Generally dimensioned (D × W × H): 5.75×3.25×2.5 in3 (146×83×64 mm3).
+
+Provides a WTX style motherboard connector which is incompatible with the standard ATX motherboard connector.
+
+This is an ATX12V power supply derivative made by AMD to power its Athlon MP (dual processor) platform. It was used only on high-end Athlon MP motherboards. It has a special 8-pin supplemental connector for motherboard, so an AMD GES PSU is required for such motherboards (those motherboards will not work with ATX(12 V) PSUs).
+
+a. ATX12V-GES 24-pin P1 motherboard connector. The pinout on the motherboard connector is as follows when viewing the motherboard from above:
+
+b. ATX12V-GES 8-pin P2 motherboard connector. This pinout on the motherboard connector is as follows when viewing the motherboard from above:
+
+EPS12V is defined in Server System Infrastructure (SSI) and used primarily by SMP/multi-core systems such as Core 2, Core i7, Opteron and Xeon. It has a 24-pin main connector (same as ATX12V v2.x), an 8-pin secondary connector and an optional 4-pin tertiary connector. Rather than include the extra cable, many power supply makers implement the 8-pin connector as two combinable 4-pin connectors to ensure backwards compatibility with ATX12V motherboards.
+
+High-performance video card power demands dramatically increased during the 2000s and some high-end graphics cards have power demands that exceed AGP or PCIe slot capabilities. For these cards, supplementary power was delivered through a standard 4-pin peripheral or floppy power connector. Midrange and high-end PCIe graphics cards manufactured after 2004 typically use a standard 6 or 8-pin PCIe power connector directly from the PSU.
+
+Although the ATX power supply specifications are mostly vertically compatible in both ways (both electrically and physically), there are potential issues with mixing old motherboards/systems with new PSUs and vice versa. The main issues to consider are the following:
+
+This is a practical guidance what to mix and what not to mix:
+
+Some proprietary brand-name systems require a matching proprietary power supply, but some of them may also support standard and interchangeable power supplies.
+
+Efficiency in power supplies means the extent to which power is not wasted in converting electricity from a household supply to regulated DC. Computer power supplies vary from around 70% to over 90% efficiency.
+
+Various initiatives exist to improve the efficiency of computer power supplies. Climate Savers Computing Initiative promotes energy saving and reduction of greenhouse gas emissions by encouraging development and use of more efficient power supplies. 80 PLUS certifies a variety of efficiency levels for power supplies and encourages their use via financial incentives. Efficient power supplies also save money by wasting less power; as a result they use less electricity to power the same computer, and they emit less waste heat which results significant energy savings on central air conditioning in the summer. The gains of using an efficient power supply are more substantial in computers that use a lot of power.
+
+Although a power supply with a larger than needed power rating will have an extra margin of safety against overloading, such a unit is often less efficient and wastes more electricity at lower loads than a more appropriately sized unit. For example, a 900-watt power supply with the 80 Plus Silver efficiency rating (which means that such a power supply is designed to be at least 85-percent efficient for loads above 180 W) may only be 73% efficient when the load is lower than 100 W, which is a typical idle power for a desktop computer. Thus, for a 100 W load, losses for this supply would be 37 W; if the same power supply was put under a 450 W load, for which the supply's efficiency peaks at 89%, the loss would be only 56 W despite supplying 4.5 times the useful power.[29][30] For a comparison, a 500-watt power supply carrying the 80 Plus Bronze efficiency rating (which means that such a power supply is designed to be at least 82-percent efficient for loads above 100 W) may provide an 84-percent efficiency for a 100 W load, wasting only 19 W.[31]
+

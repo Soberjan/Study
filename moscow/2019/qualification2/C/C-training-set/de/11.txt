@@ -1,0 +1,35 @@
+
+Ein EPROM (engl. Abk. für erasable programmable read-only memory, wörtlich: löschbarer programmierbarer Nur-Lese-Speicher) ist ein nichtflüchtiger elektronischer Speicherbaustein, der bis etwa in die Mitte der 1990er-Jahre vor allem in der Computertechnik eingesetzt wurde, inzwischen aber weitgehend durch EEPROMs abgelöst ist.
+
+Dieser Bausteintyp ist mit Hilfe spezieller Programmiergeräte (genannt „EPROM-Brenner“) programmierbar. Er lässt sich mittels UV-Licht löschen und danach neu programmieren. Nach etwa 100 bis 200 Löschvorgängen hat das EPROM das Ende seiner Lebensdauer erreicht. Das zur Löschung nötige Quarzglas-Fenster (normales Glas ist nicht UV-durchlässig) macht das Gehäuse relativ teuer. Daher gibt es auch Bauformen ohne Fenster, die nominal nur einmal beschreibbar sind (One Time Programmable, OTP), sich durch Röntgenstrahlung aber ebenfalls löschen lassen.
+
+Das EPROM wurde 1970 bei Intel von Dov Frohman entwickelt.
+
+Ein EPROM enthält eine Matrix aus Speicherzellen, in denen jeweils ein Transistor ein Bit repräsentiert. Eine Speicherzelle besteht aus einem MOSFET-Transistor mit einer zusätzlichen Gateelektrode zwischen Gate und Kanal, die jedoch keinen Anschluss besitzt[1]. Es kann daher frei ein Potential annehmen und wird deshalb Floating Gate genannt. Es ist in einer sehr dünnen Siliciumdioxid-Schicht eingebettet. Bei normalen Betriebsverhältnissen können keine Elektronen hingelangen oder es verlassen. Zum Programmieren wird eine erhöhte Spannung an das Gate angelegt, sodass das Floating Gate geladen wird, indem energiereichere Elektronen durch die dünne Isolierschicht tunneln. Dadurch verschiebt sich die Ansteuerspannung, bei der der Transistor einschaltet (Schwellspannung oder threshold). Die Daten lassen sich nun beliebig oft auslesen, wobei die Lesespannung unterhalb der Programmierspannung liegt.
+
+Zum Löschen wird kurzwellige Ultraviolettstrahlung verwendet, typischerweise 245 nm (4,9 eV) von Quecksilberdampflampen. Dadurch werden Fotoelektronen angeregt, die ausreichende Energie haben, die Isolierbarriere zu überwinden – die Floating Gates werden entladen. Das Bitmuster ist dadurch gelöscht und das EPROM in seinen ursprünglichen Zustand zurückversetzt. Es entstehen durch die harte UV Strahlung jedoch auch immer Defekte, sodass das Löschen nicht beliebig oft erfolgen kann[1]. EPROMs sind zum Löschen mit einem UV-B-transparenten Fenster versehen. Es besteht meist aus Kieselglas, selten auch aus hochreiner transluzenter Aluminiumoxid-Keramik (DDR-Typen, z. B. U2732). Auch die fensterlosen nur einmal beschreibbaren Typen (OTP für One Time Programmable) lassen sich mit Röntgenstrahlung löschen, da diese auch ohne Fenster durch das Gehäuse dringt und der Baustein selbst bis auf das Gehäuse der gleiche ist.
+
+Ein konventioneller Löschvorgang dauert ca. 10 bis 30 Minuten. Da die Ionisation nach dem Ausschalten der Lichtquelle nicht sofort wieder abgeklungen ist und die Bausteine je nach Bauart des Löschgerätes auch über die für das Programmieren zulässige Temperatur hinaus erhitzt werden, kann das Programmieren erst nach einer weiteren Wartezeit erfolgen. Die Zeiten können durch den Einsatz von Löschgeräten mit Blitzlampen deutlich verkürzt werden. Statt einer kontinuierlichen Bestrahlung werden dabei Lichtblitze verwendet. Falls die Vorgaben des Bausteinherstellers für das Löschen nicht korrekt eingehalten werden, kann eine scheinbar richtige Programmierung mit verkürzter Datenlebensdauer die Folge sein.
+
+Das Quarzglas-Fenster sollte nach dem Programmieren mit einem lichtundurchlässigen Aufkleber geschützt werden. Ein ungeschütztes EPROM kann nach ca. 90 Tagen direkter Sonneneinstrahlung gelöscht sein. Die Beleuchtung der Speicherzellen mit einem gewöhnlichen Fotoblitzgerät kann kurzzeitige Datenverfälschung und damit Computerausfälle verursachen.
+
+Übliche EPROMs hatten 8 Bit breite Datenpfade, und die Gesamtspeicherkapazität war in der Bezeichnung enthalten. So enthielt ein 2764 64 KiBit, die als 8 Ki × 8 organisiert waren.
+
+Eine Weiterentwicklung des EPROM ist das elektrisch löschbare EEPROM (electrically erasable PROM) und das Flash-EEPROM. Flash-EEPROMs haben mittlerweile die EPROMs weitgehend vom Markt verdrängt.
+
+Ein EPROM TMS2516 im Keramikgehäuse mit 2 KiByte, Produktionsjahr 1979
+
+256KiBit-EPROM im lasergravierten Keramikgehäuse, aus 1994
+
+256KiBit-EPROM in Nahaufnahme mit Bonddrähten.
+
+Aufgrund der regelmäßigen Strukturen der Speicherzellen entstehen am Chip Interferenzfarben
+
+Drei sowjetische 2 Ki × 8-EPROMs (К573РФ2, КС573РФ2) und ein M2716 von SGS.
+
+Mikroskopaufnahme eines 512 KiBit-EPROMs von Texas Instruments (TMS27C512)
+
+Wie andere integrierte Schaltkreise sind die gängigen EPROMs durch die JEDEC in ihrer Pinbelegung standardisiert.
+
+Da EPROMs nicht unbegrenzt wiederbeschreibbar sind und Korrekturen (die immer zunächst eine Löschung erfordern) vergleichsweise viel Zeit in Anspruch nehmen, werden in der Entwicklungsphase von elektronischen Geräten Simulatoren verwendet. Diese gibt es in verschiedenen Varianten. Zum Beispiel gibt es Simulatoren mit USB-Anschluss, die EPROMs bis zu 4 MiBit Größe simulieren. Bei diesen Geräten wird der Programmcode über USB in den Simulator geladen und das simulierte EPROM in den Schaltungsaufbau eingefügt, beispielsweise über einen Steckadapter. Es kann sofort mit der Simulation begonnen werden. Die zu testende Schaltung verhält sich dabei genau so, als wenn ein echter EPROM-Baustein eingebaut wäre. Eine bei vorhandenem EPROM-Programmiergerät sehr kostengünstige Lösung bieten auch schon einfache Simulatoren aus batteriegepufferten RAM-Bausteinen mit Schreibschutzschalter, die am EPROM-Programmiergerät programmiert und danach mit aktiviertem Schreibschutz auf die Testschaltung gesteckt werden.
+

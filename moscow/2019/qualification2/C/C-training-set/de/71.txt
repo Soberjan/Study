@@ -1,0 +1,31 @@
+
+SSE5 (Streaming SIMD Extensions 5) war eine geplante Befehlssatzerweiterung von AMD für x86-Prozessoren. Sie umfasste 47 Befehle, die vor allem zur Beschleunigung bestimmter Algorithmen, beispielsweise FFT, DCT oder der Verschlüsselung mit AES, geeignet sein sollten. Unter anderem enthielt SSE5 so genannte Drei-Operanden-Befehle, die das Rechenergebnis nicht in einem der beiden Ursprungsregister, sondern in einem dritten abspeichern, was potenziell zu weniger Maschinenbefehlen im Programmcode und somit zu einer höheren Ausführungsgeschwindigkeit führt.[1] Die Befehle selbst fußten auf 128 Bit breiten Operanden und konnten somit unter anderem mit bis zu vier 32-Bit-Werten gleichzeitig arbeiten. AMD plante, eine SSE5-Recheneinheit im Bulldozer-Kern einzubauen.
+
+Noch vor Einführung der Bulldozer-Architektur disponierte AMD jedoch um.[2] Zuerst gab AMD bekannt, Bulldozer auf mindestens 2011 zu verschieben,[3] was nach dem ursprünglichen Zeitplan 2009 und der vormaligen Verschiebung auf 2010 immerhin ein weiteres Jahr Verzug bedeutete. Am 6. Mai 2009 gab AMD in seinem Techblog bekannt, dass SSE5 in der ursprünglichen Version gestrichen sei. Stattdessen habe man Intels kommendes SIMD-Modell AVX übernommen, das statt 128 Bit breite Register (wie bei SSE5 vorgesehen) nun 256 Bit breite Register bereitstellen kann. Offenbar wollte man nicht ein zweites 3DNow!-Desaster erleben. Damals (1998) hatte AMD schon einmal versucht, eine eigene, zu Intel inkompatible SIMD-Erweiterung zu etablieren, welche sich gegen Intels SSE jedoch nicht durchsetzen konnte.
+
+In der ursprünglichen Fassung[4] der Spezifikationen enthielt Intels AVX FMA-Operationen in der 4-Operanden-Form (FMA4). AMD übernahm diese Spezifikation. In der neuesten Intel-AVX-Spezifikation vom Januar 2009[5] ist von FMA4 jedoch nichts mehr zu lesen. AMD wird die neuen FMA3-Befehle ebenfalls unterstützen, wird die ursprünglich geplanten FMA4-Befehle deswegen aber nicht streichen und diese weiterhin zur Verfügung stellen.[6]
+
+PAE |
+NX |
+x64 (AMD64/Intel 64) |
+HTT |
+VT-x/AMD-V/VIA VT |
+3DNow! |
+MMX |
+SSE |
+SSE2 |
+SSE3 |
+SSSE3 |
+SSE4 |
+SSE4a |
+SSE5 |
+F16C |
+AVX |
+CLMUL |
+AES |
+FMA |
+TSX |
+BMI |
+MPX |
+SGX
+

@@ -1,0 +1,15 @@
+
+Advanced Micro Devices, Inc. (AMD) är en amerikansk tillverkare av framförallt mikroprocessorer och flashminnen. AMD grundades 1969 och har haft många typer av integrerade kretsar i sitt produktprogram genom åren. Idag är företaget dock mest känt som tillverkare av x86 processorer, en verksamhet som inleddes med att man under sent 1970-tal licensierades som andrahandsleverantör av Intels CPU-familjer 8080, 8085 och 8086. Under framförallt 1990-talet kom den verksamheten att utvecklas till att innefatta alltmer avancerade egna lösningar och konstruktioner och AMD har idag tagit betydande marknadsandelar från den ursprungliga och dominerande x86-tillverkaren Intel. AMD har även köpt upp grafikkortstillverkaren ATI och delar av andra företag samt samarbetar med bland annat IBM om tillverkningsteknik.
+
+Företaget grundades 1969 i Sunnyvale i Kalifornien och har bland annat producerat logikkretsar (TTL-logik), DRAM (dynamiskt RAM), så kallade "bit slice-kretsar" (Am2900, Am29116, Am293xx) som användes för att bygga upp CPU-delen i minidatorer och andra produkter, egenutvecklade mikroprocessorer med RISC-arkitektur (AMD 29 000), grafik, ljud, och modemkretsar (AMD7910, AMD7911), samt flashminnen. Sedan mitten av 1990-talet har företaget fokuserat sin energi på x86-processorer och flashminnen (även om det förekommer en del produkter utanför dessa kategorier).
+
+AMD utvecklar kontinuerligt nya processorer, varvid man alltid har inriktat sig på grafikvägen, eller framförallt den grafiska användningen av mjukvara, vilket optimerar AMD vid sådan användning. AMD, som nu samarbetar med ATi, har några av världens ledande produkter för grafikanvändning. AMD var först med dubbla kärnor (x86) i sina processorer vilket gav datoranvändare och programutvecklare helt nya möjligheter.[2]
+
+Följande processorer är avsedda för stationära persondatorer:
+
+Följande processorer är avsedda för bärbara persondatorer:
+
+För större datorer finns AMD Opteron Processor.
+
+AMD:s processorgeneration K10 lanserades i slutet av 2007 under namnet Phenom.
+

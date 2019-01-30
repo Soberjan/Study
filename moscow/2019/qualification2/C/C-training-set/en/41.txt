@@ -1,0 +1,19 @@
+
+Google Pinyin IME (谷歌拼音输入法; Pinyin: Gǔgē Pīnyīn Shūrùfǎ) is an input method developed by Google China Labs. The tool was made publicly available on April 4, 2007. Beside Pinyin input, it also includes stroke count method input.
+
+As of  August 2012[update], Google Pinyin is available for Windows XP, Windows Vista, Windows 7, Windows 8 & Windows 10. There are both 32-bit and 64-bit versions available.
+
+Google released a Pinyin IME system for Android 1.5 or newer in March 2009.[2] The Android Pinyin IME supports user dictionary synchronization with the desktop version.
+
+By the end of 2008, more than 20%[citation needed] users of Google Pinyin wanted a Linux version of the input method, which was answered in the FAQ section with a general PR phrase "We always strive to provide a better user experience and we never stop our hard work to fulfill the customer needs".[3]
+
+However, the Linux user community is porting the Android Google Pinyin IME to the non-Android Linux IME framework SCIM in the scim-googlepinyin module.
+
+After Christmas 2009, the Google pinyin module for SCIM became also available for the Nokia Maemo 5 platform, which meant it could be downloaded to any Nokia N900 phone through the official application repositories.
+
+A closed beta version of Google Pinyin for Mac OS X was leaked on September 14, 2010.[4] The first public version is not yet available.
+
+After Google Pinyin was initially released in April 2007, it was soon discovered that Google Pinyin's dictionary database contained employee names of Sogou Pinyin, an indication that the dictionary was taken from Sogou, one of Google's competitors in the Chinese Internet market.[5] On April 8, 2007, Google admitted that they used "non-Google database resources". Shortly thereafter, a new version of Google Pinyin was released which no longer appeared to be based on Sogou's database.[6]
+
+Google Pinyin for Windows has been failing to synchronize for years [7] because of the deprecation of Google ClientLogin authentication. A client with an alternative authentication method has not been announced yet. Google Pinyin for Android can still synchronize (within this platform only).
+

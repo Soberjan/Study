@@ -1,0 +1,84 @@
+
+La metallurgia è la disciplina tecnica che riguarda essenzialmente lo studio dei metalli, del loro comportamento e dei procedimenti tecnici relativi al loro ottenimento e lavorazione. La tecnica è nata in ambito preistorico, formalmente con l'età del rame, con la lavorazione dell'elemento nativo, ma si possono considerare pienamente tecniche metallurgiche quelle in uso durante l'età del bronzo.
+
+Le prime testimonianze della metallurgia umana risalgono al V e VI millennio a.C., nei siti archeologici di Majdanpek, Yarmovac e Plocnik tutti e tre in Serbia. Ad oggi, la fusione più antica di rame si trova nel sito Belovode; tra gli esempi, vi è un'ascia in rame del 5 500 a.C. appartenenti alla cultura Vinča. Altri segni della metallurgia si trovano dal terzo millennio a.C. a Palmela (Portogallo), Cortes de Navarra (Spagna), e Stonehenge (Regno Unito). Tuttavia, come spesso accade con lo studio della preistoria, nuove scoperte sono continue e in corso.
+
+Nel Medio Oriente antico, nelle aree vicine alla mezzaluna fertile, si estraevano da tempo minerali: arsenico, rame, stagno, ferro, oro, argento e piombo.
+
+Argento, rame, stagno e ferro meteorico si possono trovare anche nativi, ciò consentiva un numero limitato di lavorazione dei metalli nelle culture primitive. Armi egiziane in ferro meteorico del circa 3 000 a.C. sono stati definiti "Pugnali dal Cielo". Tuttavia, imparando a estrarre rame e stagno dalle rocce per riscaldamento e combinando questi due metalli a fare una lega denominata bronzo, la tecnologia della metallurgia ha avuto inizio circa 3 500 a.C. con l'età del bronzo.
+
+L'estrazione del ferro da suoi minerali, ossidi o solfuri, in un metallo lavorabile è molto più difficile. Sembra sia stata elaborata dagli Ittiti intorno al 1200 a.C., all'inizio, appunto, dell'età del ferro. Il segreto di estrazione e lavorazione del ferro è stato un fattore chiave per il successo dei Filistei.
+
+Sviluppi storici nella siderurgia si trova in una grande varietà di culture e civiltà del passato. Questo include i regni antichi e medievali e gli imperi del Medio Oriente e Vicino Oriente, Iran antico, antico Egitto, Nubia antica, Anatolia, Nok Antica, Cartagine, i Greci ed i Romani in Europa, poi l'Europa medievale, Cina antica e medievale, India antica e medievale, Giappone antico e medievale, eccetera. Interessante da notare è che molte applicazioni pratiche, quindi apparecchiature connesse o coinvolte nella metallurgia erano diffusi nella Cina antica prima che gli europei ne avessero padronanza.
+
+Un libro del XVI secolo di Georg Agricola chiamato De re metallica descrive i processi altamente sviluppati e complessi: minerari, dell'estrazione dei metalli e della metallurgia del tempo. Agricola è stato descritto come il padre della mineralogia e della metallurgia.
+
+Le materie prime nel ciclo di fabbricazione dei metalli appartengono principalmente a 2 tipologie: i minerali dei metalli e i rottami metallici. Le operazioni che conducono alla produzione di un metallo sono oggetto della metallurgia estrattiva o primaria.
+I minerali sfruttati industrialmente sono principalmente ossidi, solfuri e silicati.
+
+I trattamenti di preparazione, che iniziano con la frantumazione della roccia, servono a concentrare il minerale. Si aumenta la superficie di contatto, si rendono le particelle equidimensionali e si esegue l'arricchimento:
+
+A volte sono effettuati i trattamenti estrattivi preliminari, di natura chimico-fisica, per trasformare i minerali in composti più facilmente manipolabili (alcuni esempi: calcinazione, arrostimento).
+
+In base alla forma di energia utilizzata per separare il metallo dalle impurità e dalla ganga si distinguono 3 principali processi metallurgici:
+
+Nei processi pirometallurgici il caso più comune è quello degli ossidi e dei solfuri. Le reazioni di dissociazione (endotermiche, cioè assorbono calore) sono:
+
+Dove ΔH indica la variazione di entalpia.
+
+Si consideri che la dissociazione avviene spontaneamente solo con la diminuzione dell'energia libera ΔG° del composto. In base a tale principio e alla definizione di energia libera si può calcolare la T*, temperatura minima di dissociazione.
+
+Per un ossido la T* può essere calcolata con la relazione semiempirica di Matignon-Le Chatelier:
+
+
+
+
+
+
+T
+
+∗
+
+
+=
+
+
+
+Δ
+
+H
+
+298
+K
+(
+o
+s
+s
+)
+
+
+o
+
+
+
+34
+
+
+
+
+{\displaystyle T^{*}={\Delta H_{298K(oss)}^{o} \over 34}}
+
+
+
+Maggiormente usato è il carbonio, come CO (riduzione indiretta) e come carbone (riduzione diretta):
+
+Con i solfuri si avrebbe teoricamente la dissociazione:
+MeS ↔ Me + 0,5 S2
+
+Tuttavia non si ha una corrispondenza univoca tra pressione e temperatura di dissociazione, in quanto i solfuri formano soluzioni solide con i loro metalli e il sistema diventa bivariante, cioè dipendente anche dalla concentrazione.
+
+Nei processi idrometallurgici il minerale, solubile o reso tale, e la ganga sono immersi in soluzione acquosa. La ganga insolubile è separata per filtrazione o decantazione, quindi il metallo è estratto introducendo un sale o un altro metallo (meno importante e recuperabile), che fanno precipitare il metallo principale e non le impurità.
+
+Nei processi elettrometallurgici un sale metallico fuso o in soluzione acquosa è sottoposto a dissociazione elettrolitica, con deposizione al catodo del metallo per riduzione.
+
+Altri progetti

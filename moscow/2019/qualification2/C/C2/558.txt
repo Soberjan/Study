@@ -1,0 +1,106 @@
+
+Unter Kündigungsschutz versteht man gesetzliche Regelungen, die die Kündigung eines Vertrages erschweren oder ausschließen.
+Insbesondere Arbeitnehmer und Mieter von Wohnraum werden vor einer sozial ungerechtfertigten oder bei Abwägung der beiderseitigen Interessen ungerechtfertigt harten Kündigung geschützt.[1]
+
+Der Kündigungsschutz im Arbeitsrecht erschwert kraft Gesetzes durch das Kündigungsschutzgesetz (KSchG) oder aufgrund von Tarifverträgen die ordentliche Kündigung eines Arbeitsverhältnisses durch den Arbeitgeber. Es kann zwischen einem allgemeinen und einem besonderen Kündigungsschutz unterschieden werden. Der allgemeine Kündigungsschutz besteht darin, dass der Gesetzgeber in § 1 Abs. 2 Satz 2 KSchG überhaupt nur bestimmte Kündigungsgründe als zulässig normiert hat. Über den allgemeinen Kündigungsschutz hinaus hat der Gesetzgeber die Kündigung bestimmter Personengruppen ausgeschlossen oder erschwert, die als besonders schutzbedürftig gelten.[2]
+
+Historisch betrachtet[3] wurde der arbeitsrechtliche Kündigungsschutz in Deutschland lange Zeit durch zwei Regelungsbereiche geprägt. Zum einen existierten schon früh Regelungen über Mindestfristen der Kündigung, zum anderen wurden seit den 1920er Jahren die möglichen Kündigungsgründe des Arbeitgebers beschränkt.
+
+Die erste gesetzliche Regelung einer Kündigungsfrist erfolgte im Allgemeinen Deutschen Handelsgesetzbuch von 1861.[4] In Artikel 61 ADHGB war bestimmt, dass den "Handlungsdienern" – den kaufmännischen Angestellten – nur mit einer Frist von sechs Wochen zum Quartalsende gekündigt werden konnte. Durch das "Arbeiterschutzgesetz" von 1891[5] wurde diese Regelung auch auf die sogenannten technischen Angestellten, wie insbesondere Werkmeister ausgedehnt (§§ 133a ff. GewO). Beide Regelungen waren jedoch abdingbar, so dass einzelvertraglich kürzere Kündigungsfristen vereinbart werden konnten.
+
+Mit Inkrafttreten des Handelsgesetzbuches (HGB) im Jahre 1900 wurde die Regelung der Kündigungsfristen dahingehend erweitert, dass zwar weiterhin eine Abdingbarkeit bestand, die Kündigungsfristen jedoch für beide Seiten gleich lang sein mussten und die Kündigung nur zum Monatsende erfolgen durfte (§ 67 HGB a.F.). Eine gleichlautende Regelung wurde auch für die technischen Angestellten in der Gewerbeordnung eingeführt. Für die übrigen Angestellten galt die vollständig abdingbare Regelung in § 622 BGB a.F. (sechs Wochen zum Quartalsende).
+
+Eine weitergehende Regelung wurde dann im Angestellten-Kündigungsschutzgesetz vom 9. Juli 1926[6] getroffen, nach dem bei längerer Betriebszugehörigkeit längere Kündigungsfristen zu beachten waren. Das Angestellten-Kündigungsschutzgesetz galt bis zum Jahr 1993 und wird noch heute beispielsweise im Tarifvertrag des Reiseverkehrsgewerbes in Bezug genommen.
+
+Während die vorbeschriebenen Regelungen nur für Angestellte, teilweise nur bestimmter Berufsbereiche, galten, entstand ein Kündigungsschutz für Arbeiter viel später. Eine wirkliche Gleichstellung von Arbeitern und Angestellten erfolgte in sämtlichen gesetzlichen Regelungen erst nach der Grundsatzentscheidung des Bundesverfassungsgerichtes vom 30. Mai 1990[7], in der das BVerfG die unterschiedliche Regelung der Kündigungsfristen für Arbeiter und Angestellte in § 622 BGB bzw. dem AngKSchG für verfassungswidrig erklärte.
+
+Die Gewerbeordnung von 1869 sah für die Kündigung von Arbeitern lediglich eine 14-tägige Kündigungsfrist vor, die durch Vertrag abgekürzt werden konnte. Im Rahmen des Arbeiterschutzgesetzes von 1891 wurde diese Regelung dahingehend erweitert, dass die Kündigungsfristen für die Vertragsparteien gleich sein mussten. Auch die Einführung des BGB im Jahre 1900 brachte keine Erweiterung des Kündigungsschutzes. Die Kündigungsfrist wurde in § 621 BGB a.F. an den Entlohnungszeitraum gekoppelt, für Akkordarbeiter wurde in § 623 a.F. eine 14-tägige - jedoch abdingbare - Kündigungsfrist vorgeschrieben.
+
+Erst im Jahre 1969 wurde die 14-tägige Kündigungsfrist des § 622 BGB obligatorisch. Gleichzeitig wurde für Arbeiter mit einer längeren Betriebszugehörigkeit eine längere Kündigungsfrist bestimmt – die jedoch hinter den Kündigungsfristen für Angestellte aus dem Angestellten-Kündigungsschutzgesetz von 1926 zurückblieb.
+
+Erst im Jahre 1993 wurden dann gleiche Kündigungsfristen für Arbeiter und Angestellte bestimmt, § 622 BGB. Das Angestellten-Kündigungsschutzgesetz wurde aufgehoben.
+
+Neben der Entwicklung der Kündigungsfristen entstand ein Kündigungsschutz in Deutschland auch durch eine Beschränkung der Kündigungsgründe. Eine erste Regelung sah das Betriebsrätegesetz von 1920[8] vor, indem es eine Klage auf "Widerruf der Kündigung" für den Fall bestimmte, dass sich die Kündigung als eine "unbillige Härte" darstellte, die nicht durch das Verhalten des Arbeitnehmers oder durch die Verhältnisse des Betriebes bedingt war. In der Zeit des Nationalsozialismus wurde diese Regelung beschränkt und erst das Kündigungsschutzgesetz aus dem Jahre 1951 bestimmte dann, dass nur verhaltens-, personen- oder betriebsbedingte Kündigungsgründe sozial gerechtfertigt und damit wirksam sein können.
+
+Seit Beginn der 1990er Jahre erfuhr der Kündigungsschutz in Deutschland erhebliche Einschränkungen.[9] Die Zielsetzung dieser Einschränkungen liegt vor allem in der Absicht, die Arbeitgeber durch erleichterte Kündigungsmöglichkeiten dazu zu bewegen, mehr Einstellungen vorzunehmen und auf diese Weise die Arbeitslosigkeit zu verringern. Ob es einen direkten Zusammenhang zwischen Kündigungsschutz und Einstellungsverhalten der Arbeitgeber gibt, ist zwischen Arbeitnehmern und Arbeitgebern bzw. deren jeweiligen Interessenvertretern stark umstritten.
+
+Grundsätzlich gilt das Kündigungsschutzgesetz erst ab einer Betriebszugehörigkeit von sechs Monaten, § 1 Abs. 1 KSchG. Vor Ablauf dieser sechs Monate ist der Arbeitgeber fast gänzlich frei in seiner Kündigungsmöglichkeit. Diese Wartezeit bildet praktisch eine gesetzlich normierte Probezeit.[10]
+
+Außerdem gilt das Kündigungsschutzgesetz aufgrund der so genannten Kleinbetriebsklausel nur in Betrieben mit mehr als zehn vollzeitbeschäftigten Arbeitnehmern, § 23 KSchG. Die Regelung dieses „Schwellenwertes“ für die Anwendbarkeit des Kündigungsschutzgesetzes wurde in der Vergangenheit mehrfach geändert. Ursprünglich galt ein Schwellenwert von mehr als fünf im Betrieb regelmäßig beschäftigten Arbeitnehmern – berücksichtigt wurden alle Arbeitnehmer mit einer Arbeitszeit von mehr als 10 Stunden wöchentlich bzw. 45 Stunden monatlich. Eine Änderung dieses Schwellenwertes erfolgte zuerst im Jahre 1996 durch die CDU/CSU/FDP-Regierung gegen den Willen der Opposition in Gestalt des Arbeitsrechtlichen Beschäftigungsförderungsgesetzes vom 25. September 1996.[11] Der Schwellenwert wurde auf mehr als zehn Arbeitnehmer heraufgesetzt, wobei Teilzeitbeschäftigte nach einem bestimmten Schlüssel nur anteilig berücksichtigt wurden.
+
+Diese Regelung wurde von der SPD/Grüne-Regierung ab dem 1. Januar 1999 wieder aufgehoben und durch die ursprüngliche Regelung ersetzt. Durch das Gesetz zu Reformen am Arbeitsmarkt vom 23. Dezember 2003[12] wurde dann jedoch ab dem 1. Januar 2004 wieder der höhere Schwellenwert eingeführt, so dass im Ergebnis die Regelung aus dem Jahr 1996 übernommen wurde. Eine Übergangsregelung bestimmt, dass für Arbeitnehmer, die vor dem 1. Januar 2004 im Betrieb beschäftigt waren, unter bestimmten Voraussetzungen die ursprüngliche Regelung gilt.
+
+Darüber hinaus ist auch die Sozialauswahl für die Arbeitgeber dahingehend erleichtert worden, dass zum einen Leistungsträger nicht in die Sozialauswahl mit einbezogen werden müssen und zum anderen auch ältere Arbeitnehmer zu Gunsten einer ausgewogenen Altersstruktur im Betrieb stärker in die Sozialauswahl mit einbezogen werden können, vgl. § 1 Abs. 3 KSchG.
+
+Schließlich bildet die Möglichkeit zur Befristung von Arbeitsverhältnissen im Ergebnis einen Ausschluss des Kündigungsschutzes. Bis zum Jahr 1985 waren Befristungen ohne sachlichen Grund wegen der damit verbundenen Umgehung des Kündigungsschutzgesetzes rechtswidrig und damit unwirksam. Durch das Gesetz über arbeitsrechtliche Vorschriften zur Beschäftigungsförderung[13] wurden diese ab 1985 in begrenztem zeitlichen Rahmen zugelassen.[14] Die Geltung des Beschäftigungsförderungsgesetzes 1985 war zunächst auf zwei Jahre befristet, wurde dann jedoch mehrfach verlängert. Ab dem 1. Januar 2001 wurden diese Regelungen in das Teilzeit- und Befristungsgesetz (TzBfG) übernommen.
+
+Insbesondere die Möglichkeit, kalendermäßige Befristungen bis zu einer Gesamtdauer von zwei Jahren (in neugegründeten Unternehmen: vier Jahre) ohne sachlichen Grund zu vereinbaren, § 14 Abs. 2 TzBfG, lässt den Kündigungsschutz während der Dauer der Befristung faktisch leerlaufen.[15]
+
+Die Diskriminierungsverbote des europäischen Rechts, insbesondere das Verbot der Altersdiskriminierung, treten heute neben die nationalen Grundsätze über die krankheitsbedingte Kündigung und die Sozialauswahl bei betriebsbedingten Kündigungen. Vor unerlaubter Diskriminierung bei der Beendigung eines Beschäftigungsverhältnisses schützt seit 2006 das Allgemeine Gleichbehandlungsgesetz (§ 2 Abs. 1 Nr. 2 AGG).
+
+Der Kündigungsschutz ist seit der Einführung des Kündigungsschutzgesetzes im Jahre 1951 Gegenstand einer kontrovers geführten Auseinandersetzung zwischen Arbeitgebern und Arbeitnehmern. Die Ursache dieser Auseinandersetzung liegt darin, dass der allgemeine Kündigungsschutz durch die gegensätzlichen Interessen der Arbeitsvertragsparteien gekennzeichnet ist.
+
+Für Arbeitnehmer bildet der Arbeitsplatz die wirtschaftliche Existenzgrundlage. Ein Verlust des Arbeitsplatzes kann zu Verarmung, gesellschaftlicher Ausgrenzung oder auch psychischen Problemen führen. Betroffen ist in der Regel nicht nur der Arbeitnehmer selbst, sondern auch seine Familie. Der Zwang, durch Arbeit ein Einkommen zu erzielen, führt auch dazu, dass Arbeitnehmer Arbeiten durchführen müssen, die hinsichtlich ihrer Qualifikation als geringerwertig einzustufen sind (vgl. zum Beispiel die Zumutbarkeitsregelung in § 10 SGB II). Aus dieser Situation heraus besteht auf der Seite der Arbeitnehmer ein hohes Interesse an dem Erhalt des Arbeitsplatzes und damit auch an einem starken Kündigungsschutz. In rechtlicher Hinsicht wird dieses Interesse durch grundgesetzliche Regelungen, insbesondere die Freiheit der Berufswahl und der Berufsausübung, Art. 12 GG[16], darüber hinaus auch durch die allgemeine Handlungsfreiheit, Art. 2 Abs. 1 GG, geschützt.
+
+Für Arbeitgeber bedeutet der Kündigungsschutz eine Einschränkung ihrer unternehmerischen Handlungsfreiheit und eine zusätzliche Kostenbelastung.[16] Arbeitnehmer, die aufgrund Alters weniger leistungsfähig werden, die erkranken oder Fehler begehen, müssen aufgrund des Kündigungsschutzes weiterbeschäftigt werden, ein Personalabbau wegen sinkender Umsätze kann nicht kurzfristig und zeitnah durchgeführt werden. Daher besteht ein hohes Interesse der Arbeitgeber an geringem Kündigungsschutz. In rechtlicher Hinsicht wird dieses Interesse ebenfalls durch grundgesetzliche Regelungen geschützt, auch für Arbeitgeber bildet der Kündigungsschutz eine Einschränkung ihrer Berufsausübungsfreiheit, Art. 12 GG, ihrer Eigentumsfreiheit, Art. 14 GG und ihrer allgemeinen Handlungsfreiheit, Art. 2 Abs. 1 GG.
+
+Dieses Spannungsfeld der wechselseitigen Interessen kann nicht aufgelöst werden. Ein „Mehr“ an Kündigungsschutz führt unmittelbar zu einer größeren Einschränkung unternehmerischen Handelns, ein „Weniger“ an Kündigungsschutz zu einer Beschränkung grundrechtlich geschützter Rechtspositionen der Arbeitnehmer.
+
+Diese Grundrechtskollision muss vom Gesetzgeber angemessen zum Ausgleich gebracht werden.[17] Dabei ist insbesondere das Sozialstaatsprinzip, Art. 20 Abs. 1 GG, zu berücksichtigen. Aus dem Sozialstaatsprinzip, Art. 20 Abs. 1 GG, ergibt sich die Notwendigkeit eines – wie auch immer ausgestalteten – Kündigungsschutzes.[18] Auf das Sozialstaatsprinzip nimmt der Gesetzgeber daher Bezug, indem er die Wirksamkeit von Kündigungen an ihrer „sozialen Rechtfertigung“ misst (vgl. § 1 Abs. 1 KSchG).
+
+Die Frage, wie der Kündigungsschutz ausgestaltet werden soll, setzt zusammenfassend eine (politische) Entscheidung voraus, wessen Interesse wie hoch zu bewerten ist. Diese Frage wird naturgemäß von den unterschiedlichen Interessengruppen unterschiedlich beantwortet. Dabei wird auf vielen unterschiedlichen Ebenen mit stark unterschiedlichen Ansätzen argumentiert. Die Auseinandersetzung wird in wirtschaftlicher, politischer, gesellschaftlicher familiärer oder privater Hinsicht geführt, je nach dem, aus welchem Interessenbereich die Argumente vorgetragen werden. Ein Argument für oder gegen den Kündigungsschutz bildet daher immer auch ein Argument für oder gegen die Interessen von Arbeitgebern bzw. Arbeitnehmern.
+
+Folgende Argumente werden für den Kündigungsschutz nach deutscher Regelung angeführt:
+
+Folgende arbeitsmarktpolitische Argumente werden gegen den Kündigungsschutz nach deutscher Regelung angeführt:
+
+Das Miet- und Pachtrecht unterscheidet beim Kündigungsschutz in Mietverhältnisse über Wohnraum und Miet- und Pachtverhältnisse über Räume, die keine Wohnräume sind. 
+
+Der Kündigungsschutz im Mietrecht über Wohnraum erschwert wegen "der überragenden Bedeutung der Wohnung als Lebensmittelpunkt des menschlichen Daseins"[21] die Kündigung eines Mietverhältnisses durch den Vermieter.
+
+Für die Kündigung ist die Schriftform vorgeschrieben (§ 568 Abs. 1 BGB). Die ordentliche bzw. fristgerechte Kündigung eines Mietverhältnisses durch den Mieter ist jederzeit ohne Angabe von Gründen unter Einhaltung der gesetzlichen oder vertraglich vereinbarten Kündigungsfrist möglich. Für den Vermieter ist eine Kündigung des Mietverhältnisses nur bei Vorliegen eines berechtigten Interesses möglich (§ 573 BGB). Dieses Interesse muss in der Kündigung angegeben werden. Mögliche Kündigungsgründe werden in § 573 Abs. 2 BGB benannt.
+
+Der Mieter kann der Kündigung nach § 574 BGB widersprechen, wenn die Beendigung des Mietverhältnisses für ihn eine nicht zu rechtfertigende Härte darstellt, beispielsweise wenn Obdachlosigkeit droht oder wegen einer Behinderung geeigneter barrierefreier Ersatzwohnraum nicht beschafft werden kann.
+
+Bei der Abwägung mit den Interessen des Vermieters werden nur die im Kündigungsschreiben angegebenen Gründe berücksichtigt (§ 574 Abs. 3 BGB).
+
+Bei Wohnungsknappheit oder Schwierigkeit bei der Ersatzwohnungsbeschaffung kann jeder Mieter – auch der nicht sozial schwache – eine Räumungsfrist gemäß § 721 ZPO beantragen. In der Regel werden drei bis sieben Monate zuzüglich zur Kündigungsfrist nach BGB gewährt. Dies liegt allerdings im Ermessen des Richters. Ein Rechtsanspruch auf eine relevante Räumungsfrist besteht nicht. Seit dem Inkrafttreten der Insolvenzordnung zum 1. Januar 1999 besteht ein Kündigungsschutz bei Insolvenz des Mieters, den es in der alten Konkursordnung nicht gab (§ 112 InsO).
+
+Ähnlich der deutschen Kündigungsschutzklage kann ein Arbeitnehmer oder der Betriebsrat die arbeitgeberseitige Kündigung bei Gericht anfechten, wenn die Kündigung sozial ungerechtfertigt ist (§ 105 Abs. 3 Nr. 2 ArbVG).[23][24] Außerdem genießen bestimmte Personen einen besonderen Kündigungsschutz wie beispielsweise gewerkschaftlich engagierte oder ältere Arbeitnehmer (§ 105 Abs. 3 Nr. 1 ArbVG).[25] Kündigungen sind mitbestimmungspflichtig (§ 105 Abs. 1 ArbVG). Bei betriebsbedingten Kündigungen muss eine Sozialauswahl stattfinden (§ 105 Abs. 3c ArbVG).
+
+Die Kündigung von Arbeitsverträgen ist – wie diejenige von Mietverträgen – im schweizerischen Obligationenrecht (OR) geregelt.
+
+Ein Arbeitsverhältnis kann durch Vereinbarung, d. h. wenn sich beide Parteien einig sind, jederzeit aufgelöst werden (Art. 115 OR, analog). Es besteht keine besondere Kündigungsfrist. Das Arbeitsverhältnis endet ohne Kündigung durch Zeitablauf (Art. 334 Abs. 1 OR).
+
+Für eine Kündigung durch den Arbeitgeber beträgt die Kündigungsfrist, wenn das Arbeitsverhältnis in dem Betrieb oder Unternehmen
+1. zwei Jahre bestanden hat, einen Monat zum Ende eines Kalendermonats,
+2. fünf Jahre bestanden hat, zwei Monate zum Ende eines Kalendermonats,
+3. acht Jahre bestanden hat, drei Monate zum Ende eines Kalendermonats,
+4. zehn Jahre bestanden hat, vier Monate zum Ende eines Kalendermonats,
+5. zwölf Jahre bestanden hat, fünf Monate zum Ende eines Kalendermonats,
+6. 15 Jahre bestanden hat, sechs Monate zum Ende eines Kalendermonats,
+7. 20 Jahre bestanden hat, sieben Monate zum Ende eines Kalendermonats.
+Bei der Berechnung der Beschäftigungsdauer werden Zeiten, die vor der Vollendung des 25. Lebensjahrs des Arbeitnehmers liegen, nicht berücksichtigt. (gemäß § 622 Abs. 2 BGB)
+
+Grundsätzlich kann schriftlich vereinbart werden, dass die Kündigungsfrist abgeändert wird. Sie muss aber, außer bei Gesamtarbeitsverträgen und im ersten Dienstjahr, mindestens einen Monat betragen (Art. 335c Abs. 2 OR). Unterschiedlich lange Kündigungsfristen für den Arbeitgeber oder Arbeitnehmer sind in der Regel nicht zulässig (Art. 335a OR).
+
+Für die Kündigung ist in jedem Fall die Schriftform vorgeschrieben. Auf Verlangen ist dem Gekündigten eine schriftliche Begründung der Kündigung auszuhändigen (Art. 335 Abs. 2 OR) dazu BGE 116 II 145
+
+Eine Kündigung von Arbeitgeber- wie von Arbeitnehmerseite ist missbräuchlich, wenn sie aus folgenden Gründen ausgesprochen wird:
+
+Pflicht zur Zahlung eines Schadenersatzes, welcher maximal sechs Monatslöhne beträgt. Die Höhe wird durch das Gericht festgelegt. Für den Arbeitnehmer ist das arbeitsgerichtliche Verfahren kostenlos.
+
+Dem Arbeitnehmer darf nicht gekündigt werden
+
+Eine Kündigung zur Unzeit ist nichtig. Erfolgte die Kündigung vorher, so wird die Kündigungsfrist unterbrochen.
+
+Ein Arbeitsverhältnis kann durch Vereinbarung, d. h. wenn sich beide Parteien einig sind, jederzeit aufgelöst werden (Art. 115 OR, analog). Im Weiteren wird das Arbeitsverhältnis durch den Tod des Arbeitnehmers beendet. In diesem Fall muss der Arbeitgeber den Hinterbliebenen noch einen Monatslohn, nach fünf Dienstjahren zwei Monatslöhne auszahlen (Art. 338 OR). Bei einer (sofortigen) Freistellung wird der Arbeitnehmer von sämtlicher Arbeitspflicht entbunden, erhält aber bis zum Ablauf der ordentlichen Kündigungsfrist den vereinbarten Lohn weiterhin ausbezahlt.
+
+Eine fristlose Kündigung ist zulässig bei einem wichtigen Grund, wobei ein wichtiger Grund dann gegeben ist, wenn nach Treu und Glauben das Weiterführen des Arbeitsverhältnis nicht mehr zugemutet werden kann. (Art. 337 OR) Die Gerichtspraxis hat folgende Sachverhalte als wichtige Gründe eingestuft: Begehung eines Verbrechens, Illoyalität (zum Beispiel Konkurrenzierung des Arbeitgebers), falschen Angaben bei der Stellenbewerbung, Unkorrektheiten (zum Beispiel wiederholte Unpünktlichkeit trotz Abmahnung), Drohung (zum Beispiel ein Betriebsgeheimnis zu verraten).
+
+Gewerkschaften können mit den Arbeitgebern Gesamtarbeitsverträge aushandeln, welche den Arbeitnehmern bessere Konditionen einräumen als die gesetzlichen Regelungen. Besondere Bedingungen bestehen auch für Angestellte der Bundesverwaltung (Bundespersonalgesetz).
+Obwohl bzw. gerade weil der Arbeitnehmerschutz im Vergleich zu umliegenden Staaten eher schwach ausgebildet ist, beträgt die Arbeitslosigkeit im Durchschnitt nur etwa 2–3 %. Ebenfalls sind Streiks und Arbeitskämpfe eher selten. Arbeitgeber und Arbeitnehmer, die so genannten Sozialpartner, sind in den meisten Fällen bemüht, Arbeitskonflikte durch Verhandlungen gütlich beizulegen. Diese Sozialpartnerschaft hat Tradition; sie wurde in den 1930er Jahren als Reaktion auf den bevorstehenden Zweiten Weltkrieg geschaffen und hat sich bis heute bewährt. Allerdings hat die Gewerkschaft UNIA 2005 und 2006 öfters die Sozialpartnerschaft gebrochen und nach Meinung von Kritikern unnötig Arbeitsplätze und Unternehmen gefährdet.
+Eine weitere Besonderheit des schweizerischen Arbeitsrechtes ist es, dass bei Massenentlassungen kein gesetzlicher Anspruch auf einen Sozialplan besteht. Wenn ein solcher trotzdem angeboten wird, so geschieht das auf freiwilliger Basis oder (bei solventen Arbeitgebern) auf mehr oder weniger sanften Druck der Gewerkschaften bzw. der öffentlichen Meinung.
+
+Seit 2014 gibt es in Belgien eine einheitliche Kündigungsfrist für Arbeiter und Angestellte. Wer zwei Jahre beschäftigt ist, hat Anrecht auf elf Wochen Kündigungsfrist. Ab fünf Jahren Beschäftigungszeit beträgt die Frist 18 Wochen und verlängert sich danach um drei Wochen pro Dienstjahr. Diese Regelung gilt für Arbeitsverträge, die ab dem 1. Januar 2014 geschlossen wurden. 
+

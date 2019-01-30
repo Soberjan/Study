@@ -1,0 +1,37 @@
+
+The Democracy Index is an index compiled by the UK-based company the Economist Intelligence Unit (EIU) that intends to measure the state of democracy in 167 countries, of which 166 are sovereign states and 164 are UN member states.
+
+The index was first produced in 2006, with updates for 2008, 2010 and the following years since then. The index is based on 60 indicators grouped in five different categories measuring pluralism, civil liberties and political culture. In addition to a numeric score and a ranking, the index categorises countries as one of four regime types: full democracies, flawed democracies, hybrid regimes and authoritarian regimes.
+
+As described in the report,[2] the democracy index is a weighted average based on the answers of 60 questions, each one with either two or three permitted alternative answers. Most answers are "experts' assessments"; the report does not indicate what kinds of experts, nor their number, nor whether the experts are employees of the Economist Intelligence Unit or independent scholars, nor the nationalities of the experts. Some answers are provided by public-opinion surveys from the respective countries. In the case of countries for which survey results are missing, survey results for similar countries and expert assessments are used in order to fill in gaps.
+
+The questions are distributed in the five categories: electoral process and pluralism, civil liberties, functioning of government, political participation, and political culture. Each answer is translated to a mark, either 0 or 1, or for the three-answer alternative questions, 0.5. With the exceptions mentioned below, the sums are added within each category, multiplied by ten, and divided by the total number of questions within the category. There are a few modifying dependencies, which are explained much more precisely than the main rule procedures. In a few cases, an answer yielding zero for one question voids another question; e.g., if the elections for the national legislature and head of government are not considered free (question 1), then the next question, "Are elections... fair?" is not considered, but automatically marked zero. Likewise, there are a few questions considered so important that a low score on them yields a penalty on the total score sum for their respective categories, namely:
+
+The five category indices, which are listed in the report, are then averaged to find the Democracy Index for a given country. Finally, the Democracy Index, rounded to two decimals, decides the regime type classification of the country.
+
+The report discusses other indices of democracy, as defined e.g. by Freedom House, and argues for some of the choices made by the team from the Economist Intelligence Unit. In this comparison, a higher emphasis has been put on the public opinion and attitudes, as measured by surveys, but on the other hand, economic living standard has not been weighted as one criterion of democracy (as seemingly some other investigators[who?] have done).[3][4]
+
+The report is widely cited in the international press as well as in peer reviewed academic journals.[5]
+
+Full democracies are nations where civil liberties and basic political freedoms are not only respected, but also reinforced by a political culture conducive to the thriving of democratic principles. These nations have a valid system of governmental checks and balances, independent judiciary whose decisions are enforced, governments that function adequately, and media that is diverse and independent. These nations have only limited problems in democratic functioning.[6]
+
+Flawed democracies are nations where elections are fair and free and basic civil liberties are honored but may have issues (e.g. media freedom infringement). These nations have significant faults in other democratic aspects, including underdeveloped political culture, low levels of participation in politics, and issues in the functioning of governance.[6]
+
+Hybrid regimes are nations where consequential irregularities exist in elections regularly preventing them from being fair and free. These nations commonly have governments that apply pressure on political opponents, non independent judiciaries, and have widespread corruption, harassment and pressure placed on the media, anemic rule of law, and more pronounced faults than flawed democracies in the realms of underdeveloped political culture, low levels of participation in politics, and issues in the functioning of governance.[6]
+
+Authoritarian regimes are nations where political pluralism has vanished or is extremely limited. These nations are often absolute monarchies or dictatorships, may have some conventional institutions of democracy but with meager significance, infringements and abuses of civil liberties are commonplace, elections (if they take place) are not fair and free, the media is often state-owned or controlled by groups associated with the ruling regime, the judiciary is not independent, and they are characterised by the presence of omnipresent censorship and suppression of governmental criticism.[6]
+
+Listing by country is available on The Economist website.[1]
+
+In 2016, the United States was downgraded from a full democracy to a flawed democracy;[7] its score, which had been experiencing a persistent downward trend, crossed the threshold from 8.05 in 2015 to 7.98 in 2016. The report states that this was caused by a myriad of factors, dating back to the late 1960s, which eroded Americans' trust in governmental institutions.[7][8][9]
+
+The 2017 Democracy index registered the worst year for global democracy since 2010-11 in the aftermath of the global economic and financial crisis[citation needed]. 89 countries experienced a decline in their total score compared with 2016, more than three times as many as the countries that recorded an improvement[citation needed]. Asia was the worst performing region overall, while Venezuela was downgraded from a "hybrid regime" to an "authoritarian regime" and Armenia was reupgraded from an "authoritarian regime" to a "hybrid regime".[10]
+
+Australia (ranked 8th) and Taiwan (ranked 33rd) both legalised gay marriage in 2017.  In China, Xi Jinping, General Secretary of the Communist Party of China, further entrenched his power by writing his theoretical contribution to the Chinese Communist Party’s ideology, dubbed “Xi Jinping Thought”, into the party’s constitution. Moldova was downgraded from a “ﬂawed democracy” to a “hybrid regime” as a result of problematic elections. By contrast, Armenia moved from the authoritarian category to a “hybrid regime” as a result of constitutional changes that shifted power from the presidency to parliament.[11]
+
+The following table gives the number and percentage of countries and the percentage of the world population for each regime type in 2018:[1]
+
+World population refers to the total population of the 167 countries covered by the Index. Since this excludes only micro-states, this is nearly equal to the entire estimated world population.
+
+The following table gives the index average by world region, and the number of covered countries in 2017. Note that some regional groups (e.g. Eastern Europe) are very heterogeneous and composed of full democracies as well as authoritarian regimes:
+

@@ -1,0 +1,61 @@
+
+Als AMD Sempron verkauft AMD seit 2004 Prozessoren auf Basis der K8-Architektur, anfangs allerdings ohne AMD64-Erweiterung, für das Niedrigpreissegment. Im selben Zeitraum wurde aber auch noch die K7-Architektur zur Vermarktung anderer Sempron-Prozessoren genutzt. Ab der zweiten Jahreshälfte 2005 brachte AMD dann auch Sempron-Prozessoren mit Unterstützung für AMD64 auf den Markt. Diese werden im Handel oft als Sempron 64 bezeichnet, dies ist aber keine offizielle Bezeichnung. Dies geschah anscheinend als Reaktion auf günstige Celeron Ds mit 64-Bit-Erweiterung des Herstellers Intel. Ende 2005 wurde dann die Produktion von AMD Semprons ohne AMD64-Erweiterung eingestellt.
+
+Der AMD Sempron besitzt einen kleineren L2-Cache und niedrigere Taktfrequenzen als vergleichbare AMD Athlon 64-Prozessoren. Außerdem unterstützten die ersten Modelle AMD64-Technologie nicht.
+
+Alle Prozessoren für den Sockel 754 besitzen einen Speichercontroller mit einem Kanal (72 Bit, Single-Channel-Betrieb) für DDR-SDRAM.
+
+Alle Prozessoren für den Sockel 939 besitzen einen Speichercontroller mit zwei Kanälen (128 Bit, Dual-Channel-Betrieb) für DDR-SDRAM.
+
+Hinweis: Semprons für den Sockel 939 wurden nur an OEMs ausgeliefert und wurden bzw. werden nicht offiziell bei AMD gelistet.
+
+Alle Prozessoren für den Sockel AM2 besitzen einen Speichercontroller mit zwei Kanälen (128 Bit, Dual-Channel-Betrieb) für DDR2-SDRAM.
+
+Doppelkernprozessor (Dual-Core)
+
+Am29000 • Am286 • Am386 • Am486 • 5x86 • K5 • K6 • K6-2 • K6-III • K7 • K8/K8L • K9 • K10 • Bobcat • Bulldozer • Jaguar • Steamroller • Puma • Zen 
+
+AMD64 • AMD-V • HSA • Mantle • live! • Quad FX • QuantiSpeed • Turbo Core
+
+Epyc
+
+Ryzen • Threadripper
+
+Ryzen
+
+Ryzen
+
+Llano (K10) •          Trinity,          Richland (Piledriver) •          Kaveri (Steamroller) •          Carrizo, Bristol Ridge (Excavator)
+
+Ontario, Zacate (Bobcat) • Kabini, Temash (Jaguar) • Beema, Mullins (Puma)
+
+Ontario G-Serie
+
+Opteron (K8) • Opteron (K9) • Opteron (K10) • Opteron (Bulldozer) • Opteron (Piledriver)
+
+Phenom • Phenom II
+
+Phenom II
+
+Athlon (K7) • Athlon XP • Athlon 64 (FX) • Athlon 64 X2 • Athlon X2 • Athlon II
+
+Athlon XP-M • Mobile Athlon 64 • Athlon 64 X2 • Athlon X2 • Athlon II
+
+Athlon MP
+
+Turion 64 • Turion 64 X2 • Turion X2 • Turion II
+
+Sempron (K7) • Sempron (K8)
+
+Mobile Sempron
+
+Duron
+
+Mobile Duron
+
+GX • LX • NX • NX 2001
+
+Alchemy
+
+690-Serie • 700-Serie • 800-Serie • 900-Serie • AM4-Chipsätze
+

@@ -1,0 +1,24 @@
+
+
+
+Michael Levitt, FRS[13] (Hebrew: מיכאל לויט‎; born 9 May 1947) is an American-British-Israeli[2] biophysicist and a professor of structural biology at Stanford University, a position he has held since 1987.[14][15] Levitt received the 2013 Nobel Prize in Chemistry,[16] together with Martin Karplus and Arieh Warshel, for "the development of multiscale models for complex chemical systems".[17][18][19][20]
+
+Michael Levitt was born in Pretoria, South Africa, to a Jewish family from Plungė, Lithuania; his father was Lithuanian and his mother is of Czech descent.[21] He attended Sunnyside Primary School and then Pretoria Boys High School between 1960 and 1962. The family moved to England when he was 15.[22] Levitt spent 1963 studying applied mathematics at the University of Pretoria.[23] He attended King's College London, graduating with a first-class honours degree in Physics in 1967.[24][1][25]
+
+In 1967, he visited Israel for the first time. Shneior Lifson,[26] and a student of his – Arieh Warshel, of the Technion in Haifa. Together with his Israeli wife, Rina,[27] a multimedia artist, he left to study at Cambridge, where his three children were born. Levitt was a PhD student in Computational biology at Peterhouse, Cambridge, and was based at the Laboratory of Molecular Biology from 1968 to 1972, where he developed a computer program for studying the conformations of molecules that underpinned much of his later work.[7][28]
+
+In 1979, he returned to Israel and conducted research at the Weizmann Institute of Science in Rehovot, becoming an Israeli citizen in 1980. He served in the Israel Defense Forces for six weeks in 1985. In 1986, he began teaching at Stanford University, and since then has split his time between Israel and California.[22] He went on to gain a research fellowship at Gonville and Caius College, Cambridge.
+
+From 1980 to 1987, he was Professor of Chemical Physics at the Weizmann Institute of Science, Rehovot. Thereafter, he has served as Professor of Structural biology, at Stanford University, California.
+
+Levitt was one of the first researchers to conduct molecular dynamics simulations of DNA and proteins and developed the first software for this purpose.[30][31][32][33] He is currently well known for developing approaches to predict macromolecular structures, having participated in many Critical Assessment of Techniques for Protein Structure Prediction (CASP) competitions,[34] where he criticised molecular dynamics for inability to refine protein structures.[35] He has also worked on simplified representations of protein structure for analysing folding and packing,[36][37][38] as well as developing scoring systems for large-scale sequence-structure comparisons.[39][40] He has mentored many successful scientists, including Mark Gerstein and Ram Samudrala.[6][41] Cyrus Chothia was one of his colleagues.
+
+Levitt has served on the Scientific Advisory Boards of the following companies: Dupont Merck Pharmaceuticals, AMGEN, Protein Design Labs, Affymetrix, Molecular Applications Group, 3D Pharmaceuticals, Algodign, Oplon Ltd, Cocrystal Discovery, InterX, and StemRad, Ltd,.[citation needed]
+
+Levitt was elected an EMBO Member in 1983,[3] a Fellow of the Royal Society (FRS) in 2001,[13] and a member of the National Academy of Sciences in 2002,[42] and received the 2013 Nobel Prize in Chemistry, together with Martin Karplus and Arieh Warshel, "for the development of multiscale models for complex chemical systems".[43] He received the DeLano Award for Computational Biosciences in 2014.[44] He was elected an ISCB Fellow by the International Society for Computational Biology in 2015.[4][45]
+
+Levitt holds American, British and Israeli citizenship. His wife Rina died on 23 January 2017. He is the sixth Israeli to be awarded the Nobel Prize in Chemistry in under a decade.[46][47]
+
+"All text published under the heading 'Biography' on Fellow profile pages is available under Creative Commons Attribution 4.0 International License." --"Royal Society Terms, conditions and policies". Archived from the original on 11 November 2016. Retrieved 9 March 2016.CS1 maint: BOT: original-url status unknown (link)
+ This article incorporates text available under the CC BY 4.0 license.
+

@@ -1,0 +1,176 @@
+
+A one instruction set computer (OISC), sometimes called an ultimate reduced instruction set computer (URISC), is an abstract machine that uses only one instruction – obviating the need for a machine language opcode.[1][2][3] With a judicious choice for the single instruction and given infinite resources, an OISC is capable of being a universal computer in the same manner as traditional computers that have multiple instructions.[2]:55 OISCs have been recommended as aids in teaching computer architecture[1]:327[2]:2 and have been used as computational models in structural computing research.[3]
+
+In a Turing-complete model, each memory location can store an arbitrary integer, and – depending on the model[clarification needed] – there may be arbitrarily many locations. The instructions themselves reside in memory as a sequence of such integers.
+
+There exists a class of universal computers with a single instruction based on bit manipulation such as bit copying or bit inversion. Since their memory model is finite, as is the memory structure used in real computers, those bit manipulation machines are equivalent to real computers rather than to Turing machines.[4]
+
+Currently known OISCs can be roughly separated into three broad categories:
+
+Bit-manipulating machines are the simplest class.[clarification needed]
+
+A bit copying machine, called BitBitJump, copies one bit in memory and passes the execution unconditionally to the address specified by one of the operands of the instruction. This process turns out to be capable of universal computation (i.e. being able to execute any algorithm and to interpret any other universal machine) because copying bits can conditionally modify the code that will be subsequently executed.
+
+Another machine, called the Toga computer, inverts a bit and passes the execution conditionally depending on the result of inversion.
+
+Yet another bit operating machine,[which?] similar to BitBitJump, copies several bits at the same time. The problem of computational universality is solved in this case by keeping predefined jump tables in the memory.[clarification needed]
+
+Transport triggered architecture (TTA) is a design in which computation is a side effect of data transport. Usually, some memory registers (triggering ports) within common address space perform an assigned operation when the instruction references them. For example, in an OISC using a single memory-to-memory copy instruction, this is done by triggering ports that perform arithmetic and instruction pointer jumps when written to.
+
+Arithmetic-based Turing-complete machines use an arithmetic operation and a conditional jump. Like the two previous universal computers, this class is also Turing-complete. The instruction operates on integers which may also be addresses in memory.
+
+Currently there are several known OISCs of this class, based on different arithmetic operations:
+
+Common choices for the single instruction are:
+
+Only one of these instructions is used in a given implementation. Hence, there is no need for an opcode to identify which instruction to execute; the choice of instruction is inherent in the design of the machine, and an OISC is typically named after the instruction it uses (e.g., an SBN OISC,[2]:41 the SUBLEQ language,[3]:4 etc.). Each of the above instructions can be used to construct a Turing-complete OISC.
+
+This article presents only subtraction-based instructions among those that are not transport triggered. However, it is possible to construct Turing complete machines using an instruction based on other arithmetic operations, e.g., addition. For example, one variation known as DLN (Decrement and jump if not zero) has only two operands and uses decrement as the base operation. For more information see Subleq derivative languages [1].
+
+The SBNZ a, b, c, d  instruction ("subtract and branch if not equal to zero") subtracts the contents at address a from the contents at address b, stores the result at address c, and then, if the result is not 0, transfers control to address d (if the result is equal to zero, execution proceeds to the next instruction in sequence).[3]
+
+The .mw-parser-output .monospaced{font-family:monospace,monospace}subleq instruction ("subtract and branch if less than or equal to zero") subtracts the contents at address a from the contents at address b, stores the result at address b, and then, if the result is not positive, transfers control to address c (if the result is positive, execution proceeds to the next instruction in sequence).[3]:4–7
+
+Pseudocode:
+
+Conditional branching can be suppressed by setting the third operand equal to the address of the next instruction in sequence.  If the third operand is not written, this suppression is implied.
+
+A variant is also possible with two operands and an internal accumulator, where the accumulator is subtracted from the memory location specified by the first operand. The result is stored in both the accumulator and the memory location, and the second operand specifies the branch address:
+
+Although this uses only two (instead of three) operands per instruction, correspondingly more instructions are then needed to effect various logical operations.
+
+It is possible to synthesize many types of higher-order instructions using only the subleq instruction.[3]:9–10
+
+Unconditional branch:
+
+Addition can be performed by repeated subtraction, with no conditional branching; e.g., the following instructions result in the content at location a being added to the content at location b:
+
+The first instruction subtracts the content at location a from the content at location Z (which is 0) and stores the result (which is the negative of the content at a) in location Z.  The second instruction subtracts this result from b, storing in b this difference (which is now the sum of the contents originally at a and b); the third instruction restores the value 0 to Z.
+
+A copy instruction can be implemented similarly; e.g., the following instructions result in the content at location b getting replaced by the content at location a, again assuming the content at location Z is maintained as 0:
+
+Any desired arithmetic test can be built.  For example, a branch-if-zero condition can be assembled from the following instructions:
+
+Subleq2 can also be used to synthesize higher-order instructions, although it generally requires more operations for a given task. For example, no fewer than 10 subleq2 instructions are required to flip all the bits in a given byte:
+
+The following program (written in pseudocode) emulates the execution of a subleq-based OISC:
+
+This program assumes that memory[] is indexed by nonnegative integers. Consequently, for a subleq instruction (a, b, c), the program interprets a < 0, b < 0, or an executed branch to c < 0 as a halting condition.  Similar interpreters written in a subleq-based language (i.e., self-interpreters, which may use self-modifying code as allowed by the nature of the subleq instruction) can be found in the external links below.
+
+There is a compiler called Higher Subleq written by Oleg Mazonka that compiles a simplified C program into subleq code.[11]
+
+The subneg instruction ("subtract and branch if negative"), also called SBN, is defined similarly to subleq:[2]:41,51–52
+
+Conditional branching can be suppressed by setting the third operand equal to the address of the next instruction in sequence.  If the third operand is not written, this suppression is implied.
+
+It is possible to synthesize many types of higher-order instructions using only the subneg instruction. For simplicity, only one synthesized instruction is shown here to illustrate the difference between subleq and subneg.
+
+Unconditional branch:[2]:88–89
+
+where Z and POS are locations previously set to contain 0 and a positive integer, respectively;
+
+Unconditional branching is assured only if Z initially contains 0 (or a value less than the integer stored in POS). A follow-up instruction is required to clear Z after the branching, assuming that the content of Z must be maintained as 0.
+
+A variant is also possible with four operands – subneg4.  The reversal of minuend and subtrahend eases implementation in hardware.  The non-destructive result simplifies the synthetic instructions.
+
+In an attempt to make Turing machine more intuitive, Z. A. Melzac consider the task of computing with positive numbers. The machine has an infinite abacus, an infinite number of counters (pebbles, tally sticks) initially at a special location S. The machine is able to do one operation: 
+
+    Take from location X as many counters as there are in location Y and transfer them to location Z and proceed to next instruction.
+    If this operation is not possible because there is not enough counter in Y, then leave the abacus as it is an proceed to instruction T.
+
+This essentially a subneg where the test is done before rather than after the subtraction, in order to keep all number positive and mimic a human operator computing on a real world abacus.
+
+Pseudocode:
+
+After giving a few programs: multiplication, gcd, computing the nth prime number, representation in base b of an arbitrary number, sorting in order of magnitude, Melzac shows explicitly how to simulate an arbitrary Turing machine on his Arithmetic Machine.
+
+He mentions that it can easily be shown using the elements of recursive functions that every number calculable on the Arithmetic Machine is computable. A proof of which was given by Lambek [12]on a equivalent two instruction machine : X+ (increment X) and X- else T (decrement X if it not empty, else jump to T).
+
+In a reverse subtract and skip if borrow (RSSB) instruction, the accumulator is subtracted from the memory location and the next instruction is skipped if there was a borrow (memory location was smaller than the accumulator). The result is stored in both the accumulator and the memory location. The program counter is mapped to memory location 0. The accumulator is mapped to memory location 1.[2]
+
+To set x to the value of y minus z:
+
+[Note 1] If the value stored at "temp" is initially a negative value and the instruction that executed right before the first "RSSB temp" in this routine borrowed, then four "RSSB temp" instructions will be required for the routine to work.
+
+[Note 2] If the value stored at "z" is initially a negative value then the final "RSSB x" will be skipped and thus the routine will not work.
+
+A transport triggered architecture uses only the move instruction, hence it was originally called a "move machine". This instruction moves the contents of one memory location to another memory location combining with the current content of the new location:[2]:42[13]
+
+sometimes written as:
+
+The operation performed is defined by the destination memory cell. Some cells are specialized in addition, some other in multiplication, etc. So memory cells are not simple store but coupled with an arithmetic logic unit (ALU) setup to perform only one sort of operation with the current value of the cell. Some of the cells are control flow instructions to alter the program execution with jumps, conditional execution, subroutines, if-then-else, for-loop, etc...
+
+A commercial transport triggered architecture microcontroller has been produced called MAXQ, which hides the apparent inconvenience of an OISC by using a "transfer map" that represents all possible destinations for the move instructions.[14]
+
+Cryptoleq[15] is a language consisting of one, the eponymous, instruction, is capable of performing general-purpose computation on encrypted programs and is a close relative to Subleq. Cryptoleq works on continuous cells of memory using direct and indirect addressing, and performs two operations O1 and O2 on three values A, B, and C:
+
+where a, b and c are addressed by the instruction pointer, IP, with the value of IP addressing a, IP + 1 point to b and IP + 2 to c.
+
+In Cryptoleq operations O1 and O2 are defined as follows:
+
+The main difference with Subleq is that in Subleq, O1(x,y) simply subtracts y from x and O2(x) equals to x. Cryptoleq is also homomorphic to Subleq, modular inversion and multiplication is homomorphic to subtraction and the operation of O2 corresponds the Subleq test if the values were unencrypted. A program written in Subleq can run on a Cryptoleq machine, meaning backwards compatibility. Cryptoleq though, implements fully homomorphic calculations and since the model is be able to do multiplications. Multiplication on an encrypted domain is assisted by a unique function G that is assumed to be difficult to reverse engineer and allows re-encryption of a value based on the O2 operation:
+
+where 
+
+
+
+
+
+
+y
+~
+
+
+
+
+
+{\displaystyle {\tilde {y}}}
+
+ is the re-encrypted value of y and 
+
+
+
+
+
+
+0
+~
+
+
+
+
+
+{\displaystyle {\tilde {0}}}
+
+ is encrypted zero. x is the encrypted value of a variable, let it be m, and 
+
+
+
+
+
+
+x
+¯
+
+
+
+
+
+{\displaystyle {\bar {x}}}
+
+ equals 
+
+
+
+N
+m
++
+1
+
+
+{\displaystyle Nm+1}
+
+.
+
+The multiplication algorithm is based on addition and subtraction, uses the function G and does not have conditional jumps nor branches. Cryptoleq encryption is based on Paillier cryptosystem.
+

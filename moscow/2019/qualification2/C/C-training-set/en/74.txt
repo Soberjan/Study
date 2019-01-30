@@ -1,0 +1,21 @@
+
+
+
+Razorpay is a payments company that provides payment solutions to online merchants in India.[1] Razorpay was founded in 2014 and is headquartered in Bangalore, India.  Razorpay allows online businesses to accept, process and disburse digital payments through several payment modes like debit cards, credit cards, net banking, UPI and prepaid digital wallets.[2][3] Razorpay payment solutions can be integrated by both web and mobile applications.[4] In February 2018, Razorpay has collaborated with Indian Railway Catering and Tourism Corporation (IRCTC) to help customers make online payments on latter's website and mobile app through UPI. [5]
+
+Razorpay was founded in 2014 by IIT Roorkee alumni Shashank Kumar and Harshil Mathur in Jaipur and was part of the winter batch of Y Combinator's startup program in 2015.
+
+After being incubated by Y Combinator in 2015, Razorpay raised a seed funding of $2.5 million, which was led by Matrix Partners and included 33 other angel investors like Justin Kan, Ram Shriram, Naveen Tewari and Kunal Shah.[6]
+
+In September 2015, Razorpay raised a total of $9 million in Series A funding with participation from Matrix Partners and Tiger Management.[7]
+
+In July 2016, Mastercard made a strategic investment in Razorpay. This investment was part of the 'Start Path' program launched by MasterCard.[8]
+
+Razorpay raised $20 million in January 2018 as Series B Funding from its initial investors, Tiger Management, Matrix Partners and Y Combinator.[9]
+
+Razorpay facilitates online payments by providing developer-friendly APIs and integration process.[4] Other offerings include a comprehensive dashboard to manage payments, as well as other plugins and integration suites for all major backend technologies and e-commerce platforms.
+
+In September 2017, Razorpay launched four products - Route, Smart Collect, Subscriptions and Invoices, which allow businesses to manage multiple aspects of money movement including collection, reconciliation, and disbursal.[10]
+
+
+

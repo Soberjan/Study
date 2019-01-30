@@ -1,0 +1,11 @@
+
+RISC är en akronym för Reduced Instruction Set Computing (alternativt Load-Store arkitektur som är ett mer korrekt namn). RISC-principerna utvecklades av IBMs Watson Research Center mellan 1975 och 1979 när den första RISC-processorn med namnet 801 levererades.
+
+RISC är en klass av processorarkitekturer som bygger på att processorns instruktioner är enkla, regelbundna och (idealiskt) lika långa. Det blir då lätt att ordna så att nästkommande instruktion kan hämtas samtidigt som föregående instruktioner avkodas och utförs. Nackdelen är att det typiskt krävs ett antal sådana instruktioner för att utföra samma jobb som en icke-RISC instruktion. Det som ändå gjorde RISC-principen meningsfull var att detta kunde kompenseras genom att:
+
+Det fanns även andra faktorer, positiva och negativa, men detta är en förenklad framställning.
+
+De tidigare arkitekturerna (och deras efterföljare) fick retroaktivt den kollektiva etiketten CISC (Complex Instruction Set Computer), något som i många fall var ganska missvisande eftersom enklare sådana konstruktioner (till exempel 8080) kunde ha både färre instruktioner och enklare adresseringsmoder än avancerade RISC-arkitekturer. Av detta skäl är load-store arkitektur en mer träffande benämning än "RISC" eftersom det syftar på ett av de centrala karaktärsdragen: att endast load- och store-instruktioner läser och skriver data till minnet, medan aritmetiska operationer och tester måste göras via processorregister.
+
+Genom drastiskt fallande kostnader per transistor har det sedan 1980-talet blivit successivt allt mer ekonomiskt att inkorporera både mer logik samt stora och snabba läsminnen (för avkodning) i mikroprocessorer; även processorer som inte är av typen RISC (alltså load-store) har därigenom fått en liknande parallell instruktionshämtning, avkodning och exekvering. Ett tidigt exempel på en sådan implementering är i486, andra exempel är eZ80 och ZNEO. För inbyggda system (ej persondatorer) har dagens snabba statiska RAM även gjort att bra prestanda kan uppnås utan cacheminnen, något som var praktiskt omöjligt för (de tidiga) RISC-datorerna.
+

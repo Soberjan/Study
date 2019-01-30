@@ -1,0 +1,17 @@
+
+La conversione, in linguistica, è un meccanismo di derivazione, che consiste nell'attribuire ad un lessema una diversa categoria grammaticale, senza però modificarne la forma.[1]
+
+Alcuni studiosi si riferiscono a questo meccanismo usando le espressioni derivazione zero o suffissazione zero[2].
+
+Nel caso di una derivazione per suffissazione in cui il suffisso aggiunto alla parola coincida con la desinenza, alcuni linguisti parlano anche di "derivazione diretta" (rientrerebbe dunque in questo caso la derivazione registrare da registro).[3]
+
+La derivazione, insieme alla composizione, è uno dei tipici procedimenti tramite cui viene arricchito il lessico di una data lingua. Nelle lingue fusive, la derivazione avviene tipicamente attraverso affissazione e talvolta attraverso alterazione (con l'alterato che viene lessicalizzato). Nelle lingue isolanti si ricorre invece alla conversione, che consente di trascategorizzare un lemma senza modificarne la forma. Così in inglese, lingua tendenzialmente isolante, la categoria di un lessema come bank è intesa in base al contesto (bank, "banca"; to bank, "conservare", "depositare in banca"). Una lingua fusiva come l'italiano ricorre invece a modificazioni morfologiche: se in inglese stop può essere un nome o un verbo, in italiano è il suffisso -are che impone al termine la categoria di verbo (stoppare).[1]
+
+I tipi morfologici delle lingue non vanno intesi rigidamente: ciò significa che una lingua flessiva può avere aree in cui si comporta come una isolante. Fenomeni di conversione ricorrono dunque anche nelle lingue fusive, anche se assai più raramente che nelle isolanti.[1]
+
+Come accennato, in una lingua fusiva come l'italiano non ricorre tanto spesso il fenomeno della conversione. In questa lingua è sempre possibile attribuire valore di sostantivo ad un verbo di forma indefinita (è il caso del cosiddetto "infinito sostantivato"):[1]
+
+A rigore, però, si può parlare di vera e propria conversione solo quando il verbo indefinito così sostantivato è passibile di flessione completa (sapere → il sapere → i saperi; potere → il potere → i poteri) ed esercita una reggenza nominale (i poteri della mente). Sono oggetto di conversione il participio presente (gli abbaglianti, i concorrenti; talvolta con valore aggettivale: un film avvincente), il participio passato (udito, abitato, veduta, andata e ritorno, oltre alle varie polirematiche costruite su messa, da mettere: messa in opera, messa in moto ecc.) e, assai di rado, il gerundio (crescendo, dividendo, laureando ecc.). Sono poi esempi di conversione anche le lessicalizzazioni di alcune forme verbali finite (credo, distinguo, passi), talvolta inserite in locuzioni con differente grado di univerbazione (nullaosta, fai da te, va e vieni).[1]
+
+La conversione più frequente in italiano è quella da aggettivo a nome (vuoto → il vuoto; pieno → il pieno; comunista, ottimista, romanista, finanziaria, impermeabile) e quella da nome ad aggettivo (è il caso tipico di molti insulti: stronzo, coglione). Esistono poi casi di aggettivi convertiti in avverbi (andare forte, parlare chiaro) o di nomi convertiti in avverbi (andare via). Qualunque parte del discorso può poi essere trasformata in una interiezione: gli avverbi (già!), i verbi (evviva!, abbasso!, basta!), gli aggettivi (bravo!), i nomi (cavolo!), gli ideofoni (bum!).[1]
+

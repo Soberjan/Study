@@ -1,0 +1,33 @@
+
+SSE4 (Streaming SIMD Extensions 4) ist eine Befehlssatzerweiterung, die bei AMD seit AMD Bulldozer und bei Intel seit der Penryn-Variante der Core-2-Prozessoren verwendet wird. Der zweite Teil, SSE4.2 genannt, wurde mit der Intel-Nehalem-Mikroarchitektur eingeführt.
+
+Intel SSE4 besteht aus 54 Befehlen. Der erste Teil von 47 Befehlen erschien unter dem Namen SSE4.1. Darüber hinaus erschienen noch einmal sieben Befehle als SSE4.2 ab Core i7 ab der Variante Nehalem.
+
+AMD fügte anstelle dessen mit der K10-Architektur vier eigene Befehle hinzu und veröffentlichte diesen Instruktionssatz unter dem Namen SSE4a. Die Prozessoren der Bulldozer-Mikroarchitektur, die im Oktober 2011 veröffentlicht wurden, unterstützen zusätzlich zu SSE4a auch SSE4.1 und 4.2 vollständig. Intel-Prozessoren unterstützen im Gegenzug die SSE4a-Befehle bis heute nicht.
+
+Im Folgenden eine unvollständige Auflistung der neu eingeführten Befehle und ihrer Einsatzbereiche.
+
+PAE |
+NX |
+x64 (AMD64/Intel 64) |
+HTT |
+VT-x/AMD-V/VIA VT |
+3DNow! |
+MMX |
+SSE |
+SSE2 |
+SSE3 |
+SSSE3 |
+SSE4 |
+SSE4a |
+SSE5 |
+F16C |
+AVX |
+CLMUL |
+AES |
+FMA |
+TSX |
+BMI |
+MPX |
+SGX
+

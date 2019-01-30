@@ -1,0 +1,13 @@
+
+Allspråket, all-språket eller svinatyska[1] är ett lekfullt kodspråk där början av ett ord flyttas till slutet, och "all" läggs till efteråt. Den grundläggande principen liknar engelskans Pig latin.
+
+I den version som verkar vanligast flyttas alla konsonanter före första vokalen till slutet av ordet: knasig blir asigknall (asig-kn-all).[2][3][4][5] Ordet delas alltså före första vokalen, vilket kan jämföras med Fikonspråket där ordet delas efter första vokalen.
+
+Det finns också några alternativa regler för hur omkastningen av bokstäver skall ske:
+
+De två övre versionerna av allspråket innebär att i ord som börjar med vokal flyttas inga bokstäver alls: apelsin blir apelsinall. Det går också att, för att koda orden ännu hårdare, dela upp ord i stavelser och allspråkskoda varje stavelse. Apelsin blir då apelallinsall.
+
+Ord som både börjar och slutar på vokal blir svåruttalade eftersom det blir en vokal direkt före a:et i "all": ute blir uteall, men det tycks vara det korrekta sättet.
+
+Sammansatta ord blir lätt igenkännbara om reglerna ovan följs: kaffekopp blir affekoppkall. För att krångla till det kan man välja att, som i Fikonspråket, behandla varje ingående ord för sig, så att kaffekopp istället blir affe-k-all-opp-k-all.
+

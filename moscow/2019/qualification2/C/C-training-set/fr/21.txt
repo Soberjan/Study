@@ -1,0 +1,9 @@
+
+Vous pouvez partager vos connaissances en l’améliorant (comment ?) selon les recommandations des projets correspondants.
+
+En informatique, on parle d’une architecture 32 bits lorsque les mots manipulés par le processeur ont une largeur de 32 bits, ce qui leur permet de varier entre les valeurs 0 et 4 294 967 295 pour un mot non signé (c'est-à-dire un mot non doté d'un signe mathématique positif ou négatif), et entre −2 147 483 648 et 2 147 483 647 pour un mot signé.
+
+Lorsque le mot de 32 bits sert à coder l’adresse d’un élément, il peut adresser une mémoire de taille 4 Gio (232). Donc un système d'exploitation Microsoft Windows de 32 bits ne pourra pas utiliser plus de 4 Gio de RAM[1][réf. incomplète]. Cependant, des processus bénéficiant de la fonctionnalité PAE, ainsi que d'un système d'exploitation compatible, peuvent voir la taille de leur mémoire atteindre jusqu'à 64 gibioctets (236). Par exemple, sur n'importe quel système GNU/Linux (tel que Debian, Linux Mint ou Ubuntu pour ne citer qu'eux), il est possible d'installer le noyau linux-pae qui permet au système de prendre en charge jusqu'à 64Go de RAM sur un système 32 bits. [2]
+
+On peut citer comme exemple d’architecture 32 bits l’architecture Intel i386.
+

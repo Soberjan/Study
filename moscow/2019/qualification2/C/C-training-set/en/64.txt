@@ -1,0 +1,30 @@
+
+A payment system is any system used to settle financial transactions through the transfer of monetary value, and includes the institutions, instruments, people, rules, procedures, standards, and technologies that make such an exchange possible.[1][2] A common type of payment system is the operational network that links bank accounts and provides for monetary exchange using bank deposits.[3]
+
+What makes a payment system a system is the use of cash-substitutes; traditional payment systems are negotiable instruments such as drafts (e.g., cheques) and documentary credits such as letters of credit.  With the advent of computers and electronic communications a large number of alternative electronic payment systems have emerged.  These include debit cards, credit cards, electronic funds transfers, direct credits, direct debits, internet banking, and e-commerce payment systems. Some payment systems include credit mechanisms, but that is essentially a different aspect of payment. Payment systems are used in lieu of tendering cash in domestic and international transactions and consist of a major service provided by banks and other financial institutions.
+
+Payment systems may be physical or electronic and each has its own procedures and protocols. Standardization has allowed some of these systems and networks to grow to a global scale,  but there are still many country- and product-specific systems. Examples of payment systems that have become globally available are credit card and automated teller machine networks.   Specific forms of payment systems are also used to settle financial transactions for products in the equity markets, bond markets, currency markets,  futures markets, derivatives markets, options markets, and to transfer funds between financial institutions both domestically using Automated clearing house and real-time gross settlement (RTGS) systems and internationally using the SWIFT network.
+
+The term electronic payment refers to a payment made from one bank account to another using electronic methods and forgoing the direct intervention of bank employees.[4] Narrowly defined electronic payment refers to e-commerce—a payment for buying and selling goods or services offered through the Internet, or broadly to any type of electronic funds transfer.
+
+An efficient national payment system reduces the cost of exchanging goods, services, and assets and is indispensable to the functioning of the interbank, money, and capital markets. A weak payment system may severely drag on the stability and developmental capacity of a national economy; its failures can result in inefficient use of financial resources, inequitable risk-sharing among agents, actual losses for participants, and loss of confidence in the financial system and in the very use of money[5] The technical efficiency of payment system is important for a development of economy. 
+
+An Automated clearing house (ACH) system processes transactions in batches. Transactions are stored and transmitted in batches to the ACH. ACHs are net settlement systems, so settlement may be delayed, and there is settlement risk. 
+
+Real-time gross settlement systems (RTGS) are funds transfer systems where transfer of money or securities takes place from one bank to another on a "real-time" and on "gross" basis. Settlement in "real time" means that payment transaction does not require any waiting period. The transactions are settled as soon as they are processed. "Gross settlement" means the transaction is settled on one to one basis without bunching or netting with any other transaction. Once processed, payments are final and irrevocable.
+
+ACHs are typically used for low-value, non-urgent transactions while RTGS systems are typically used for high-value, urgent transactions.[6]
+
+STEP2 is a Pan-European automated clearing house for the Single Euro Payments Area.
+
+TARGET2 is a RTGS system that covers the European Union member states that use the euro, and is part of the Eurosystem, which comprises the European Central Bank and the national central banks of those countries that have adopted the euro. TARGET2 is used for the settlement of central bank operations, large-value Euro interbank transfers as well as other euro payments. TARGET 2 provides real-time financial transfers, debt settlement at central banks which is immediate and irreversible.
+
+Globalization is driving corporations to transact more frequently across borders. Consumers are also transacting more on a global basis—buying from foreign eCommerce sites; traveling, living, and working abroad. For the payments industry, the result is higher volumes of payments—in terms of both currency value and number of transactions. This is also leading to a consequent shift downwards in the average value of these payments.
+
+The ways these payments are made can be cumbersome, error prone, and expensive. Growth, after all, is often messy. Payments systems set up decades ago continue to be used sometimes retrofitted, sometimes force-fitted—to meet the needs of modern corporations. And, not infrequently, the systems creak and groan as they bear the strain.
+
+For users of these systems, on both the paying and receiving sides, it can be difficult and time-consuming to learn how to use cross-border payments tools, and how to set up processes to make optimal use of them. Solution providers (both banks and non-banks) also face challenges, struggling to cobble together old systems to meet new demands. But for these providers, cross-border payments are both lucrative (especially given foreign exchange conversion revenue) and rewarding, in terms of the overall financial relationship created with the end customer.
+
+The challenges for global payments are not simply those resulting from volume increases. A number of economic, political, and technical forces are changing the types of cross-border transactions conducted. Consider
+these factors:
+

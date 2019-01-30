@@ -1,0 +1,86 @@
+
+L'Atari 2600 (pubblicizzata nei primi anni di commercializzazione come Atari VCS acronimo di Video Computer System), è una console per videogiochi prodotta da Atari e venduta a partire dall'11 settembre 1977 [3] fino al 1991.[3][4]
+
+È stata tra le prime console a utilizzare le cartucce come metodo di distribuzione dei giochi ed è anche ricordata come la prima console di successo: ne sono stati infatti venduti circa 30 milioni di esemplari. È anche una delle più longeve macchine da gioco mai prodotte. 
+
+Nolan Bushnell, dopo i successi degli arcade prodotti dalla sua Atari, aveva ben presto focalizzato la sua attenzione sulle console da gioco domestiche che stavano comparendo in quel periodo: uno dei primi tentativi fatti in quel senso, la Magnavox Odyssey del 1972, non stava andando male nonostante avesse limitate capacità hardware e pochi giochi disponibili. Bushnell voleva un sistema domestico capace di far giocare tutta la famiglia all'interno della propria abitazione. Mosso da questa idea realizzò la versione domestica di uno dei giochi arcade più popolari di Atari, Pong.[5] Questo gioco fu un successo: presentato nel 1975, in pochi mesi fu venduto in 150.000 esemplari.[6]
+
+Mosso dalla buona riuscita della versione domestica di Pong, Bushnell decise di realizzare una console capace di riprodurre non solo gli arcade fino ad allora commercializzati da Atari ma anche nuovi giochi: l'idea era quella di progettare un sistema con caratteristiche avanzate, che non fosse limitato alla visualizzazione di immagini stilizzate in bianco e nero, com'era stato nel caso delle "racchette" (un paio di rettangoli verticali) e della "pallina" (un quadrato) di Pong.[7]
+
+Lo sviluppo del nuovo hardware iniziò nel 1975: inizialmente fu noto come Stella, anche se il codice del progetto era CX2600. Il sistema era basato sulla CPU MOS 6507, un microprocessore derivato dal MOS 6502, a cui era affiancato un processore grafico appositamente sviluppato da Jay Miner, il Television Interface Adaptor (TIA).[8]
+
+A metà del 1976 Fairchild Semiconductor rilasciò la sua Video Entertainment System (VES), la prima console ad adottare le cartucce come mezzo di distribuzione dei giochi. Bushnell si accorse che Atari non aveva le risorse per poter completare lo sviluppo della propria console in un tempo ragionevole per competere con la nuova macchina appena messa in vendita e decise perciò di vendere l'azienda a Warner Communication. La nuova proprietà accelerò lo sviluppo della macchina, visto che agli inizi del 1977 si era affacciato sul mercato un altro produttore, Radio Corporation of America, con la sua RCA Studio II, un'altra console basata sempre su cartucce.
+
+La nuova console di Atari fu presentata l'11 settembre 1977, inizialmente con il nome di Video Computer System (VCS). A causa di ciò Fairchild cambiò il nome della sua VES in Channel F per evitare ambiguità.[9]
+
+La console fu messa in vendita a 199 dollari, una cifra molto elevata per l'epoca, e la confezione conteneva, oltre alla macchina, anche 2 joystick, 2 paddle ed un gioco, Combat.[10] Altri 8 titoli erano acquistabili, per un totale di 9 giochi disponibili al momento del lancio.[11]
+
+Inizialmente la console vendette bene ma non riscosse un grande successo perché il mercato dei videogiochi non era ancora esploso. Il 1978 vide delle buone vendite, spinte anche dal rilascio di nuovi giochi ma l'affermazione vera e propria si ebbe nel 1979 quando la console iniziò a far registrare numeri da record, grazie anche al rilascio delle conversioni di famosi giochi arcade di cui Atari aveva acquisito i diritti, tra cui Space Invaders, che spinse le vendite della console rendendola un grande successo commerciale. Tra la fine degli anni settanta ed i primi anni ottanta l'Atari 2600 dominò il mercato delle console permettendo ad Atari di registrare alla fine del 1982 un fatturato record di 5 miliardi di dollari.[3][12]
+
+Nel 1979 Mattel presentò l'Intellivision, una console che, seppur superiore a livello di caratteristiche tecniche all'Atari 2600, aveva un parco giochi più ridotto. Atari iniziò quindi lo sviluppo del successore della sua console, che fu presentato nel 1982 come Atari 5200: contemporaneamente, l'Atari VCS fu ribattezzata Atari 2600, dal numero di progetto della console.[12]
+
+Durante il 1982 debuttò un'altra console, il ColecoVision di Coleco. La concorrenza si fece sempre più agguerrita e l'Atari 2600, con il suo hardware ormai datato, riusciva ancora a vendere solo grazie alle centinaia di giochi già disponibili ed alle esclusive di famosi giochi da bar o di titoli basati su pellicole cinematografiche. A questi ultimi 2 filoni appartengono rispettivamente Pac-Man e ET The Extra Terrestrial, considerati da molti come uno dei motivi principali che portò alla famosa crisi dei videogiochi del 1983, che colpì non solo Atari ma tutta l'industria videoludica: nonostante inizialmente (grazie al successo delle controparti originali) siano state vendute milioni di copie, la scarsa qualità dei giochi portò molti degli acquirenti a restituire le cartucce e chiedere il rimborso del prezzo d'acquisto.  Moltissime delle copie prodotte tornarono quindi indietro sommandosi a quelle rimaste invendute. Ciò portò Atari a registrare in quell'anno un passivo di ben 536 milioni di dollari. Questo insuccesso fu il motivo per cui Warner decise nel 1984 di vendere la divisione computer e console che fu acquistata da Jack Tramiel, dopo l'uscita dalla Commodore International di cui era stato il fondatore, che la trasformò in Atari Corporation.[13]
+
+Dopo il riassetto societario il prezzo della console fu abbassato a 40/50 dollari rimanendo in vendita come macchina di fascia bassa perché il suo parco giochi attirava ancora alcuni giocatori. Nel 1986 la console fu riprogettata per contenerne i costi di produzione e fu dotata di un contenitore più compatto: fu messa in vendita a 50 dollari. Anche se ufficialmente il nome non era stato cambiato, questa versione divenne nota come Atari 2600 Jr. (Junior).[3]
+
+La produzione della 2600 Jr. e delle sue derivate continuò fuori dagli Stati Uniti d'America e venne interrotta solo nel 1991, quattordici anni dopo l'inizio della commercializzazione, rendendo l'Atari 2600 una delle console più longeve di tutti i tempi.[3]
+
+Furono realizzati per la console più di 550 giochi[4] e vennero vendute più di 120 milioni di cartucce, con prezzi che oscillavano fra i 12 e i 35 dollari.[14]
+
+La console utilizza un contenitore in materiale plastico con inserti in finta radica. Sul lato superiore presenta 6 levette denominate "power", "tv type", "left difficulty", "right difficulty", "game select" e "game reset", rispettivamente per accendere la console, selezionare l'uscita del segnale video a colori o a bianco e nero, impostare la difficoltà per il giocatore di sinistra e di destra, scegliere il tipo di gioco se la cartuccia offre più modalità e per resettare il gioco stesso.[15] Centralmente c'era la porta in cui inserire le cartucce dei giochi.
+
+Il gioco è eseguito dalla CPU centrale, un MOS 6507: questo è una versione derivata dal MOS 6502 con un contenitore con un numero ridotto di piedini per essere più compatto. La riduzione dei piedini era stata effettuata eliminando, tra le altre, alcune linee di indirizzamento dei dati per cui il 6507 è in grado di accedere solo a 8 kB di memoria, ulteriormente diminuita a 4 kB per via della limitazione della porta di espansione dell'Atari 2600, contro i 64 kB che poteva gestire il 6502 originale.[16] Al MOS 6507 è affiancato un MOS 6532 che gestisce le linee di Input/Output, come la lettura dei selettori e i joystick, e fornisce 128 byte di memoria RAM che la CPU utilizza per memorizzare dati del gioco, come il punteggio e la posizione degli sprite.[17]
+
+La grafica è gestita da un integrato specifico, sviluppato da Jay Miner, denominato Television Interface Adaptor (TIA). Questo chip permette di gestire pochi sprite: 1 "ball", 2 "player", 2 "missile" e infine un oggetto statico detto "playfield". Il TIA ha una tavolozza di 128 colori in NTSC e PAL-M (il sistema di gestione del segnale video usato in Brasile), ridotti a 108 in PAL e a soli 8 nel caso di segnale di tipo SÉCAM. Il chip non ha un framebuffer: l'immagine è costruita dal programma riga per riga, permettendo così al programmatore di variare l'aspetto ed i colori degli sprite durante la generazione della stessa immagine. Il TIA gestisce anche 2 canali audio e l'input dei joystick e dei paddle.[18]
+
+Le prime cartucce contenevano solo 2 kB di memoria ROM, in cui erano salvati il codice e i dati (musica e grafica) del gioco, ed era stato previsto di utilizzare al massimo cartucce da 4 kB che, all'epoca, sembrava un taglio più che sufficiente per contenere i giochi che sarebbero usciti durante la vita commerciale della console, che inizialmente era stata prevista essere di circa 3 anni. Il successo della console suggerì ad Atari di prolungarne la produzione e i giochi, divenuti più complessi, iniziarono a richiedere più spazio. Per poter aggirare il limite di indirizzamento della porta di espansione dell'Atari 2600, che dimezzava le capacità del MOS 6507 a soli 4 kB da poter gestire, fu fatto ricorso alla tecnica del bank switching: la memoria è divisa in più banchi e accedendo a determinate locazioni di memoria della cartuccia viene selezionato il banco da attivare. Qualche gioco offre anche memoria RAM addizionale, utilizzabile sempre con la tecnica del bank switching.[19][20]
+
+Queste periferiche vennero prodotte da terze parti e aumentano le potenzialità generali della console.
+
+Vennero prodotte più varianti di Atari 2600.[21]
+
+Atari VCS CX2600 (1978)
+
+Atari VCS CX2600A (1980)
+
+Atari 2600 "Vader" (1982)
+
+Atari 2600 Jr. Rev. A "Long Rainbow" (1986)
+
+L'Atari 2800 era una versione della 2600 caratterizzata da un contenitore più squadrato e con 4 porte joystick anziché le classiche 2: fu commercializzata in Giappone come Atari 2800J.[24]
+
+La catena di distribuzione Sears vendeva alcune versioni dell'Atari 2600 con il proprio marchio Sears Tele-Games: il Sears Video Arcade era basato sulla prima Atari 2600 mentre il Sears Video Arcade II era basato sull'Atari 2800.[24]
+
+Furono realizzati anche diversi prototipi, per la maggior parte mai commercializzati:
+
+Vista la popolarità della console, diversi produttori realizzarono cloni funzionanti con le cartucce originali, commercializzati soprattutto in Brasile. In seguito si diffusero dei cloni con diversi giochi salvati in una ROM interna da cui l'utente poteva selezionare quale titolo giocare, come il TV-Boy.
+
+Da citare il caso di Coleco: essa non solo realizzò un adattatore per poter usare le cartucce originali dell'Atari 2600 sul suo ColecoVision ma realizzò addirittura un clone dell'intera console, venduto come Coleco Gemini.[14]
+
+Sears Tele Games (Atari 2600 distribuita da Sears)
+
+Sears Video Arcade II (Atari 2800 distribuita da Sears)
+
+Il TV-Boy, un clone dell'Atari 2600
+
+Al momento del lancio della console erano disponibili solo 9 titoli, compreso quello incluso nella confezione. Durante la sua vita commerciale furono rilasciati un gran numero di titoli, arrivando alla cifra complessiva di 550 giochi.[14] Tra questi si annoverano conversioni di giochi da bar quali Breakout e Asteroids ma anche titoli in esclusiva che hanno segnato la storia della console, come l'avventura grafica Adventure, Yars' Revenge, Pitfall! e Raiders of the Lost Ark, basato sul film I predatori dell'arca perduta di Steven Spielberg.
+
+Vanno annoverati nell'elenco anche titoli che si sono fatti notare per la loro pessima qualità. Tra questi spiccano ET The Extra-terrestrial, basato sull'omonimo film E.T. l'extra-terrestre e considerato da molti come il peggior videogioco mai realizzato in assoluto perché sviluppato in fretta e furia in sole 5 settimane,[29][30] e Pac-Man, che inizialmente vendette bene cavalcando la scia del successo dell'arcade di Namco ma che, in seguito, accumulò pesanti passivi per l'elevato numero di cartucce rimaste invendute o restituite dovuto alle notevoli limitazioni della console che non permisero di riprodurre con fedeltà il gioco originale.[31]
+
+«(...)Nolan Bushnell, who probably realized that arcades were a limited medium at best: How many grocery stores, gas stations, movie theathers, and restaurants would carry the same game? (...) Bushnell knew that his games needed to be inside people's homes - where the whole family could play together.»
+
+«(...)Nolan Bushnell, che probabilmente aveva capito che gli arcade erano alla fine un mezzo limitato: quanti negozi di drogheria, stazioni di servizio, cinema e ristoranti potevano avere lo stesso gioco? (...) Bushnell sapeva che i suoi giochi dovevano essere all'interno delle case della gente, dove l'intera famiglia poteva giocare insieme.»
+
+«Bushnell's next move was to develop hardware that was to become the first commercially successful home console system: the Atari VCS/2600 (...) The very idea of playing a game that escapes the whole "Pong frame of mind" - sticks and dots posing as objects - was only made real by this powerful new system.»
+
+«La mossa successiva di Bushnell fu di sviluppare un hardware che sarebbe diventato il primo sistema da gioco domestico di successo: l'Atari VCS/2600. (...) L'idea di giocare un gioco che esca dai "canoni mentali di Pong" - linee e punti a rappresentare degli oggetti - divenne realtà solo grazie a questo potente sistema.»
+
+«The Atari 2600 was based on a MOS Technology 6507 microprocessor. This CPU was a stripped-down version of the 6502 microprocessor, limited to accessing only 8 KB of memory versus 64 KB as on the 6502 and without interrupt lines; otherwise they were the same CPU.»
+
+«L'Atari 2600 era basata sul microprocessore MOS Technology 6507. Questa CPU era una versione ridotta del microprocessore 6502, limitata nell'accesso a soli 8 KB di memoria contro i 64 KB del 6502 e senza le linee di interrupt; a parte questo erano la stessa CPU.»
+
+«The top two chips are the 6532 Ram-I/O-Timer (RIOT) chip and MOS Technology's 6507 CPU (a slimmer version of the more popular 6502)»
+
+«I 2 chip superiori sono il 6532 Ram-I/O-Timer (RIOT) e la CPU MOS Technology 6507 (una versione più compatta della più popolare 6502)»
+
+Altri progetti

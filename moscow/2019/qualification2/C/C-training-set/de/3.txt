@@ -1,0 +1,97 @@
+
+
+
+
+
+Mantle ist eine vom Unternehmen AMD entwickelte Programmierschnittstelle für Grafikausgaben. Die Schnittstelle ähnelt Glide und soll einen deutlich geringeren Verwaltungsaufwand haben als bekannte Schnittstellen wie Direct3D oder OpenGL.
+
+Eine der ersten Laufzeitumgebungen für Spiele, welche die Mantle-Schnittstelle voll unterstützen soll, ist die sogenannte Frostbite-3-Engine, welche etwa mit Battlefield 4 genutzt wird.[3] Zudem haben die Entwicklerstudios Oxide und Rebellion Unterstützung für die Mantle-API in ihren Spiel-Engines Nitrous angekündigt.
+
+Dass auch Intel und Nvidia die Mantle-API mit eigenen Treiber unterstützen können, ist in Zukunft durchaus möglich, jedoch hat AMD aufgrund der passenden Architektur einen deutlichen Vorteil. Auch eine künftige Unterstützung des Betriebssystems Linux ist wahrscheinlich.[4][5]
+
+Zum AMD Developer Summit 2013 (kurz: APU13) genannten Treffen der AMD-Entwickler, welches vom 11. bis 13. November 2013 stattfand,[1] wurden weitere Einzelheiten zur Mantle-Schnittstelle bekanntgegeben, unter anderen wurde ein weiteres Mantle-fähiges Spiel angekündigt. Außerdem wurde stark auf die verringerte CPU-Last eingegangen sowie die starke Skalierung von Mantle mit mehr CPU-Kernen hervorgehoben.[6]
+
+Die Schnittstelle ist wohl recht nahe an der Playstation 4 angelegt, bietet demgegenüber aber eine höhere Hardwareabstraktionsebene.[7]
+
+Die Schnittstelle ist mit der Hochsprache High Level Shading Language (HLSL) verträglich.[4]
+
+Der Name “Mantle” (englisch für „Mantel“) wurde in Anlehnung zum Erdmantel gewählt. Damit soll ein Schichtenmodell oder eine Hardwareabstraktionsebene angedeutet werden, wobei Mantle (als Schnittstelle und Treiber) bildlich den Erdkern (Geräte mit Unterstützung für Graphics Core Next) umschließt und selbst die Grundlage für die Erdkruste (Anwendungen wie Spiele) bildet.[4]
+
+Etwa im Jahr 2008 ist Johan Andersson – damals Technical Director im Unternehmen DICE und 2013 Technikchef der Frostbite-Engine – an die verschiedenen Grafikkartenhersteller herangetreten, mit der Bitte um eine schlanke Programmierschnittstelle (auch englisch Low-Level-API genannt). Das Unternehmen AMD ist als einziger Grafikkartenhersteller auf seinen Wunsch eingegangen und hat begonnen alles vorzubereiten. Um Mitte 2012 begann dann der tatsächliche Aufbau der Schnittstelle (des Mantle-Codes).[8][7]
+
+Zurzeit (Stand: 14. November 2013) läuft der Aufbau der Schnittstelle in Zusammenarbeit mit der Frostbite-Engine.[8]
+
+Nach einer Veröffentlichung für die Fachpresse zum 1. Februar 2014 erschien am Folgetag das erste Catalyst-Treiberpaket für Windows, welches die Mantle-Schnittstelle in allen GCN-Grafikkarten softwareseitig – vorerst ausschließlich verfügbar im Spiel Battlefield 4 (Frostbite-3-Engine) sowie den Vorschau-Demos des kommenden Star Citizen – beinhaltet.[9]
+
+Anfang März 2015 legte ein hochrangiger AMD-Manager Entwicklern nahe, sich statt Mantle auf die neuen Low-Level-APIs DirectX 12 von Microsoft bzw. den plattformübergreifenden OpenGL-Nachfolger Vulkan zu verlegen.[10]
+
+In einem ersten Test von Golem.de wird die Bildwiederholfrequenz in einigen Mehrspielerszenarien von Battlefield 4 auf einem Testsystem mit Intel Core i7-3770K und einer AMD Radeon R9 290X um 76 Prozent gesteigert, dies allerdings nur bei einer Auflösung von 1080p und ohne Kantenglättung. Bei 4-fachem MSAA verringert sich der Gewinn auf 35 Prozent.[20]
+
+Am29000 • Am286 • Am386 • Am486 • 5x86 • K5 • K6 • K6-2 • K6-III • K7 • K8/K8L • K9 • K10 • Bobcat • Bulldozer • Jaguar • Steamroller • Puma • Zen 
+
+AMD64 • AMD-V • HSA • Mantle • live! • Quad FX • QuantiSpeed • Turbo Core
+
+Epyc
+
+Ryzen • Threadripper
+
+Ryzen
+
+Ryzen
+
+Llano (K10) •          Trinity,          Richland (Piledriver) •          Kaveri (Steamroller) •          Carrizo, Bristol Ridge (Excavator)
+
+Ontario, Zacate (Bobcat) • Kabini, Temash (Jaguar) • Beema, Mullins (Puma)
+
+Ontario G-Serie
+
+Opteron (K8) • Opteron (K9) • Opteron (K10) • Opteron (Bulldozer) • Opteron (Piledriver)
+
+Phenom • Phenom II
+
+Phenom II
+
+Athlon (K7) • Athlon XP • Athlon 64 (FX) • Athlon 64 X2 • Athlon X2 • Athlon II
+
+Athlon XP-M • Mobile Athlon 64 • Athlon 64 X2 • Athlon X2 • Athlon II
+
+Athlon MP
+
+Turion 64 • Turion 64 X2 • Turion X2 • Turion II
+
+Sempron (K7) • Sempron (K8)
+
+Mobile Sempron
+
+Duron
+
+Mobile Duron
+
+GX • LX • NX • NX 2001
+
+Alchemy
+
+690-Serie • 700-Serie • 800-Serie • 900-Serie • AM4-Chipsätze
+
+Rage •
+FireMV •
+FireGL •
+FirePro •
+Radeon •
+Radeon Xpress
+
+Mobility Radeon •
+Radeon M •
+Imageon •
+Xilleon
+
+Radeon Embedded •
+Rialto •
+CrossFireX •
+HyperMemory •
+Avivo •
+Unified Video Decoder •
+XvBA •
+AMD Mantle •
+TrueAudio
+

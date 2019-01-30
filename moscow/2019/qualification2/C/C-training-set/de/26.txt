@@ -1,0 +1,72 @@
+
+Das Explicitly Parallel Instruction Computing (EPIC) bezeichnet ein Programmierparadigma einer Befehlssatzarchitektur (englisch Instruction Set Architecture, kurz ISA) und der Verarbeitungsstruktur einer Familie von Mikroprozessoren, z. B. Itanium. Bei der Programmierung von EPIC-CPUs wird die Parallelisierung der Befehle eines Instruktionsstromes explizit vorgenommen. Die ISA hat Eigenschaften, die die explizite Parallelisierung unterstützen, während eine herkömmliche ISA von einer sequentiellen Abarbeitung der Befehle ausgeht. Ein Programm, das in einer Nicht-EPIC Maschinensprache vorliegt, kann auch parallelisiert werden, aber es ist bei der Ausführung eine komplexe Logik notwendig um parallel ausführbare Instruktionen zu identifizieren, da das Befehlsformat keine Aussagen über parallelisierbare Instruktionen macht. Eine EPIC-CPU arbeitet nach dem Prinzip der in-order Execution, im Gegensatz zur out-of-order execution der superskalaren CPUs.
+
+Die Motivation zur Entwicklung eines EPIC Prozessors ist die Reduktion der Logikgatter des Prozessors. Der nun frei gewordene Platz kann dazu benutzt werden, weitere funktionale Einheiten (z. B. Rechenwerke) in die CPU zu integrieren um:
+
+Die out-of-order execution ist teilweise auch aus dem Zwang zur Rückwärtskompatibilität zu älteren Prozessoren entstanden. Da das Befehlsformat eines älteren Prozessors weiterhin unterstützt werden musste, konnten Verbesserungen zur parallelen Ausführung nur unter der Haube geschehen. Prinzipiell ist es aber möglich, den Compiler mit dieser Aufgabe zu betrauen, und in den meisten Fällen ist ein Compiler für diese Aufgabe besser geeignet, da er mehr Zeit auf die Optimierung aufwenden kann und Zugriff auf mehr Informationen über den Programmfluss hat.
+
+Die wichtigsten Merkmale dieser Befehlssatzarchitektur sind:
+
+Beim EPIC wird dem Prozessor bei der Programmierung signalisiert, welche Instruktionen parallel ausführbar sind. Solche parallelisierbaren Instruktionen werden in Gruppen (instruction groups) zusammengefasst. Die Instruktionen einer Gruppe können dann prinzipiell in beliebiger Reihenfolge und mit beliebigem Parallelitätsgrad ausgeführt werden.
+
+Um die abhängigen Instruktionen voneinander zu trennen, müssen stops in den Befehlstrom eingebaut werden. Stops markieren das Ende einer instruction group und den Beginn einer Neuen. Die eigentlich explizite Parallelisierungsinformation sind die stops, denn durch sie werden parallelisierbare Instruktionen identifiziert, ohne dass eine Analyse erfolgen muss.
+
+Das Optimierungsziel eines gegebenen EPIC-Programmes ist, die Anzahl der nötigen instruction groups zu minimieren, also die durchschnittliche Anzahl der Instruktionen pro instruction group zu erhöhen.
+
+Dabei gibt es Ausnahmen (beim Beispiel IA-64). Zum Beispiel müssen Exceptions, die durch eine frühe Instruktion einer Gruppe ausgelöst werden immer so ausgeführt werden, als ob die späteren Instruktionen einer Gruppe gar nicht ausgeführt worden sind. Beliebige Instruktionen können aber spekulativ bereits ausgeführt worden sein, deren Ergebnis wird beim Auftauchen einer Exception einer früheren Instruktion verworfen. Der Prozessor muss also den Anschein erwecken, dass die Instruktionen einer Gruppe in Reihenfolge ausgeführt wurden. Andere Ausnahmen betreffen spezielle Instruktionen, die per definition am Anfang oder Ende einer instruction group vorkommen müssen.
+
+Durch das EPIC spart man Ressourcen, die bei Nicht-EPIC-Prozessoren dazu verwendet werden müssen, die Instruktionen während der Ausführung auf die parallel arbeitenden Einheiten des Prozessors aufzuteilen. Diese Einsparungen sind die Motivation für die Erfindung von EPIC. Es können dadurch die Kosten des Chips gesenkt werden, und die Leistungsaufnahme wird verringert. Die Berechnungen, die zur Parallelisierung des Befehlsstromes notwendig sind, werden bei EPIC einmal beim Kompilieren vorgenommen, bei Nicht-EPIC-Prozessoren jedes Mal bei der Ausführung des Codes und mithilfe einer recht großen Anzahl von Logikgattern.
+
+Moderne Compiler nehmen auch für Nicht-EPIC-ISAs-Optimierungen des Befehlsstromes vor (verschieben z. B. unabhängige Instruktionen innerhalb des Stromes), um den Prozessor bei der Parallelisierung zu unterstützen. Bei EPIC-ISA ist diese Unterstützung des Prozessors zwingend, das heißt man kann einen Abhängigkeitsfehler erzeugen, selbst wenn die Instruktionen in der richtigen sequentiellen Reihenfolge stehen.
+
+EPIC ist mit VLIW verwandt, denn VLIW dient auch dem Gruppieren von Instruktionen. Dabei muss beachtet werden, dass die VLIW-Gruppierung in Bundles und die EPIC-Gruppierung in instruction groups bei der IA-64 voneinander unabhängig sind, das heißt zu einer instruction group gehören eine beliebige Anzahl von Bundles und ein stop kann auch zwischen Instruktionen eines einzelnen Bundles eingebracht werden.
+
+ISAs, die EPIC als Architekturmerkmal haben, sind relativ schwer in Assemblersprache zu programmieren, und Compiler sind ein beträchtliches Maß komplexer, weil die Parallelisierung nun nicht mehr von der Implementierung der ISA, also dem Prozessor, selbst geleistet wird, sondern explizit erfolgen muss. So gibt es Sachverhalte bei der EPIC-Programmierung, die sich mit Nicht-EPIC-Maschinensprache gar nicht ausdrücken lassen, weil dort das Modell eine strikt sequentielle Ausführung ist.
+
+Da die Berechnungen, die für die Parallelisierung notwendig sind, unabhängig von der Ausführung erfolgen, kann mehr Rechenzeit auf ebendiese Aufgabe verwendet werden.
+
+Statische Befehlsgruppierung bedeutet, dass der Compiler für die Gruppierung parallel ablaufender Befehle zuständig ist. Wichtig ist dabei, dass der Compiler für die Architektur des Prozessors optimiert sein muss, um die Eigenschaften des Prozessors auszunutzen.
+Der Compiler gruppiert die Befehle so, dass möglichst viele parallel abgearbeitet werden können. Zusätzlich legt er fest, was für eine Einheit im Prozessor für die Bearbeitung des Befehls benötigt wird und markiert die Befehle entsprechend. Die Befehle werden dem Prozessor in Gruppen übergeben und aufgrund der vom Compiler festgelegten Zuordnung auf Prozessor-Einheiten verteilt und bearbeitet.
+
+Predication ist ein Verfahren, Befehle abhängig von einer Bedingung auszuführen, ohne Sprungbefehle einzusetzen. Das Verfahren wird im Folgenden vereinfacht dargestellt: Die Ausführung eines Befehls kann vom Inhalt eines Predicate-Registers abhängen. Im folgenden Beispiel wird der MOV-Befehl nur ausgeführt, wenn das Predicate-Register p1 true ist; ansonsten wirkt er wie ein NOP.
+
+Die Predicate-Register können mit Compare-Befehlen gesetzt werden. Der folgende Compare-Befehl testet die Register gr10 und gr11 auf Gleichheit. Das Predicate-Register p1 wird mit Resultat, das Register p2 mit dessen Negation geladen.
+
+Je schneller die Prozessoren werden, desto größer ist der Verlust, wenn Daten vom Speicher geladen werden müssen und der Prozessor auf diese Daten warten muss. Darum ist das Ziel, Befehle im Programmablauf früher auszuführen, damit die benötigten Daten vorhanden sind, wenn sie benötigt werden.
+
+Im ersten Beispiel muss nach dem Ladebefehl gewartet werden, bis die Daten in gr4 resp. in gr5 geladen sind. Im zweiten Beispiel wurde die Befehlsreihenfolge vertauscht und damit der Abstand zwischen voneinander abhängigen Befehlen vergrößert.
+
+In vielen Fällen genügt es aber nicht, einen Befehl um einen oder zwei Befehle vorzuverlegen, da der Unterschied zwischen der Dynamik des Prozessors und dem Speicher zu groß ist. Die Verarbeitung der Daten muss warten, bis die Daten geladen wurden. Das Laden der Daten soll darum so weit vorverlegt werden, dass kein Warten notwendig ist.
+
+Wird ein Ladebefehl wie im untenstehenden Beispiel über eine Verzweigung vorverlegt, so spricht man von einer Control Speculation. Tritt beim Laden ein Fehler auf, so soll dieser nicht behandelt werden, da man ja noch nicht weiß, ob man die Daten überhaupt benötigt. Das Laden erfolgt spekulativ. Bevor die Daten verarbeitet werden, muss aber geprüft werden, ob beim Laden ein Fehler aufgetreten ist und behoben werden muss. Die zweite Art der Spekulation ist die Data Speculation. Die große Anzahl von Arbeitsregistern erlaubt es viele Datenelemente in Registern zu halten. Um zu verhindern, dass beim Laden auf Daten gewartet werden muss, werden die benötigten Daten frühzeitig in Register geladen. Die folgende Befehlsfolge zeigt ein Beispiel für einen normalen Load. Der Befehl add gr5=gr2,gr7 kann erst durchgeführt werden, wenn die Daten aus dem Speicher in gr2 geladen wurden.
+
+Der Prozessor merkt sich darum alle vorzeitig geladenen Adressen im Advanced Load Address Table (ALAT). Im folgenden Beispiel beinhaltet der Load-Befehl eine Control Speculation da eine Verzweigung zwischen Laden und Verarbeitung liegt und eine Data Speculation, da der Store-Befehl mit dem Pointer [gr32] den geladenen Wert betreffen könnte. Es handelt sich um einen Speculative Advanced Load. Falls beim ld.sa ein Fehler auftritt, wird kein ALAT-Eintrag erstellt. Falls der Ladevorgang fehlerfrei abläuft, wird ein Eintrag im ALAT gemacht. Falls der Wert an der Adresse [gr33] verändert wird, so wird der ALAT-Eintrag gelöscht.
+
+Der Wert wird nicht nur vorzeitig gelesen ld.a gr2 = [gr33], sondern auch bearbeitet add gr5 = gr2,gr7. Falls das verwendete Datenelement durch eine Operation verändert wird (z. B. durch st [gr32] = gr3), so wird dies durch den Check-Befehl festgestellt (chk.a gr2,recover), da der Eintrag im ALAT fehlt.
+
+1-Bit-Architektur •
+Bit-Slice-Architektur •
+4-Bit-Architektur •
+8-Bit-Architektur •
+16-Bit-Architektur •
+32-Bit-Architektur •
+64-Bit-Architektur
+
+CISC •
+EPIC •
+NISC •
+RISC •
+VLIW •
+Mikroarchitektur
+
+(Haupt-)Prozessor •
+Grafikprozessor •
+GPGPU •
+Streamprozessor •
+Soundprozessor •
+Gleitkommaeinheit •
+Netzwerkprozessor •
+Physikbeschleuniger •
+Vektorprozessor •
+TensorFlow Processing Unit
+

@@ -1,0 +1,27 @@
+
+Multichannel Audio Digital Interface (MADI) or AES10 is an Audio Engineering Society (AES) standard that defines the data format and electrical characteristics of an interface that carries multiple channels of digital audio. The AES first documented the MADI standard in AES10-1991, and updated it in AES10-2003 and AES10-2008. The MADI standard includes a bit-level description and has features in common with the two-channel AES3 interface.
+
+MADI supports serial digital transmission over coaxial cable or fibre-optic lines of 28, 56, or 32, 64 channels; and sampling rates of up to 192 kHz with an audio bit depth of up to 24 bits per channel. Like AES3 and ADAT Lightpipe it is a unidirectional interface from one sender to one receiver.
+
+MADI was developed by AMS Neve, Solid State Logic, Sony and Mitsubishi[1][2] and is widely used in the audio industry, especially in the professional audio sector. It provides advantages over other audio digital interface protocols and standards such as AES3, ADAT (Alesis Digital Audio Tape), TDIF (Tascam Digital Interface), and S/PDIF (Sony/Philips Digital Interface). These advantages include:
+
+Audio over Ethernet of various types is the primary alternative to MADI for transport of many channels of professional digital audio.
+
+MADI links use a transmission format similar to Fiber Distributed Data Interface (FDDI) networking. Since MADI is most often transmitted on copper links via 75 ohm coaxial cables, it more closely compares to the FDDI specification for copper-based links, called CDDI. AES10-2003 recommends using BNC connectors with coaxial cables[3]:7.1.4 and SC connectors with optic fibres.[3]:7.2.1[a] MADI over fibre can support a range of up to 2 km.
+
+The basic data rate is 100 Mbit/s of data using 4B5B encoding to produce a 125 MHz physical baud rate.  Unlike AES3, this clock is not synchronized to the audio sample rate, and the audio data payload is padded using JK sync symbols. Sync symbols may be inserted at any subframe boundary, and must occur at least once per frame.[b] Though the standard disassociates the transmission clock from the audio sample rate, and thus requires a separate word clock connection to maintain synchronisation, some vendors do give the option of locking to parts of the transmission timing information for purposes of deriving a word clock. 
+
+The audio data is almost identical to the AES3 payload, though with more channels.  Rather than letters, MADI assigns channel numbers from 0–63.  Frame synchronization is provided by sync symbols outside the data itself, rather than an embedded preamble sequence, and the first four time slots of each sub-channel are encoded as normal data, used for sub-channel identification:
+
+The original AES10-1991 specification allowed 56 channels at sample rates from 32 to 48 kHz with an additional vari-speed range of ±12.5%.[4] This leads to a total range of 28 to 54 kHz. At the highest frequency, this produces a total of 56×32×54 = 96768 kbit/s, leaving 3.232% of the channel for synchronization marks and transmit clock error.
+
+The 2003 revision specifies different relations between sampling frequency and number of channels.[5]
+
+With a 48 kHz sampling frequency, 64 channels take 64×32×48k = 98.304M bit/s.  Adding the minimum 8×58 kbit/s of framing produces 98688 bit/s, leaving 1.312% free for timing variation and other overhead.
+
+Both versions of the standard accommodate higher sampling frequencies (for example, 96 kHz or 192 kHz) by using two or more channels per audio sample on the link.
+
+The original specification (AES10-1991) defined the MADI link as a 56 channel transport for linking large-format mixing consoles to digital multi-track recording devices. Large broadcast studios also adopted it for routing multi-channel audio throughout their facilities.  The 2003 revision (AES10-2003) adds a 64 channel capability by removing vari-speed operation and supports 96 kHz sampling frequency with reduced channel capacity.[c] The latest AES10-2008 standard includes minor clarifications and updates to correspond to the current AES3 standard.
+
+Main providers of interfaces and computer cards for MADI include:
+

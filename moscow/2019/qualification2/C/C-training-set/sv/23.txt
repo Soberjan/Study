@@ -1,0 +1,17 @@
+
+Intel Corporation är ett amerikanskt multinationellt elektronikföretag grundat 1968. Företaget är mest känt som tillverkare av de välkända mikroprocessorerna Pentium och Xeon. Intel tillverkar även nätverkskort, moderkort och andra datorrelaterade produkter. Namnet kommer från Integrated Electronics.
+
+Intel grundades 1968 av Gordon E. Moore (en kemist och fysiker) och Robert Noyce (en fysiker och meduppfinnare till den integrerade kretsen). Till en början funderade grundarna på att ge det nystartade företaget namnet Moore & Noyce Electronics men skippade det på grund av att det skulle kunna misstolkas för More Noise (= mer oljud), därför fick det istället bli Intel. Andrew Grove var även inblandad i grundandet och var den som ledde företaget under de gynnsamma 1980- och 1990-talen. I slutet av 1990-talet var Intel ett av de största och mest framgångsrika företagen i världen, på senare år har dock konkurrensen ökat och Intels marknadsandel minskat något.
+
+Huvudkonkurrenten Advanced Micro Devices (AMD) grundades 1969 av åtta avhoppare från Fairchild Semiconductor, samma företag som Intels grundare tidigare arbetat för.
+
+Intel skapade 1971 vad som anses vara världens första mikroprocessor. Den fick namnet Intel 4004  och arbetade med 4 bitars ordlängd.
+
+I början av 2006 bytte Intel ut sin 37 år gamla logotyp. Varumärket Intel Inside kommer att ersättas och processorerna för bärbara datorer kommer att få ett helt nytt namn. Företagets nya slogan är Leap ahead.
+
+8 maj 2008 meddelades att Intel köpt en av de svenska licenserna för fjärde generationens mobiltelefoni, 4G.
+
+Intels mest kända processorserie är 8086-serien, som inleddes av 8086-processorn. Till den hörde en flyttalsprocessor, 8087. Det fanns även en billigare variant med smalare databuss, 8088. Från och med 80386-processorn har 8086-serien 32-bitarsregister, och räknas som en 32-bitarsprocessor som är bakåtkompatibel med 16- och 8-bitarsinstruktioner.
+
+8086-serien består av följande processorer:
+

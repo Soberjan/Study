@@ -1,0 +1,35 @@
+
+Schutzdioden sind Halbleiterdioden, die zum Schutz vor Überspannungen und unerlaubten Spannungen eingesetzt werden. Es wird zwischen verschiedenen Schutzdioden unterschieden.
+
+Freilaufdioden (engl. flyback diode) dienen zum Schutz vor einer Überspannung beim Abschalten einer induktiven Gleichspannungslast (z. B. Elektromotor, Relaisspule, Zugmagnet). Dazu werden Halbleiterdioden (im Schaltbild bezeichnet als Freilaufdiode) derart parallel zu induktiven Gleichstromverbrauchern (im Schaltbild: L mit Widerstandsanteil RL) geschaltet, dass sie von der Speisespannung in Sperrrichtung beansprucht werden.
+
+Nach dem Abschalten der Speisespannung sorgt die Selbstinduktion der Spule dafür, dass der Strom zunächst in der ursprünglichen Richtung weiter fließt. Ohne Freilaufdiode führt das zu einer Spannungsspitze, die sich zur Betriebsspannung addiert und die Schaltstrecke schädigen oder zerstören kann. Mit einer Freilaufdiode wird die Spannungsspitze jedoch auf die Durchlassspannung der Diode (bei Silizium etwa 0,7 V) begrenzt. Das schützt die elektronischen Bauteile (beispielsweise Halbleiter wie Transistoren), aber auch Schaltkontakte sehr effektiv vor Überspannung (im Bild auf maximal 12,6 V). Der Strom fließt über die Diode und die Energie des Magnetfeldes, die der grün markierten Fläche entspricht, wird größtenteils im ohmschen Widerstand der Spule und zu einem kleinen Teil in der Diode in Wärme umgewandelt.
+
+Der grüne Flächeninhalt wird durch die gespeicherte magnetische Energie vorgegeben. Wenn die Höhe dieser Spannungszeitfläche begrenzt ist, steigt zum Ausgleich die Zeit bis zum Abklingen, was zu einer Abfallverzögerung von Relais und Zugmagneten führt. Die Diodensperrspannung sowie die Sperrspannung des Schaltelementes muss bei dieser Schaltungsart nur so hoch wie die Schaltspannung (im Bild 12 V) bemessen werden. Außerdem muss der zulässige Spitzenstrom der Diode dem Strom an der Induktivität zum Zeitpunkt des Abschaltens entsprechen.
+
+Um die Abschaltverzögerung zu verkürzen, muss man der grünen Fläche mehr Höhe zugestehen. Es gibt verschiedene Wege, das zu erreichen: Man kann
+
+Bei diesen genannten Varianten muss die Schaltstrecke eine deutlich höhere Schaltspannung ertragen als die Betriebsspannung des Verbrauchers.
+
+Auch die Schaltdioden von Sperrwandlern und Schaltreglern werden als Freilaufdioden bezeichnet. Auch hier sorgen sie für die Ableitung der magnetischen Energie einer Induktivität (Speicherdrossel bzw. Transformator). Hier ist diese Energie jedoch erwünscht und erzeugt die Ausgangsleistung.
+
+Schutzdioden parallel zum Eingang von integrierten Schaltungen (IC) sind für erlaubte Eingangsspannungen in Sperrrichtung gepolt. Spannungen oberhalb der Betriebsspannung oder unterhalb des Massepotentiales werden gegen diese Potentiale abgeleitet und können so nicht die eigentliche innere Schaltung zerstören. Sie sind Bestandteil der Eingangs- oder auch der Ausgangsschutzschaltung vieler IC und machen diese robust gegenüber ESD und Last-Abschaltspitzen. In vielen Fällen ist es sinnvoll, die Ein- und Ausgänge der Schaltungen mit einem Widerstand zu beschalten. Dieser begrenzt die durch die Entladung hervorgerufenen Ströme und verhindert so eine Überlastung der Schutzdioden.
+
+Verzichtet man in einer konkreten Schaltung auf eine Strombegrenzung der ESD-Ströme, so kann das Ableiten der Ladungen gegen die Versorgungsspannung die gesamte Platine gefährden. Werden die durch die Entladung eingebrachten Ladungen von der Schaltung nicht schnell genug „verbraucht“ oder in den vorhandenen Entstörkondensatoren zwischengespeichert, kann es zu erheblichen Spannungsspitzen auf der Versorgungsspannung kommen. Dieser Gefahr kann beispielsweise mit geeigneten Zener- oder Suppressordioden begegnet werden, die von der Versorgungsspannung gegen die Schaltungsmasse geschaltet werden.
+
+Um besonders schnell zu reagieren und die Spannung auf einen Wert unterhalb des sogenannten Latch-Up-Effektes (Durchbruch der sogenannten Bodydiode und Öffnen eines parasitären Transistors im Schaltkreis) zu begrenzen, werden oft Schottkydioden eingesetzt.
+
+Im Englischen werden sie als clipping diode, die Schaltung als clipping circuit bezeichnet[1]. Besteht eine Wechselspannungskopplung, so wird aus der Diode eine Klemmdiode[2].
+
+Zum Schutz elektronischer Schaltungen sind spezielle Avalanche-Überspannungsschutzdioden wie die Suppressordiode entwickelt worden, die sich von Zenerdioden dadurch unterscheiden, dass sie eine rechteckigere Kennlinie auch bei großen Strömen besitzen. Sie können sehr hohe Energien absorbieren. Bezeichnungen sind neben Suppressordiode herstellerabhängig auch Transzorb, Transil oder TVS-Diode.
+
+Es gibt sie im Gegensatz zu Zenerdioden auch in bipolarer Ausführung, die aus zwei gegensinnig in Reihe geschalteten Suppressordioden besteht. Diese Suppressordioden können auch zum Überspannungsschutz in Wechselspannungskreisen eingesetzt werden. Bipolare Suppressordioden reagieren innerhalb von Nanosekunden und sind daher auch als ESD-Schutz geeignet.
+
+Weitere spezielle Schutzdioden finden in Telekommunikationsnetzen Verwendung: sie haben keine Rechteckkennlinie, sondern verursachen bei Überspannung einen Kurzschluss, indem wie bei einem Thyristor eine Schaltstrecke zündet. Sie verhalten sich ähnlich wie ein Gasableiter, können jedoch im Gegensatz zu jenen auch für kleinere Ansprechspannungen gefertigt werden.
+
+Varistoren sind ebenfalls als schnelles Schutzglied geeignet, werden jedoch nicht als Dioden bezeichnet.
+
+Die vorgenannten Bauteile werden im englischen als surge protector bezeichnet.
+
+Zu Überspannungs-Schutzschaltungen mit Thyristoren siehe Klemmschaltung (engl. crowbar).
+

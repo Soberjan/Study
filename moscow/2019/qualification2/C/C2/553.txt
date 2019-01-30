@@ -1,0 +1,30 @@
+
+Clade ou Classe
+Sous-classes de rang inférieur
+Sauropsida, les sauropsides, constituent un clade regroupant les oiseaux, tous les reptiles actuels et une partie seulement des reptiles fossiles. C'est un groupe monophylétique d'animaux qui est le groupe frère des synapsides aujourd'hui uniquement représentés par les mammifères, avec lesquels ils forment le taxon des amniotes.
+
+Le naturaliste Huxley (1825-1895) démontra les parentés profondes existant entre reptiles et oiseaux qu'il réunit dans un groupe nommé les sauropsides en 1864[1].
+
+Le terme « sauropside » est formé de deux mots grecs, saura signifiant « lézard » et apsis qui veut dire « liaison ».
+
+Les plus anciens fossiles connus des sauropsides, clairement distingués des mammifères, sont datés d'environ -315 Ma. Les sauropsides, principalement les dinosaures, formaient la partie la plus importante des animaux de grande taille au Mésozoïque, jusqu'à la transition Crétacé-Tertiaire il y a 65 Ma. Après cette crise, les mammifères récupérèrent les niches écologiques correspondantes, mais pas celles des oiseaux qui eux aussi se diversifièrent.
+
+Les reptiles au sens courant, c'est-à-dire sans les oiseaux, forment un groupe paraphylétique qui, par conséquent, n'est pas pertinent pour évaluer les degrés de parenté entre ces espèces. On ne peut par exemple pas dire que n'importe quel reptile est plus proche d'un autre reptile que d'un oiseau : les crocodiles par exemple sont généalogiquement plus proches des oiseaux que des lézards. Les reptiles sont donc plutôt un grade évolutif.
+
+Le groupe des sauropsides en revanche, étant holophylétique, indique bien que tous les animaux qui en font partie ont un même lien de parenté exclusif, et ne préjuge pas des différents degrés de parenté entre espèces à l'intérieur de ce groupe (le terme sauropside n'indique pas si le crocodile est plus proche de l'oiseau ou du lézard, et donc, n'induit plus d'erreur).
+
+Le grade des reptiles a été abandonné dans les classifications cladistes. Les chercheurs évolutionnistes quant à eux, continuent à utiliser la définition classique et à l'accepter en tant que taxon à part entière (la paraphylie n'étant pas rejetée dans cette école de taxonomie).
+
+Quelques caractères propres aux sauropsides[2] :
+
+EUKARYOTES
+ └─o ANIMAUX :
+
+ ├─o Éponges
+ ├─o Cténaires
+ ├─o Cnidaires
+ └─o BILATÉRIENS :
+
+TÉTRAPODES :
+
+Sur les autres projets Wikimedia :

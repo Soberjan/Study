@@ -1,0 +1,9 @@
+
+Vous pouvez partager vos connaissances en l’améliorant (comment ?) selon les recommandations des projets correspondants.
+
+Une technologie portable ou technologie mettable (de l'anglais wearable technology, appelée également habitronique[1]) est un vêtement ou un accessoire comportant des éléments informatiques et électroniques avancés.
+
+Les technologies portables incluent, entre autres, des textiles (chandails, gants, Hexoskin, maillots de bain connectés[2], pansements connectés[3] ), des lunettes (Google Glass), des montres connectées (Pebble Watch, Apple Watch[4]) et des bijoux.
+
+L'augmentation des coûts de santé ainsi que de l'espérance de vie a conduit la médecine à réfléchir à de nouvelles manières de contrôler l'état d'un patient, à l'aide de mini-capteurs sans fils médicaux (Body Area Network). Ces capteurs aident notamment à la surveillance à distance du patient, ainsi que la réduction de l'encombrement que peut représenter certains capteurs de taille assez conséquente. Ces capteurs permettent de relever différents paramètres physiologiques du patient, comme sa température ou son rythme cardiaque[5].
+

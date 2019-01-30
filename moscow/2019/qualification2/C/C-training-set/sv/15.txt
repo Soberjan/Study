@@ -1,0 +1,14 @@
+
+Front side bus (FSB) är databussen mellan processorn och nordbryggan. Med hjälp av en klockgenerator bestäms den klockfrekvens (hastighet) med vilken processorn ska kommunicera med de andra komponenterna i datorn. Produkten av FSB:n multiplicerat med multipeln ger den klockfrekvens processorn effektivt kommer jobba med (ex. 200 MHz FSB * multipel 16 = 3200 MHz).
+
+Hastigheten på Front Side Bus anges ofta i MHz, exempelvis 400 MHz, och anger då klockhastigheten på bussen. Om bussen har en bredd på 32 bitar, kan fyra byte överföras i varje klockpuls och överföringshastigheten är i så fall 1600 MB/s. Många tillverkare anger överföringshastigheten i MT/s (MegaTransfers/Second) istället för MHz, vilket syftar på hur många överföringar per sekund bussen klarar av istället för vilken klockfrekvens den använder.
+
+I processorserien Intel Core i7 har front side bus ersatts av QuickPath Interconnect och AMD har länge använt HyperTransport, men namnet front side bus används fortfarande med en mer allmän betydelse.
+
+Genom att öka klockfrekvensen på FSB så kan man öka frekvensen på processorn. Ett problem som kan uppstå är att fler komponenter i datorn är beroende av frekvensen på FSB, till exempel grafikkort och minnen. Om dessa enheter inte klarar av att operera i den högre hastigheten så kan det leda till instabilitet eller skadade komponenter i datorn. Nyare system idag har ofta möjligheten att sätta ett sorts lås på operationshastigheten till andra komponenter så de inte påverkas av överklockningen. Exempelvis vill man ofta låsa PCI-express till 100 MHz och använda sk. minnesdividers för att RAM-minnen inte ska följa med i höjningen av FSB-frekvensen.
+
+Ett annat vanligt alternativ är att ändra multiplikatorn, vilket också höjer hastigheten på processorn men utan att påverka frekvensen på FSB och därigenom inte påverka övrig hårdvara. Nackdelen då är att det bara är processorns hastighet som ökar och inte överföringshastigheten till minnen och andra enheter.
+
+Anledningen till Intels "Extreme"-processorer är mycket dyrare än vanliga versioner är att de har just upplåst multiplier vilket kan göra det enklare att överklocka.
+AMD kallar sina processorer med upplåsta multiplar "Black Edition".
+

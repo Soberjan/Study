@@ -1,0 +1,27 @@
+
+Whitelisting is the practice of explicitly allowing some identified entities access to a particular privilege, service, mobility, access or recognition. It is the reverse of blacklisting.
+
+Spam filters often include the ability to "whitelist" certain sender IP addresses, email addresses or domain names to protect their email from being rejected or sent to a junk mail folder. These can be manually maintained by the user[1] or system administrator - but can also refer to externally maintained whitelist services. 
+
+Non-commercial whitelists are operated by various non-profit organisations, ISPs and others interested in blocking spam. Rather than paying fees, the sender must pass a series of tests; for example, his email server must not be an open relay and have a static IP address. The operator of the whitelist may remove a server from the list if complaints are received.
+
+Commercial whitelists are a system by which an Internet service provider allows someone to bypass spam filters when sending email messages to its subscribers, in return for a pre-paid fee, either an annual or a per-message fee. A sender can then be more confident that his messages have reached their recipients without being blocked, or having links or images stripped out of them, by spam filters. The purpose of commercial whitelists is to allow companies to reliably reach their customers by email.
+
+Commercial providers include Return Path Certification,[2] eco's Certified Senders Alliance, and the Spamhaus Whitelist.[3]
+
+Many websites rely on ads as a source of revenue,[4] but the use of ad blockers is increasingly common. Websites that detect an adblocker in use often ask for it to be disabled - or their site to be "added to the whitelist"[5] - a standard feature of most adblockers.
+
+Another use for whitelists is local area network (LAN) security. Many network admins set up MAC address whitelists, or a MAC address filter, to control who is allowed on their networks. This is used when encryption is not a practical solution or in tandem with encryption. However, it's sometimes ineffective because a MAC address can be faked.
+
+Some firewalls can be configured to only allow data-traffic from/ to certain (ranges of) IP-addresses.
+
+One approach in combating viruses and malware is to whitelist software which is considered safe to run, blocking all others.[6][7][8][9] This is particularly attractive in a corporate environment, where there are typically already restrictions on what software is approved.  
+
+Leading providers of application whitelisting technology include Bit9, Velox, McAfee, and Lumension.[10][11]
+
+On Microsoft Windows, recent versions include  AppLocker, which allows administrators to control which executable files are denied or allowed to execute.  With AppLocker, administrators are able to create rules based on file names, publishers or file location that will allow certain files to execute.  Rules can apply to individuals or groups.  Policies are used to group users into different enforcement levels.  For example, some users can be added to report only policy that will allow administrators to understand the impact before moving that user to a higher enforcement level.
+
+Linux system typically have AppArmor and SE Linux features available which can be used to effectively block all applications which are not explicitly whitelisted, and commercial products are also available.[12]
+
+On HP-UX introduced a feature called "HP-UX Whitelisting" on 11iv3 version.[13]
+

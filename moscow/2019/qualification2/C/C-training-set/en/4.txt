@@ -1,0 +1,35 @@
+
+Stonesoft Corporation was a public company that developed and sold network security solutions based in Helsinki, Finland. It was publicly owned until 2013 when it was acquired by Intel's subsidiary McAfee.[4]
+
+Stonesoft does business globally, with a regional headquarters in Atlanta, Georgia, United States, and sales offices throughout Europe, the Middle East, and China.
+
+In July, 2013 McAfee, a part of Intel Security, completed a tender offer to acquire all Stonesoft products and technologies. Stonesoft became a part of the McAfee Network Security Business Unit. Stonesoft firewall products were renamed McAfee Next Generation Firewall.  McAfee sold Stonesoft to Forcepoint in January 2016.[5]
+
+Stonesoft started as a systems integrator in the Nordic regions of Europe. In 1994 it introduced StoneBeat, a technology for creating a high availability pair of firewalls in an active-passive configuration. In 1999, the company extended StoneBeat with a patented load balancing clustering technology,[6] launching StoneBeat FullCluster. It was one of the first technologies certified in Check Point's OPSEC program.[7]
+
+In 2001, Stonesoft expanded its product set into the firewall/VPN space, becoming a direct competitor to Check Point. The StoneGate Firewall/VPN was launched on March 19, 2001. In January 2003, the company introduced the first virtual firewall/VPN solution, for IBM mainframes.[8]
+
+In 2010, the company released information via CERT-FI[9] on Advanced Evasion technique  (AETs) that met with skepticism in the community. Further AETs were released in 2011, and eventually verified by independent labs and researchers.[10][11][12]
+
+In 2012 “Stonesoft” replaced the “StoneGate” product name.  From now on, Stonesoft is used both as the company and product name.
+
+Stonesoft Corporation's product sales for Q3 2012 were circa 5.6 million euros. The product sales grew by approximately 18%. The Q3 net sales were approximately 9.2–9.3 million euros, which equals a growth by14-16%. The growth was lower than expected.[13]
+
+Its product portfolio includes firewall/VPN devices, IPS (intrusion detection and prevention systems), and SSL VPN systems,[14] each available as hardware appliances, software, and VMware-certified virtual appliances.[15]
+
+Each of the components, as well as third-party devices, can be managed from the Stonesoft Management Center.[16] The product portfolio differentiates through unique clustering and load balancing technologies based on the company's older StoneBeat technology, originally developed for  Check Point FireWall-1.
+
+Stonesoft's current product portfolio can be divided into five major categories:[14]
+
+The Stonesoft Firewall/VPN has placed in Gartner's Magic Quadrant for Enterprise Network Firewalls for several years, and is currently placed in the niche quadrant.[17] Gartner notes that Stonesoft "serves a set of placements well – usually, high availability is key or when the leaders are otherwise not welcome".[17] The Stonesoft firewall/VPN is regarded for its "robust performance and feature set relative to company resources, and it has a loyal customer base".[17]
+
+The Stonesoft IPS has also placed in Gartner's Magic Quadrant for Network Intrusion Prevention, currently in the “visionaries” quadrant.[18] It is also certified by ICSA Labs Network Intrusion Prevention and Detection category, and is one of only four vendors in the consortium to achieve that certification.[19] Stonesoft has also received favorable reviews from NSS Labs for both the next generation firewall capability (2012) and the intrusion detection and prevention system.[20][21]
+
+In 2008, the Helsinki Court of Appeal issued a decision in a case brought against Stonesoft and several members of its management team. The court "held that two members of the company's board of directors and a former CEO through gross negligence had failed to give a profit warning in due time".[22] The issue at hand was discrepancies between the profitability forecasted in the company's year 2000 interim reports and the actual state of the company at that time. The reports indicated the company was sound and profitable, yet "a profit warning should in fact have been issued".[22] The District Court of Helsinki had originally dismissed the claims in a decision on November 15, 2006.[23]
+
+In 2010 Stonesoft informed the public about a new evasion technique that can bypass security defences. Stonesoft defines the Advanced Evasion Techniques (AETs) as ”virtually limitless in quantity and unrecognizable by conventional detection methods. They can work on all levels of the TCP/IP stack and work across many protocols or protocol combinations.” [12]
+
+According to Max Nyman, Stonesoft Corporation's Senior Marketing Manager, AETs can deliver malicious code without detection and without leaving trace.[24]
+
+On July 23, 2012 Stonesoft released a free tool that enables organisations to test their network security.[25]
+

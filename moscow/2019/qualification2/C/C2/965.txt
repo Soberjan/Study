@@ -1,0 +1,14 @@
+
+Il Fusion o Fusion APU o APU  è un processore costruito da AMD nel 2011 che integra una componente GPU[1], nel gennaio 2012 il progetto venne ribattezzato come Heterogeneous Systems Architecture (HSA), tali APU possono utilizzare la funzione CrossFire se accoppiate a una scheda video AMD/ATI[2][3].
+
+Il progetto AMD Fusion viene avviato nel 2006 con l'obiettivo di sviluppare un chip che combini CPU e GPU in un singolo die, per questo progetto venne acquisita ATI, il progetto ha una gestazione lenta date le difficoltà tecniche di combinare una CPU e GPU e dai contrasti interni sui ruoli delle stesse all'interno del progetto.
+
+Il primo desktop e laptop con un sistema APU ha nome in codice Llano ed è stato annunciato il 4 gennaio 2011 presso la mostra CES 2011 di Las Vegas e rilasciato poco dopo, caratterizzato da K10 e una Radeon HD 6000 su soket FM1. Una APU per dispositivi a bassa potenza è stata annunciata come piattaforma Brazos, basata sulla microarchitettura Bobcat e Radeon HD 6000.
+
+La seconda generazione di APU desktop e laptop, con nome in codice Trinity, è stata rilasciata nel mese di ottobre 2012, caratterizzata da Piledriver e Radeon HD 7000 su socket FM2; successivamente nel 2013 AMD ha immesso sul mercato una nuova APU basata sulla microarchitettura Piledriver per computer portatili/mobile e il 4 giugno 2013 per i desktop sotto il nome in codice Richland.
+
+Chip semi-custom sono stati introdotti nelle console Microsoft Xbox One e Sony PlayStation 4.
+
+Una terza generazione della tecnologia è stata rilasciata il 14 gennaio 2014, apportando una maggiore integrazione tra la CPU e la GPU. La variante desktop e laptop ha nome in codice Kaveri, basato su architettura Steamroller, mentre le varianti a basso consumo (nome in codice Kabini e Temash), sono basati su architettura Jaguar.
+
+Altri progetti

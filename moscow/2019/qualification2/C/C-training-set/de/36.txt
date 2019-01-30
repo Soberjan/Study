@@ -1,0 +1,53 @@
+
+Als Dual Channel bezeichnet man eine Architektur in der Computertechnik, mit der zwei (oder auch mehr) Arbeitsspeicher-Module an einem Prozessor parallel betrieben werden können. Dafür werden getrennte Datenbusse vom Prozessor (CPU) oder Speichercontroller zu den einzelnen Modulen eingesetzt. Durch die gleichzeitige Übertragung über mehrere Busse können mehr Daten pro Zeiteinheit übertragen werden. Diese Technik wird u. a. seit Anfang der 2000er Jahre in Personal-Computern eingesetzt.
+
+Abhängig vom Sitz des Speichercontrollers kann man zwei grundsätzliche Ansätze unterscheiden:
+
+Für den Betrieb sind keine speziellen Module nötig – allein der Speichercontroller muss diese Technik unterstützen. Auch müssen die verwendeten Module nicht unbedingt baugleich sein. Dual Channel funktioniert mit jeder Art von Arbeitsspeicher, sofern die Größe des Speichers in beiden Kanälen identisch ist.
+
+Zu beachten ist, dass die physische Verteilung der Slots sowie die erlaubten Konfigurationen vom verwendeten Chipsatz, Mainboard und manchmal auch von den verwendeten Modulen abhängt. Die nötigen Informationen stehen üblicherweise im Handbuch sowie in der Qualified Vendor List (QVL) des Mainboards.
+
+Ein 512MB-Modul je Speicherkanal:
+
+Zwei 1 GB-Module je Speicherkanal:
+
+Dual-Channel funktioniert auch mit zwei verschieden großen Modulen pro Kanal, zum Beispiel 512 MB und 1 GB pro Kanal, insgesamt dann 3 GB:
+
+Wenn an beiden Speicherkanälen gleich viel Speicher vorhanden ist, aber in unterschiedlich vielen Modulen, funktioniert Dual Channel nur bei bestimmten Chipsätzen:
+
+Stabilität und Geschwindigkeit von Dual-Channel lassen sich beispielsweise verbessern durch:
+
+Da diese Voraussetzungen von vielen Herstellern erfüllt werden, können auch Module unterschiedlicher Hersteller kombiniert werden.
+
+Eine Besonderheit gibt es bei einigen Chipsätzen, wie zum Beispiel nForce2 oder SiS 655; diese können auch drei Module im Dual-Channel-Modus betreiben. Die ersten zwei DIMM-Sockel können mit dem dritten kombiniert werden. Dabei müssen die Kapazitäten der Module übereinstimmen, andernfalls (also falls die Speicherkapazität des dritten Moduls die der ersten beiden über- oder unterschreitet) wird der restliche Arbeitsspeicher im Single-Channel-Modus betrieben. Bei aktuellen Intel-Chipsätzen spielt es ebenfalls keine Rolle, ob die Kapazitäten der Speichermodule in beiden Speichercontroller-Kanälen übereinstimmen (siehe Abschnitt Dual Channel Asymmetric).
+
+Im Gegensatz zum Single-Channel-Modus, bei dem der Datenbus 64 Bit breit ist (also 64 Datenleitungen), werden im Dual-Channel-Modus zwei Module gleichzeitig mit je 64 Bit-Datenbus betrieben. Da die Taktrate, mit der der Speicher betrieben wird, gleich bleibt, sich die übertragene Datenmenge pro Takt jedoch verdoppelt (also 128 Bit pro Takt statt wie bisher 64 Bit), führt der Einsatz des Dual-Channel-Modus theoretisch zur Verdopplung des Speicherdurchsatzes. So kann PC2-6400-Speicher im Single-Channel-Modus ca. 6,4 Gigabyte/s an Daten zum Speichercontroller transferieren, im Dual-Channel-Modus sind es ca. 12,8 Gigabyte/s.
+
+Um wie viel sich die Arbeitsgeschwindigkeit durch den Einsatz von Dual Channel jedoch tatsächlich steigert, hängt von den benutzten Programmen, den Speicherzugriffsmustern und der CPU ab (siehe Cache und Prefetching).
+Bei der klassischen Chipsatz-Architektur kann eine Leistungssteigerung bis ca. 5 % gegenüber dem Single-Channel-Betrieb erwartet werden. Bei Pentium-4-Systemen kann diese durch den speziellen Front Side Bus (Quad Data Rate) auch (theoretisch) höher ausfallen.
+Durch die Optimierungen im Cache der CPUs sind die Vorteile heute fast nicht mehr messbar.[1]
+
+Bei Systemen mit CPU-Internen Speichercontrollern (Athlon 64 usw.) liegt die praktische Leistungssteigerung durch die „tatsächliche“ Verdoppelung der Bandbreite im Bereich von bis zu 20 %, bei intensiv vom Speicherdurchsatz abhängigen Anwendungen (zum Beispiel Datenkompression) auch wesentlich höher und bei synthetischen Speicher-Benchmarks entsprechend annähernd 100 %. Systeme mit integrierter Grafik profitieren ebenfalls stark, da sich die CPU und die GPU die Speicherbandbreite teilen müssen.
+
+Die Dual-Channel-Asymmetric-Konfiguration wird zum Beispiel vom Intel-Chipsatz 965 unterstützt. Der Unterschied gegenüber dem „Dual Channel Symmetric Mode“, wie ihn Intel beschreibt, ist, dass die zwei Speicherkanäle nicht mit der gleichen Speicherkapazität arbeiten. Im Dual-Channel-Symmetric-Modus erfolgen Zugriffe nach dem Dual-Channel-Verfahren und sind somit schneller. Dabei spielt die Anzahl der Module keine Rolle.
+
+Bestückt der Anwender die Kanäle mit unterschiedlichen Speicherkapazitäten, erfolgt der Speicherzugriff im so genannten „Single Channel Mode“ beziehungsweise im „Dual Channel Asymmetric Mode“. In beiden Modi erfolgt der Speicherzugriff nach dem Single-Channel-Verfahren, so dass die Speicherperformance gegenüber dem Dual-Channel-Symmetric-Modus entsprechend niedrig liegt.
+
+In allen Betriebsmodi richtet sich die Taktrate des Gesamtspeichers nach der langsamsten Arbeitsfrequenz eines einzelnen Speichermoduls, die das SPD-Register in kodierter Form enthält. Ist das Mainboard zum Beispiel mit einem DDR2-533- und einem DDR2-400-Speichermodul bestückt, arbeitet der gesamte Systemspeicher nur mit DDR2-400-Timings.
+
+Damit der Speichercontroller optimal mit 128-Bit-Speicherzugriffen arbeiten kann, sollten beide Kanäle mit gleicher Speicherkapazität ausgestattet werden.[2] Dazu zwei Beispiele:
+
+oder
+
+Mit dieser Bestückung arbeitet der Speichercontroller im langsamen Single-Channel-Modus, da nur eine Bank in einem Speicherkanal belegt ist:
+
+oder
+
+Es ist auch möglich, bei Dual-Channel-Bestückung im BIOS manuell in den Single-Channel-Modus zu schalten, zum Beispiel wenn es im Dual-Channel-Modus zu Stabilitätsproblemen kommt (das kann zum Beispiel passieren, wenn die entsprechende Speicherkonfiguration nicht in der Qualified Vendor List (QVL) des Mainboardherstellers aufgelistet ist).
+
+Obwohl beide Speicherkanäle bestückt sind, würde ohne Flex-Memory-Technologie der Speichercontroller nur langsame Single-Channel-Zugriffe durchführen.[3]
+
+Befinden sich in den beiden Kanälen Speichermodule mit unterschiedlichen Gesamtkapazitäten, wie zum Beispiel 512 MByte und 256 MByte, können durch die Flex-Mode-Technologie dennoch schnelle Dual-Channel-Speicherzugriffe (128 Bit) durchgeführt werden. Das erfolgt jedoch nur im gemeinsamen Speicheradressbereich von 256 MByte. Der restliche Speicher von 256 MByte des 512 MByte-Moduls arbeitet weiter nur im Single-Channel-Modus.
+
+Im folgenden Beispiel arbeitet die Hälfte des Speichers von Kanal A (512 MB) im Single Mode mit 64 Bit, die restlichen 512 MB von Kanal A sowie die 512 MB von Kanal B im Dual Channel Mode mit 128 Bit:
+

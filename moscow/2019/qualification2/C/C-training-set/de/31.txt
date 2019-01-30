@@ -1,0 +1,127 @@
+
+Eine Schottky-Diode, auch Hot-Carrier-Diode genannt, ist in der Elektronik eine spezielle Diode, die keinen p-n-Übergang (Halbleiter-Halbleiter-Übergang), sondern einen (sperrenden) Metall-Halbleiter-Übergang besitzt. Diese Grenzfläche zwischen Metall und Halbleiter bezeichnet man als Schottky-Kontakt bzw. in Anlehnung an die auftretende Potentialbarriere als Schottky-Barriere. Wie der p-n-Übergang ist auch die Schottky-Diode ein Gleichrichter. Bei Schottky-Dioden ist die Materialkomposition (z. B. Dotierung des Halbleiters und Austrittsarbeit des Metalls) so gewählt, dass sich in der Grenzfläche im Halbleiter eine Verarmungszone ausbildet. Damit unterscheidet sich der nichtlineare Schottky-Kontakt von Metall-Halbleiter-Übergängen unter anderen Bedingungen, wie beispielsweise dem ohmschen Kontakt, der das Verhalten eines teilweise linearen ohmschen Widerstands zeigt.
+
+Benannt ist die Schottky-Diode nach dem deutschen Physiker Walter Schottky, der 1938 das Modell des Metall-Halbleiter-Kontaktes entwickelte. Die gleichrichtenden Eigenschaften wurden erstmals 1874 von Ferdinand Braun beobachtet. Anfangs bestanden die Metall-Halbleiter-Übergänge aus punktförmigen Kontakten, die mit einem angespitzten Metalldraht auf einer Halbleiteroberfläche realisiert wurden (Spitzendiode). Eingesetzt wurden sie Mitte des 20. Jahrhunderts vor allem in den damals üblichen Detektorempfängern. Die ersten Schottky-Dioden, damals als Kristall-Detektoren bezeichnet, stellten sich jedoch als sehr unzuverlässig heraus. Der punktförmige Kontakt wurde deshalb durch einen dünnen Metallfilm ersetzt, was auch bei heute handelsüblichen Schottky-Dioden noch der Fall ist.
+
+Als „schnelle“ Dioden sind Schottky-Dioden für Hochfrequenzanwendungen bis in den Mikrowellenbereich geeignet, was vor allem auf ihre kleinen Sättigungskapazitäten zurückzuführen ist. Deshalb werden sie auch oft als Schutzdioden zum Spannungsabbau von Induktionsspannungen (Freilaufdiode) oder als Gleichrichterdioden in Schaltnetzteilen eingesetzt und ermöglichen dort Schaltfrequenzen bis über 1 MHz. Auch für Detektorschaltungen sind sie als Demodulator gut geeignet.
+
+Als Halbleitermaterial wird für Spannungen bis 250 V meist Silicium, für Sperrspannungen von 300 bis 1700 V auch Galliumarsenid (GaAs)[1], Siliciumcarbid (SiC)[2][3] oder SiGe verwendet.
+
+Silicium-Schottky-Dioden haben eine kleinere Schwellenspannung von ca. 0,4 V. Bei sehr kleinem Betriebsstrom kann der Spannungsabfall sogar bis unter 0,1 V sinken. Das ist deutlich weniger als bei einem Silicium-p-n-Übergang mit ca. 0,7 V. Sie können daher parallel zur Kollektor-Basis-Strecke eines Silicium-Bipolartransistors geschaltet werden, um eine Sättigung des Transistors zu verhindern und somit ein wesentlich schnelleres Schalten des Transistors in den Sperrzustand zu ermöglichen. Dies wurde vor allem vor der Verbreitung von leistungsfähigen MOSFETs bei schnellen Schaltern wie z. B. in Schaltnetzteilen genutzt, aber auch zur Realisierung von schnelleren TTL-Logikschaltungen (Digitaltechnik) z. B. in den Reihen 74(A)S und 74(A)LS.
+
+Der inhärente Nachteil der Silicium-Schottky-Dioden sind die höheren Leckströme im Vergleich zu der auf Silicium basierenden p-n-Diode, sowie die bei Konstruktion für höhere Sperrspannung schnell ansteigenden Leitungsverluste.
+
+Schottky-Dioden auf Basis von Siliciumcarbid (SiC) weisen eine Schwellenspannung von ca. 0,8 V auf, bieten aber in der Leistungselektronik gegenüber den konventionellen Siliciumdioden eine Reihe von Vorteilen. SiC-Schottky-Dioden sind bis zu Sperrspannungen von 1,7 kV verfügbar, womit sie insbesondere im Bereich der Leistungselektronik wie bei Schaltnetzteilen und Umrichtern eingesetzt werden. Da sie fast kein Vorwärts- und vor allem Rückwärts-Erholverhalten aufweisen, kommen sie der idealen Diode sehr nahe. Beim Einsatz als Kommutierungspartner für Insulated Gate Bipolar Transistoren (IGBT) ist eine erhebliche Reduktion der Schaltverluste in der Diode selbst, aber auch im Transistor möglich, da dieser beim Wiedereinschalten keinen Rückwärts-Erholstrom zu übernehmen braucht. Die erlaubten Sperrschichttemperaturen liegen bei entsprechenden Gehäuse mit bis zu 200 °C deutlich höher als bei Silicium-Schottky-Dioden, was die Kühlung bei SiC-Dioden vereinfacht.[3]
+
+Es wird nun die Funktion einer Schottky-Diode mit n-dotiertem Halbleitermaterial (die übliche Bauform) anhand des Bändermodells behandelt, indem die potenzielle Energie der Elektronen als Funktion des Ortes aufgetragen wird.
+In einer vereinfachten Betrachtungsweise wird oft angenommen, dass ein Metall (im Bild links) und ein Halbleiter (rechts davon) zusammengefügt werden, ohne dass sich die Elektronenstruktur durch die Metall-Halbleiter-Bindung im Festkörper von Metall und Halbleiter ändert. Geht man davon aus, dass die Austrittsarbeit des Metalls 
+
+
+
+q
+⋅
+
+φ
+
+m
+
+
+
+
+{\displaystyle q\cdot \varphi _{m}}
+
+ größer als die Elektronenaffinität des Halbleiters 
+
+
+
+q
+⋅
+χ
+
+
+{\displaystyle q\cdot \chi }
+
+ ist – was bei den meisten Metall-Halbleiter-Kombinationen, die für Schottky-Dioden verwendet werden, erfüllt ist – so entsteht an der Grenzfläche zwischen der Fermi-Kante 
+
+
+
+
+W
+
+F
+
+
+
+
+{\displaystyle W_{\text{F}}}
+
+ des Metalls und der Leitungsband-Unterkante des Halbleiters eine Potenzialstufe der Höhe 
+
+
+
+
+φ
+
+B
+
+
+=
+
+φ
+
+m
+
+
+−
+χ
+
+
+{\displaystyle \varphi _{\text{B}}=\varphi _{\text{m}}-\chi }
+
+.
+
+Allerdings werden in Wirklichkeit die Oberflächen von Metall und Halbleiter durch die Bindung stark verändert und die tatsächliche Höhe der Potenzialstufe oder Schottky-Barriere 
+
+
+
+
+φ
+
+B
+
+
+
+
+{\displaystyle \varphi _{\text{B}}}
+
+ ist vor allem durch die Metall-Halbleiter-Bindung, aber auch durch Prozessparameter wie die Reinigung der Oberfläche bestimmt und kaum von der Austrittsarbeit des Metalls abhängig.
+Für n-Si liegt die Schottky-Barriere meist zwischen 0,5 und 0,9 eV.
+
+Die Fermi-Energie 
+
+
+
+
+W
+
+F
+
+
+
+
+{\displaystyle W_{\text{F}}}
+
+ des ungestörten (n-dotierten) Halbleiters liegt (außer bei entarteten Halbleitern) knapp unterhalb des Leitungsbands. Beim Kontakt Metall / Halbleiter kommt es zum Ladungsausgleich, die Fermi-Energien der beiden Partner gleichen sich an, es gibt danach nur eine gemeinsame Fermi-Energie WF(x,t) = const im thermodynamischen Gleichgewicht.
+Durch die unterschiedlichen Austrittsarbeiten der beiden Partner kommt es zu Ladungsinfluenz an den beiden Oberflächen. An der Metalloberfläche sammeln sich Elektronen, die aus der Halbleiteroberfläche abfließen und somit positive Störstellen im Halbleiter erzeugen. Es entsteht ein Potenzialwall und ein „Verbiegen“ der Bänder des Halbleiters. Über die Bandverbiegung können die Elektronen den Halbleiter verlassen, es entsteht eine sogenannte Verarmungszone (engl. depletion zone), in der die potenzielle Energie der Elektronen im Leitungsband (Majoritätsladungsträger) hoch ist.
+
+Die Elektronen im Halbleiter haben, wie dargelegt, einen höheren Energiezustand als die Elektronen im Metall. Sie werden daher auch „heiße Ladungsträger“ genannt. Daraus abgeleitet rührt die Bezeichnung „Hot-Carrier-Diode“ (deutsch: heiße Ladungsträger-Diode) her.
+
+Wird nun eine positive Spannung angelegt (negativer Pol am n-Typ-Halbleiter), werden Elektronen aus dem Halbleitermaterial in die Verarmungszone gedrängt und die Potentialbarriere wird kleiner. Elektronen können dann vom Halbleiter in das Metall fließen („Vorwärtsrichtung“, engl. forward bias).
+Legt man dagegen eine negative Spannung an (die nicht zu groß ist), werden die Elektronen noch stärker in Richtung des Metalls gezogen, die Dicke der Verarmungszone steigt („Sperrrichtung“, engl. reverse bias).
+Es kommt nur zu einem sehr kleinen Strom, weil einige wenige Elektronen des Metalls die Barriere durch thermische Anregung überwinden oder durch die Barriere „tunneln“ können (quantenmechanischer Tunneleffekt).
+Bei einer zu großen Spannung in Sperrrichtung kommt es jedoch zum Durchbruch.
+
+Im Schottky-Übergang tragen die Minoritäts-Ladungsträger nicht zum Ladungstransport bei. Da die Elektronen (Majoritätsladungsträger) sehr schnell dem elektrischen Feld folgen, ist die Schottky-Diode vor allem beim Übergang vom Vorwärts- in den Sperrbetrieb wesentlich schneller als normale Halbleiterdioden, die auf einem p-n-Übergang basieren. Mit Schottky-Dioden aus Silicium sind Schaltfrequenzen von mehr als 10 GHz, aus GaAs bzw. aus InP sogar von mehr als 100 GHz möglich.
+
+Nicht jeder Metall-Halbleiter-Kontakt hat eine gleichrichtende Wirkung. Da die Dicke der Verarmungszone umgekehrt proportional zur Wurzel der Ladungsträgerdichte des Donators ist, wird bei sehr starker Dotierung des Halbleiters die Barriere so schmal, dass sie vernachlässigt werden kann und sich der Kontakt wie ein kleiner ohmscher Widerstand verhält. Weiterhin kann der Schottky-Übergang durch Legierungsbildung (Bildung von Siliciden an der Grenze) zu einem ohmschen Kontakt werden. Ohmsche Kontakte werden benötigt, um überhaupt Halbleiterchips mit metallischen Anschlussdrähten kontaktieren zu können.
+

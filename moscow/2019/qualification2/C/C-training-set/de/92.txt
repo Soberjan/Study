@@ -1,0 +1,53 @@
+
+Kommutierung bezeichnet in der Leistungselektronik den Vorgang, bei dem ein Stromfluss von einem Zweig zum anderen übergeht.
+
+Neben der Kommutierung bei Gleichrichtern und Thyristor-Schaltungen gibt es die Kommutierung auch bei Gleichstrommaschinen, hier Stromwendung genannt. Sie erfolgt hier mit einem Kommutator mechanisch (Kohlebürsten und Kollektor) oder elektronisch mithilfe von Halbleiterbauelementen wie Leistungstransistoren oder Thyristoren. 
+
+Bei den historischen Zerhackern oder bei Schaltnetzteilen und Schaltreglern werden ebenfalls Stromwege umgeschaltet, hier wird jedoch meist nicht von Kommutierung gesprochen.
+
+Eine natürliche Kommutierung liegt vor, wenn die speisende Spannung einem Wechsel- oder Drehstromnetz entstammt und die Stromwegeumschaltung selbst aufgrund ihrer Polaritätswechsel bewirkt. Dies ist der Fall bei netzgeführten oder lastgeführten Stromrichtern (Thyristorsteller- oder Gleichrichterschaltungen).
+
+Wird ein Thyristor eingeschaltet, kommt es zu einem raschen Ansteigen des Laststroms auf den durch den Verbraucher bestimmten Höchstwert. Eine hohe Stromanstiegsgeschwindigkeit des Stromes kann jedoch zur Zerstörung der Siliziumstruktur des Thyristors führen; der Thyristor fällt aus. Deshalb muss in Schaltungen für Widerstands- oder kapazitive Lasten dafür gesorgt werden, dass die Anstiegsgeschwindigkeit des Stromes begrenzt wird: Induktivitäten, sogenannte Kommutierungsdrosseln, in den Stromzweigen bewirken eine Verzögerung des Stromanstiegs im Einschaltmoment.
+
+Auch bei Gleichrichtern treten insbesondere bei kapazitiven Lasten hohe Stromspitzen (geringer Stromflusswinkel) auf, die zu Störemissionen und einer hohen Belastung des speisenden Netzes oder Transformators führen. Hier können ebenfalls Induktivitäten dazu beitragen, den Stromflusswinkel zu vergrößern, indem sie den Stromfluss über einen längeren Zeitraum aufrechterhalten (Siebdrossel).
+
+In transformatorgespeisten Schaltungen sorgen die Streureaktanzen des Transformators oft bereits für eine ausreichende Begrenzung der Stromanstiegsgeschwindigkeit bzw. Vergrößerung des Stromflusswinkels. Bei Stromrichtern, die direkt an das Netz angeschlossen werden, müssen dagegen oft zusätzlich Kommutierungsdrosseln vor die Brückenzweige geschaltet werden.
+
+Kommutierungsdrosseln von Thyristor- und anderen gesteuerten Stromrichterschaltungen oder deren induktive Lasten müssen durch Snubberglieder oder Schutzdioden geschützt werden, die den Stromfluss übernehmen können. Ansonsten käme es zu Überspannungen, wenn der Stromfluss in einer Induktivität schlagartig unterbrochen wird.
+
+Kleine Einphasen- und Dreiphasen-Gleichrichterbrückenschaltungen besitzen dagegen oft keine Kommutierungsdrosseln, die Stromübernahme führt zwar auch hier oft zu Störemissionen und hohen Spitzenströmen, diese beeinträchtigen jedoch oft nicht die Funktion und Zuverlässigkeit. Hochfrequenten Störemissionen, die durch die Sperrerholzeit der Dioden verursacht werden, wird mit zu den Dioden parallelen Entstörkondensatoren oder vorgeschalteten Netzfiltern entgegengetreten.
+
+In Frequenzumrichtern, Wechselrichtern und Vierquadranten- sowie Synchrongleichrichtern werden die Stromwege unabhängig und außerhalb der Polaritätswechsel umgeschaltet. Hierbei führen Schaltverzögerungen wie die Freiwerdezeit von Transistoren und Thyristoren zu einer Vielzahl von Kommutierungsproblemen. Einerseits muss durch Totzeiten ein Kurzschluss zweier Brückenzweige vermieden werden, andererseits führen ebendiese Totzeiten möglicherweise zu Überspannungen, Wirkungsgradverlusten oder elektromagnetischen Störungen. Auch hier werden Kommutierungsdrosseln, Freilaufdioden und Snubberglieder eingesetzt, um eine störungsfreie Stromübernahme (Kommutierung) zwischen den Brückenzweigen zu gewährleisten.
+
+In der Abbildung wird deutlich, wie der Stromfluss in einer Zweiweg-Stromrichterschaltung, getrieben von der Kommutierungsspannung 
+
+
+
+
+u
+
+
+k
+
+
+
+
+
+{\displaystyle u_{\mathrm {k} }}
+
+, zwischen den beiden Zweigen wechselt (kommutiert). Während der Kommutierung sind (z. B. aufgrund der Freiwerdezeit eines Thyristors) kurzzeitig beide Stromzweige geschlossen, d. h., es besteht ein Kurzschluss, dessen Strom jedoch durch die Kommutierungsdrosseln begrenzt ist. Wenn der Strom 
+
+
+
+
+i
+
+1
+
+
+
+
+{\displaystyle i_{1}}
+
+ abkommutiert ist, also auf Null abgeklungen ist, öffnet der Schalter S1, der Laststrom I fließt über den Schalter S2.
+

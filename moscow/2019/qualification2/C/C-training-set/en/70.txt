@@ -1,0 +1,13 @@
+
+Verilog-to-Routing (VTR) is an open source CAD flow for FPGA devices.[1][2] VTR's main purpose is to map a given circuit described in Verilog, a Hardware Description Language, on a given FPGA architecture for research and development purposes. The VTR project is a collaboration between the University of New Brunswick, the University of California, Berkeley and the University of Toronto. Additional contributors include Altera and Texas Instruments.
+
+The VTR design flow consists of three component applications: ODIN II which compiles Verilog code to a circuit in Berkeley Logic Interchange Format (BLIF), a human-readable graph representation of the circuit;[3] ABC which optimizes the BLIF circuit produced by ODIN II; and VPR which packs, places and routes the optimized circuit on the given FPGA architecture.
+
+ODIN II is the HDL compiler of the VTR flow. It transforms a given Verilog code to a BLIF circuit, performs code and circuit optimizations, visualizes circuits,[4] and performs partial mapping of logic to available hard blocks of the given architecture. Also, it can simulate the execution of circuits both for validation as well as power, performance and heat analysis. ODIN II is maintained by the University of New Brunswick.[5]
+
+ABC optimizes BLIF circuits by performing logic optimization and technology mapping. ABC is maintained by the University of California, Berkeley.[6]
+
+Versatile Place and Route (VPR) is the final component of VTR. Its input is a BLIF circuit, which it packs, places and routes on an input FPGA architecture.
+
+During packing, neighboring and related logic elements of the circuit are clustered together into Logic Blocks matching the hardware of the FPGA. During placement, these logic blocks as well as hard blocks are assigned to the available hardware resources of the FPGA. Finally, during routing the signal connections between blocks are made. VPR is developed by the University of Toronto.[7]
+

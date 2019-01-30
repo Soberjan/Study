@@ -1,0 +1,39 @@
+
+Core i5 è il nome commerciale di una serie di microprocessori x64 di quarta generazione sviluppati da Intel e immessi sul mercato nel corso del terzo trimestre del 2009, ad ottobre.
+
+Con il lancio della nuova architettura Intel ha deciso di utilizzare dei "differenziatori" per distinguere i modelli destinati alle varie fasce di mercato. Di conseguenza alcuni core sono alla base di diversi processori differenti a seconda delle caratteristiche intrinseche di ciascun modello e quindi della fascia di mercato cui verrà destinato e inoltre, lo stesso nome commerciale viene utilizzato per indicare specifiche versioni di core differenti. Le CPU Core i5 si sono affiancate ai Core i7 e Core i7 Extreme presentati circa un anno prima (a novembre 2008) e che sono state le prime incarnazioni della nuova architettura Nehalem, successiva alla Intel Core Microarchitecture, e che andrà progressivamente a sostituire in tutti i settori di mercato, prendendo gradualmente il posto dei Core 2 Duo, Core 2 Quad e Core 2 Extreme, proprio grazie al processore Core i5.
+
+La nuova architettura deriva in parte dalla "Core" dei predecessori, ma Intel ha comunque dichiarato che le innovazioni apportate sono talmente tante che è assolutamente doveroso considerare il nuovo progetto come un vero e proprio salto generazionale e non solo come un affinamento.
+
+Intel utilizza quindi il nome di Core i7 solo per i processori destinati alla fascia più alta del mercato, mentre per la fasce di mercato inferiori vengono utilizzati altri nomi commerciali, tra cui Core i5, arrivato nel terzo trimestre 2009 per la fascia media, e che sarà quindi tra le prime CPU basate sulla nuova architettura a raggiungere grandi volumi di vendita, grazie soprattutto a dei costi d'acquisto decisamente più contenuti. Le CPU Core i5 vengono destinate sia al settore desktop sia a quello mobile sebbene i core sui quali sono basate le rispettive versioni, siano differenti; si tratta della stessa strategia già utilizzata in passato con la presentazione dei Core 2 Duo, che nella loro prima generazione erano basati sui core Conroe e Merom a seconda del settore cui erano destinati (rispettivamente desktop e mobile), sebbene commercializzati con lo stesso marchio.
+
+Una caratteristica peculiare delle nuove CPU è la presenza, nelle versioni dual core, del sottosistema video integrato. Si tratta di una caratteristica assolutamente inedita nel panorama delle CPU per sistemi desktop e mobile ma, sebbene attesa inizialmente con i primi core a 45 nm Havendale e Auburndale, Intel ha deciso di annullare tali progetti in favore di un passaggio rapido alle soluzioni successive basate sul nuovo processo produttivo a 32 nm, conosciute come Clarkdale e Arrandale.
+
+Sebbene per il progetto della nuova architettura Intel si sia ispirata profondamente alla precedente "Core" dei Core 2 Duo e Core 2 Quad, esistono molteplici differenze tra i nuovi processori e quelli di precedente generazione. Di seguito vengono riportate le principali, per il cui approfondimento si rimanda alle voci principali, relative all'architettura (Nehalem) e ai processori da essa derivati:
+
+Essendo basati sulla stessa architettura, Core i5 e Core i7 sono molto simili nelle caratteristiche tecniche; ad ogni modo esistono alcune differenze sostanziali che determinano anche la diversa fascia di prezzo delle nuove soluzioni:
+
+Viene così chiamata la nuova gamma di processori Intel Core, sviluppata dall'azienda nel 2011. Sono stati migliorati il "Turbo Boost" e la memoria cache. Inoltre sono stati sviluppati nuovi loghi per differenziare i processori di seconda generazione da quelli della prima.
+
+È la versione dell'architettura sandy bridge presentata ad aprile 2012 con due principali differenze rispetto al predecessore: processo produttivo a 22 nm con gli innovativi transistor trigate e la GPU integrata HD 4000. Le prestazioni dovrebbero crescere di circa l'8% a parità di clock.[2]
+Dai primi test effettuati si è evidenziata una leggera difficoltà nel dissipare il calore in modo efficiente durante l'over clocking.[1]
+
+Il core Lynnfield è il processore che porterà l'architettura Nehalem a raggiungere il grande pubblico, in quanto commercializzato anche in versioni economiche con il marchio Core i5, sempre per il settore desktop ma di fascia media, a partire dal terzo trimestre 2009. Le versioni più evolute invece mantengono il nome commerciale di Core i7 e a differenza del core Bloomfield, utilizzano un differente socket e integrano il supporto diretto allo standard di interconnessione PCI Express per la gestione delle schede video; a questo si contrappone invece l'assenza del nuovo BUS seriale QPI e il supporto per la memoria RAM a 2 soli canali.
+
+Il primo processore ad essere dotato del sottosistema video integrato e destinato al settore desktop sarà Clarkdale, atteso tra la fine del 2009 e l'inizio del 2010. Ha preso il posto del progetto Havendale che doveva essere realizzato a 45 nm, in quanto Intel a inizio 2009 ha dichiarato l'intenzione di saltare questo passo intermedio dello sviluppo e di presentare direttamente il progetto Clarkdale, basato però sul nuovo processo produttivo a 32 nm. Sarà un processore a dual core costruito quindi a 32 nm e dotato del controller per la memoria RAM a doppio canale; la dotazione di cache L3 arriverà fino a 4 MB e il comparto video verrà realizzato ancora a 45 nm.
+
+Il core Clarksfield è il primo processore ad essere basato sulla nuova architettura ad essere pensato per il settore mobile. Le sue caratteristiche sono molto simili a quelle della controparte desktop Lynnfield, eccetto per il clock massimo e il consumo complessivo, decisamente più ridotti, dato l'ambito applicativo.
+
+Il primo processore ad essere dotato del sottosistema video integrato e destinato al settore mobile è stato Arrandale, uscito all'inizio del 2009. Ha preso il posto del progetto Auburndale che doveva essere realizzato a 45 nm; Intel a inizio 2009 ha deciso di saltare questo passo intermedio dello sviluppo e di presentare direttamente il progetto Arrandale, basato sul nuovo processo produttivo a 32 nm. È un processore a dual core costruito a 32 nm e dotato di controller per la memoria RAM a doppio canale; la dotazione di cache L3 arriva fino a 4 MB e il comparto video è realizzato ancora a 45 nm.
+
+La tabella seguente mostra i modelli di Core i5 arrivati sul mercato. Molti di questi condividono caratteristiche comuni pur essendo basati su diversi core; per questo motivo, allo scopo di rendere maggiormente evidente tali affinità e "alleggerire" la visualizzazione alcune colonne mostrano un valore comune a più righe. Di seguito anche una legenda dei termini (alcuni abbreviati) usati per l'intestazione delle colonne:
+
+(4.60GHz)
+
+Il logo utilizzato al lancio del processore
+
+Il logo adottato nel 2010
+
+Il logo adottato per la gamma Sandy Bridge
+
+Altri progetti

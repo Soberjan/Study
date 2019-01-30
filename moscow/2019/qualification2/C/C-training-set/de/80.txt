@@ -1,0 +1,35 @@
+
+Rückwärtsbotschaften (englisch Backmasking, Backward Messaging oder Backward Masking) sind beabsichtigte oder vermeintliche Sprachbotschaften auf Tonträgern (Vinyl-Schallplatten, Tonbändern, Audio-CDs und Audio-Dateien), die in rückwärtiger Richtung gespeichert sind und beim Abspielen in der üblichen Richtung keinen oder einen anderen Sinn ergeben. Rückwärtsbotschaften lassen sich entziffern, indem der Tonträger entgegen der vorgesehenen Richtung abgespielt wird.
+
+Eine der ersten populären, beabsichtigten Rückwärtsbotschaften befindet sich auf der B-Seite der 1966 veröffentlichten Single Paperback Writer der britischen Band The Beatles.[1] Seitdem fügten auch einige andere Musiker aus künstlerischen oder satirischen Gründen ihren Stücken Rückwärtsbotschaften hinzu.
+
+Neben intendierten Rückwärtsbotschaften wurden von einigen Konsumenten in verschiedenen Medien Sprachsequenzen gefunden, die als Rückwärtsbotschaften verdächtigt wurden. Beim Rückwärtsabspielen dieser Sequenzen, die zwar meist als Teil einer normal eingesprochenen und nicht künstlich erzeugten Sprache erkennbar sind, seien Botschaften versteckt, die mehr oder weniger deutlich und zusammenhängend wahrnehmbar seien. 
+
+Das Thema erhielt 1969 durch einen Radiomoderator aus England gesteigerte Aufmerksamkeit. Er hatte das Gerücht verbreitet, Paul McCartney, Bassist von The Beatles, sei bereits seit drei Jahren tot. An seiner Stelle würde ein Mann namens William spielen, der durch plastische Chirurgie an seinen Vorgänger optisch angeglichen worden sei. Für ein starkes Indiz dafür hielt er die Botschaft „Turn me on, dead man“, die angeblich zu hören sei, wenn man im Beatles-Song Revolution No. 9 die Worte „Number nine“ rückwärts hört. Die Todesnachricht McCartneys sei hier versteckt. Der Artikel Paul is dead befasst sich ausführlich mit dieser Verschwörungstheorie.
+
+In der Folge setzte ein breites Interesse für Rückwärtsbotschaften in der Rock- und Popmusik ein, und man suchte Lieder nach solchen versteckten Botschaften ab. In den 1980er-Jahren kamen insbesondere von christlichen US-amerikanischen Gruppierungen erste Behauptungen auf, dass in den Liedern populärer Musik, insbesondere der Rockmusik, solche Botschaften versteckt seien. Die Botschaften hätten einen okkultistischen, suizidalen, drogenverherrlichenden oder sexbezogenen Inhalt und würden die Hörer, hauptsächlich Jugendliche, durch unbewusste Beeinflussung (siehe Subliminal (Psychologie)) zu delinquenten Verhaltensformen und moralisch-sittlichem Verfall treiben. In Nordamerika waren derartige Vorwürfe an die Musiker ein Gegenstand von Gerichtsprozessen und Gesetzesvorschlägen.[1] Wie jedoch schon bei der angeblichen subliminalen Werbung in den 1950ern war die Wissenschaft bereits in den 1960er-Jahren der überwiegenden Meinung, diese Methode sei unwirksam. Dass während des Anhörens das Unterbewusstsein die Botschaft aus den anderen Klängen herausfiltere, um ihren rückwärts vermittelten Inhalt zu erkennen, gilt als nahezu unmöglich, und es wird verneint, dass solche Botschaften eine unbewusste Wirkung auf die Hörer haben.
+
+Das Interesse an Rückwärtsbotschaften in der Rockmusik- und Metal-Szene ist dagegen relativ gering. Dort gelten Rückwärtsbotschaften zum Zweck der Jugendverführung als ein Mythos, der allenfalls der Brandmarkung der Musik diene. Rückwärtsbotschaften werden deshalb meist in Lieder eingefügt, um sich über die oben erwähnten Vorwürfe lustig zu machen oder durch bewusste Provokation die Verkaufszahlen zu steigern. Diese Rückwärtsbotschaften sind beim Rückwärtsabspielen des Datenträgers deutlich von jedem verstehbar. Vermeintliche, unbestätigte Rückwärtsbotschaften sind hingegen meist nur mit sehr viel Phantasie zu erkennen und zu verstehen und vom Urheber nicht intendiert und gelten mithin als Urban Legends.
+
+Rückwärtsbotschaften lassen sich mittels verschiedener Verfahren herstellen:
+
+Eine Möglichkeit ist es, bei der Audio-Aufnahme eine der Tonspuren in der entgegengesetzten Richtung der anderen Spuren zu bespielen. Danach übertragen die Toningenieure alle Spuren auf ein Band mit normaler Breite. Mit moderner Studiotechnik stellt dies kein Problem dar. Zwar lässt sich auf diese Weise verschlüsselter Text beim Rückwärts-Abspielen gut verstehen, er ist jedoch bei normaler Spielrichtung entsprechend unverständlich.
+
+Verschlüsselte Sprache kann auch dadurch erzeugt werden, dass ein Text so aufgesagt und aufgenommen wird, dass er sich wie der rückwärts abgespielte Originaltext anhört. Allerdings ergeben sich dann beim Anhören in umgekehrter Laufrichtung meistens hörbare Unterschiede zum normal aufgesagten Originaltext in Sprechmelodie, Betonung und durch die phonetische Struktur der Laute. Dies zu vermeiden oder zu korrigieren erfordert Übung. Der Unterschied lässt sich verdeutlichen, indem man ein Palindrom aufsagt und rückwärts abspielt: das Wort „Lagerregal“ hört sich rückwärts abgespielt hörbar anders an als vorwärts.
+
+Auf dieser Methode baut eine noch etwas kompliziertere Herangehensweise auf. Bei dieser wählt man die Wörter eines gesprochenen Textes so aus, dass sie in normaler Hörrichtung unverdächtig wirken, rückwärts angehört jedoch den gewünschten anderen Inhalt ergeben.
+
+Eine nicht kodierende Methode der Rückwärtsbotschaft setzt einen Vorwärtstext mit einem spiegelgleichen Rückwärtstext zu einem "akustischen Palindrom" zusammen, so dass diese Sequenz sich vorwärts wie rückwärts abgespielt identisch anhört.
+
+Auch bei der Entschlüsselung gibt es unterschiedliche Verfahren.
+
+Die einfachste Möglichkeit der Entschlüsselung ist es, den Tonträger rückwärts ablaufen zu lassen.
+
+Bei Vinyl-Schallplatten muss lediglich der Teller des Plattenspielers in umgekehrter Richtung gedreht werden, während der Tonabnehmer aufgelegt ist. Für das Rückwärts-Abspielen von Audio-CDs wird ein spezieller CD-Player benötigt, wie er zum Beispiel von Disc Jockeys verwendet wird. Digitale Tonformate wie zum Beispiel MP3 können mit Software für Musikbearbeitung und -wiedergabe rückwärts abgespielt werden.
+
+Die meisten intendierten oder vermeintlichen Rückwärtsbotschaften werden in Rockliedern wahrgenommen, einige auch bei Popkünstlern.
+
+Von Musikern intendierte Beispiele, bei denen man meist beim normalen Abspielen nur unverständliche Geräusche hört, sind:
+
+Es folgen Beispiele für vermeintliche Rückwärtsbotschaften, die von den jeweiligen Künstlern offiziell nicht intendiert sind, jedoch von einigen Hörern als absichtlich durch entsprechende Aussprache (Phonetic Reversal) eingearbeitet wahrgenommen werden. Sollte man die entsprechenden musikalischen Abschnitte ohne Kenntnis des zu erwartenden Textes rückwärts hören, würde man sie meist nicht verstehen können.
+

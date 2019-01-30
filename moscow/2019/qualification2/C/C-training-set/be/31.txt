@@ -1,0 +1,176 @@
+
+Шаблон:Infobox Software
+Google AdSense — сэрвіс кантэкстнай рэкламы ад Google. Дазваляе зарабляць уладальнікам вебавых старонак з вялікай колькасцю наведванняў. Сэрвіс аўтаматычна ўстаўляе на вэб-сайце тэкставую, графічную і відэа-рэкламу, якая падыходзіць па кантэксце (Google AdSense дзеля кантэксту). Даход ад яе налічвае Google адпаведна колькасці націскаў на спасылкі ці кожнай тысячы паказаў рэкламы. Зараз Google тэстуе сістэму аплаты за кожную акцыю над рэкламай.
+
+Акрамя таго, уладальнікі вэб-старонак з дапамогай AdSense могуць прапанаваць сваім наведальнікам пошук сістэмаю Google, як у Інтэрнэце, так і непасрэдна на старонцы, чым зарабляць грошы ад абвестак Google (Google AdSense дзеля пошуку).
+
+У першым квартале 2011 года прыбытак ад сэрвісу AdSense склаў 28% агульнага прыбытку кампаніі Google[1].
+
+Google выкарыстоўвае сістэму пошуку рэкламы згодна з кантэкстам, находжання наведвальніка і шмат якіх іншых фактараў. AdSense стаў вельмі распаўсюджаным сродкам кантэкставай рэкламы з-за сваёй меншай навязлівасці, чым большасць банарных сетак і сваёй рэлевантнасці з кантэкстам старонкі.
+
+Зараз AdSense выкарыстоўвае JavaScript код для прышпільвання да старонкі. Некаторыя стваральнікі старонак намагаюцца павялічыць максімальна даход ад сістэмы AdSense. Робяць гэта звычайна трыма шляхамі:
+
+Заўвага! Афіцыйна Google забараняе выкарыстоўваць надпісы кшалту «Націсні сюды і зрабі мой рэйтынг вышэй» для павялічэння даходу. Звычайна ўжываюць надпісы «Спонсарскія спасылкі», «Кантэкстная рэклама» ці проста «Рэклама».
+
+Тэхналогія AdSense паходзіць ад WordNet, якую стварыла кампанія Simpli (закладзена Джоржам А. Мілерам) і некалькі прафесараў і выпускнікоў з Браўн Універсітэта (ЗША), ўключаючы Джэймса А. Андэрсана, Джэфа Стыбела і Стыва Райса. Мадыфікаваннем тэхналогіі Wordnet займалася фірма Oingo, маленькая кампанія з Санта-Монікі, закладзеная ў 1998. Oingo змяніла назву на Applied Semantics у 2001 годзе, якую потым набыла Google за $102 000 000 у красавіку 2003 года.
+
+Для атрымання грошай ад Google, патрабуецца абналічыць чэкі, якія Google дасылае на адрас з зарэгістраванага рахунку. На цяперашні момант Google разглядае іншыя варыянты аплаты. Таксама разглядаецца варыянты стварэння сваёй сістэмы аплаты і карыстання магнітнымі карткамі.
+
+З дапамагаю свайго зарэгістраванага рахунку, гаспадар старонкі ў любы момант можа праглядзець колькасць запытаў, клікаў, рэйтынг клікаў, а таксама свой бягучы заробак ад паўжывання сістэмы AdSense.
+
+Старшыня савета дырэктароў: Эрык Шміт •
+Дырэктар, прэзідэнт па тэхналогіях і сузаснавальнік: Сяргей Брын •
+Галоўны выканаўчы дырэктар і сузаснавальнік: Лары Пэйдж
+
+Adscape •
+AdSense •
+Advertising Professional •
+AdWords •
+Analytics •
+Checkout •
+Click-to-Call •
+DoubleClick •
+Insights for Search •
+Trends
+
+Google+ •
+Answers •
+Buzz •
+Calendar •
+Dodgeball •
+Friend Connect •
+Gmail (гісторыя •
+інтэрфейс) •
+Groups •
+Joga Bonito •
+Orkut •
+Panoramio •
+Picasa •
+Пытанні і адказы •
+Reader •
+Talk •
+Translate •
+Voice •
+Wave
+
+Browser Sync •
+Chrome •
+Chromium •
+Desktop •
+Earth •
+Gadgets •
+Goggles •
+Lively •
+Gmail Mobile •
+Pack •
+Picasa •
+Picnik •
+SketchUp •
+Talk •
+Toolbar •
+Updater •
+Web Accelerator
+
+Account •
+Android (Lollipop, Marshmallow) •
+App Engine •
+Apps •
+Base •
+BigTable •
+Chrome OS •
+Co-op •
+Gears •
+Native Client •
+GFS •
+Health •
+Mashup •
+OpenSocial
+
+Code •
+Gadgets API •
+GData •
+Go •
+Googlebot •
+Guice •
+GWS •
+Highly Open Participation Contest •
+Image Labeler •
+KML •
+MapReduce •
+Mediabot •
+Pinyin •
+SketchUp Ruby •
+Sitemaps (index) •
+Summer of Code •
+TechTalks •
+Web Toolkit •
+Website Optimizer
+
+Alerts •
+Blogger •
+Bookmarks •
+Docs •
+FeedBurner •
+iGoogle •
+Jaiku •
+Knol •
+Library Project •
+Map Maker •
+Mashup Editor •
+Notebook •
+Page Creator •
+Sites •
+Video Marketplace •
+YouTube
+
+Appliance •
+Audio •
+Books •
+Code •
+Desktop •
+GOOG-411 •
+Images •
+Maps (Mars •
+Moon •
+Ocean •
+Sky •
+Street View) •
+News •
+Patents •
+Products •
+Scholar •
+SearchWiki •
+Usenet •
+Video •
+Web
+
+Finance
+
+Паглынанні •
+Цэнзура •
+Current •
+Крытыка •
+Earth Outreach •
+Foundation •
+Google China •
+Google.org •
+Googleplex •
+Гісторыя •
+Hoaxes •
+I’m Feeling Lucky •
+Labs •
+Logo •
+Lunar X Prize •
+I/O •
+спіс сэрвісаў і прылад •
+WiFi •
+Zeitgeist •
+«Бомбы» •
+Гуглізм
+
+Гадавы прыбытак: US$16,59 млрд (▲56 % FY 2007) •
+Супрацоўнікі: 24 400 (31 снежня 2010) •
+Біржавы тыкер: (NASDAQ: GOOG) •
+Дэвіз: Don't be evil •
+Вэб-сайт: google.com
+

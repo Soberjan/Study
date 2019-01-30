@@ -1,0 +1,85 @@
+
+
+
+Microsoft Edge (codename "Spartan") is a web browser developed by Microsoft. It was first released for Windows 10 and Xbox One in 2015, then for Android and iOS in 2017.[6][7]
+
+Edge includes integration with Cortana and has extensions hosted on the Microsoft Store. Unlike Internet Explorer, Edge does not support the legacy ActiveX and BHO technologies.
+
+Originally built with Microsoft's own EdgeHTML and Chakra engines, Edge is currently being rebuilt as a Chromium-based browser,[8][9] using the Blink and V8 engines. As part of this big change, Microsoft intends to add support for Windows 7, 8.1, and macOS.[10]
+
+Microsoft Edge is the default web browser on Windows 10, Windows 10 Mobile, and Xbox One consoles, replacing Internet Explorer 11 and Internet Explorer Mobile.[11] Microsoft initially announced that Edge would support the legacy Trident (MSHTML) layout engine for backwards compatibility, but later said that, due to "strong feedback", Edge would use a new engine, while Internet Explorer would continue to provide the legacy engine.[12]
+
+Favorites, reading list, browsing history and downloads are viewed at the Hub,[13] a sidebar providing functionality similar to Internet Explorer’s Downloads manager and Favorites Center.[14]
+
+The browser includes an integrated Adobe Flash Player and a PDF reader. It also supports asm.js.[15]
+
+Edge does not support legacy technologies such as ActiveX and Browser Helper Objects, and instead uses an extension system.[3][16][17] Internet Explorer 11 will remain available alongside Edge on Windows 10 for compatibility; it will remain nearly identical to the Windows 8.1 version and not use the Edge engine as was previously announced.[3][11][16]
+
+Edge integrates with Microsoft's online platforms in order to provide voice control, search functionality, and dynamic information related to searches within the address bar. Users can make annotations to web pages that can be stored to and shared with OneDrive,[18] but can't save HTML pages to their own computers. It also integrates with the "Reading List" function and provides a "Reading Mode" that strips unnecessary formatting from pages to improve their legibility.[18]
+
+Preliminary support for browser extensions was added in March 2016, with build 14291; three extensions were initially supported. Microsoft indicated that the delay in allowing extensions and the small number was due to security concerns.[19]
+
+EdgeHTML is a proprietary layout engine developed for Edge. It is a fork of Trident that has removed all legacy code of older versions of Internet Explorer and rewritten the majority of its source code to support web standards and interoperability with other modern browsers.[20][21] EdgeHTML is written in C++.[22] The rendering engine was first released as an experimental option in Internet Explorer 11 as part of the Windows 10 Preview 9926 build.[23]
+
+EdgeHTML is meant to be fully compatible with the WebKit layout engine used by Safari, Chrome and other browsers. Microsoft has stated that "any Edge–WebKit differences are bugs that we’re interested in fixing."[24]
+
+A review of the engine in the beta Windows 10 build by AnandTech found substantial benchmark improvements over Trident; particularly JavaScript engine performance, which had come up to par with that of Google Chrome.[25] Other benchmarks focusing on the performance of the WebGL API found EdgeHTML to perform much better than Google Chrome and Mozilla Firefox.[26]
+
+Edge originally lacked support for open media standards such as WebM and Opus, but these were later added in Edge 14.14291.[27]
+
+As of October 9, 2018, Edge 17 scored 492/555 on HTML5test, comparable to Firefox 59 which scored 491/555, but lagging behind Chrome 66 which scored 528/555.[28]
+
+In December 2014, writing for ZDNet, technology writer Mary Jo Foley reported that Microsoft was developing a new web browser codenamed "Spartan" for Windows 10. She said that "Spartan" would be treated as a new product separate from Internet Explorer, with Internet Explorer 11 retained alongside it for compatibility.[29]
+
+In early January 2015 The Verge obtained further details surrounding "Spartan" from sources close to Microsoft, including reports that it would replace Internet Explorer on both the desktop and mobile versions of Windows 10.[30] Microsoft officially unveiled "Spartan" during a Windows 10-focused keynote on January 21, 2015.[18] It was described as a separate product from Internet Explorer; its final name was not announced.[31]
+
+"Spartan" was first made publicly available as the default browser of Windows 10 Technical Preview build 10049, released on March 30, 2015.[32] The new engine used by "Spartan" was available in Windows 10 builds as part of Internet Explorer 11; Microsoft later announced that Internet Explorer would be deprecated on Windows 10, and would not use the "Spartan" engine.[11][33]
+
+On April 29, 2015, during the Build Conference keynote, it was announced that "Spartan" would officially be known as Microsoft Edge.[34] The browser's logo and branding was designed to maintain continuity with the branding of Internet Explorer.[35] The Project "Spartan" branding was used in versions released after Build 2015. On June 25, Microsoft released version 19.10149 for Windows 10 Mobile which included the new brand. On June 28, version 20.10158 followed for the desktop versions, also including the updated branding. On July 15, Microsoft released version 20.10240 as the final release to Insiders. The same version was rolled out to consumers on July 29.
+
+On August 12, Microsoft started the preview program for the next version of Microsoft Edge. They released version 20.10512 to Mobile-users. 6 days later followed by version 20.10525 for desktop users. The preview received multiple updates. On November 5, 2015, Microsoft released version 25.10586 as the final release for Edge's second public release for desktop users. On November 12, the update was rolled out to both desktop users and Xbox One users as part of the New Xbox Experience Update. On November 18, the update was to Windows 10 Mobile. Finally, on November 19, the update was also made available as part of the Windows Server 2016 Technical Preview 4.[citation needed]
+
+In November 2017, Microsoft released ports of Edge for Android and iOS. The apps feature integration and synchronization with the desktop version on Windows 10 PCs. Due to platform restrictions and other factors, these ports do not use the same layout engine as the desktop version, and instead use OS-native Webkit-based engines.[36][37][4]
+
+In April 2018, Edge added tab audio muting.[38]
+
+On July 31, 2018, Microsoft announced that Edge now supports passwordless sign-ins.[39]
+
+On December 6, 2018, Microsoft announced major changes to Edge, including that it will be re-based on Chromium, using the same rendering engine as Google Chrome but with enhancements developed by Microsoft. It was also announced that there will be versions of Edge available for Windows 7, Windows 8, and macOS, and that all versions will be updated on a more frequent basis.[40][41]
+
+On January 6, 2019, Microsoft integrated NewsGuard, an internet news trustworthiness extension into the beta version of Microsoft Edge on both iOS and Android.[42]
+
+Initial release on Windows 10
+
+Initial release on Windows 10 Mobile; adds the following:
+
+First public release
+
+Second public release and initial release on Xbox One
+
+Initial release on Windows Mixed Reality
+
+Third public release
+
+Fourth public release
+
+Early benchmarks of the EdgeHTML engine—included in the first beta release of Edge in Windows 10[106] Build 10049—had drastically better JavaScript performance than Trident 7 in Internet Explorer 11, with similar performance to Google Chrome 41 and Mozilla Firefox 37. In the SunSpider benchmark, Edge performed faster than other browsers,[107] while in other benchmarks it operated slower than Google Chrome, Mozilla Firefox and Opera.[108]
+
+Later benchmarks conducted with the version included in 10122 showed significant performance improvement compared to both IE11 and Edge back in 10049. According to Microsoft's benchmark result, this iteration of Edge performed better than both Chrome and Firefox in Google's Octane 2.0 and Apple's Jetstream benchmark.[109]
+
+In July 2015, Edge scored 377 out of 555 points on the HTML5test. Chrome 44 and Firefox 42 scored 479 and 434 respectively, while Internet Explorer 11 scored 312.[110]
+
+In August 2015, Microsoft released Windows 10 Build 10532 to insiders, which included Edge 21.10532.0. This beta version scored 445 out of 555 points on the HTML5test.[111]
+
+With the release of Windows 10 Build 14390 to insiders in July 2016, the HTML5test score of the browser's development version was 460 out of 555 points. Chrome 51 scored 497, Firefox 47 scored 456, and Safari 9.1 scored 370.[citation needed]
+
+In June 2016, Microsoft published benchmark results to prove superior power efficiency of Edge in comparison to all other major web browsers.[112] Opera questioned the accuracy and provided their own test results where Opera came out on top.[113] Independent testing by PC World confirmed Microsoft's results.[114] However, tests conducted by Linus Sebastian contradicted Microsoft's results, instead showing that Chrome has the best battery performance.[115]
+
+In an August 2015 review of Windows 10 by Dan Grabham of TechRadar, Microsoft Edge was praised for its performance, despite not being in a feature-complete state at launch.[116] Andrew Cunningham of Ars Technica praised the browser for being "tremendously promising", and "a much better browser than Internet Explorer ever was", but criticized it for its lack of functionality on launch.[117] Thom Holwerda of OSNews criticized Edge in August 2015 for its hidden URL bar, lack of user friendliness, poor design and a tab system that is "so utterly broken it should never have shipped in a final release". He described the browser's implemented features as "some sort of cosmic joke", saying that "infuriating doesn't even begin to describe it".[118]
+
+Data from August 2015, a few weeks after release, showed that user uptake of Edge was low, with only 2% of overall computer users using the new browser. Among Windows 10 users usage peaked at 20% and then dropped to 14% through August 2015.[119]
+
+In October 2015 a security researcher published a report outlining a bug in Edge's "InPrivate" mode, causing data related to visited sites to still be cached in the user's profile directory, theoretically making it possible for others to determine sites visited. The bug gained mainstream attention in early February 2016,[120] and was fixed with a cumulative update on February 9.[121]
+
+Microsoft's planned switch to Chromium as Edge's engine has faced mixed reception, as it will increase consistency of web platform compatibility between major browsers. For this reason, the move has attracted criticism, as it reduces diversity in the overall web browser market, and increases the influence of Google—developer of Blink layout engine, on the overall browser market by Microsoft ceding its independently-developed browser engine.[122][123]
+

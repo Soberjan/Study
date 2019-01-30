@@ -1,0 +1,29 @@
+
+Il Pentium D è stato il primo processore dual core prodotto da Intel e dedicato al settore Desktop. Nella sua prima versione era basato sul core Smithfield, che venne poi sostituito dalla propria evoluzione, Presler.
+
+Il Pentium D inoltre, fu il primo processore che supportava il DCTP-IP, tecnologia necessaria al Digital rights management[2].
+
+La sua caratteristica principale risiedeva appunto nel fatto di essere il primo processore dual core commercializzato da Intel, e il suo lancio venne seguito dopo solo pochi giorni da quello dell'Athlon 64 X2 prodotto da AMD.
+In realtà il Pentium D non fu il primo microprocessore dual core arrivato sul mercato: già IBM con i suoi PowerPC aveva raggiunto questo traguardo un paio di anni prima, e altri produttori avevano seguito la sua strada, ma l'avvento del Pentium D segnò comunque un'epoca, in quanto praticamente solo Intel e AMD si contendono la grossa fetta del mercato di massa dei microprocessori con architettura x86.
+
+Al momento del lancio di tale CPU, erano ormai due anni che le frequenze dei processori erano praticamente ferme. Dopo anni in cui queste ultime erano cresciute vertiginosamente, con le presentazioni di nuovi modelli ogni circa 2 mesi con 200 MHz di salto, si era arrivati velocemente ai 3 GHz e sorsero i problemi. Il passaggio ai 90 nm non dette i risultati sperati, e l'avvento del core Prescott per i Pentium 4 fu molto travagliato e non privo di difficoltà e delusioni. AMD aveva abbandonato la "corsa ai GHz" già da diverso tempo e Intel si era trovata costretta a fare altrettanto, migliorando l'efficienza dell'architettura e sviluppando il calcolo parallelo.
+In fondo la strategia intrapresa si basava su una considerazione piuttosto semplice: se non si riesce ad aumentare la velocità con cui si esegue un'operazione, per aumentare le prestazioni bisogna aumentare il numero di operazioni che si possono compiere nell'unità di tempo, e il continuo affinamento dei processi costruttivi e la miniaturizzazione consentirono di imboccare questa nuova via. A questo proposito, nel 2007 arrivarono anche le architetture a 4 core e la tendenza nel tempo sarà quella di aumentarne sempre più il numero.
+
+Anche AMD presentò i primi esemplari di processore dual core, ma a differenza di Intel riuscì a mantenere la stessa frequenza di clock delle controparti single core e quindi chi acquistava uno di questi processori non notava un calo di prestazioni con applicazioni non ottimizzate; inoltre il System Request Interface (SRI) utilizzato da AMD per far comunicare i 2 core aveva prestazioni nettamente superiori al bus di Intel. A questo si aggiunse anche il fatto che mentre per poter far funzionare un Pentium D era necessario l'acquisto di una nuova motherboard basata sui chipset i955X o i945P, per poter utilizzare un Athlon 64 X2 era sufficiente un aggiornamento del BIOS.
+
+Intel però la spuntò sul fronte dei prezzi, che per i Pentium D si discostavano poco da quelli dei Pentium 4, mentre AMD scelse una strategia meno aggressiva continuando a proporre ai videogiocatori più incalliti, come modello di punta, ancora l'Athlon 64 FX single core ritenendo ancora prematuro l'ingresso dei dual core nel mondo gaming, visto che in quel momento i giochi non si avvantaggiavano di più di un core ma solo della frequenza operativa.
+
+Il primo Pentium D arrivato sul mercato era basato sul Smithfield, che fondamentalmente era formato da due core Pentium 4 Prescott integrati nello stesso package. Aveva una cache L2 di 2 MB equamente suddivisa tra i 2 core, e condivideva con l'ultima evoluzione di Prescott tutte le tecnologie accessorie, tra cui il processo costruttivo a 90 nm e le istruzioni SSE, SSE2, SSE3, EM64T, SpeedStep.
+Nella versione Pentium Extreme Edition veniva integrato anche il supporto Hyper-Threading.
+
+Il successore di Smithfield fu Presler, arrivato sul mercato nel gennaio 2006. Era costruito a 65 nm ed era il primo processore Intel dual core con i due core distinti sul package. Le frequenze erano leggermente più alte di Smithfield, dai 2,8 GHz ai 3,4 GHz inizialmente, ma successivamente ne venne presentata una versione a 3,6 GHz. Si trattava inoltre dell'ultimo processore Intel basato sull'architettura NetBurst del Pentium 4.
+
+La tabella seguente mostra tutti i modelli di Pentium D arrivati sul mercato. Molti di questi condividono caratteristiche comuni pur essendo basati su diversi core; per questo motivo, allo scopo di rendere maggiormente evidente tali affinità e "alleggerire" la visualizzazione alcune colonne mostrano un valore comune a più righe. Di seguito anche una legenda dei termini (alcuni abbreviati) usati per l'intestazione delle colonne:
+
+* A causa di problemi nella produzione iniziale, le prime versioni di tali processori avevano la tecnologia SpeedStep disabilitata. Dal 7 aprile 2006 sono arrivate le versioni complete qui illustrate.
+
+Intel nel primo trimestre del 2007 sospese la produzione dei modelli 950 e 960 del Pentium D, seguiti a ruota, il mese successivo dal 940 e dall'830. Il 915 terminò la sua vita ad aprile e, di lì a poche settimane, stessa sorte toccò all'840. Per quanto riguardava il modello 820 invece, il suo pensionamento avvenne a febbraio.
+
+A partire da luglio 2006, Intel rimpiazzò completamente tutta la sua offerta di processori per il settore desktop grazie ai nuovi Core 2 Duo Conroe, basati su una nuova architettura in grado fornire prestazioni decisamente più alte a fronte di consumi ridotti di circa il 50%.
+
+Altri progetti

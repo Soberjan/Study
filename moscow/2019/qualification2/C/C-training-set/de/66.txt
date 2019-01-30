@@ -1,0 +1,19 @@
+
+Internationale Telefonvorwahl bezeichnet umgangssprachlich die Landeskennzahl (Ländercode, englisch country code) bei internationalen Telefonnummern. Die Landeskennzahlen werden von der Internationalen Fernmeldeunion (ITU) in der Empfehlung E.164 festgelegt.
+
+Im engeren Sinne ist eine internationale Telefonvorwahl die Folge von Ziffern, die ein Anrufer am Telefon wählt, um auf die logische Ebene eines anderen nationalen Telefonnetzes zu gelangen. Sie besteht aus zwei Teilen:
+
+Die Verkehrsausscheidungsziffer (VAZ) hängt von dem Land ab, in dem man sich befindet. Die ITU empfiehlt die „00“, wie sie in den meisten europäischen Ländern schon üblich ist.
+
+Telefonvorwahlen aus Ländern, die die Verkehrsausscheidungsziffer(n) „00“ für die internationale Ebene verwenden NACH verschiedenen Ländern:
+
+Andere Verkehrsausscheidungsziffer(n) (als „00“) AUS anderen (als obigen „zahlreichen Ländern“)
+
+In allen gängigen Mobilfunknetzen mit dem derzeit aktuellen (GSM-)Standard kann weltweit statt der Nummernkette auch „+“ direkt eingegeben werden.
+
+Beispiele für internationale Vorwahlen für den Mobilfunk
+
+Die Ziffernfolge vom internationalen Telefonnetz in das gewünschte nationale Telefonnetz (die eigentliche Landeskennzahl) ist unabhängig vom Ausgangstelefonnetz, nach Deutschland also immer „49“. Für die genannten Beispiele erhält man damit:
+
+Die Wahl der vollständigen Rufnummer +49 xxx xxxxxx ist bei Mobiltelefonen immer möglich, auch wenn man sich innerhalb Deutschlands aufhält.
+

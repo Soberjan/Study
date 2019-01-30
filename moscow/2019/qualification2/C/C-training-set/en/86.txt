@@ -1,0 +1,36 @@
+
+The Opera Mobile Store is a platform-independent browser-based app store for mobile-phone owners and a digital application distribution platform used by more than 40,000 developers around the world,[1] owned and maintained by Opera Software ASA. Launched and powered by a third-party provider in March, 2011 the Opera Mobile Store was relaunched on a new platform, after acquisition of Handster,[2] a mobile app store platform company, in January 2012. The service allows users to browse and download applications for over 7,500 different devices[1] on Android, Java, BlackBerry OS, Symbian, iOS, and Windows Mobile.
+
+The Opera Mobile Store delivers more than 1 million app downloads a day[3] and is accessible from any mobile phone via a visual bookmark with the OMS logo on Speed Dial or Start Page of Opera Mini or Opera Mobile browsers that run on more than 260 million devices worldwide. The store is also accessible from any other browser, including desktop versions, and on any operating system, from http://apps.opera.com/. The Opera Mobile Store then forwards the user to the country-specific store based on the location information provided by the mobile carrier or ISP. 
+
+Over 86% of the applications for Android-powered phones provided by the Opera Mobile Store are free of charge, while others require payment. The average free-vs.-paid-apps ratio for all platforms is 70% and 30%, respectively. These applications are generally targeted on a particular category, including video games, business applications, social media apps, e-books, and others.
+
+On March 8, 2011, Opera Software announced the launch of Opera Mobile Store powered by third-party provider. On September 19, 2011 Opera Software acquired app store platform company Handster, which was the leading independent applications store for Android market at that time.[4]
+
+Following the acquisition of Handster, Opera Software made a major overhaul since the Opera Mobile Store launch.[5] Opera Software announced a revamped Opera Mobile Store with improved distribution and monetization capabilities for developers, and better customization for white-label marketplaces at the Mobile World Congress in Barcelona on February 27, 2012. In July 2013, developers can now upload apps to both the Yandex Store and the Opera Mobile Store simultaneously, as a result of agreements between the two companies.[6]
+
+On November 18, 2014, Microsoft and Opera Software have signed an agreement to replace Nokia Store with the Opera Mobile Store as the default app store for Nokia feature phones, Symbian and Nokia X smartphones.[7] The process of migrating customers from Nokia Store to Opera Mobile Store is expected to be complete in the first half of 2015, at which point Nokia Store will be closed.[8]
+
+As stated in the official Opera Software press-release, by February 27, 2012 Opera Mobile Store reached more than 30 million monthly app store visits and over 45 million monthly app downloads.[5]
+
+Number of apps in the store has tripled over the year 2013, while the number of monthly visitors to the Opera's app distribution platform grew to 75 million in October, 2013.
+[9]
+
+At the end of Q4 2013 Opera Software announced that it has reached a new milestone — 105 million monthly visitors. That is a 172% increase in a year since the close of 2012. The top-three countries in 2013 based on the number of Opera Mobile Store users were India, the United States and Indonesia. By November, 2014 Opera's app store started to offer close to 300,000[1] mobile apps and games across most mobile platforms. Earlier, in early 2014 the mobile store offered over 200,000[10] apps significant growth in the number of apps available.[11]
+
+Top 100 apps lists are compiled separately for each country with an Opera Mobile Store presence. The lists feature 17 categories, ranging from business apps to games for every platform supported by the Opera Mobile Store, consisting of the most popular apps among the store users in the selected category.
+
+At present, the Opera Mobile Store does not rate applications; instead, the OMS team ether accepts apps submitted for inclusion into the store or rejects them, based on whether their content is appropriate for a wide age group, and keeping objectionable apps out of the store.
+
+Opera Mobile Store does not charge developers for joining mobile store's distribution program and publishing apps. Developers get 70% of net revenue from sales of paid apps for Android accepted into the Opera Mobile Store, and 50% of net revenue for Java apps.
+
+Applications are subject to approval by Opera Mobile Store team for basic reliability testing on all the platforms and devices declared by developer in submission process. Opera Mobile Store does not accept adult and sexual content.
+
+Every year Opera Mobile Store runs Top Apps Awards. These awards recognize the best apps in the Opera Mobile Store across multiple categories based on popular user voting.[13][14]
+
+In 2013 Opera Mobile Store signed a cross-app store distribution partnership with Yandex, the largest search engine in the Russian-speaking Internet market and the leading search engine in Eastern Europe, based on audience reach. This agreement allows apps in the Opera Mobile Store also to be available for download in the Yandex app store and vice versa. The same year Opera Software signed several more partnership agreements with mobile carriers in Eastern Europe. Both MTS Belarus and MTS Ukraine launched Opera co-branded app stores for their 28 million total user base.
+
+Starting July 21, 2014 Opera Software started to offer service that provides mobile carriers' customers with unlimited access to premium games and apps catalogue built on the Opera Mobile Store technology and supported by the OMS team. The first carrier to implement app store subscription model for their customers was MTS Russia that launched App Market service together with Opera. In this model mobile users pay a weekly subscription fee for “all-you-can-eat” access after a free seven-day trial period.[15][16] During 2014 Opera Software launched subscription mobile stores with MTS Russia, MTS Ukraine, MTS Belarus, TIM Brasil[17] and XL Axiata in Indonesia.
+
+In May 2013 Opera and Yandex announced together with SlideME and CodeNgo the launch and provided support for a new open-source One Platform Foundation (OPF) initiative, enabling developers to easily code and submit their apps across multiple alternative app stores.[18]
+

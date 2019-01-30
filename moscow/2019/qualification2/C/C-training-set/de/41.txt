@@ -1,0 +1,146 @@
+
+37.386669-121.998764Koordinaten: 37° 23′ 12″ N, 121° 59′ 55,6″ W
+
+
+
+
+
+Advanced Micro Devices (AMD) ist ein US-amerikanischer Chip-Entwickler mit Hauptsitz in Sunnyvale, Kalifornien.
+AMD entwickelt und produziert Mikroprozessoren, Chipsätze, Grafikchips und System-on-Chip-Lösungen (SoC) für die Computer-, Kommunikations- und Endverbraucherbranchen. Seit der Ausgründung der eigentlichen Halbleiterherstellung im Jahr 2009 in Globalfoundries ist AMD fabless. Das Unternehmen war bis 2013 im Standard-&-Poors-500-Aktienindex gelistet, beschäftigt weltweit rund 9.700 Mitarbeiter und ist nach Intel der zweitgrößte x86-Prozessorhersteller der Welt (Stand: 2011).[4] Die Aktien des Unternehmens wurden von 1979 bis 2014 an der New York Stock Exchange gehandelt, seit dem 2. Januar 2015 sind sie an der NASDAQ notiert.[5][6]
+
+AMD wurde am 1. Mai 1969 unter dem Namen „Sanders Association“ von Jerry Sanders III und Ed Turney gegründet. Das Startkapital wurde durch Investoren, darunter Intel-Gründer Robert Noyce, bereitgestellt. Die ersten integrierten Schaltkreise wurden im November 1969 produziert. Diese bildeten die Grundlage für das erste selbst entwickelte Produkt Am2501, welches 1970 auf den Markt kam.
+
+Ab 1973 begann die Expansion in Länder außerhalb der USA, so wurde ein Werk in Penang in Malaysia errichtet. 1975 startete AMD die Produktion von Speicherchips, und 1979 ging das Unternehmen an die Börse. Im selben Jahr wurde eine Lizenz von Intel zur Herstellung der 8086- und 8088-Prozessoren erworben. Als diese im Jahr 1986 gekündigt wurde, führte dies zu einem Rechtsstreit, in dessen außergerichtlicher Einigung AMD untersagt wurde, ab der 5. Generation (80586 - Intel Pentium) Nachbauten von Intels Prozessoren zu erstellen. AMD entwickelte daraufhin eigene Architekturen, die erste war der AMD K5. Mit der Übernahme des CPU-Herstellers NexGen im Jahr 1996 schuf man für weitere Entwicklungen technologische und personelle Grundlagen. Zur Produktion der Chips eröffnete man 1998 in Dresden die Fab30 und 2004 die Fab36. Zwischenzeitlich hatte man den CPU-Hersteller Alchemy übernommen, der High-End-Low-Power-Embedded-Prozessoren mit MIPS-Architektur produzierte.
+
+Ebenfalls 2004 erfolgte die Umbenennung des 1993 mit Fujitsu gegründeten Joint Venture Fujitsu AMD Semiconductor Limited in Spansion. Die gesamte Flash-Produktion wurde von AMD und Fujitsu an Spansion übergeben. Ende 2005 wurde Spansion dann komplett als eigene Aktiengesellschaft ausgegliedert, da die Sparte andauernde Verluste aufwies.
+
+Im Jahr 2006 übernahm AMD ATI Technologies, einen zu diesem Zeitpunkt führenden Anbieter von Computergrafik-Chips. In der Halbleiterbranche galt diese Übernahme aufgrund der besonderen Konstellationen (kaum direkte Konkurrenz dieser Unternehmen, unterschiedliche Forschungsgebiete) als beispiellos. Durch diese Übernahme kann AMD, wie auch Hauptkonkurrent Intel, wichtige Computerbauteile „aus einer Hand“ liefern.
+
+Am 8. September 2008 erklärte AMD CEO Dirk Meyer gegenüber dem US-Wirtschaftsmagazin Fortune, dass sich AMD „weg von einem durch eigene Produktionsanlagen gefesselten hin zu einem weniger auf Fabrikation konzentrierten Modell entwickeln werde“ (Original: “going to go away from a captive fab model to more of a fabless model”). Damit war die wirtschaftliche Abtrennung der Fertigungsanlagen auf dem Wege. Im Oktober 2008 gab AMD bekannt, seine Chip-Fabs in eine zusammen mit dem Investmentunternehmen Advanced Technology Investment Company (ATIC) aus Abu Dhabi betriebene Foundry auszugliedern.[8] Im März 2009 wurde der offizielle Name der ausgegründeten Unternehmenssparte bekanntgegeben: Globalfoundries[9][10]
+
+Im Januar 2011 trat Dirk Meyer von seinen Funktionen bei AMD zurück.[11] Nach Monaten kommissarischer Führung durch den CFO Thomas Seifert ernannte AMD im August 2011 den ehemaligen Lenovo-Manager Rory P. Read zum neuen CEO.[12] Im Oktober 2014 wurde Lisa Su seine Nachfolgerin.[13]
+
+Am 29. Februar 2012 übernahm AMD den Microserverspezialisten SeaMicro, um damit besser im Servermarkt Fuß zu fassen.[14]
+
+Im Desktopsegment bietet AMD aktuell (2017) den AMD Ryzen, AMD FX, den Phenom II, den Athlon II, den Sempron und die AMD-Fusion-APUs an. Diese gibt es in Ausführungen mit zwei bis acht Kernen. Der Athlon II muss dabei auf einen L3-Cache verzichten und AMD Fusion integriert die CPU, GPU sowie Video- und andere Hardwarebeschleuniger auf einem Die.
+Bei den Phenom II bilden dabei die 1100er-Modelle mit sechs Kernen die Leistungsspitze. Die 1000er-Modelle haben auch sechs Kerne, aber eine geringere Taktfrequenz. Die 900er-Modelle verfügen demgegenüber nur über vier Kerne, die 800er-Reihe besitzt zudem einen kleineren Cache, die 700er-Reihe nur noch drei Kerne und die 500er-Reihe nur noch zwei, da ein, zwei bzw. drei Kerne deaktiviert wurden. Nicht alle Phenom-II-, Athlon-II- und Sempron-Modelle sind für den Sockel AM3 ausgelegt, wobei Prozessoren, welche für Sockel AM3 ausgelegt sind, auf AM2-(+)-Boards laufen, sofern der Mainboard-Hersteller ein BIOS-Update zur Verfügung stellt. Einzig einige Phenom-II-Modelle laufen ausschließlich auf AM2-(+)-Boards, was darauf beruht, dass der in der CPU integrierte Speichercontroller lediglich mit DDRII-Arbeitsspeicher umgehen kann. Diese CPUs sind mittlerweile aber EOL und werden nicht mehr produziert. Der andere Teil der AMD CPUs besitzt einen Speichercontroller, welcher sowohl DDRII als auch DDRIII adressieren kann. Bei den AMD-FX-Prozessoren bilden die 9000-Reihe die Leistungsspitze mit vier Modulen zu je zwei Kernen, darauf folgt die 8000 Serie mit ebenfalls 4 Modulen und 8 Kernen, die 6000-Reihe mit drei Modulen und die 4000-Serie mit zwei. Ende Februar 2012 wurde offiziell, dass AMD den ersten handelsüblichen Desktop-PC-Prozessor entwickelt hat, der eine Nominaltaktfrequenz von über 4 GHz erreicht (4,2 GHz). Der Prozessor mit dem Namen FX-4170 arbeitet mit vier Kernen.[15] Mittlerweile kann AMD den ersten x86-Prozessor, der per Turbo die 5-GHz-Marke schafft, zum eigenen Portfolio zählen. Der Prozessor mit dem Namen FX-9590 arbeitet mit 4 Piledriver-Modulen bzw. 8 Threads.[16]
+
+Die neuen Ryzen Prozessoren werden im 14-nm-Verfahren hergestellt, anstatt Strukturgrößen mit 32 nm und 28 nm wie bei den vorangegangenen APUs und den Prozessoren AMD FX. Es gibt im Moment reine CPUs aber es werden auch APUs mit integrierter Grafikprozessoreinheit erscheinen. Bei den Ryzen Prozessoren kommt der neue Sockel AM4 zum Einsatz, welcher bereits jetzt von vielen Mainboard-Herstellern angeboten wird. DDR4-Speicher wird unterstützt. Aktuell gibt es elf Modelle, den Ryzen 1800X, 1700X und den 1700 der Ryzen 7 Serie, den Ryzen 1600X, 1600, 1500X und den 1400 der Ryzen 5 Serie, den Ryzen 1300X und 1200 der Ryzen 3 Serie, sowie den Ryzen 7 2700U und Ryzen 5 2500U der Ryzen Mobile Serie und 4 neuere 2000er Chips, darunter der Ryzen 7 2700, 2700x sowie der Ryzen 2600 und 2600x. Die Ryzen 7 Prozessoren verfügen jeweils über 8 physikalische und 8 virtuelle Kerne dank SMT, also insgesamt 16 Threads. Die Ryzen 5 Prozessoren hingegen verfügen jeweils über 6 physikalische und 6 virtuelle Kerne, also insgesamt 12 Threads, mit Ausnahme des 1500X und 1400, welche über 4 physikalische und 4 virtuelle Kerne, also insgesamt 8 Threads verfügten. Die Ryzen 3 Prozessoren verfügen über 4 Kerne ohne SMT und haben daher nur 4 Threads. Die Ryzen Mobile Prozessoren verfügen über 4 Kerne mit SMT. Ryzen soll Intel den, durch deren Core-i Prozessoren dominierten, Markt streitig machen, was AMD unter anderem durch eine aggressive Preispolitik umsetzen will. Die Ryzen 7 konkurrieren mit Preisen zwischen 300 € und 500 € gegen den ungefähr gleich schnellen Core i7-6900K für 1000 €. Alle Prozessoren haben einen freien Multiplikator.
+
+Außerdem bietet AMD momentan seine Threadripper Prozessoren für den High-End Desktop und Workstation-Bereich an. Diese vier Prozessoren sind bereits in der zweiten Generation vorhanden unter den Namen „2920X“ mit 12 Kernen und 24 Threads, einem Basis Takt von 3,5 GHz und einem Turbo Takt von 4,3 GHZ und 180 W TDP, „2950X“ mit 16 Kernen und 32 Threads, einem Basis Takt von 3,5 GHz und einem Turbo Takt von 4,4 GHZ und 180 W TDP, „2970WX“ mit 24 Kernen und 48 Threads, einem Basis Takt von 3 GHz und einem Turbo Takt von 4,2 GHZ und 250 W TDP und „2990WX“ mit 32 Kernen und 64 Threads, einem Basis Takt von 3 GHz und einem Turbo Takt von 4,2 GHZ und 250 W TDP.[17] Zwei dieser Prozessoren werden 2018 noch erscheinen. Diese Prozessoren konkurrieren mit den High-End chips von Intel, wobei AMD mit einer höheren Taktrate, mehr Kernen und einem billigeren Preis von 1830 € (Stand 2018) im Vergleich zum Flaggschiff 7980XE von Intel punkten kann, der 2000 € kostet. Die Threadripper Prozessoren benutzen den Sockel „TR4“.
+
+Im Server- und Workstation-Bereich bietet AMD seine Epyc-Prozessoren an.
+
+Das Notebooksegment wird von AMD in hauptsächlich zwei Bereiche geteilt: besonders kompakte „Ultrathin“-Notebooks und „Mainstream“-Notebooks. Der Bereich der ultraleichten Notebooks umfasst weitestgehend alles unter 14 Zoll (es gibt auch Ausnahmen), soll aber nicht als „Netbook“ aufgefasst werden, sondern ähnelt dem Ultrabook von Intel. Der Notebook-Mainstream-Bereich wird vermehrt von der AMD Fusion-A mit bis zu 4 Kernen abgedeckt, der 2011 auf den Markt kam. Deren Vorgänger, die Puma-Plattform, besteht aus einem Athlon oder einem Turion, jeweils mit zwei Kernen. Die Leistungsspitze bildet dabei bei AMD der Turion Ultra. Zur Seite steht den Turions bei der Puma-Plattform eine Grafikkarte (Mobility Radeon) der 3000- bzw. 4000-Generation.
+Mit der Puma-Plattform stellte AMD auch die XGP-Technologie vor. Diese wurde von Fujitsu (Siemens) umgesetzt, die mit dem Amilo SA 3650 und dem dazugehörigen Amilo-Grafikbooster die erste und einzige leistungsstarke externe Grafikkarte auf den Markt haben. Der Amilo-Grafikbooster basiert dabei auf einer Mobility Radeon HD 3870.
+
+Im „Ultrathin“-Notebook-, Subnotebook- und Netbookbereich mit wenig Platz und wenig Strombedarf traf man auf den Athlon Neo und Athlon II Neo. Er besitzt wie die neue Fusion-E-Serie deutlich mehr Leistung als dessen Hauptkonkurrent Intel Atom und wird durch eine leistungsfähigere Onboard-Grafik als die für den Atom unterstützt. Die neue stromsparende Fusion-E- und C- Serie besitzt eine integrierte Direct-X11-Grafikeinheit, als APU bezeichnet, im Die.
+
+Neben Desktop-, Notebook und Serverprozessoren liefert AMD mit dem Verkaufsstart des Gamecubes 2001 Grafikchips und Prozessoren für diverse Spielkonsolen. Dem Gamecube (2001) folgten vier Jahre später Prozessoren für die Xbox 360 (2005), Nintendos Wii (2006) und Wii U (2012). 2013 erhielt AMD den Zuschlag für zwei große konkurrierende Plattformen, die Playstation 4 und Xbox One.
+
+AMD bietet für verschiedene Systeme Chipsätze an.
+
+Besonders ausgeprägt in AMDs Grafikangeboten ist der PC-Markt. Grafikprozessoren für Standardcomputer und Computerspiele werden als AMD Radeon (vormals ATI Radeon), die für den professionellen Markt als AMD FirePro, AMD Pro Series und ATI FireMV verkauft. Mit der HD6XXX-Reihe wurde die Marke ATI Technologies aufgegeben, die Grafikkarten tragen den Namen AMD Radeon HD6XXX. Zuvor hatte AMD im Jahr 2006 das Unternehmen ATI aufgekauft.
+
+Seit 1984 stellt AMD Ethernet-ICs für eine Vielzahl unterschiedlicher Geräte her. Aktuell verfügbare Netzwerkchips basieren auf der AMD-PCnet-Serie.
+
+Am29000 • Am286 • Am386 • Am486 • 5x86 • K5 • K6 • K6-2 • K6-III • K7 • K8/K8L • K9 • K10 • Bobcat • Bulldozer • Jaguar • Steamroller • Puma • Zen 
+
+AMD64 • AMD-V • HSA • Mantle • live! • Quad FX • QuantiSpeed • Turbo Core
+
+Epyc
+
+Ryzen • Threadripper
+
+Ryzen
+
+Ryzen
+
+Llano (K10) •          Trinity,          Richland (Piledriver) •          Kaveri (Steamroller) •          Carrizo, Bristol Ridge (Excavator)
+
+Ontario, Zacate (Bobcat) • Kabini, Temash (Jaguar) • Beema, Mullins (Puma)
+
+Ontario G-Serie
+
+Opteron (K8) • Opteron (K9) • Opteron (K10) • Opteron (Bulldozer) • Opteron (Piledriver)
+
+Phenom • Phenom II
+
+Phenom II
+
+Athlon (K7) • Athlon XP • Athlon 64 (FX) • Athlon 64 X2 • Athlon X2 • Athlon II
+
+Athlon XP-M • Mobile Athlon 64 • Athlon 64 X2 • Athlon X2 • Athlon II
+
+Athlon MP
+
+Turion 64 • Turion 64 X2 • Turion X2 • Turion II
+
+Sempron (K7) • Sempron (K8)
+
+Mobile Sempron
+
+Duron
+
+Mobile Duron
+
+GX • LX • NX • NX 2001
+
+Alchemy
+
+690-Serie • 700-Serie • 800-Serie • 900-Serie • AM4-Chipsätze
+
+Rage •
+FireMV •
+FireGL •
+FirePro •
+Radeon •
+Radeon Xpress
+
+Mobility Radeon •
+Radeon M •
+Imageon •
+Xilleon
+
+Radeon Embedded •
+Rialto •
+CrossFireX •
+HyperMemory •
+Avivo •
+Unified Video Decoder •
+XvBA •
+AMD Mantle •
+TrueAudio
+
+Sockel für Server:
+Sockel A (Sockel 462) |
+Sockel 940 |
+Sockel F |
+Sockel C32 |
+Sockel G34 |
+Sockel SP3
+
+Sockel für Desktops:
+Super Sockel 7 |
+Slot A |
+Sockel A (Sockel 462) |
+Sockel 754 |
+Sockel 939 |
+Sockel 940 |
+Sockel AM2 |
+Sockel F |
+Sockel AM2+ |
+Sockel AM3 |
+Sockel AM3+ |
+Sockel AM4 |
+Sockel TR4 |
+Sockel FM1 |
+Sockel FM2 |
+Sockel FM2+ |
+Sockel AM1
+
+Sockel für mobile Geräte:
+Sockel 563 |
+Sockel 754 |
+Sockel S1
+

@@ -1,0 +1,49 @@
+
+L'espressione commercio elettronico[1], in inglese e-commerce (anche eCommerce), può indicare diversi concetti:
+
+Il significato del termine "commercio elettronico" è mutato col passare del tempo. All'inizio indicava il supporto alle transazioni commerciali in forma elettronica, generalmente ricorrendo a una tecnologia denominata Electronic Data Interchange (EDI, introdotta alla fine degli anni settanta) per inviare documenti commerciali come ordini d'acquisto o fatture in formato elettronico.
+
+In seguito vennero aggiunte delle funzioni che possono venire denominate in modo più accurato come "e-commerce" (contrazione di electronic commerce) -- l'acquisto di beni e servizi attraverso il World Wide Web ricorrendo a server sicuri (caratterizzati dall'indirizzo HTTPS, un apposito protocollo che crittografa i dati sensibili dei clienti contenuti nell'ordine di acquisto allo scopo di tutelare il consumatore), con servizi di pagamento in linea, come le autorizzazioni per il pagamento con carta di credito.
+
+Alcune tipologie di prodotti o servizi appaiono maggiormente adattabili alle vendite online, mentre altri sono più indicati per il commercio tradizionale. Le imprese di commercio elettronico che hanno realizzato le migliori performance restando tuttavia un'entità totalmente virtuale (senza aprire fisicamente degli esercizi commerciali) vendono solitamente prodotti informatici come i supporti di archiviazione, il recupero dei dati e il loro trattamento, la vendita di brani musicali, i film, i corsi e i materiali didattici, i sistemi di comunicazione, il software, la fotografia e le attività di intermediazione finanziaria. Tra queste imprese si segnala a titolo di esempio: Schwab, Google, eBay e PayPal. Un caso interessante è quello delle aziende specializzate nell'offerta di buoni sconto spendibili presso aziende locali o nazionali, come Groupon.[3]
+
+I negozianti in rete sono in grado di riscuotere un certo successo anche nel caso in cui vendano anche dei prodotti e servizi concreti, non digitali come software o immagini on-line. I prodotti non digitali che si prestano a essere venduti in linea possono essere quelli che creano imbarazzo nell'acquirente (es. biancheria intima), e/o quei prodotti che hanno caratteristiche “standard” e che non necessitano di essere provati o valutati “dal vivo” (es. i libri).
+
+Anche i pezzi di ricambio, sia per gli utenti finali (es. lavastoviglie, lavatrici) sia per le necessità di un'attività industriale (es. pompe centrifughe), possono essere considerati dei buoni esempi di prodotti vendibili via Internet. Dato che i negozianti non accumulano pezzi di ricambio presso i punti-vendita al dettaglio, spesso devono successivamente ordinarli; in quest'ultimo caso la competizione non è tra il Commercio Elettronico e il Commercio tradizionale ma con il sistema di ordine al fornitore e/o al grossista. Un fattore di successo in questa nicchia appare la possibilità di offrire al cliente un'informazione precisa e affidabile in merito al prodotto di cui si necessita, per esempio elencando i pezzi di ricambio disponibili insieme al loro codice identificativo.
+
+Viceversa, i prodotti che non sono idonei all'attività del Commercio Elettronico sono quelli con un basso rapporto valore/peso, gli articoli che hanno una componente rilevante riguardo al loro odore, gusto o tattile, i beni che necessitano di essere provati (es. camicie) e anche qualora sia rilevante vederli per cogliere tutte le sfumature di colore.
+
+Esistono diversi tipi di commercio elettronico a seconda della modalità di transazione (nome completo e acronimo):
+
+Anche se un fornitore di beni e servizi di Commercio Elettronico seguisse in maniera rigorosa i sopracitati 16 "fattori chiave" per realizzare una strategia di vendita in linea, possono tuttavia sorgere ugualmente delle difficoltà. Tra le principali citiamo:
+
+Una delle problematiche più sentite nel mondo del commercio elettronico è indubbiamente la sicurezza nelle modalità di pagamento. Ad oggi, le modalità più diffuse sono il bonifico bancario, il contrassegno e il pagamento con la carta di credito, sicuramente più interessato da questo problema. Inizialmente, il trasferimento delle informazioni e dei dati personali tra venditore e cliente avveniva in chiaro. Questo costituiva un enorme problema per la sicurezza, in quanto i dati trasferiti erano suscettibili ad essere intercettati e quindi utilizzati da terzi per operazioni al di fuori della pratica commerciale in atto. Oggi, questa pratica di trasferimento dei dati è stata abbandonata, a favore di pratiche più sicure che garantiscano una maggiore riservatezza delle informazioni personali e che quindi assicurino la bontà delle transazioni.
+
+In particolare, la maggior parte dei siti di commercio elettronico odierni utilizzano livelli di crittografia elevati quali, ad esempio:
+
+Affinché, quindi, il commercio elettronico possa svilupparsi è necessario che gli utenti (l'acquirente da un lato, il venditore dall'altro) possano svolgere le loro transazioni serenamente, senza temere intromissioni esterne. In questo senso, assume molta importanza la procedura di "autenticazione dell'utente". Generalmente, questa procedura avviene tramite la richiesta da parte del server di uno username al quale è associata una password. Tuttavia, è stato dimostrato che questo sistema non può essere considerato del tutto sicuro, in quanto i tempi di individuazione della password da parte di terzi vanno sempre più riducendosi. Per questo motivo, oggi, viene sempre più consigliato all'utente il cambio periodico della propria password. Questo avviene soprattutto per i sistemi di home banking che prevedono che i propri utenti cambino obbligatoriamente la password con una cadenza fissa o che facciano uso di una password "usa e getta" (one-time password) che viene sostituita ogni volta che si accede a un servizio.
+
+Sebbene, la disciplina riguardante il commercio elettronico sia volta soprattutto alla tutela del consumatore, non bisogna dimenticare l'equivalente diritto del venditore a operare sul mercato online in maniera serena.
+Una delle principali problematiche che interessa colui che decide di offrire un bene o un servizio online è sicuramente il non ripudio da parte dell'acquirente. In questa direzione opera l'utilizzo della firma digitale che fa sì che un contratto firmato digitalmente non possa essere disconosciuto da coloro che l'hanno sottoscritto.
+
+Inizialmente il trasferimento dei dati tra il sito di commercio elettronico e il cliente avveniva in chiaro. Questo costituiva un possibile problema di sicurezza, soprattutto quando c'era un pagamento con carta di credito. Con l'avvento del Secure socket layer questo rischio è stato ridotto, ma sono poi comparsi altri problemi quale il Phishing e la comparsa di virus trojan che cercano di rubare informazioni utilizzabili per finalità losche.
+
+Con la diffusione del commercio elettronico si sono moltiplicate truffe sempre più insidiose che colpiscono principalmente gli acquirenti. I principali casi sono:
+
+La normativa italiana prevede che tutti i siti di commercio elettronico riportino nella home page la partita IVA e la denominazione dell'azienda. I siti più importanti di commercio elettronico hanno un certificato digitale che consente di verificare l'autenticità del sito visitato.
+
+Il principale problema dal punto di vista delle aziende è la gestione degli ordini simulati, dove vengono indicate generalità false o non corrette per l'invio dei prodotti. Per ridurre il problema molte aziende accettano solamente pagamenti anticipati.
+
+Il problema della sicurezza attiene anche alla tecnologia utilizzata per l'accesso al commercio elettronico. Il cellulare è un mezzo poco sicuro per navigare nei siti di commercio elettronico, e per effettuare pagamenti in genere (v. standard GSM).
+
+I consumatori hanno accolto il modello economico del commercio elettronico meno prontamente di quello che i suoi proponenti si aspettavano. Anche in categorie di prodotti appropriati al commercio elettronico, lo shopping elettronico si è sviluppato solo lentamente. Diversi motivi potrebbero giustificarne la lenta diffusione, includendo:
+
+Secondo una ricerca italiana del 2008[4] il commercio elettronico in Italia ha un valore stimato di 4,868 miliardi di euro nel 2007, con una crescita del fatturato del 42,2%. Nel 2007 sono stati eseguiti circa 23 milioni di ordini on-line in Italia.
+
+Nel 2009 il commercio elettronico in Italia aveva un valore stimato di 10 miliardi di euro. I settori principali sono il tempo libero (principalmente giochi d'azzardo) che rappresenta quasi metà del mercato (42,2%), il turismo (35%) e l'elettronica di consumo (8,7%).[5]
+
+Nel 2012 una ricerca italiana ha calcolato che il fatturato complessivo delle aziende italiane off-line che utilizzano il web[6] per vendere i propri prodotti e/o servizi è di circa 10 miliardi di euro. I settori più importanti sono risultati il turismo(46%), l'abbigliamento(11%), l'elettronica-informatica(10%) e le assicurazioni on-line(10%).[7]
+
+Nel 2015 secondo Confindustria Digitale, il commercio elettronico con il mercato digitale varrebbe 6,6 punti di Prodotto interno lordo italiano, generando 700.000 posti di lavoro in cinque anni, dei quali, secondo le stime di Federprivacy, fino a 70.000 esperti di protezione dati.[8][9][10][11]
+
+Altri progetti

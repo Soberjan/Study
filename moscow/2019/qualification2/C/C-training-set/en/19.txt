@@ -1,0 +1,9 @@
+
+Google Currents is a discontinued social magazine app released by Google on December 8, 2011. It was replaced by Google Play Newsstand and is no longer available for download. Google Currents was available on Android and iOS devices running iOS 6. The application covered a variety of sources and offered a list of featured content.[1] Google had partnered with over 150 publishing partners to offer full-length articles from over 180 editions including CNET, AllThingsD, Forbes, Saveur, PBS, Huffington Post and Fast Company. Content is optimized for smartphones and tablets, allowing users to intuitively navigate between words, pictures and video on large as well as small screens. The app also worked offline and offered Google+ integration.[2]
+
+In November 2013, Google launched Google Play Newsstand which combined the features of Google Play Magazines and Google Currents into a single product.[3] Current Currents users need to update the app to get Google Play Newsstand as a replacement for Currents and, post-update, the user cannot revert to Currents.
+
+Google Currents Producer is a web-based self-publishing platform released along with Currents through which publishers can customize the presentation of their content on Google Currents. Publishers can also associate their account with Google Analytics in order to increase their awareness of consumers’ content preferences, device use and geographic distribution.[2]
+
+
+

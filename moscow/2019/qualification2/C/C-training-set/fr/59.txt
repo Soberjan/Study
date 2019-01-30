@@ -1,0 +1,55 @@
+
+
+
+Vous pouvez partager vos connaissances en l’améliorant (comment ?) selon les recommandations des projets correspondants.
+
+Nom binominal
+Synonymes
+Bacillus subtilis est une bactérie catalase-positive que l'on trouve habituellement dans le sol, mais c'est surtout une espèce ubiquitaire. 
+
+Comme son embranchement l'indique, c'est une bactérie à gram +.
+
+Sa longueur varie de 2 à 4 µm et sa largeur de 0,5 à 2 µm. Elle a pour forme cellulaire des bâtonnets droits à bout arrondis. Elle est mobile grâce à une ciliature péritriche (un système de flagelle qui recouvre tous les côtés de la surface d'une bactérie). Elle est aérobie stricte, sa température optimale est de 40 °C (espèce mésophile) et son type trophique est chimioheterotrophe. Enfin, son temps de génération est d'environ 26 minutes. Les conditions optimales de croissance de cette souche se situent pour un pH compris entre 5,5 et 8,5, et à une température de 10 °C à 50 °C.
+
+Comme d'autres espèces, B. subtilis peut se constituer une coque protectrice dure (endospore) lui permettant de tolérer des conditions environnementales difficiles ou extrêmes, mais contrairement à plusieurs autres espèces bien connues, elle est une aérobie stricte.
+
+B. subtilis peut produire ou co-produire des biofilms[1] qui peuvent abriter d'autres espèces, éventuellement pathogènes.
+
+Elle n'est pas considérée comme pathogène pour l'homme, mais elle peut contaminer des aliments et peut exceptionnellement provoquer une intoxication alimentaire.
+
+Ses spores peuvent survivre à de très hautes températures, telles que celles communément utilisées pour cuire les aliments. 
+Elle peut être responsable de la présence de zones collantes ou gluantes dans le pain. Néanmoins, une souche de B. subtilis (anciennement connu sous le nom Bacillus natto) est utilisée dans la production commerciale au Japon d'une préparation alimentaire appelée natto.
+
+D'autres souches de B.subtilis ont d'autres applications commerciales. Par exemple, la souche B.  subtilis QST 713 (commercialisé sous le QST 713 ou Serenade™) a une activité fongicide naturelle et est pour cette propriété employée comme agent de lutte biologique en agriculture[2]
+
+B. subtilis peut servir à repeupler la flore intestinale par un bacille antibiorésistant, non pathogène.
+
+C'est un organisme de choix pour l'étude de la sécrétion protéique et un des outils ou modèles génétiques les plus aisément manipulables avec la levure.
+
+Forme irrégulière
+
+Bacillus subtilis est fréquemment utilisé comme outil génétique comme Escherichia coli et les levures[3]. Son étude approfondie comme modèle des bactéries gram+ a permis d’établir les voies de métabolisme cellulaire et la régulation cellulaire. Le séquençage total de son génome a été réalisé pour la première fois en 1997 par Kunst[4]  puis révisé par Zeigler en 2008. Ceci a permis de mettre en place de nouvelles approches expérimentales dites globales comme la transcriptomique et l’analyse des 4 200 gènes contenus dans son génome.
+
+B. subtilis est un excellent modèle pour l'étude de bactéries pathogènes, telles que Staphylococcus aureus, Streptococcus pneumoniae, Bacillus anthracis, responsable de la maladie du charbon, Bacillus cereus, à l'origine d'infections alimentaires ou encore Listeria monocytogenes. On l'utilise pour chercher à répondre à des questions telles que :
+
+Une meilleure connaissance des génomes permettra de répondre à beaucoup de ces questions.
+
+En termes de popularité dans les laboratoires, B. subtilis est l'équivalent Gram-positif de  Escherichia coli, qui est très étudiée comme modèle de bactérie Gram-negative.
+
+Sa capacité à croître rapidement, à atteindre de hautes densités cellulaires et à sécréter un grand nombre de molécules en a fait un outil suscitant l’intérêt des industries agroalimentaires et sanitaires pour ses enzymes et les industries pharmaceutiques et cosmétologiques pour ses molécules à large spectre d’activités biologiques, notamment les antibiotiques. Bacillus subtilis est capable de produire des molécules peptidiques que ne sont pas issues du dogme central de la biologie moléculaire qui est la synthèse peptidique non ribosomale NRPS.  
+
+L'industrie agroalimentaire, pharmaceutique et biochimique, s'intéresse aussi à Bacillus subtilis. Elle est, en effet, source d'enzymes industrielles telles les amylases, utilisées dans l'industrie du pain, ou encore des protéases et cellulases, dans l'industrie des détergents.
+
+La variété natto de B. subtilis sert au Japon à fabriquer le natto, un plat traditionnel à base de soja fermenté.
+
+Sa capacité à produire des antibiotiques, comme la bacitracine en fait un organisme d'intérêt également pour l'industrie pharmaceutique.
+
+Bacillus subtilis est une bactérie qui forme des spores capables de survivre dans des conditions extrêmes, révélant une adaptation très ancienne.
+
+Sur la centaine de gènes contrôlant cette sporulation, la plupart sont déjà connus. On cherche via ce modèle à comprendre la survie remarquable, à des conditions encore plus extrêmes, des archées. En comparant les génomes de ces deux types de micro-organismes, les étapes de l'adaptation et de l'évolution seront mieux comprises.
+
+Sur le plan de la réglementation des produits phytopharmaceutiques :
+
+Elle est employée comme agent de lutte biologique contre la pourriture grise (Botrytis cinerea) de la vigne.
+
+Sur les autres projets Wikimedia :

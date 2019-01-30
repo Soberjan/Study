@@ -1,0 +1,11 @@
+
+L'ISO 9362, meglio noto come codice  SWIFT o codice BIC, è lo standard che definisce i bank identifier codes (codici d'identificazione bancaria) approvato dall'International Organization for Standardization (ISO). Questi codici vengono utilizzati per i trasferimenti di denaro tra banche, specialmente nelle transazioni internazionali, per le quali è spesso ancora necessario nonostante l'entrata in vigore dell'IBAN.
+
+Il codice SWIFT può essere lungo 8 o 11 caratteri:
+
+Nel caso in cui il codice sia composto da 8 caratteri o gli ultimi tre siano tre lettere X si può assumere che il codice sia riferito alla sede centrale della banca. L'uso del codice a 11 cifre invece fa sì che l'ordine di pagamento sia diretto ad una specifica filiale.
+
+L'assegnazione dei codici BIC viene gestita dalla Society for Worldwide Interbank Financial Telecommunication (società per le telecomunicazioni finanziarie interbancarie mondiali), per questo il codice viene spesso chiamato SWIFT.
+
+Anche se i codici BIC vengono definiti anche codici SWIFT perché assegnati dalla società SWIFT, in ambito finanziario questo non è del tutto esatto. Esistono codici BIC che non sono considerati codici SWIFT (Non-SWIFT BIC) perché non sono connessi direttamente alla rete SWIFT per i pagamenti esteri. Vengono utilizzati per transazioni manuali e potrebbero essere rifiutati da alcuni sistemi. Pertanto, per ricevere bonifici dall'estero, è consigliabile rivolgersi alla propria banca affinché fornisca uno SWIFT BIC connesso alla rete (ad esempio, per UniCredit è UNCRITMM, per Deutsche Bank Italia è DEUTITMM, per Intesa Sanpaolo è BCITITMM). Si riconoscono dall'ottavo carattere: se è un "1" è un BIC non-SWIFT.
+

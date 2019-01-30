@@ -1,0 +1,85 @@
+
+
+
+Die Intel-Sandy-Bridge-Mikroarchitektur ist eine von Intel entwickelte Mikroarchitektur, auf deren Basis erste Modelle im Januar 2011 vorgestellt wurden. „Sandy Bridge“ basiert teilweise auf den Vorgängerarchitekturen „Core“ und „Westmere“, wobei einige Elemente noch aus der Netburst-Architektur stammen. Intel selbst verweist auf Sandy-Bridge-Prozessoren als „2nd Generation Intel Core Processors“ und auf Ivy-Bridge-Prozessoren als „3rd Generation Intel Core Processors“.[1]
+
+Ursprünglich ist die Sandy-Bridge-Architektur unter dem Codenamen „Gesher“ entwickelt worden und wurde erstmals auf dem Intel Developer Forum 2006 vorgestellt.[2] Auf dem IDF 2007 wurde der Name dann in „Sandy Bridge“ geändert.[3]
+
+Die Sandy-Bridge-Architektur wurde vom selben Entwicklungsteam entwickelt, das bereits die Core-Architektur herausgebracht hatte (Intels Israel Development Center, IDC, in Haifa). Im Vergleich zur Nehalem-Architektur, die von einem anderen Entwicklungsteam stammt, wurde die Pipeline wieder verkürzt, während sie bei der Nehalem-Architektur von 14 auf 16 Pipelinestufen verlängert wurde.
+
+Aufgrund der weiteren Integration von Komponenten wie dem Grafikprozessor (GPU) und der Auslegung der Architektur für mehr als vier Kerne hat Intel die Architektur modular aufgebaut und sich von der klassischen Crossbar zur Anbindung des Last Level Cache (L3-Cache) verabschiedet. Stattdessen werden die Caches mit Kernen, dem Speichercontroller und der GPU mit einem internen Ringbus verbunden. Dieser Ringbus besteht dabei aus vier Links: einem 256-Bit-Datenring, einem „Request-Ring“ (request = anfordern), einem „Acknowledge-Ring“ (acknowledge = bestätigen) und einem Snoop-Ring (snoop = lauschen, spionieren). Der Ringbus verläuft dabei über dem Cache und nimmt keine zusätzliche Die-Fläche in Anspruch. Bei einem mit 3 GHz getakteten Prozessor gibt Intel die Bandbreite pro Verbindung auf theoretische 96 GB/s an.
+
+Zu den umfassendsten Architekturänderungen gehört auch der Nachfolger der SSE4-Befehlssatzerweiterung: AVX (Advanced Vector Extensions, dt.: fortgeschrittene Vektor-Erweiterungen). Während SSE4 auf 128 Bit breiten Registern rechnet, sind für AVX 256 Bit breite Register nötig. Durch die doppelt so breiten Register können nun bis zu acht Gleitkomma- oder Integer-Operanden in einem Vektor zusammengefasst werden und anschließend mit dem Vektor gewöhnliche arithmetische oder logische Operationen durchgeführt werden.
+
+Aufgrund der Einführung von 256-Bit-Befehlen hat Intel die aus der Netburst-Architektur bekannte „Physical Register File“ (PRF) wieder eingeführt. Während bei der Core- und Nehalem-Architektur die Operanden stets mitgeführt wurden und daher zusätzliche Puffer benötigten, die mit den großen 256-Bit-Befehlen hätten weiter vergrößert werden müssen, kann mit der PRF auf diese zusätzlichen Puffer verzichtet werden, da nun mit einem Pointer (Zeigervariable) auf PFR diese Operanden erreichbar sind.
+
+Die Abarbeitung von 256-Bit-Befehlen geschieht über das Zusammenschalten der Gleitkomma- mit der SIMD-Integer-Pipeline, was mittels zusätzlicher Transistoren erreicht wird, zudem wurden einige Funktionen zwischen den Pipelines getauscht. Dieses Vorgehen erspart das Vergrößern einer Pipeline von 128-Bit-Registern auf 256-Bit-Register, allerdings ist auch der mögliche Durchsatz kleiner. Zudem unterstützt die neue Umsetzung keine Fused-Multiply-Add (FMA) mit 256-Bit-Befehlen.
+
+Als weitere Neuerung ist der sogenannte „Dynamic Turbomode“ bekannt geworden. Zusätzlich zu den Funktionen die aus der Nehalem/Westmere-Architektur bekannt sind, können die Sandy-Bridge-Prozessorkerne kurzfristig über die TDP hinaus ihren Takt anheben, falls der Prozessor vorher unbeschäftigt ("idle") war und damit kurzfristig höher belastet werden kann. Bei Dauerbelastung regelt sich der Prozessor dann wieder auf die vorgeschriebene TDP herunter.
+
+Während die Grafikeinheit beim mobilen Ableger „Arrandale“ der Westmere-Architektur noch per Treiber in speziellen Fällen übertaktet wurde, bindet Intel die GPU bei Sandy Bridge nun mit in den hardwarebasierten Turbo-Modus ein. Wie auch bei der Nehalem/Westmere-Architektur ist eine „Power Control Unit“ verbaut, also ein Mikrocontroller, der die Energieflüsse überwacht und steuert. Die Kerne mit den Caches, die Grafikeinheit und die integrierte North-Bridge (Speicher- und PCIe-Controller, DMI) sind jeweils getrennt an ihre eigene Energieversorgung angebunden und können dynamisch passend zur Auslastung geregelt werden.
+
+Für einige Sandy-Bridge-Modelle stand erstmals die Funktion „Intel Quick Sync Video“ (hardware-basierte Unterstützung von En- und Decodierung von Videos) zur Verfügung. „Quick Sync“ ermöglicht ein schnelles Umwandeln beispielsweise eines DVD-Videos in ein Smartphone-Videoformat.
+
+Zum Betrieb der Sandy-Bridge-Prozessoren ist ein Cougar-Point-Chipsatz der Intel-6-Serie notwendig. Ende Januar 2011 wurde bei diesem im B2-Stepping vorliegenden Chipsatz ein Hardware-Bug entdeckt, der zu einem Produktionsstopp und zunächst zu einer Rückrufaktion von Seiten Intels führte. Die Fertigung des Chipsatzes wurde zum gleichen Zeitpunkt auf eine vom Fehler bereinigte B3-Stepping-Version[4] umgestellt. Später entschied sich Intel, die Chipsätze im B2-Stepping an OEMs weiter zu verkaufen,[5] da nur die vier SATA-3-Gb/s-Ports von dem Problem betroffen sind und bei Nutzung der beiden verbliebenen SATA-6-Gb/s-Ports keine Probleme entstehen. Solche Mainboards könnten dann in Notebooks und Komplettsystemen eingesetzt werden, in denen nur zwei Laufwerke im System verbaut sind. Zudem können noch zusätzliche SATA-6-Gb/s-Ports durch Zusatzchips realisiert werden.
+
+Ivy Bridge wurde am 23. April 2012 vorgestellt. Prozessoren auf Basis von Ivy Bridge werden in einem 22-nm-Fertigungsverfahren hergestellt, das nicht mehr der bislang üblichen Planartechnik entspricht, sondern sogenannte Multigate-Feldeffekttransistoren nutzt. Es bleibt jedoch weitgehend die gleiche Sandy-Bridge-Architektur, zumindest was die Prozessorkerne angeht, denn dort werden nur Detailoptimierungen durchgeführt. Die integrierte Grafik unterstützt hingegen erstmals DirectX 11, OpenGL 3.1 (OpenGL 4.0 seit den 9.17.10.2729-Beta-Treibern)[6] und OpenCL. Zudem ist sie deutlich leistungsfähiger und bekommt ihren eigenen L3-Cache.[7]
+
+Der Nachfolger von Ivy Bridge erschien im Jahr 2013 und trägt den Codenamen Haswell.
+
+Ivy-Bridge-Prozessoren sind grundsätzlich kompatibel zu den Intel-6-Serie-Chipsätzen für die Sandy-Bridge-Prozessoren. Zusätzlich führt Intel mit Ivy Bridge neue Intel-7-Serie Chipsätze mit zusätzlichen Ausstattungsmerkmalen, wie etwa USB-3.0-Schnittstellen, ein. Auf vielen Mainboards mit ursprünglich für Sandy-Bridge entwickelten Chipsätzen konnten aufgrund des gleichen Sockels nach einem Bios-Update Prozessoren der Ivy-Bridge-Generation eingebaut werden. Für die Nutzung von PCI-Express 3.0 ist ein Prozessor der Ivy-Bridge-Reihe erforderlich, da nur Ivy-Bridge-Prozessoren den dafür notwendigen Controller besitzen.
+
+Zweikernprozessor (Dual-Core)
+
+Vierkernprozessor (Quad-Core)
+
+Sechskernprozessor (Hexa-Core)
+
+Vierkernprozessor (Quad-Core)
+
+Vierkernprozessor (Quad-Core)
+
+Zweikernprozessor (Dual-Core)
+
+Vierkernprozessor (Quad-Core)
+
+Zweikernprozessor (Dual-Core)
+
+Vierkernprozessor (Quad-Core)
+
+Zweikernprozessor (Dual-Core)
+
+x86-Mikroarchitekturen:
+8086 |
+80186 |
+80286 |
+80386 |
+80486 |
+P5 |
+P6 |
+NetBurst |
+Core Solo/Core Duo |
+Core 2 |
+Nehalem/Westmere |
+Sandy Bridge/Ivy Bridge |
+Haswell |
+Broadwell |
+Skylake |
+Kaby Lake |
+Coffee Lake |
+Whiskey Lake |
+Cannon Lake |
+Ice Lake  •  
+Atom
+
+Non-x86-Mikroarchitekturen:
+Mikrocontroller: MCS-48 |
+MCS-51 |
+MCS-96  •  
+Server: Itanium |
+Itanium 2
+
+GPU-Mikroarchitekturen:
+Larrabee |
+Intel HD Graphics
+

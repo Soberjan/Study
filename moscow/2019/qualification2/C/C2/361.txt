@@ -1,0 +1,58 @@
+
+L'Intellivision è una console da gioco messa in commercio da Mattel nel 1979.
+
+La progettazione dell'Intellivision iniziò dal 1978, per opera di Mattel Electronics, il nome della sezione dell'azienda dedicata ai giochi elettronici. Il nucleo della console (processore e grafica) era stato sviluppato da General Instrument, come può essere visto dal relativo libro "Gimini" del 1978 (vedasi "Gimini full range 8900 programmable set")[3]. Una prima commercializzazione avvenne nel 1979, in California, con una disponibilità di quattro giochi, tutti prodotti dalla APH Technological Consulting. Nel 1980 fu estesa in tutto il territorio statunitense a un prezzo indicativo di 299$ e con un gioco incluso (Las Vegas Poker & Blackjack).
+
+In quel periodo il settore del mercato era dominato da Atari, con la sua console Atari 2600 (o Atari VCS; 1977); altri sistemi da gioco erano prodotti da Fairchild Semiconductor, Bally Technologies e Magnavox. Intellivision riuscì a mettere seriamente in discussione il predominio assunto da Atari.
+
+Venne prodotta una campagna pubblicitaria comparativa, con la partecipazione di George Plimpton, che attaccava senza riguardi le capacità dell'Atari 2600.
+
+Prendendo in prestito la strategia dell'Atari la Mattel commercializzò la sua console attraverso svariati rivenditori e utilizzando diversi marchi, quali ad esempio Radio Shack Tandyvision, il GTE-Sylvania Intellivision e il Sears Super Video Arcade.
+Il modello per Sears fu in particolare un colpo vincente per Mattel, Sears vendeva infatti già console Atari rimarchiate, e questo aveva contribuito in modo massiccio al successo di Atari.
+
+Nel suo primo anno di vita, furono venduti 175 000 esemplari di Intellivision ed il catalogo di giochi ammontava a 19 titoli. Fino a quel momento, i giochi sviluppati erano produzione da aziende terze come APH, in seguito la compagnia considerò molto più conveniente svilupparne in proprio, dedicando molte delle proprie risorse nella produzione del software e formando una squadra di sviluppo,
+composta originariamente da 5 membri: Gabriel Baum, Don Daglow, Rick Levine, Mike Minkoff e John Sohl. Per proteggersi dalla rivale Atari, l'identità e il luogo di lavoro di Levine, Minkoff e degli altri programmatori furono tenute segrete. Per parlare di loro, si usava il nome di Blue Sky Rangers.
+
+Nel 1982, anno in cui la macchina fu distribuita anche in Europa e in Italia, le vendite furono alte: oltre 2 milioni di console portarono profitti alla Mattel per 100 milioni di dollari. Il crescente successo della Mattel richiamò l'attenzione di aziende che avevano già conseguito successi producendo titoli per Atari, come Activision, Coleco e Imagic. I principali titoli riuscivano a vendere anche in milioni di copie. Poi la Mattel introdusse una periferica innovativa, IntelliVoice, che permise di accompagnare certi giochi con una rudimentale sintesi vocale. Il gruppo di sviluppo, dai soli 5 componenti di partenza, raggiunse i 110 programmatori, allora guidati dal Vice Presidente Baum, mentre Daglow dirigeva lo sviluppo dell'Intellivision e Minkoff - un ingegnere ai vertici - dirigeva tutto il lavoro su tutte le altre piattaforme.
+
+Ma molti utenti erano interessati al Keyboard Component (componente tastiera), un accessorio da sempre proclamato da Mattel come "di prossima uscita", che avrebbe avvicinato la console al livello di un home computer. L'unità di base prevede l'alloggiamento al suo interno della console e comprende un lettore di cassetta per caricare e salvare dati, oltre alla possibilità di utilizzare ugualmente le cartucce Intellivision tradizionali. Questo accessorio si rivelò troppo costoso da progettare e distribuire, così Mattel rinunciò all'idea. La Mattel subì in seguito un'indagine da parte della Federal Trade Commission americana per non aver prodotto il componente promesso, con la minaccia di dover pagare 10.000 dollari al giorno fino al momento in cui l'avrebbe pubblicato. Alla fine Mattel mise la tastiera in vendita, esclusivamente per corrispondenza. Ne furono venduti 4000 esemplari, molti dei quali furono restituiti quando Mattel li ritirò dal mercato nel 1983. La ragione del ritiro fu l'alto costo di produzione e di supporto, unita al fatto che l'allora innovativo lettore di cassette non si rivelò mai affidabile quanto richiedeva il pubblico.
+
+Mattel a questo punto istituì un gruppo interno di progettisti, con l'obiettivo di correggere o rimpiazzare il componente. Venne sviluppata un'alternativa più economica: l'ECS, o Entertainment Computer System (Sistema Computerizzato per l'Intrattenimento), anche detto Lucky ("fortunato", da LUCKI: Low User Cost Keyboard Interface, "Interfaccia per tastiera a basso costo utente"), molto più piccolo e semplice del componente originale. Si trattava tuttavia di un sistema poco potente, dedicato al gioco e all'apprendimento della programmazione, non paragonabile a un vero home computer. Le due tastiere erano incompatibili, ma ai possessori dell'unità più vecchia venne offerto in cambio un ECS.
+
+Il 1983, oltre al lancio dell'ECS, vide anche l'introduzione del ridisegnato Intellivision II, con una nuova linea e controller staccabili, il System Changer, che permette di far funzionare giochi per l'Atari 2600, e una tastiera musicale opzionale per l'ECS. Ma nonostante il nuovo fiammante hardware, l'Intellivision passò dei guai. I nuovi sistemi di gioco (Colecovision [1982], Atari 5200 [1982], e Vectrex [1982]) rubavano quote di mercato alla Mattel, e il crollo dei videogames del 1983 mise l'intero settore sotto pressione. In agosto alla Mattel ci fu una massiccia riduzione del personale, e il prezzo dell'Intellivision II (che era di 150 dollari, al momento del lancio, nello stesso anno), fu ribassato a 69 dollari. La Mattel Electronics accusò una perdita di 300 milioni di dollari. All'inizio dell'anno successivo, la divisione videogiochi venne chiusa - la prima vittima eccellente del "crash".
+
+Sorprendentemente il sistema risorse dalle proprie rovine e continuò a vivere fino al 1991. Un gruppo di dirigenti capitanato da Terry Valeski acquistò, col supporto finanziario della Tangible Ventures, appartenente alla RevCo Drugstores, tutti i diritti dell'Intellivision e del suo software, incluse le rimanenze di magazzino. La nuova azienda si chiamò dapprima Intellivision inc. e poi INTV Corporation, allorché Valeski acquistò dalla RevCo i diritti e continuò a vendere i vecchi componenti al dettaglio e per posta. Quando la scorta di Intellivision II terminò, essa introdusse una nuova console battezzata INTV System III. Questa unità non era altro che una rivisitazione estetica dell'Intellivision originale. In seguito, fu ulteriormente rinominata Super Pro System. Oltre a produrre nuove console, la INTV introdusse sul mercato i giochi completati dalla Mattel, ma mai commercializzati. Il successo riscosso da questi indusse INTV a terminare lo sviluppo dei giochi che non erano stati terminati prima della chiusura di Mattel Electronics, pubblicando qualche titolo all'anno. Le vendite di queste cartucce si attestavano tra i 10 000 e i 20 000 esemplari, ma dato che la INTV era un'azienda con poche spese, l'impresa portava ancora margini. Nel 1987, le vendite si alzarono, data la difficoltà di trovare sugli scaffali dei negozi la nuova console Nintendo NES, ma fu solo un fuoco di paglia.
+L'unico videogioco integralmente sviluppato da INTV fu SuperPro Volleyball.
+Alla fine il sistema morì, e la INTV chiuse i battenti nel 1991. Le cartucce rimaste in inventario continuarono ad essere vendute tramite Telegames (ordine postale) e Radio Shack (su catalogo) fino ad esaurimento scorte. Telegames ha cessato nel 2004 di supportare l'Intellivision ed altri vecchi dispositivi di gioco.
+
+Il sistema risorse nuovamente quando Keith Robinson, uno dei primi programmatori Intellivision, responsabile del gioco TRON Solar Sailer, ne acquistò i diritti sul software e fondò una nuova azienda, la Intellivision Productions, nel 1997. Come risultato, giochi progettati in origine per l'Intellivision furono resi disponibili per le console dei tempi odierni, come PlayStation 2, Xbox e Nintendo GameCube, nella confezione  Intellivision Lives, oltre che per PC e MAC ("Intellivision Rocks"). Attualmente Intellivision Lives è uscito anche per Nintendo DS.
+
+L'Intellivision vantava alcuni titoli molto popolari come Major League Baseball (negli USA), NASL Soccer (in Europa), Astrosmash e Night Stalker, tuttavia la maggior parte del catalogo era costituita da giochi sportivi o trasposizioni di giochi da tavolo o di carte. I giochi di azione erano gestiti in maniera più efficace sull'Atari 2600, poiché l'Intellivision era più lento nell'aggiornamento della grafica, che però era nettamente superiore da un punto di vista qualitativo.
+
+Molti dei primi giochi per Intellivision furono sviluppati da studenti del college come esercitazione per i loro corsi di programmazione su computer. Il problema più grosso in cui potevano incorrere, particolarmente di rilievo nei titoli sportivi, era l'impossibilità di giocare da soli contro il computer: era prevista soltanto la modalità 2 giocatori.
+
+Utopia di Don Daglow è uno dei primi videogiochi strategici apparsi sul mercato.
+
+Uno dei più popolari sparatutto per Intellivision, tale da permettere l'organizzazione di un torneo nazionale da parte di Mattel.
+
+Un gioco in cui il personaggio corre per i labirinti di notte, sparando ai robot ed evitando pipistrelli e ragni. Uno dei migliori titoli Intellivision, che è stato trasposto per varie altre piattaforme.
+
+Probabilmente l'unico titolo di grido del catalogo Intellivision, è la trasposizione casalinga di gran qualità della versione da bar. L'Atari aveva bloccato per sé la maggior parte delle licenze di giochi arcade ma con Burgertime la Mattel fece un colpaccio e sfornò una conversione praticamente perfetta per le potenzialità della console.
+
+Il best seller di tutti i tempi negli USA, MLB era largamente impiegato nelle pubblicità per mostrare la netta superiorità della grafica in confronto a quella dell'Atari 2600.
+
+È un antenato degli RPG a sfondo medievale. Lo scopo è far raggiungere la "Montagna del Drago" a tre arcieri attraverso una serie di montagne presidiate dai nemici. Per la prima volta si introduceva una primitiva "nebbia di guerra" ed i labirinti erano diversi ad ogni partita.
+
+Nel 1983 venne introdotta una versione aggiornata chiamata Intellivision II.
+
+I motivi principali per cui fu costruita furono:
+
+In teoria, l'Intellivision II doveva essere uguale all'Intellivision originale, ma non era così. Fu scoperto che tre giochi Coleco sul mercato, Donkey Kong, Mouse Trap e Carnival, non funzionavano sul nuovo sistema. Mattel asserì che forse ciò era dovuto ai cambiamenti necessari per far funzionare il System Changer. In realtà, allorché si scoprì che anche i giochi in sviluppo presso la Mattel non andavano, questa era stata una mossa deliberata della Mattel per non far funzionare i giochi dei concorrenti.
+
+L'EXEC contiene una subroutine che mostra il copyright Mattel; il programmatore deve inserire l'anno in una certa locazione della memoria. Dato che il gioco di un concorrente non usa questa subroutine, quella locazione resta vuota. L'EXEC dell'Intellivision II esamina un particolare bit in quella locazione; se non lo trova non fa partire il gioco.
+
+Il problema sorse anche per i giochi Mattel, quando passarono da 4K a 8K e i programmatori iniziarono a usare schermi per i titoli che bypassavano la routine EXEC del copyright.
+
+Ovviamente, il problema fu risolto per le cartucce dei concorrenti prodotte dopo che l'Intellivision II fu lanciato sul mercato.
+
+Altri progetti

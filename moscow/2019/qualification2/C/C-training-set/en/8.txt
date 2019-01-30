@@ -1,0 +1,25 @@
+
+Moblin, short for 'mobile Linux', is a discontinued open source operating system and application stack for Mobile Internet Devices (MIDs), netbooks, nettops and embedded devices.[1]
+
+Built around the Intel Atom processor, all builds were designed to minimize boot times and power consumption as a netbook and MID-centric operating system. The netbook/desktop version of Moblin supported other chipsets based on the SSSE3 instruction set, such as the Core2 and some Celeron processors.
+
+OEM support was scarce but hit an all-time high in 2009 when Acer replaced Linpus Linux with Moblin on their Acer Aspire One netbooks.[2][3]  and LG Electronics chose Moblin OS 2.1 for its mobile Internet device class smartphone  the LG GW990.[4][5] Dell also once accepted orders for its Ubuntu Moblin Remix, a Canonical Ltd. which built Moblin on top of Ubuntu distribution as base.[6]
+
+Few commercial products existed around Moblin 2 most prominently a Foxconn netbook[7] and an InvenTech smartphone,[8] both announced at Computex 2009. Mandriva offered Moblin's v2 version to all Mandriva distribution and netbook owners.[9]
+
+At the Consumer Electronics Show in January 2010, MSI and Novell announced SUSE Moblin preloaded on the MSI U135 netbook. Following the release of Moblin version 2.1, this was the first original equipment manufacturer (OEM) to sell a fully supported Intel Atom processor-based netbook running Moblin-based technology to consumers. It was demonstrated at both the MSI and Intel booths at the show.[10] In addition, Samsung showed four netbooks preloaded with SUSE Moblin.
+
+At the Mobile World Congress in February 2010, it was announced that the Moblin project would be merging with Maemo to create the MeeGo mobile software platform. Nokia stopped all MeeGo development after switching to Windows Phone in 2011 and Intel also discontinued work on to join the Tizen project instead.
+
+Intel launched the Moblin.org site in July 2007 and significantly updated the site in April 2008 with the launch of the Intel Atom processor family at the Intel Developer Forum in Shanghai.  A custom software development kit (SDK) is available on the site. The Moblin 2 OS was specifically designed to run on an Intel Atom processor in a netbook.[11]
+
+In April 2009, Intel turned Moblin over to the Linux Foundation. Subsequently, Moblin was merged with Maemo, becoming MeeGo. MeeGo's development was also hosted by the Linux Foundation, and initially governed by a Technical Steering Group overseen by Imad Sousou of Intel and Nokia's Valtteri Halla.[12]
+
+The Linux Foundation canceled MeeGo in September 2011 in favor of Tizen.[13] A new Finnish start-up, Jolla, announced in July 2012 that MeeGo's community-driven successor Mer,[14] would be the basis of their new operating system Sailfish OS slated to launch in a smartphone during 2013.[15]
+
+At the Linux Collaboration Summit in April 2009, Intel demonstrated that the Moblin 2 alpha release can load major components of the stack, including the graphics system, and start up in mere seconds.[16]  On May 19, 2009, Imad Sousou announced the release of Moblin v2.0 beta for Netbooks and Nettops for developer testing.[17] Moblin 2's Core distribution is based on recent builds of Fedora, but other distributions to announce future support for the core Moblin stack include Linpus[2] and Ubuntu.[18][19]
+
+This second major release marked a shift from the Xfce desktop environment to a custom-built GNOME Mobile UI based on OpenedHand's Clutter, a key piece of the Maemo graphical environment, built around the X Window System. The new UI also includes an integrated Gecko web browser.[20] The Register was impressed by the interface but noted the presence of "quite a few apparent bugs" and described the beta release of Moblin 2 as "closer to an alpha than a beta.".[21]
+
+Moblin 2's interface is designed for netbook and nettops and built on open source graphics technology, such as Clutter, DRI2, and KMS, which are designed around toolbars and panels available at the top of the screen.
+

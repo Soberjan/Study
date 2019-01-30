@@ -1,0 +1,26 @@
+
+L'ISSN (dall'inglese International Standard Serial Number, "numero di riferimento internazionale per le serie") è il numero internazionale che identifica le pubblicazioni in serie (i periodici, come quotidiani o riviste, le collane di libri, gli annuari, ecc.), a stampa o elettroniche, e consente un'identificazione univoca anche nel caso in cui esistano più pubblicazioni con lo stesso titolo.
+
+L'ISSN viene utilizzato per la predisposizione dei codici a barre (ed è quindi usato per le necessità della distribuzione commerciale) o per la costruzione di altri codici identificativi editoriali (ad es., può essere impiegato all'interno del codice DOI che individua online un contributo in una rivista); ma è anche un identificatore usato in tutti i database nei quali si renda necessario individuare in modo univoco le pubblicazioni in serie (cataloghi di biblioteche o sistemi di informazione, database scientifici e archivi della produzione editoriale, sistemi di archiviazione di curricula degli autori, ecc.).
+
+L'ISSN identifica il titolo dell'intera pubblicazione in serie, ma non quello del singolo fascicolo di una rivista o del singolo volume di una collana. È attribuito da Centri nazionali ciascuno competente per la produzione editoriale del proprio paese, tutti raggruppati in una rete internazionale coordinata dall'International Centre. La sintassi del codice e il meccanismo di assegnazione alle pubblicazioni differiscono da quello dell'ISBN, che è l'identificatore internazionale dei libri.
+
+L'ISSN è regolato attualmente dalla norma ISO 3297 (ICS nº 01.140.20) emessa il 16 agosto 2007 (Information and documentation -- International standard serial number (ISSN)).[1] La edizioni precedenti della norma risalgono al 1986 e al 1975; l'ISSN risulta essere il più longevo degli identificatori editoriali ISO tuttora in uso. In Italia lo standard è stato tradotto e pubblicato dall'Ente nazionale di unificazione come norma UNI ISO 3297:2010 (Informazione e documentazione - Sistema internazionale unificato per la numerazione delle pubblicazioni in serie (ISSN)).[2]
+
+L'ISSN è costituito dai caratteri « ISSN » seguiti da due gruppi di quattro cifre, separati da un trattino. L'ultima cifra, situata in ottava posizione serve da codice di controllo e può avere un valore da 1 a 10; il valore 10 è rappresentato con una «X».
+
+Contrariamente all'ISBN, il numero di ISSN non è un "codice parlante", cioè le singole cifre non corrispondono ad una codifica specifica, ma vengono attribuite sequenzialmente, indipendentemente dal paese d'origine, dalla lingua, ecc. Ad ogni ISSN corrisponde un titolo-chiave così come una data d'inizio della pubblicazione. La data di fine è normalmente fissata al «9999».
+
+Il titolo-chiave è composto dal nome della pubblicazione ed, eventualmente, da un qualificativo (spesso il luogo di pubblicazione) usato nei casi in cui sia necessario distinguere il titolo della pubblicazione da altri uguali. Per esempio, l'ISSN 0999-2138 è associato al titolo chiave «Ouest-France (Ed. de Rennes)» perché nell'archivio internazionale ISSN esiste un titolo identico, a sua volta disambiguato con un qualificativo dello stesso tipo: Ouest-France (Ed. d'Angers-Segré), ISSN 2114-9232.
+
+Ad ogni posizione viene attribuita una ponderazione (da 8 a 2 in senso decrescente) e si fa la somma dei prodotti così ottenuti. Si conserva il resto della divisione euclidea di questo numero per 11. Si sottrae questo numero a 11 e si ottiene la chiave.
+
+Nota : essendo 11 un numero primo, un errore portante su una cifra condizionerà automaticamente un'incoerenza del codice di controllo.
+
+L'ISSN è attribuito gratuitamente a ogni pubblicazione secondo la definizione ISO 3297 seguente:
+
+«È una pubblicazione in serie, ogni tipo di pubblicazione, su ogni forma di supporto, che è pubblicata in fascicoli o volumi successivi, che si susseguano in generale numericamente o cronologicamente, in una durata non limitata in anticipo. Tale definizione esclude i lavori destinati ad essere pubblicati in un numero finito di parti.
+L'ISSN è applicabile all'insieme delle pubblicazioni in serie, siano esse passate, presenti o che debbano essere pubblicate in un futuro prevedibile, qualsiasi sia il supporto fisico della pubblicazione. Le pubblicazioni in serie comprendono i periodici, giornali, pubblicazioni annuali (come relazioni, annuari, inventari), riviste, collezioni, memorie, resoconti, atti, ctc. delle società.»
+
+Se la pubblicazione cambia titolo, viene attribuito un nuovo codice. Allo stesso modo, se la pubblicazione viene trasferita su un supporto differente (pubblicazione elettronica, pubblicazione in braille, ecc.) c'è bisogno di un numero ISSN differente per il diverso supporto. In tutti i casi comunque, l'ISSN deve essere visibile a occhio nudo (vedi ad esempio i facsimile dei giornali stoccati su microschede). L'ISSN può essere integrato nel codice a barre (norma EAN 13).
+

@@ -1,0 +1,26 @@
+
+BEL20 est l'acronyme du principal indice d'actions de la bourse de Bruxelles en Belgique.
+
+L'indice BEL20 est lancé le 18 mars 1991 et clôture sa première journée d'existence à 1180 points (+ 18 % par rapport au 31 décembre 1990)[1].
+
+L'indice BEL20 est édité par le groupe NYSE Euronext. Il est le principal indice boursier national de la Bourse de Bruxelles, C'est un indice à panier (c’est-à-dire calculé par pondération des actions qui le composent) qui est diffusé en temps réel par la société Euronext Bruxelles, même si chacune des 20 sociétés dont les actions composent l’indice BEL 20 n’a pas la Bourse de Bruxelles pour place financière de référence (par exemple, en 2010, GDF-Suez, dont la place financière de référence est Euronext Paris).
+
+Les actions de l’indice BEL 20 sont les titres les plus liquides du marché Euronext Bruxelles, et ceux des 20 sociétés cotées dont la capitalisation boursière flottante (les titres effectivement en circulation) est la plus importante. 
+Des produits financiers dérivés, par exemple le tracker « BEL 20 Master Unit » sont adossés à l’indice et font l’objet de transactions sur Euronext Bruxelles.
+
+La revue de l'indice s'opère le troisième vendredi de mars. Les compagnies sélectionnées doivent être  "représentatives du marché belge", et avoir au moins 15 % de capital flottant.
+
+En outre, ce capital flottant doit excéder le prix de l'indice (évalué au dernier jour de l'année précédente) d'un facteur d'au moins 300.000. Si, lors d'une revue annuelle, ce facteur passe en dessous de 200.000, alors le titre en question ne peut plus rester dans l'indice.
+
+Quand une compagnie intègre l'indice, sa pondération - calculée sur base du capital flottant - ne peut excéder 12 % de la composition de l'indice. Ultérieurement, lors des revues annuelles, cette pondération ne peut pas aller au-delà de 15 %.
+
+La vélocité du capital flottant doit atteindre 35%, ce qui signifie qu'au moins 35% des actions doivent avoir changé de mains dans l'exercice annuel précédent. Pour les actions déjà présentes dans l'indice, cette limite passe à 30 %
+
+La fréquence de mise à jour du niveau de l'indice est de 15 secondes.
+
+L'indice BEL20 reprend 20 actions de la bourse de Bruxelles. Sa valeur de référence était de 1 000 € le 30 décembre 1990[2]. Son code mnémonique est  ^BFX, son code ISIN BE0389555039.
+
+Les performances annuelles du BEL 20 se sont rapprochées de celles du Dow Jones, du DAX, du CAC 40 et du Footsie, les grands marchés boursiers étant de plus en plus dépendants les uns des autres depuis une quinzaine d'années.
+
+Composition de poids indiciel au 18 juin 2013[3].
+

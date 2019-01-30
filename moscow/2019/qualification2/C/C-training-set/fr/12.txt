@@ -1,0 +1,44 @@
+
+
+
+Nippon Denki (日本電気株式会社, Nippon Denki Kabushiki gaisha?, TSE : 6701, NASDAQ : NIPNY), plus connu sous l'abréviation NEC à l'étranger, ou Nichiden (日電?) au Japon, est un géant industriel japonais de l'informatique et de la télécommunication. 
+
+Fondée en 1899 par Iwadare Kunihiko (ancien employé d'Edison à New York) et l'entreprise américaine Western Electric, Nippon Denki Kabushiki gaisha (日本電気株式会社?), en anglais Nippon Electric Company, est historiquement la première entreprise à capital mixte japonais et étranger. Elle produit alors des téléphones et centraux téléphoniques, et élargit ensuite son activité à l’électronique (semi-conducteurs, circuits intégrés) et aux systèmes de communication (par radio, par micro-ondes ou par câbles sous-marins). 
+
+À partir des années 1960, Nippon Electric Company se développe à l’international (Europe et Amérique du Nord, puis Asie) et sa production s’élargit de même, dans la télécommunication (satellites, équipements de réseaux informatiques, puis la téléphonie mobile) et les ordinateurs (supercalculateurs et PC, microprocesseurs).
+
+En 1983, le groupe change son nom anglais pour NEC Corporation, les initiales devenant Nippon Electronic Corporation[2]. En 1996, NEC rachète Packard Bell et fusionne son activité micro-ordinateurs et serveurs avec celle de ce constructeur, en conservant les marques originales, sur les marchés nord-américains et européens.
+
+Aujourd’hui implanté sur les 5 continents, NEC est toujours dirigé depuis le siège de Tokyo, et présent sur tous les marchés boursiers majeurs du monde. La gamme d’activité actuelle est très large, et va de la recherche fondamentale à la production, dans tous les domaines de l’électronique, l’informatique et la télécommunication.
+
+Dans les années 1980, NEC Semiconductors était le premier fabricant mondial de semi-conducteurs loin devant Intel. 
+
+En 2005, NEC Semiconductors pointe à la 8e place dans le classement des 20 premiers fabricants de semi-conducteurs. EN 2006, NEC se trouve en 11e position, en raison d'un chiffre d'affaires quasi stagnant (selon le même classement, réalisé par isuppli).
+
+En janvier 2009, NEC annonce la suppression graduelle sur deux ans de 20 000 emplois dans le but de réduire ses pertes, lesquelles s'établissaient à 1,46 milliard de dollars en octobre et décembre 2008[3].
+
+Fin janvier 2011, NEC annonce la création d'une coentreprise avec Lenovo, appelée Lenovo NEC Holdings B.V., de fabrication d'ordinateurs pour le marché japonais[4]. La division PC de NEC devient ainsi une filiale à 100 % de la coentreprise, détenue à 51 % par Lenovo[4]. En 2013, NEC établit un nouveau centre de recherche à Singapour[5]. 
+
+En novembre 2015, NEC se propose de travailler sur une connexion entre des lunettes intelligentes et une smartwatch pour "projeter" un client sur l'avant-bras de l'utilisateur. L'application s'appellerait "ARmKeypad". La firme cherche ainsi à se positionner sur le marché de la réalité augmentée[6].
+
+En janvier 2017, le groupe annonce son intention de supprimer 3 000 emplois au Japon, sur un effectif total de 100 000 personnes dans le monde, via un plan de départs volontaires[7].
+
+En décembre 2018, NEC annonce l'acquisition de l'entreprise danoise de services informatique KMD pour environ 1,23 milliard de dollars[8].
+
+En 2007 NEC produit l'un des supercalculateurs les plus rapides du monde[9], la série SX dont le dernier modèle est le SX-8. Bien que le Earth Simulator, le calculateur météo/sismo japonais construit par NEC avec des systèmes SX-6 ait perdu en novembre 2004 le titre officiel de calculateur le plus puissant du monde au profit de Blue Gene d'IBM, ce n’est qu’au profit de calculateurs parallèles composés d’unités scalaires beaucoup plus nombreuses, et les unités vectorielles de calcul SX restent les plus rapides sur le marché en termes de vitesse par processeur, avec 16 GFLOPS en calcul vectoriel pour le SX-8 (c'est-à-dire 16 milliards d’opérations arithmétiques sur des nombres à virgule par seconde).
+
+En 2006 est sortie une version améliorée, le SX8-R(Reinforced)[10]  affichant 35 Gflops. C'est ce modèle qu'a choisi Météo-France pour son nouveau cluster de calcul qui réalise les prévisions météorologiques. Il est constitué de 16 nœuds de 8 processeurs, portant ainsi sa puissance théorique à 4,5 Téra-Flops.
+
+Supercalculateur NEC SX-5 (début des années 2000) au Australian Technology Park (ATP) à Sydney
+
+NEC SX-9 au High Performance Computing Center de Stuttgart
+
+Seconde version du Earth Simulator (ES2) au Japon composé de NEC SX-9
+
+NEC fut également un des premiers acteurs sur le marché des consoles de jeu entre 1987 et 1993, avec les PC-Engine, SuperGrafx… avant d’abandonner le secteur face à Sega et Nintendo ; ces consoles avaient entre autres la particularité d'utiliser comme support de données les Hu-Cards, des cartes au format carte de crédit dotées de connecteurs.
+
+Consoles de jeu NEC :
+
+À chaque changement d'apparence des consoles NEC, le coût de production et le prix de vente baissent, la coque et la connectique peuvent varier, et la couleur de la console change. Ainsi la PC-Engine est blanche, la CoreGrafX gris foncé, la CoreGrafX II gris clair, la Duo noire et les Duo-R et Duo-RX blanches. (voir l'article sur la PC-Engine)
+
+Sur les autres projets Wikimedia :

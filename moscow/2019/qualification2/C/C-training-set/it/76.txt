@@ -1,0 +1,55 @@
+
+In linguistica, lʼetimologìa (dal greco ἔτυμος, étymos, «intimo significato della parola», e λόγος, lógos, «studio»)[1] indaga l'origine e la storia delle parole, la loro evoluzione fonetica, morfologica e semantica.
+
+I primi tentativi di ricostruire etimologie
+risalgono all'antichità. Plutarco (46–127 d.C.) riporta etimologie, a volte ingenue, in diverse opere (p.es. nella Vita di Numa Pompilio c'è l'etimologia di pontifex). Anche nel dialogo socratico Cratilo (Platone, circa 360 a.C.), vengono proposte delle etimologie (paretimologie)[2][3].
+
+Nel VII secolo d.C. Isidoro di Siviglia scrisse un trattato enciclopedico in venti volumi, intitolato Etymologiae. Il testo, che fornisce l'etimologia delle parole e, prendendo spunto da queste, spazia su vari argomenti, fu usato per tutto il Medioevo e fino al XV secolo, cioè al periodo dell'Umanesimo.
+
+Durante il Medioevo a Costantinopoli autori per lo più anonimi composero lessici che contenevano l'etimologia delle parole ivi trattate. Sono testi in greco, conosciuti spesso con nomi latini convenzionali: l'Etymologicum Genuinum del IX secolo, l'Etymologicum Magnum del XII secolo e altri.
+
+Va infine menzionata la Legenda Aurea, che risale probabilmente al XIII secolo ed ebbe grande rinomanza al suo tempo. Questo testo racconta le vite dei santi, iniziando sempre con l'etimologia, spesso fantasiosa, del nome del santo. 
+
+Fuori d'Europa, la scienza dell'etimologia ebbe particolare rilevanza in India, dove era conosciuta fin dall'antichità con il nome di nirukta, una delle sei discipline accessorie allo studio dei Veda, insieme alla metrica, alla grammatica, alla fonetica ecc.
+
+Già nel V secolo a.C. o nel VI il grammatico Yāska compose il trattato Nirukta, che spiegava come si fosse formato il significato di certe parole, per lo più nel contesto dell'interpretazione dei Veda. L'opera di Yaska fu continuata da altri grammatici. Particolarmente importante nel campo dell'etimologia è il Mahābhāṣya (Grande Commento, II secolo a.C.), attribuito a Patañjali.
+
+Nel Seicento i filologi (per es. l'olandese Marcus Zuerius van Boxhorn) notarono affinità tra le lingue indoeuropee, gettando le basi per il metodo comparativo, oggi lo strumento principe dell'etimologia: la ricostruzione della storia delle parole mediante analisi interne alla lingua interessata e mediante il confronto con altre lingue affini, contemporanee e no.
+
+Compaiono in questo periodo veri e propri dizionari etimologici, come l'Etymologicum linguae Latinae dell'olandese Gerard Vossius (1662) e l'Etymologicon Linguae Anglicanae dell'inglese Stephen Skinner (1671).
+
+Un'applicazione più matura del metodo comparativo si trova nel dizionario etimologico della lingua inglese, pubblicato da George William Lemon nel 1783. Il titolo stesso illustra l'approccio utilizzato: A derivative dictionary of the English language: in two alphabets, tracing the etymology of those English words, that are derived I. From the Greek, and Latin languages; II. From the Saxon, and other Northern tongues (Un dizionario derivativo della lingua inglese: in due alfabeti, tracciando l'etimologia di quelle parole inglesi che sono derivate I. dalle lingue greca e latina; II. dal sassone e da altre lingue nordiche).
+
+Nell'Ottocento fiorì la filologia in etimologia e non solo. Nascono ora i dizionari etimologici in molte lingue europee.
+
+Per l'italiano, citiamo tra i primi il Dizionario etimologico di tutti i vocaboli usati nelle scienze, arti e mestieri che traggono origine dal greco di Aquilino Bonavilla (1819-1821), il Dizionario etimologico-scientifico di G. Sandri (1819), il Dizionario tecnico-etimologico-filologico di M. A. Marchi (1828).
+
+Per svolgere un'ottimale ricerca etimologica, è sì necessario conoscere i mutamenti di forma e significato della parola, ma bisogna inoltre mostrare che tale evoluzione non contrasti con quanto sappiamo sulla storia, la diffusione nei dialetti e nelle lingue affini della parola stessa, e sia coerente anche con le caratteristiche dell'oggetto da essa indicato. Solo quando si sarà in possesso di questi dati, sarà possibile dichiarare esatta o scorretta una certa ipotesi etimologica. Nel caso non ci siano ipotesi corrette, sarà compito dello studioso raccogliere tutti i dati acquisibili e utilizzarli come prove per fornire un'ipotesi etimologica che risulti plausibile e pressoché incontrovertibile. Analizziamo più nel dettaglio le varie fasi di questa ricerca.
+
+Innanzitutto, è necessario conoscere quando, dove, in quale forma e con quale significato una parola è stata attestata per la prima volta, e se il suo impiego sia stato ininterrotto dal suo primo utilizzo in poi. Questi dati possono essere recuperati attraverso la consultazione  di dizionari storici (in italiano, il più importante è il Grande dizionario della lingua italiana di Salvatore Battaglia e Giorgio Barberi Squarotti), verificandone le informazioni e integrandole sulla base del più recente e imprescindibile Lessico etimologico italiano e degli archivi telematici dei testi antichi (in particolar modo, il TLIO, cioè il Tesoro della lingua italiana delle origini, consultabile anche in rete). Alle volte, risulterà necessario verificare i dati trovati consultando la fonte stessa, poiché si potrebbero trovare errori del redatto o modifiche sull'edizione di riferimento utilizzato da un certo dizionario.  
+
+Bisogna anche cercare se tale parola è stata utilizzata nei dialetti o in altre lingue e, in tal caso, tenere conto anche di questi nuovi dati. Per quanto riguarda i dialetti, è possibile consultare i dizionari dialettali, molti dei quali risultano o non attendibili o incompleti. Alcuni esempi di buoni dizionari dialettali sono il Dizionario del dialetto veneziano di Giuseppe Boerio, il Dizionario abruzzese e molisano di Ernesto Giammarco, il Repertorio etimologico piemontese diretto da Anna Cornagliotti e il Vocabolario storico-etimologico del siciliano di Alberto Varvaro. Per visualizzare la diffusione areale di una voce, può rivelarsi utile la consultazione di un atlante linguistico. Per la diffusione nelle altre lingue, sarà interessante consultare il REW di Meyer-Lübke, combinandolo con il Dictionnaire étymologique roman (DERom) diretto da Eva Buchi e Wolfgang Schweickard, oltre ad altri dizionari specifici per ogni lingua romanza.
+
+Potrebbe capitare di consultare lessici del latino o di altre lingue da cui sono derivate parole dell'italiano (come le lingue germaniche, il greco e l'arabo). In particolare, per le parole originatisi nel Medioevo, sono fondamentali i vocabolari del latino medievale, tra cui il Glossarium ad scriptores mediae et infimae latinitatis di Charles Du Cange e il Mediae latinitatis lexicon minus di Jan Frederik Niermeyer.
+
+Finita la raccolta della documentazione, si può procedere alla critica delle ipotesi etimologiche prospettate fino ad ora. Può accadere che non ci siano ipotesi etimologiche, perché nessuno si è dedicato alla ricerca dell'etimo della parole in questione (anche se questo caso, in italiano, è molto raro; più frequente è la mancanza di spiegazione dell'etimo scelto). Per trovare le possibili ipotesi etimologiche in italiano, si possono consultare dei dizionari etimologici, i quali riassumono lo sviluppo dell'etimologia della parola analizzata. 
+
+Trovati tali ipotesi etimologiche, è innanzitutto necessario verificare se i mutamenti ricostruiti siano plausibili. 
+
+Se risultano esserlo, bisogna comparare tale mutamento formale della parola con la documentazione storica e geolinguistica della voce, fatta al passaggio precedente. Analizziamo i casi più comuni di contraddizioni tra l'evoluzione formale e i dati storici trovati.
+
+Sono possibili errori di cronologia: si suppone che una parola x sia derivata da una parola y; allora bisogna dimostrare che y si trovi in attestazioni più antiche di x. Se così non fosse, e troviamo attestazioni di x più antiche rispetto alle attestazioni di y, l'ipotesi etimologica risulterebbe meno verosimile e dovremmo spiegare il perché y fosse considerata una parola colloquiale, quindi da evitare nello scritto. Se, poi, la differenza tra le attestazioni delle due parole risulterà notevole e non c'è alcuna spiegazione alla mancanza di attestazione di y, allora l'ipotesi etimologica sarà considerata incoerente, quindi da scartare.
+
+Un altro problema, invece, potrebbe essere l'attendibilità filologica di una o più occorrenze, ovvero bisogna basare la propria ricostruzione sulle forme e significati che la parola esaminata ha realmente avuto. Quindi, per conoscere il significato di una parola, sarà importante basarsi direttamente sulla fonte, cioè l'edizione moderna del testo, da cui potremmo ricavare un'idea più dettagliata del suo significato. Per quanto riguarda la forma, in casi estremi o per le edizioni anteriori al Novecento, si controlla ciascuna attestazione direttamente sul manoscritto o sulla stampa originale.
+
+Successivamente, si deve analizzare che non ci siano incongruenze tra l'evoluzione ricostruita e la diffusione areale della parola. Se, infatti, la trafila fonologica ipotizzata non sia plausibile con il territorio dove la parola si è diffusa, l'ipotesi rischia di crollare, a meno che non si dimostri che l'evoluzione della parola è stata filtrata dalle parlate limitrofe o la parola derivi direttamente dall'etimo.
+
+Infine, sarà utile conoscere la natura dell'oggetto a cui si riferisce la parola: conoscere le caratteristiche e la simbologia ad esso attribuito (se la parola si riferisce, ad esempio, ad un animale), ci permette di riconoscere trafile semantiche possibili solo in astratto, ma poi inverosimili conoscendo l'oggetto in questione.
+
+Dopo tutta questa analisi, sarà finalmente possibile analizzare le ipotesi relative alla parola considerata. Ci sono due possibili soluzioni:
+
+Nel primo caso, lo studioso aggiunge ulteriori tesi all'ipotesi accolta, ad esempio portando alla luce nuove occorrenze di una parola in testi antichi o in varietà linguistiche periferiche.
+
+Nel secondo caso, abbiamo altre due possibilità:
+
+Altri progetti

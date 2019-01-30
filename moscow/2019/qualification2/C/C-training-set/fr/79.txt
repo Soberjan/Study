@@ -1,0 +1,64 @@
+
+Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références » 
+
+En pratique : Quelles sources sont attendues ? Comment ajouter mes sources ?
+
+Un cancérogène ou cancérigène est un facteur provoquant, aggravant ou sensibilisant l'apparition d'un cancer. Cela peut être un produit chimique simple ou complexe, une exposition professionnelle, des facteurs de risque liés au mode de vie ou encore des agents physiques et biologiques.
+
+En 2015, lors des commentaires sur l'annonce par le Centre international de recherche sur le cancer (de l'Organisation mondiale de la santé) des risques d'avoir le cancer en cas de surconsommation de viandes rouges[1] , les médias ont simultanément utilisé les deux mots. Certains font une analyse des raisons du choix du termes[2],[3].
+
+Le Vulgaris médical, le Dictionnaire Larousse, l'Institut national du cancer, la Ligue contre le cancer considèrent que les deux mots sont synonymes.  « Il n'y a pas vraiment de différence, c'est la même chose »[4].
+
+Les correcteurs du quotidien Le Monde expliquent cette différence par les simples habitudes d'usage. Le terme cancérigène aurait d'abord été utilisé, avant que cancérogène n'apparaisse sans pour autant remplacer le premier. il y a une situation comparable avec sismique et séismique. « On a d'abord dit cancérigène (substantif et adjectif), puis cancérogène est arrivé, sans que le second supplantât le premier. »[5]
+
+Certains spécialistes font une légère différence[6]
+
+Il ne faut pas les confondre à deux autres termes très proches
+
+Pour le Bescherelle, c’est une raison de cohérence linguistique. « On parle en effet de cancérologie et de cancérologues. Le terme est par ailleurs issu du grec, ce qui entraîne généralement l'utilisation du «o», là où les dérivés de mots latins reçoivent le «i». »
+
+De même, l'Académie nationale de médecine, le préfère pour des questions de cohérence car « On parle en effet de cancérologie, et pas de cancérilogie. »[7]
+
+Le Larousse médical le définit par  « impliqué dans l'apparition d'une tumeur cancéreuse ». il ne référence pas du tout le terme cancérigène. Par contre il considère que le mot « oncogène » lui est synonyme[8].
+
+modifier 
+Il existe plusieurs classifications de la cancérogénicité des substances dont celle de l'Union européenne et celle du Centre international de recherche sur le cancer (CIRC). L'évaluation globale de la cancérogénicité se fait pour un agent (produit chimique, rayonnement, etc.), un mélange ou une circonstance d'exposition (ex : Travail en équipes impliquant une perturbation du rythme circadien classé Cancérogènes pour l'Homme[9]), sur la base de la force des indications de cancérogénicité[10], et de plus en plus en intégrant aussi les données sur les possibles mécanismes de cancérogenèse. 
+
+Le Centre international de recherche sur le cancer révise périodiquement les critères d'évaluation du risque cancérogène pour l'homme afin de tenir compte de l'amélioration de la connaissance de la cancérogenèse. Les premiers critères datent de 1971. Ils ont été revus en 1977, année où un groupe de travail du CIRC a revu et standardisé les évaluations de cancérogénicité (chez l'homme et l'animal), proposant une gradation du degré d’indications de cancérogénicité basée sur les termes « suffisant », « limité », « insuffisant » et plus tard, « évidence suggérant une absence de cancérogénicité ». Une nouvelle révision est faite en 1978. En 1979, de premières évaluations globales de cancérogénicité sont faites pour l'homme. Les révisions suivantes datent de 1982, 1983, 1987, 1988, 1991 et 1992[9]. Chaque monographie précise les méthodes d'évaluation retenues. En 2009, 100 Monographies[11] du CIRC portaient sur 935 agents (produits chimiques, groupes de produits chimiques, mélanges complexes, expositions professionnelles, habitudes culturelles, agents biologiques ou physiques) (ré)évalués[9].
+
+Pour faciliter le travail des chercheurs, médecins, usagers, juristes et des responsables de la santé publique, les agents sont classés en listes (ci-dessous), chacune accompagnée d'un préambule du CIRC, avec le détail des informations dans les Monographies individuelles correspondantes (avec un index cumulatif[9]. 
+Chaque monographie cite ou décrit[9] :
+
+Ces données sont à rapporter aux conditions scientifiques et techniques de la connaissance au moment de leur production, c'est-à-dire au corpus de données scientifiques cité dans les monographies, et à leurs mises à jour périodiques.
+
+D'autres classifications que celle du CIRC, dont celle de la Commission européenne existent, avec quelques différences qui peuvent avoir une importance pour les phrases de risque devant figurer sur l'étiquetage réglementaire (R49, R45, R40)[9].
+
+L'agent (qui peut être un mélange) est cancérogène pour l'homme ; Les circonstances d’exposition donnent lieu à des expositions qui sont cancérogènes pour l’homme.
+
+Cette catégorie n’est utilisée que lorsqu’on dispose d’indications suffisantes de cancérogénicité pour l’homme. Exceptionnellement, un agent (mélange) peut être placé dans cette catégorie lorsque les indications de cancérogénicité pour l’homme ne sont pas tout à fait suffisantes, mais qu’il existe des indications suffisantes de sa cancérogénicité chez l’animal de laboratoire et de fortes présomptions que l’agent (mélange) agit suivant un mécanisme de cancérogénicité reconnu.
+
+Cette catégorie comprend les agents (éventuellement mélanges et circonstances d’exposition) pour lesquels, au maximum, on a obtenu des indications de cancérogénicité pour l’homme presque suffisantes et, au minimum, on ne dispose d’aucune donnée concernant l’homme mais on dispose d’indications suffisantes de cancérogénicité pour l’animal de laboratoire. Lesdits agents, mélanges et circonstances d’exposition sont classés soit dans le groupe 2A (probablement cancérogène pour l’homme), soit dans le groupe 2B (peut-être cancérogène pour l’homme) sur la base d’indications épidémiologiques et expérimentales de cancérogénicité et d’autres renseignements pertinents.
+
+Les circonstances d’exposition donnent lieu à des expositions qui sont probablement cancérogènes pour l’homme.
+
+On fait appel à cette catégorie lorsque l’on dispose d’indications limitées de cancérogénicité chez l’homme et d’indications suffisantes de cancérogénicité chez l’animal de laboratoire. Dans certains cas, un agent (mélange) peut être classé dans cette catégorie lorsque l’on dispose d’indications insuffisantes de cancérogénicité pour l’homme et d’indications suffisantes de cancérogénicité pour l’animal de laboratoire et de fortes présomptions que la cancérogenèse s’effectue par un mécanisme qui fonctionne également chez l’homme. Exceptionnellement, un agent, un mélange ou une circonstance d’exposition peut être classé dans cette catégorie si l’on ne dispose que d’indications limitées de cancérogénicité pour l’homme.
+
+Les circonstances d’exposition donnent lieu à des expositions qui sont peut-être cancérogènes pour l’homme.
+
+Cette catégorie concerne les agents, mélanges et circonstances d’exposition pour lesquels on dispose d’indications limitées de cancérogénicité chez l’homme, et d’indications insuffisantes de cancérogénicité chez l’animal de laboratoire. On peut également y faire appel lorsque l’on dispose d’indications insuffisantes de cancérogénicité pour l’homme, mais que l’on dispose d’indications suffisantes de cancérogénicité pour l’animal de laboratoire. Dans certains cas, peuvent être classés dans ce groupe un agent, un mélange ou des circonstances d’exposition pour lesquels on a des indications insuffisantes d’une action cancérogène chez l’homme, mais pour lesquels on dispose d’indications limitées de cancérogénicité chez l’animal de laboratoire, corroborées par d’autres données pertinentes.
+
+Cette catégorie comprend essentiellement les agents, les mélanges et les circonstances d’exposition pour lesquels les indications de cancérogénicité sont insuffisantes chez l’humain et insuffisantes ou limitées chez l’animal de laboratoire.
+Exceptionnellement, les agents (mélanges) pour lesquels les indications de cancérogénicité sont insuffisantes chez l’humain mais suffisantes chez l’animal de laboratoire peuvent être classés dans cette catégorie lorsqu’il existe de fortes présomptions que le mécanisme de la cancérogénicité chez l’animal de laboratoire ne fonctionne pas chez l’humain.
+On classe aussi dans cette catégorie les agents, mélanges et circonstances d’exposition qui ne correspondent à aucune des autres catégories. On y trouve certain colorants alimentaires désormais interdits dans l'union européenne depuis 1995 (par exemple E122), mais que l'on retrouve toujours encore dans certaines boissons importées[12],[13]
+
+Relèvent de cette catégorie les agents et mélanges pour lesquels on dispose d’indications suggérant une absence de cancérogénicité chez l’humain ainsi que chez l’animal de laboratoire. Dans certains cas, peuvent être classés dans ce groupe des agents ou des mélanges pour lesquels les indications de cancérogénicité pour l’humain sont insuffisantes, mais pour lesquels on dispose d’indications suggérant une absence de cancérogénicité chez l’animal de laboratoire, constamment et fortement corroborées par une large gamme d’autres données pertinentes.
+
+Exposition à des agents, chimiques ou non, reconnus comme cancérogènes : amiante (en cause dans 80 % des mésothéliomes, mais ne constituant que 9 % de l'ensemble des expositions professionnelles), huiles minérales (responsables de 50 % de ce type d'expositions), poussière de bois (18 % des expositions professionnelles), goudrons et benzène (6 % chacun des expositions professionnelles).
+
+Alimentation non variée, trop riche, trop grasse, trop sucrée.
+
+Rayons ultraviolets (développements de carcinomes, de mélanomes), rayons X (utilisés en radiothérapie).
+
+Virus à oncogène, aflatoxine.
+
+Sur les autres projets Wikimedia :

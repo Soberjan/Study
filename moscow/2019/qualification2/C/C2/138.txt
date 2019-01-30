@@ -1,0 +1,31 @@
+
+
+
+Last.fm är en internettjänst som registrerar vad användaren lyssnar på för musik och utifrån detta genererar en detaljerad musiksmaksprofil som sedan ligger till grund för en personlig musikradiokanal. Last.fm kallar det för att "skrobbla" musik.
+
+Detta görs genom att användaren laddar hem ett insticksprogram från Last.fm:s webbplats till sin dator, installerar programmet i sin musikspelare (till exempel Winamp, Itunes, XMMS, foobar2000, XBMC). Insticksprogrammet skickar sedan information om varje låt som användaren spelar till en server hos Last.fm. Samma funktionalitet är inbyggd i Spotify. En musiksmaksprofil skapas sedan för användaren baserat på denna statistik. Profilen visas på användarens sida som är synlig för alla andra besökare. Idén är att Last.fm ska kunna ge förslag på liknande artister och låtar som användaren "borde" gilla, baserat på statistiken. Idén liknar den man hittar hos till exempel internetboklådor: "Personer som köpt (och gillat) den här boken, köpte även boken X, Y och Z."
+
+Varje användares profil synkroniseras med en radiostation hos Last.fm som spelar upp musik från användarens profil (förutsatt att musiken finns i deras arkiv) som alla användare kan lyssna på. Ett komplement är Grannar, som är en lista över användare med musiksmak liknande användarens. Denne ser vilka dina grannar är, och kan enkelt lyssna på den musik grannarna lyssnar på för att få tips om artister.
+
+Många funktioner kan användas kostnadsfritt men mot en avgift kan man få tillgång till ytterligare funktioner.
+
+Last.fm har flera olika tjänster för att lyssna på musik. När man lyssnar på en "radiokanal" går det att hoppa över den låt som spelas för att höra en annan, men det går inte att pausa eller spola tillbaka. Detta beror på avtalsbegränsningar. Dessa innebär också att musiken måste varieras i viss grad, exempelvis går det inte att spela flera låtar av samma artist i rad.
+
+I flera länder har Last.fm ett samarbete med stora skivbolag vilket gör det möjligt att lyssna på ett stort antal hela album med många stora artister. Samarbetet gör det möjligt för användarna att ta del av miljontals låtar gratis.[1]
+
+Radiokanalerna kan höras antingen i webbläsaren med en flashspelare eller en särskild klient. Är lyssnaren inloggad registreras den musik denne lyssnar på.
+
+Varje användare har en radiokanal som baseras på dennes personliga smak. Ursprungligen var de personliga radiokanalerna tillgängliga enbart för abonnenter, men sedan februari 2007 kan användaren lyssna på alla personliga radiokanaler.[2]
+
+Andra radiokanaler som är unika för varje användare är "Spela mitt grannskap" som spelar musik från användarens "grannar".
+
+När användaren lyssnar har den möjlighet att skriva in taggar med nyckelord som för låten och artisten (såsom genre, nationalitet och känsla), klicka på ett hjärta om vederbörande uppskattar sången extra mycket eller "banna" låten om användaren inte vill höra den igen. Taggarna sammanställs sedan till olika radiokanaler. Abonnenter har även möjlighet att lyssna på "Personal Tag Radio" utifrån de taggar som den använt och "Loved Tracks Radio" som innehåller låtar som användaren markerat med ett hjärta.
+
+Det finns även radiokanaler för enskilda artister, nämligen "Spela liknande artister" som spelar musik från en lista över liknande artister samt "Spela topplyssnare" som spelar musik från de användare som anses uppskatta artisten mest.
+
+Det går också att lyssna på enskilda låtar. Vanligtvis går det bara att höra ett trettio sekunder långt utdrag ur låten på begäran, men om skivbolaget har tillåtit detta kan man även höra hela låten. Vissa låtar, främst från artister som ligger på oberoende skivbolag, kan även laddas ner som mp3-filer.
+
+Eftersom all statistik samlas in från användare runt om i världen, kan Last.fm användas som en topplista över låtar som spelas mest veckovis i hela världen. En sådan topplista kan beskådas här. Topplistan baseras på vad som spelas och inte som traditionellt hur många enheter låtarna sålt. Man har framöver ambitionen att även visa topplistor uppdelat på olika geografiska regioner.
+
+Nackdelen med denna typ av topplistor är bl a att de enbart baseras på vad registrerade Last.fm-användare som laddat hem och installerat insticksprogrammet lyssnar på. Dessa utgör en begränsad demografi då det antas att dessa - relativt få - användare alla har bredbandsuppkoppling, är mer datorkunniga än vad gemene man är, är intresserade av digital musik och har ofta en stor samling musik att spela från. Sammantaget gör detta att det blir en statistisk snedfördelning som inte är strikt representativ.
+

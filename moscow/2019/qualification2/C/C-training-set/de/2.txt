@@ -1,0 +1,233 @@
+
+x86 ist die Abkürzung einer Mikroprozessor-Architektur und der damit verbundenen Befehlssätze, welche unter anderem von den Chip-Herstellern Intel und AMD entwickelt werden.
+
+Die x86-Befehlssatzarchitektur (englisch Instruction Set Architecture, kurz „ISA“) ist nach den Prozessoren der 8086/​8088-Reihe benannt, mit der sie 1978 eingeführt wurde. Die ersten Nachfolgeprozessoren wurden später mit 80186, 80286 usw. benannt. In den 1980er-Jahren war daher von der 80x86-Architektur die Rede – später wurde die „80“ am Anfang weggelassen. Die x86-Architektur erweiterte sich seither mit jeder Prozessorgeneration und war mit dem 80386 1985 bereits eine 32-Bit-Architektur, die explizit auch als i386 bezeichnet wurde.
+
+Während der Entwicklung des Itanium benannte Intel die x86-Architektur, die damals eine 32-Bit-Architektur war, retronym in „Intel Architecture 32-bit“ um, abgekürzt IA-32. Auch die retronyme Bezeichnung IA-16 für die 16-Bit-Architektur des 8086/​80286 ist bekannt, fand aber keine breite Verwendung.[1] Hingegen wurden die alten Bezeichnungen „x86“ und „i386“ (für 32-Bit-x86) weiterhin genutzt.
+
+Die Architektur des unabhängig entwickelten und nicht kompatiblen Itanium bezeichnete Intel IA-64, was auch deshalb zu Verwechslungen führen kann, weil AMD mit der 2003 erstmals verfügbaren 64-Bit-Befehlssatzerweiterung AMD64 die Befehlssatzarchitektur IA-32 ebenfalls zur 64-Bit-Architektur gemacht hat. Intel selbst ist mit Intel 64 2005 nachgezogen; dabei ist Intel 64 zu AMD64 kompatibel. Moderne 64-Bit-x86-Prozessoren sind somit weiterhin als zur IA-32-Architektur zugehörig zu bezeichnen, was seither jedoch uneindeutig ist. Um 32- und 64-Bit voneinander unterscheiden zu können, wurde in Anlehnung an „x86“ für den 64-Bit-Modus die Bezeichnungen „x64“ (für x86 mit 64 Bits) eingeführt.[2] Die retronyme Bezeichnung „x32“ (für x86 mit 32 Bits) ist eher selten anzutreffen und obendrein uneindeutig, da es sich entweder um einen 32-Bit-x86-Prozessor(-Modus) oder um 32-Bit-Adressierung auf einem im 64-Bit-Modus laufenden 64-Bit-Prozessor handeln kann.
+
+Da sich Ziffernkombinationen nicht markenrechtlich schützen lassen, gingen Intel und die meisten Mitbewerber nach Einführung des 80486 dazu über, Wortmarken wie Pentium oder Celeron zu verwenden, aber das alte Nummernschema blieb als Name der ganzen Familie erhalten.
+
+Die x86-Architektur wurde 1978 mit Intels erster 16-Bit-CPU, dem 8086, eingeführt, der die älteren 8-Bit-Prozessoren 8080 und 8085 ablösen sollte. Obwohl der 8086 anfangs nicht sonderlich erfolgreich war, stellte IBM 1981 den ersten PC vor, der eine abgespeckte Variante des 8086, den 8088, als CPU verwendete. Durch den enormen Erfolg des IBM-PC und seiner zahlreichen Nachbauten, der sogenannten IBM-PC-kompatiblen PCs, wurde die x86-Architektur innerhalb weniger Jahre zu einer der erfolgreichsten CPU-Architekturen der Welt und ist es bis heute geblieben.
+
+Außer Intel haben auch andere Hersteller über die Jahre x86-kompatible CPUs in Lizenz produziert, darunter Cyrix (heute VIA Technologies), NEC, UMC, Harris, TI, IBM, IDT und Transmeta. Der nach Intel größte Hersteller x86-kompatibler Prozessoren war und ist aber das Unternehmen AMD, das neben Intel heute zu einer treibenden Kraft bei der Weiterentwicklung des x86-Standards geworden ist.
+
+Intel entwickelte den 8086 1978 in der Zeit der zu Ende gehenden 8-Bit-Ära. Mit dem 80386 führte Intel dann bereits 1985 die erste x86-CPU mit einer 32-Bit-Architektur ein. Heute ist diese Architektur unter dem Namen IA-32, oft auch unter der Bezeichnung i386-Architektur bekannt; sie ist sozusagen die Erweiterung der Befehlssätze von 8086 und 80286 auf 32 Bit, schließt deren Befehlssätze aber vollständig mit ein. Die 32-Bit-Ära war der bisher längste und lukrativste Abschnitt der x86-Geschichte, wobei sich IA-32 – maßgeblich unter Intels Federführung – permanent weiterentwickelte. Erst 2003 brach für x86 die 64-Bit-Ära an, diesmal aber auf Initiative von AMD. Der 64-bittige x86-Standard heißt AMD64 und wurde unter dem Namen Intel 64 auch von Intel übernommen. Die dafür gebräuchliche Bezeichnung ist x64 oder x86-64.
+
+Die von Intel in der Itanium-Produktlinie verwendete IA-64-Architektur hat mit IA-32 – inklusive x64 – nichts zu tun. Sie ist eine Neuentwicklung, die außer einer x86-Emulation (nur in der ältesten Itanium-Baureihe) keine Spuren der x86-Technik enthält. Dagegen ist die AMD64-Reihe vollständig abwärtskompatibel zu 32- und 16-bit-Anwendungen.
+
+Da sich der Befehlssatz ständig erweiterte, kann man nur von einem minimal erforderlichen Befehlssatz ausgehen, wenn man von einer x86-Befehlssatzarchitektur spricht – oder vom jeweils aktuellen Stand, mit allen möglichen Erweiterungen. In diesem Punkt ist die Bezeichnung „x86“ sehr uneindeutig. Bei der Benennung hat sich daher eine gewisse Konvention herausgebildet, die durch die geschichtliche Entwicklung begründet ist.
+
+Während die Befehlssatzarchitektur x86 die ungenaueste Bezeichnung darstellt, sagen die gelisteten genaueren Benennungen jedoch immer noch nicht präzise die vorhandenen (von einer Software benötigten) Maschinenbefehle bzw. den genauen integrierten Befehlssatz im Prozessor aus. Unter Linux hat sich beispielsweise die Angabe „i686-pae“ für den Pentium‑II-Befehlssatz mit PAE durchgesetzt. So gibt es beispielsweise von GParted ein ISO-Abbild für „i486“ und für „i686-pae“ – hat eine Prozessor kein PAE-Flag (wie z. B. der erste Pentium M), muss man auf die i486-Variante zurückgreifen. Auch unter Windows ist nicht klar, ob die 64-Bit-Variante auch tatsächlich auf einem älteren 64-Bit-x86-Prozessor (mit AMD64- oder Intel-64-Erweiterung) läuft, da z. B. ab Windows 8.1 zusätzlich zur x64-Befehlssatzerweiterung die Funktionen CMPXCHG16b, PrefetchW und LAHF/SAHF vorhanden sein müssen.[3]
+
+Die x86-Architektur verwendet einen CISC-Befehlssatz mit variabler Instruktionslänge. Speicherzugriffe in Wortgröße sind auch auf nicht Wort-ausgerichtete Speicheradressen erlaubt. Wörter werden in Little-Endian-Richtung gespeichert. Leichte Portierbarkeit von Intel-8085-Assemblercode war eine treibende Kraft der Architekturentwicklung. Dies bedingte einige nicht optimale und im Nachhinein problematische Designentscheidungen.
+
+Heutige x86-Prozessoren sind hybride CISC/RISC-Prozessoren, denn sie übersetzen den x86-Befehlssatz zunächst in RISC-Mikro-Instruktionen konstanter Länge, auf die moderne mikro-architektonische Optimierungen angewendet werden können. Die Übergabe erfolgt zunächst an sogenannte Reservierungsstationen, das heißt an kleine Puffer, die den verschiedenen Rechenwerken vorgeschaltet sind. Der erste hybride x86-Prozessor war der Pentium Pro.
+
+Die Intel 8086 und 8088 hatten 14 16-Bit-Register. Vier von ihnen (AX, BX, CX, DX) waren Mehrzweck-Register. Zusätzlich hatte jedes noch eine Sonderfunktion:
+
+Auf jedes Register konnte mittels zwei separater Bytes zugegriffen werden (das hohe Byte in BX unter dem Namen BH, das niederwertige Byte als BL). Von den zwei Zeigerregistern zeigt SP („StackPointer“) auf das oberste Element des Stacks und BP („BasePointer“) kann auf einen anderen Platz im Stack oder Speicher zeigen (häufig wird BP als Zeiger auf einen Funktionsrahmen verwendet). Die beiden Index-Register SI („SourceIndex“) und DI („DestinationIndex“) können für Blockoperationen oder zusammen mit SP oder BP als Index in einem Array benutzt werden. Zusätzlich gibt es die vier Segmentregister CS („Codesegment“), DS („DataSegment“), SS („StackSegment“) und ES („ExtraSegment“), mit denen jeweils die Basisadresse für ein 64 kB großes Speichersegment festgelegt wird. Außerdem gibt es das Flag-Register, das Flags wie carry, overflow, zero usw. enthalten kann, und den Instruction Pointer (IP), der auf die gegenwärtige Instruktion zeigt.
+
+Im Real Mode ist der Speicherzugriff „segmentiert“. Dies geschieht, indem die Segmentadresse um 4 Bit nach links geschoben wird und ein Offset addiert wird, so dass eine 20-Bit-Adresse entsteht. Der gesamte Adressraum im Real Mode ist also 220 Byte (1 Megabyte), was 1978 sehr viel war. Es gibt zwei Adressierungs-Modi: near und far (engl. für nah und fern). Im Far Mode werden sowohl das Segment als auch der Offset angegeben. Im Near Mode wird nur der Offset angegeben, und das Segment wird einem Register entnommen. Für Daten ist dies DS, für Code CS und für den Stack SS. Wenn DS zum Beispiel A000h und SI 5677h ist, zeigt DS:SI auf die absolute Adresse DS × 16 + SI = A5677h.
+
+In diesem Schema können unterschiedliche Segment/Offset-Paare auf dieselbe absolute Adresse zeigen. Wenn DS A111h und SI 4567h ist, zeigt DS:SI ebenfalls auf die obige Adresse A5677h. Das Schema sollte die Portierbarkeit von Intel-8085-Code erleichtern, doch erschwerte es letztlich die Arbeit der Programmierer.
+
+Zusätzlich hatte der i8086 64 kB von 8-Bit-I/O-Adressraum (alternativ auch 32 kB mit 16 Bit) sowie einen hardwareunterstützten Stack von ebenfalls 64 kB. Nur Wörter (2 Byte) können auf dem Stack abgelegt werden. Der Stack wächst zu niedrigeren Adressen hin und SS:SP zeigt auf das zuletzt auf den Stack gelegte Wort (die niedrigste Adresse). Es gibt 256 Interrupts, die sowohl von Hardware als auch Software ausgelöst werden können. Die Interrupts können kaskadieren und benutzen den Stack, um die Rücksprungadresse zu speichern.
+
+Der Intel-80286-Prozessor kannte einen weiteren Arbeitsmodus, den „Protected Mode“. Durch Integration einer MMU (engl. “Memory Management Unit” für Speicherverwaltungseinheit) auf dem Chip konnten im Protected Mode bis zu 16 MB Speicher adressiert werden. Ein spezielles MMU-Register zeigt dabei auf eine Segmenttabelle im Hauptspeicher, in der die 24-Bit-Basisadressen der Segmente festgelegt wurden. Die Segmentregister dienten dann lediglich als Index in diese Segment-Tabelle. Zusätzlich konnte jedem Segment einer von vier Privilegien-Levels zugeordnet werden („Ringe“ genannt). Insgesamt bedeuteten diese Neuerungen eine Verbesserung. Allerdings war Software für den Protected Mode inkompatibel mit dem Real Mode des i8086-Prozessors.
+
+Die Intel-80386 brachte den wahrscheinlich größten Sprung für die x86-Architektur. Mit Ausnahme des Chips „Intel 80386SX“, der nur 24-Bit-Adressierung unterstützte und einen 16-Bit-Datenbus hatte, waren alle 386er vollständig 32-Bit – Register, Instruktionen, E/A-Raum und Speicher. Bis zu 4 GB Speicher konnten angesprochen werden. Dazu wurde der Protected Mode zum „32-Bit-Enhanced-Mode“ erweitert. Wie auf dem 80286 wurden auch im Enhanced Mode die Segmentregister als Index in einer Segmenttabelle verwendet, die die Aufteilung des Speichers beschrieb. Allerdings konnten in jedem Segment 32-Bit-Offsets verwendet werden. Dies führte zum sogenannten „Flat Memory Model“, bei dem jedem Prozess nur noch ein 4-GB-Datensegment und ein 4-GB-Codesegment zur Verfügung gestellt wird. Beide Segmente beginnen ab der Adresse 0 und sind 4 GB groß. Die eigentliche Speicherverwaltung wird dann nur noch durch das ebenfalls mit dem 80386er eingeführte Paging durchgeführt, einem Mechanismus, der den gesamten Speicher in gleich große Teile (engl. Pages, also Speicherseiten) einteilt und pro Prozess eine beliebige Abbildung zwischen logischen und physischen Adressen ermöglicht, was die Realisierung von virtuellem Speicher stark vereinfacht hat. Es wurden keine neuen Mehrzweck-Register hinzugefügt. Allerdings wurden bis auf die Segmentregister alle Register auf 32 Bit verbreitert. Das erweiterte Register AX hieß fortan EAX, aus SI wurde ESI usw. Zwei neue Segmentregister namens FS und GS kamen noch hinzu.
+
+Die grundlegende Architektur des 386er-Prozessors (auch IA-32 genannt) wurde zur Basis aller weiteren Entwicklungen in der x86-Architektur. Bis heute funktionieren alle x86-kompatiblen CPUs nach dem Prinzip des i80386.
+
+Der bis dato separate mathematische Coprozessor 80387 wurde ab der nächsten CPU, dem „Intel 80486“, direkt in den Prozessor integriert (mit Ausnahme des 486SX, welcher keinen Coprozessor besitzt). Mit diesem Coprozessor konnten Gleitkommaberechnungen in Hardware durchgeführt werden. Ohne ihn mussten diese auf Berechnungen mit ganzen Zahlen abgebildet werden (Emulation). Nicht nur werden so recht viele Befehle pro Gleitkommaoperation benötigt, auch treten dabei häufig Schleifen und Verzweigungen auf, sodass Gleitkommaoperationen ohne den Coprozessor vergleichsweise sehr langsam ausgeführt wurden.
+
+1996 führte Intel die MMX-Technologie ein (englisch Matrix Math Extensions, besonders vom Marketing aber auch häufig Multi-Media Extensions tituliert). MMX definierte 8 neue SIMD-Register von 64 Bit Breite, die allerdings denselben Speicherplatz wie die Register der Floating Point Unit (FPU) benutzten. Dies verbesserte zwar die Kompatibilität zu bestehenden Betriebssystemen, die beim Umschalten zwischen verschiedenen Anwendungen weiterhin nur die altbekannten FPU-Register sichern mussten. Aber zwischen MMX und FPU musste aufwendig umgeschaltet werden. Dazu kam, dass MMX auf Integer-Operationen beschränkt war und lange Zeit von den Compilern nicht richtig unterstützt wurde. Insbesondere Microsoft tat sich schwer, den hauseigenen Compiler wenigstens mit Unterstützung für MMX-Intrinsics auszustatten. MMX wurde daher nur relativ selten verwendet, am ehesten noch für 2D-Videobearbeitung, Bildbearbeitung, Videowiedergabe usw.
+
+1997 erweiterte AMD den MMX-Befehlssatz um Gleitkomma-Operationen für Gleitkommazahlen einfacher Genauigkeit und nannte die so entstandene Technik 3DNow. Dies löste zwar nicht die Compiler-Probleme, aber 3DNow! ließ sich im Unterschied zu MMX für 3D-Spiele verwenden, die auf schnelle Gleitkomma-Operationen angewiesen sind. Spieleentwickler und Hersteller von 3D-Grafikprogrammen verwendeten 3DNow!, um die Anwendungsperformance auf AMDs K6- und Athlon-Prozessoren zu verbessern.
+
+1999 brachte Intel mit dem Pentium-III-Prozessor den SSE-Befehlssatz. Wie AMD fügte Intel hauptsächlich Gleitkomma-SIMD-Befehle hinzu.
+Des Weiteren schuf man für SSE eine separate Funktionseinheit auf dem Prozessor mit 8 neuen 128-Bit-Registern (XMM0 bis XMM7), die sich nicht mehr mit den Gleitkommaregistern überlagerten. Da diese neuen Register aber auch bei einem Kontextwechsel vom Betriebssystem gesichert werden müssen, wurde eine Sperre in der CPU implementiert, die erst von SSE-fähigen Betriebssystemen freigeschaltet werden muss, um die SSE-Register in Anwendungsprogrammen verfügbar zu machen. 
+
+AMD-Prozessoren unterstützten anfänglich nur die 64-Bit-Befehle der Erweiterung, welche in der MMX-Funktionseinheit arbeiten, da die separate Funktionseinheit komplett fehlte. Ein Großteil dieser Befehle arbeitet nur mit Daten vom Typ Integer, deshalb existiert auch die Bezeichnung ISSE, wobei I für Integer steht. Ab dem Athlon-XP-Prozessor wird SSE komplett unterstützt.
+
+SSE2, von Intel 2001 mit dem Pentium 4 eingeführt, fügte erstens weitere Ganzzahlbefehle für die SSE-Register hinzu und zweitens 64-Bit-SIMD-Gleitkomma-Befehle. Erstere machten MMX fast obsolet, und letztere erlaubten auch konventionellen Compilern, SIMD-Instruktionen zu verwenden. Daher wählte AMD mit der Einführung der 64-Bit-Erweiterung SSE2 als integralen Bestandteil der AMD64-Architektur aus, sodass alle 64-Bit-x86-Prozessoren diese Erweiterung unterstützen (AMD-Prozessoren ab Athlon64).
+
+Mit der Prescott-Revision des Pentium 4 lieferte Intel ab 2004 SSE3 aus, das hauptsächlich Speicher- und Threadmanagement-Instruktionen liefert, um die Leistung von Intels Hyper-Threading-Technologie zu steigern.
+
+AMD beherrscht seit den Athlon-64-Prozessoren mit den Kernen Venice und San-Diego ebenfalls den Befehlssatz SSE3.
+
+Siehe auch: SSSE3, SSE4, SSE4a und SSE5
+
+Um das Jahr 2002 erreichte der Speicherausbau moderner x86-Rechner die durch die 32-Bit-Adressengröße bedingte Adressierungsgrenze der x86-Befehlssatzarchitektur von 4 GB. Zwar hatte Intel mit PAE bereits mit dem Pentium Pro eine Möglichkeit eingeführt, mehr als 4 GB Arbeitsspeicher zu adressieren, allerdings war dessen Nutzung programmtechnisch aufwendig und der pro Prozess nutzbare Speicher blieb auch so nach wie vor auf maximal 4 GB beschränkt.
+
+Intel wollte ursprünglich den Sprung auf 64 Bit mit einer neuen Prozessorarchitektur namens IA-64 vollführen, allerdings konnte sich diese nur als Nischenprodukt im Marktsegment der Server und Workstations etablieren. AMD hingegen erweiterte die 32-bit Prozessorarchitektur auf 64 Bit und nannte diese Erweiterung AMD64. Später übernahm Intel große Teile dieser Erweiterung unter der Bezeichnung EM64T, schließlich dann unter dem heute bei Intel-Produkten gebräuchlichen Namen Intel 64.
+
+Für 64-Bit-Prozessoren, die auf der x86-Architektur beruhen, hat sich die Bezeichnung x86-64 oder kurz x64 etabliert. Dadurch, dass AMD bereits 2003 als erster Hersteller die 64-Bit-Befehlssatzerweiterung veröffentlicht hatte, hat sich jedoch auch die Bezeichnung amd64 durchgesetzt – im Kontext von Software bezeichnet amd64 jedoch jeden zu AMD64 kompatiblen Befehlssatz, also auch x64 bei Prozessoren von Intel und VIA.
+
+Obwohl die Virtualisierung eines x86-Prozessors aufgrund der umfassenden Architektur aufwendig ist, gibt es mehrere Produkte, die einen virtuellen x86-Prozessor zur Verfügung stellen, darunter VMware, Hyper-V und Virtual PC oder auch Open-Source-Software wie Xen oder VirtualBox. Hardwareseitige Virtualisierung gibt es auch als Erweiterung, sie wird bei Intel „Intel VT“ (für Virtualization Technology), bei AMD „AMD Virtualization“ genannt.
+
+Im Jahr 2008 sollten die SIMD-Erweiterungen nach MMX, SSE 1-4 wieder erweitert werden und Intel schlug „AVX“ vor. AVX wurde erstmals 2011 in der SandyBridge-Mikroarchitektur realisiert. Gegenüber SSE wurde die Wortbreite für Daten und Register auf 256 Bit verdoppelt. Es kamen viele neue Befehle hinzu, die als 256-Bit-Erweiterungen der SSE-Befehle verwendet werden können. Mit der nächsten Überarbeitung der Mikroarchitektur, der Haswell-Mikroarchitektur, wurde AVX wieder um neue Befehle erweitert, fortan AVX-2 genannt, und kann fast alle SSE-Befehle in einer 256-Bit-Erweiterung bieten.
+
+Da im High-Performance-Computing mittlerweile die Energieeffizienz immer wichtiger wird und das SIMD-Konzept Fortschritte ermöglicht, wurde für die Intel Xeon Phi genannten Rechenbeschleunigerkarten (ebenfalls 2013) AVX nochmals komplett überarbeitet, die Daten- und Registerbreite auf 512 Bit verdoppelt und die Anzahl der Register auf 32 verdoppelt. Diese Erweiterung nennt Intel AVX-512. Sie besteht aus mehreren spezifizierten Gruppen von neuen Befehlen, die nicht alle gleich realisiert werden. Die zweite Xeon Phi-Generation („Knights Corner“) erhielt die „Foundation“-, die dritte Generation („Knights Landing“) 2016 zusätzlich „CD“-, „ER“- und „PF“-Erweiterungen.
+
+Für die für 2017 angekündigte Skylake-Xeon-Server-Generation EP/EX wurde AVX-512 ebenfalls angekündigt.
+
+x86-kompatible Prozessoren wurden von vielen Firmen entwickelt und hergestellt, darunter:
+
+PAE |
+NX |
+x64 (AMD64/Intel 64) |
+HTT |
+VT-x/AMD-V/VIA VT |
+3DNow! |
+MMX |
+SSE |
+SSE2 |
+SSE3 |
+SSSE3 |
+SSE4 |
+SSE4a |
+SSE5 |
+F16C |
+AVX |
+CLMUL |
+AES |
+FMA |
+TSX |
+BMI |
+MPX |
+SGX
+
+Am29000 • Am286 • Am386 • Am486 • 5x86 • K5 • K6 • K6-2 • K6-III • K7 • K8/K8L • K9 • K10 • Bobcat • Bulldozer • Jaguar • Steamroller • Puma • Zen 
+
+AMD64 • AMD-V • HSA • Mantle • live! • Quad FX • QuantiSpeed • Turbo Core
+
+Epyc
+
+Ryzen • Threadripper
+
+Ryzen
+
+Ryzen
+
+Llano (K10) •          Trinity,          Richland (Piledriver) •          Kaveri (Steamroller) •          Carrizo, Bristol Ridge (Excavator)
+
+Ontario, Zacate (Bobcat) • Kabini, Temash (Jaguar) • Beema, Mullins (Puma)
+
+Ontario G-Serie
+
+Opteron (K8) • Opteron (K9) • Opteron (K10) • Opteron (Bulldozer) • Opteron (Piledriver)
+
+Phenom • Phenom II
+
+Phenom II
+
+Athlon (K7) • Athlon XP • Athlon 64 (FX) • Athlon 64 X2 • Athlon X2 • Athlon II
+
+Athlon XP-M • Mobile Athlon 64 • Athlon 64 X2 • Athlon X2 • Athlon II
+
+Athlon MP
+
+Turion 64 • Turion 64 X2 • Turion X2 • Turion II
+
+Sempron (K7) • Sempron (K8)
+
+Mobile Sempron
+
+Duron
+
+Mobile Duron
+
+GX • LX • NX • NX 2001
+
+Alchemy
+
+690-Serie • 700-Serie • 800-Serie • 900-Serie • AM4-Chipsätze
+
+Nicht-x86-Prozessoren:
+4004 |
+4040 |
+8008 |
+8080 |
+8085 |
+iAPX 432 |
+i860 |
+i960 |
+Itanium |
+Itanium 2 |
+XScale
+
+Bis 4. Generation:
+8086 |
+8088 |
+80186 |
+80188 |
+80286 |
+i386 |
+i486DX |
+i486DX2 |
+DX4 |
+i486GX |
+i486SL/SL-NM |
+i486SX |
+i486SX2 |
+Overdrive-Versionen
+
+Pentium-Serie: 
+Desktop:
+Pentium (MMX) |
+Pentium II |
+Pentium III |
+Pentium 4 |
+Pentium 4 XE |
+Pentium D |
+Pentium XE |
+Pentium Dual-Core |
+Overdrive-Versionen  
+
+Mobil:
+Mobile Pentium 4 |
+Pentium M |
+Pentium Dual-Core  
+Server:
+Pentium Pro
+
+Atom-Serie: 
+Atom  
+
+Celeron-Serie: 
+Desktop:
+Celeron (P6) |
+Celeron (NetBurst) |
+Celeron D |
+Celeron (Core) |
+Celeron Dual-Core  
+Mobil:
+Mobile Celeron |
+Celeron M
+
+Core-Serie: 
+Core Solo |
+Core Duo |
+Core 2 |
+Intel-Core-i-Serie: Core i3, Core i5, Core i7 (Liste)
+
+Xeon-Serie: 
+Server:
+Xeon (P6) |
+Xeon (NetBurst) |
+Xeon (Core) |
+Xeon (Nehalem) |
+Xeon (Sandy Bridge) |
+Xeon (Ivy Bridge) |
+Xeon (Haswell) |
+Xeon (Broadwell) |
+Xeon (Skylake) |
+Xeon (Kaby Lake) |
+Xeon (Coffee Lake)
+
+x86-kompatible SoCs: Quark |
+Edison
+

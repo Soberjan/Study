@@ -1,0 +1,43 @@
+
+Genitiv är ett grammatiskt kasus, som oftast markerar ägarskap – att ett visst substantiv äger, innehar eller besitter ett annat substantiv. Ett exempel på en vanlig genitivkonstruktion är mannens hus, som i tyskan uttrycks med das Haus des Mannes och i finskan miehen talo.
+
+Genitiv markeras i standardsvenskan med ett så kallat "genitiv-s" – som vanligen placeras sist på ordet som ska markeras – till exempel Eriks. Enda undantaget är att markera genitiv genom att sätta ut en apostrof direkt efter ett namn som slutar på -s (och -x eller -z)[1] – till exempel Lars' bil – om tveksamhet kan uppstå. Vanligen löses problemet med omskrivning, och den här formen är numera ovanlig i svenskan. Den kan ha viss del i den förvirring som lett till felaktigt användande av engelskt genitiv.[källa behövs] I engelska markeras nämligen genitiv med apostrof följt av s – Anna's, vilket i svensk text är fel. Genitiv av Anna skrivs alltså enligt svenska språkregler alltid Annas och aldrig Anna's.[2][3]
+
+I modern standardsvenska används genitiv främst för att ange ägande och tillhörighet, men det förekommer också i vissa speciella uttryck – bland annat för vissa plats- och tidsangivelser – som exempelvis Hon var utomlands i somras. I fornsvenskan hade dock genitiven betydligt fler användningsområden. Bland annat styrde prepositionen "till" genitiven – vilket lever kvar i ett antal uttryck – som i till sjöss, till fots, till skänks och så vidare.
+
+Huruvida genitiven skall betraktas som ett kasus i standardsvenskan är omdiskuterat. Detta beror bland annat på att man ofta i modern svenska sätter ut genitivändelsen -s på det sista ordet i en nominalfras – i stället för på det substantiviska huvudordet.[4][5] Genitivändelsen ‑s uppträder så vid exempelvis gruppgenitiv. Genitivändelsen får då gälla hela nominalfrasen och den beter sig alltså lite som ett självständigt ord (eller en klitisk partikel eller en frasklitika)  – snarare än som en böjning eller kasus (se vidare: Kasus i svenska). Gruppgenitiv finns i uttryck som ”mannen på gatans åsikter”,[6] och ändelsen ‑s kan fogas till icke‐nominala ord i talspråkliga vändningar som ”grabben ovanpås”[7].
+
+Ett annat skäl som anförs är att kongruens saknas (standardsvenska har till skillnad från fornsvenska inte fraser som ens gammals mans häst).[8] För det tredje saknas rektion, vilket betyder att ord i s‑genitivform inte styrs av verb eller preposition utom i relikter som ”till bords”.[8] För det fjärde saknar s‑genitivändelsen allomorfer och är opåverkad av värdordet.[7]
+
+Gruppgenitiv är en av anledningarna till att genitivens status som kasus i svenskan är omdiskuterad. För många är det mer naturligt att säga Länsstyrelsen i Jämtlands läns beslut än Länsstyrelsens i Jämtlands län beslut.[9] I äldre språkvård[förklaring behövs] var rekommendationen, för formell stil, att man satte genitivändelsen på huvudordet – som i det senare exemplet. På det sättet blir det heller ingen tvekan om att det är länsstyrelsens beslut som avses medan betydelsen kan bli tvetydig med genitivändelsen på det sista ordet (i en sammanhållen fras) – även om det känns mer naturligt. Rekommendationen i dag är därför istället att man skriver om texten så att man undviker gruppgenitiv.
+
+I de nordiska talade språkliga varieteterna skedde en stor inskränkning i genitivens användning med början omkring 1300.[8] Inom det nordiska språkområdet är det bara isländskan som bevarat genitiv som ett stark talspråkligt kasus.[10] Till och med i den konservativa älvdalskan är genitiv troligen inte en böjningsform.[11] Omskrivningar används allmänt i folkliga nordiska talspråk (utom isländska) i stället för genitiv.
+
+I  vissa folkmål i sydvästra Sverige (Halland, östra Småland, Västergötland, Skåne och östra Blekinge) finns[a] dock så kallad a‑genitiv, som troligen är en böjningsform och inte en klitisk partikel (frasklitika).[12][13] A‑genitiv finns huvudsakligen i personnamn och ortnamn; vid andra substantiv används omskrivningar som ”benen på hästen” istället för ”hästens ben”[12] Undantagsvis har appellativ a‑genitiv.[12]
+
+Ändelserna i a‑genitiv varierar, men i de enklast fallen är ändelserna dessa:[12]
+
+Utljudande ‑o i feminina n‑stammar blir ‑e i dessa mål. Den fornsvenska genitivändelsen ‑ar blir ‑a genom r‑bortfall.
+
+Att ‑ar anges som fornsvensk ändelse på starka substantiv i tabellen skall inte fattas som starka substantiv allmänt hade denna genitiv i fornsvenska, utan att a‑genitiv med ursprung i ar‑genitiv generaliserats för egennamn. Julius Swenning menade dock, att ändelsen ‑a inte kommer av fornsvenska ‑ar som har bevarats i eller spridits till starka substantiv (som Erik i tabellen) utan var en generalisering av de maskulina svaga n‑stammarnas ändelse.[13]
+
+Appellativ som betecknar personer kan ha a‑genitiv.[12] Hos de mycket namnlika mamma och pappa är genitiverna mamme och pappe allmänna i Långarydsmålet.[14] Även mindre namnlika ord som kapten och faster kan ha genitiverna kaptena och fastera.[12]
+
+Genitiv för förkortningar skrivs vanligen som :s – till exempel SJ:s tidtabell och ABB:s styrelse. Undantaget är förkortningar som uttalas som ord och inte bokstavskombinationer, till exempel Saab och Asea, som böjs med vanligt genitiv-s – Saabs växellådor och Aseas generatorer. Förkortningar som slutar på s får vanligen inget genitiv-s – utan man skriver till exempel SAS flygvärdinnor och BRIS jourtelefon.
+
+Ortnamn som slutar på konsonant får ett genitiv-s, exempelvis Stockholms tingsrätt, medan namn som slutar på vokalljud ofta står oförändrade som genitivattribut i fasta uttryck – exempelvis Solna tingsrätt, Malmö hamn, Uppsala kommun, men Ljungbys invånare. Till dessa orter hör även Kalmar (av det äldre Kalmare) och Gibraltar trots att de slutar på konsonant. Vissa ortnamn får istället bortfall, antingen i alla fasta förbindelser – som Falun (Falu kommun) eller bara i vissa – (Trollhätte kanal men Trollhättans Stad) [3].
+
+På senare tid har avsaknad av genitiv-s även börjat förekomma i enstaka fall för ortnamn som slutar på konsonant – exempelvis Marieberg köpcentrum (utanför Örebro), som stavas utan genitiv-s av centrumanläggningens ägare. Något vanligare är det för ortnamn som slutar på "-stad", t.ex. Kristianstad studentkår – vilket förutsätter att man uttalar ortnamnet med stumt "-d".
+
+Denna praxis förekommer vanligen då det rör sig om namn på specifika institutioner. Säger man t. ex. "Volvo Kundservice", så antyder man att det finns en specifik avdelning inom företaget Volvo med just detta namn.
+
+Sammansättningsledet Marie- i Marieberg är i sig för övrigt en försvenskad latinsk genitivform för femininum. Sådana former är alltjämt vanliga i ortnamnssammansättningar som Sofiero, Kristineberg, Helenelund med flera. Marie förekommer också i fler fasta förbindelser idag till exempel "Marie bebådelsedag" och "Jungfru Marie nycklar".
+
+Latiniserade släktnamn och andra namn på -us har tidigare ofta fått genitiv enligt latinskt mönster på -i eller andra ändelser (beroende på ordets genus) – som i exempelvis Orphei Drängar. På grund av latinets minskade direkta betydelse blir detta dock alltmer ovanligt – mycket beroende av den minskade kännedomen om latinets grammatik. Latinska genitiv förekom också flitigt inom kyrkan, där en del också lever kvar, med kanske de bästa exemplen – Jesu Kristi och Jesu liv. Genitivformerna Pauli (i Pauli brev), Petri ( i Petri andra brev) och evangelii övergavs i 1917 års kyrkobibel och är idag mycket ovanliga i skrift.
+
+Under påverkan av engelskan förekommer det i dag att genitivändelsen (-s) i skrift åtskiljs från sitt huvudord med en apostrof – detta är dock inte korrekt.
+
+Tidigare hade genitiven en större betydelse i svenskan än vad de har nu. Till exempel styrde vissa prepositioner detta kasus och olika ord hade olika genitivändelser – som i till exempel isländskan och tyskan, samt i ännu högre grad i de slaviska och baltiska språken. I modern svenska finns detta nästan bara kvar i vissa uttryck och ord.
+
+(Ej komplett hos alla listade språk)
+

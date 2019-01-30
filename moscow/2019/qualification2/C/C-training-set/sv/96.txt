@@ -1,0 +1,15 @@
+
+Library of Congress Control Number (LCCN) är ett nummersystem för att unikt identifiera böcker och andra publikationer utgivna i USA. Systemet är i bruk sedan 1898 och innebär att USA:s kongressbibliotek förser varje post i bibliotekskatalogen med ett unikt serienummer bestående av årtal och löpnummer. Systemet kan användas för att entydigt hänvisa till en bok som saknar ISBN.
+
+LCCN-numret innehåller inte information om en boks innehåll, och ska således inte sammanblandas med Library of Congress classification (LCN), som är ett ämnesklassifikationssystem. LCCN kan emellertid användas för att söka kataloguppgifter för en publikation, inklusive ämnesklassifikation. LCCN ska inte heller sammanblandas med Library of Congress Subject Headings, som är en ontologi eller ordbok över ämnesords relationer, i syfte att underlätta automatiserade sökningar. 
+
+LCCN-systemet har varit i bruk sedan 1898, och stod ursprungligen för Library of Congress Card Number, och har under en tid även uttytts som Library of congress Catalog Card Number. Kongressbiblioteket försedde varje kort i deras bibliotekskartotek ett LCCN-nummer, och sålde kopior av korten till andra bibliotek för att användas i deras kataloger genom så kallad centraliserad katalogisering. 
+
+Även i dagens elektroniska biblioteksdatabaser används LCCN som referensnummer av bibliotekarier över hela världen vid katalogisering av böcker som har publicerats i USA. 
+
+I februari 2008 skapade kongressbiblioteket tjänsten Permalink LCCN, vilken ger en stabil URL för alla LCCN-nummer.[1][2]
+
+LCCN består av två grupper av siffror, som förr vanligen skrevs samman med ett bindestreck. Den första gruppen anger ett årtal med två siffror (vid åren  1898-2000) eller fyra siffror (från och med 2001). Den andra är ett löpnummer med upp till sex siffror. Ibland skrivs grupperna ihop utan bindestreck och då fylls den senare gruppen alltid ut med nollor till sex positioner, så att LCCN 99-3456 blir 99003456. På senare år har kongressbiblioteket uppmanat förlag att inte inkludera ett bindestreck. 
+
+Vid tvåsiffriga årtal läggs två mellanslag in innan siffrorna. Nummer som startar med 98, 99 och 00 har tvetydligt publikationsår men särskiljs genom löpnumret. Det finns några egenheter i nummer som börjar med "7" på grund av ett experiment som tillämpades mellan 1969 och 1972. Bokstavskoder kan läggas in före eller efter numret som prefix eller suffix, exempelvis för att indikera att publikationen har fått felaktigt nummer av förlaget eller att kataloguppgifterna har reviderats.[3][4][5]
+

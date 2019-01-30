@@ -1,0 +1,15 @@
+
+Il VC 4000  è una console per videogiochi prodotta dalla Interton nel 1978.
+Commercializzata inizialmente in Germania, è stata poi replicata da altri produttori e venduta anche in altri Paesi. È compatibile a livello di software con altre console vendute in Europa, come la 1292 Advanced Programmable Video System.[1]
+
+Il VC-4000 è dotato di una CPU Signetics 2650A (la stessa impiegata nell'Arcadia 2001) e di un chip video Signetics 2636. I due controller sono dotati di un keypad a 12 tasti, 2 bottoni di sparo e di un joystick analogico. Sul pannello di controllo sono presenti l'interruttore di accensione e tre tasti: RESET, SELECT e START.[2][1]
+
+Principali caratteristiche tecniche:[1]
+
+La VC 4000 è dotata di 4 KB di RAM ma per i dati dei giochi dispone di soli 43 byte perché la memoria principale è utilizzata per il gioco da eseguire: la VC 4000 e le sue derivate sono infatti le uniche console su cui i giochi dovevano essere caricati dalla cartuccia nella RAM di sistema per poter essere eseguiti.[2]
+
+La Console è stata prodotta da parecchie aziende, e venduta con differenti nomi. Non tutte le versioni sono compatibili, a causa di differenze nelle forme e nelle dimensioni delle cartucce e delle porte delle stesse: sono però software compatibili, ed usando degli adattatori è possibile utilizzare i giochi di un sistema su un altro. Nella pagina del 1292 Advanced Programmable Video System è presente l'elenco delle console divise in famiglie di compatibilità (a causa dei suddetti slot).[1]
+
+I giochi del VC 4000 erano distribuiti su cartucce ROM conosciute come 'cassette'.
+
+Altri progetti

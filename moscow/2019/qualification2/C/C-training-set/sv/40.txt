@@ -1,0 +1,19 @@
+
+Steven Chu, född 28 februari 1948 i Saint Louis, Missouri, är en amerikansk fysiker som var USA:s energiminister 2009-2013. Han är känd för sitt arbete med laserkylning, vilket gav honom Nobelpriset i fysik 1997. 
+
+Chu fick doktorsgrad i fysik 1976 vid University of California, Berkeley. Mellan 1978 och 1987 var han anställd på Bell Labs, där han utförde den forskning för vilken han 1997 tilldelades nobelpriset i fysik för "utveckling av metoder att kyla och infånga atomer med laserljus".[7] Han delade priset med amerikanen William D Phillips och fransmannen Claude Cohen-Tannoudji. Chu var professor i fysik vid Stanford University mellan 1987 och 2004. Han utsågs 2004 till chef för Lawrence Berkeley National Laboratory i Berkeley och i samband med detta blev han även professor i fysik vid University of California, Berkeley.
+
+Steven Chu som energiminister i Barack Obamas regering 2009-2013.[8]
+
+Chu är av kinesiskt ursprung och hans familj härstammar från Taicang i Jiangsu-provinsen.
+
+Ljus kan beskrivas som en ström av partiklar, fotoner. Fotonerna saknar massa i vanlig bemärkelse men de har en viss rörelsemängd och när en foton krockar med en atom kan den överföra hela sin rörelsemängd till denna och själv bli stillastående. För att detta skall kunna ske måste fotonen ha rätt energi, vilket är detsamma som att ljuset måste ha rätt frekvens eller färg. Vid en sådan krock blir resultatet att atomens rörelse bromsas upp något, den kyls av. För att bromsa en atom behövs ljus från en intensiv laserstråle. 
+
+Steven Chu utvecklade omkring 1985 en metod att med kraftigt laserljus bromsa och kyla ner atomer. Han och hans medarbetare vid Bell laboratories använde sex laserstrålar som var parvis motriktade och arrangerade i tre vinkelräta riktningar. Natriumatomer från en atomstråle i vakuum bromsades först upp av en motriktad laserstråle och leddes sedan in i skärningen mellan de sex kyllaserstrålarna. Alla sex strålarna hade sitt ljus något rödskiftat i jämförelse med den karakteristiska färg som en stillastående natriumatom absorberar. Effekten blev att åt vilket håll natriumatomerna än försökte röra sig möttes de av fotoner av den rätta energin och knuffades tillbaks till laserstrålarnas skärningsområde. Där bildades något som för ögat såg ut som ett lysande moln stort som en ärta bestående av cirka en miljon nerkylda atomer. 
+
+Atomerna i det ovan beskrivna experimentet är kylda, men inte fångade. Tyngdkraften gör att de faller ur den optiska sirapen på ungefär en sekund. För att verkligen fånga atomerna behövs också magnetfält som motverkar gravitationen. Phillips och dennes medarbetare hade utvecklat metoder att bromsa atomer i en rent magnetisk fälla. När detta kombinerades med Chus metod att kyla ner atomerna med laser så fick man en metod att nästan helt stoppa atomerna och man lyckades i experiment kyla ner natriumatomer till så låga temperaturer som 40 µK vilket inte borde vara möjligt enligt de teoretiska atommodeller som fanns. Cohen-Tannoudji med medarbetare har sedan gett teoretiska förklaringar hur det ändå är möjligt.
+
+
+
+
+

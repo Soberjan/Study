@@ -1,0 +1,16 @@
+
+
+
+The Sony Xperia miro is a mid-range Android smartphone manufactured and developed by Sony Mobile Communications. The device was released globally during the third quarter of 2012. The device is available in colours black, pink, white with silver and white with gold. However, not all colours are available in all countries.[2]
+
+The phone was officially announced with the Sony Xperia tipo by Sony Mobile Communications on 13 June 2012 and is using the concept of a fun social and entertainment phone to promote the device. The device is slated for a global release during the third quarter of 2012.[3] The Xperia miro was released on 19 September 2012.[4]
+
+The device has a TFT scratch resistant capacitive touchscreen display which measures 3.5 inches with a resolution of 320 x 480 pixels at 165 ppi. It supports multitouch and is capable of displaying 16,777,216 colours with a layer of anti reflective coating. The Sony Xperia miro has a 5 megapixel camera featuring an LED flash, auto focus, panorama mode, red-eye reduction, and more. It is capable of recording video at 30 frames per second with continuous auto focus, video light and with video stabilization. The phone also features a front facing camera with VGA resolution. The phone charges it's 1500mAh Li-Ion battery with a micro USB port. The phone has an internal memory of 4 GB, which has only 2.2 GB available to the user, a Qualcomm MSM7225A 800 MHz Cortex A-5 processor with 512 MB of RAM and an external microSD/HC card slot that supports up to 32GB.[5]
+
+The device is released with the latest Sony Android 4.0 Ice Cream Sandwich operating system with Facebook and Timescape with Twitter integrated in the software. It also has an on-screen QWERTY keyboard with a browser that supports HTML5 and Adobe Flash and also an integrated stereo FM radio with RDS. As an entertainment phone by Sony, the Xperia miro is capable of 3D and motion gaming and is connected to the Sony Entertainment Network, allowing users to access Music & Video Unlimited. It also features xLOUD Experience, an audio filter technology from Sony, with TrackID music recognition, Walkman music app and also a manual equalizer. The phone supports WiFi and WiFi hotspot, with Bluetooth 2.1 and is DLNA certified.[6]
+It has no Sony Mobile BRAVIA Engine enabled by default, but it could be enabled with some tweaks which require root access from the device's forum thread in XDA Developers
+
+On 17 December 2012, Sony confirmed that the Xperia Miro would not be updated beyond Ice Cream Sandwich due to hardware incompatibility. ROM Developers of community forum XDA Developers and CyanogenMod Free Xperia Developers later challenged this statement by releasing stable rom versions of Jellybean 4.1.2 for the device which could be flashed to the device by rooting the device which comes at a cost of voiding the device's warranty.
+
+On 23 December 2013 TamsuiCM11 CyanogenMod developer team on XDA Developers forum released beta rom version of CM11 Kitkat 4.4.2 but it has some bugs,like camera. the bugs couldn't be solved until now.
+

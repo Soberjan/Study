@@ -1,0 +1,157 @@
+
+Dies ist eine zeitlich gegliederte Liste der PC-Mikroprozessoren von Intel. Für eine Liste der mathematischen Koprozessoren, siehe die Liste der x86er-Koprozessoren. Siehe auch Modellnummern von Intel-Prozessoren.
+
+Der Intel 4004 war der erste in Serie produzierter Mikroprozessor der Welt. Er war ursprünglich eine Auftragsentwicklung im Rahmen eines Tischrechner-Projekts der Firma Busicom. Intel kaufte das sehr allgemein gehaltene CPU-Design zurück und vermarktete es.
+
+Der Intel 4040 war eine verbesserte Version des 4004 mit Interrupts, erweitertem Befehls- und Registersatz.
+
+Der Intel 8008 wurde beispielsweise in Terminals, Rechenmaschinen und Verpackungsmaschinen verwendet. Die Entwicklung wurde zusammen mit dem 4004 für den Datapoint 2200 begonnen.
+
+Der Intel 8080 war lange Zeit eine verbreitete Standard-CPU mit vielen Einsatzbereichen. Er besaß ungefähr die 10-fache Geschwindigkeit eines 8008 und fand erstmals breite Verwendung in der Industrie – etwa in Registrierkassen, Verkehrsampeln, Bankenterminals, Wägesystemen, Steuerungen, aber auch in Marschflugkörpern. Auch im Hobby-Bereich wurde diese CPU sehr populär, etwa im Altair 8800 oder durch das Betriebssystem CP/M.
+
+Der 8085 ist eine weiterentwickelte Ein-Chip-Version der 8080-CPU, mit der Intel an die Popularität des 8080 aber nicht mehr anknüpfen konnte. Das Erbe des 8080 trat der Z80 der Firma Zilog an. Jedoch wurden tausende von Steuereinheiten der Geldspielautomaten der Firma ADP-Gauselmann Gruppe (Stichwort "Merkur-Sonne") mit den 8085 bestückt. Dort leistete er viele Jahre lang treue Dienste, bis er ca. 1992 nach und nach von dem Motorola 68000 und seriellen Schieberegistern abgelöst wurde.
+
+Verwendet wurde er zum Beispiel im Schneider-PC 1640 und vielen anderen Nachbauten des IBM-PC, in der Kommunikationstechnik (z. B. Telefonanlagen), bei Steuerungen (u. a. auch im Space Shuttle der NASA). Der Befehlssatz ist auf symbolischer Ebene (Mnemonics, Operandenformat, Adressierungsarten) angelehnt an den des 8080, um eine leichte Portierung zu ermöglichen. Zur Erweiterung des Adressraumes auf 1 MiB wird eine Segmentierung benutzt, da sich mit 16 Bit lediglich 64 KiB direkt adressieren lassen.
+
+Variante des 8086 mit externem 8-Bit-Datenbus. Der 8088 verhält sich aus Sicht des Programmierers zwar wie ein 8086, da 8-Bit-Technologie in den späten 1970er Jahren aber verbreitet und verhältnismäßig günstig war, sollte der „schmalere“ Datenbus des 8088 den Aufbau kostengünstiger Systeme mit „8086-Technologie“ ermöglichen. Der 8088 wurde vor allem im IBM-PC und dessen Nachbauten, Telefonanlagen, Steuerungen u. v. m. verwendet.
+
+Der Intel 80186 wurde hauptsächlich in eingebetteten Systemen verwendet, eher selten in Desktop-Rechnern der IBM-Klasse (z. B. im Siemens PCD, Triumph Adler P50/P60, Tandy 2000, Philips Yes, MAD-Computer). Er enthält einen leicht verbesserten 8086-Kern mit zusätzlichen Befehlen, sowie zwei Timer, einen DMA- und einen Interrupt-Controller. Später wurde er in iAPX186 umbenannt.
+
+Wie der 80186, aber externem Datenbus mit 8 Bit Breite, dadurch verringerte Kosten, weil die benötigten Zusatzchips billiger waren.
+
+Der 80286 verfügte über einen neuen Betriebsmodus (Protected Mode), der einen Speicherschutz für Multitasking-Betriebssysteme ermöglicht. Er erreicht die drei- bis sechsfache Geschwindigkeit des 8086 und war vor allem in PC-Clones verbreitet. Er kann die Encyclopædia Britannica in 45 Sekunden durchsuchen.
+
+Der i386DX war der erste x86-Prozessor mit 32 Bit Busbreite. Er besitzt einen überarbeiteten und erweiterten Speicherschutz (32-bit-Protected Mode). Außerdem unterstützt er virtuellen Speicher und virtuellen 8086-Mode. Paging, ein linearer Adressraum und Zugriffsschutz erleichtern die Portierung von Unix-Systemen. Er wurde vor allem für Desktop-Computer benutzt.
+
+Die geringere Busbreite des i386SX verringerte die Kosten, da 80286er-Peripherie weiter genutzt werden konnte. Softwareseitig ist er vollkommen kompatibel zum i386DX (mit der Beschränkung auf einen kleineren Adressraum), besitzt aber eine kürzere Befehlswarteschlange als der i386DX. Verwendet wurde er in Desktop-PCs und tragbaren Computern des unteren Preissegments.
+
+Der i486 besitzt als erster Intel-Prozessor einen auf dem Chip integrierten L1-Cache und einen mathematischen Koprozessor (FPU). Er besitzt die 50-fache Geschwindigkeit des 8088 und wurde vor allem in Servern und Desktop-Computern eingesetzt.
+
+Erster Prozessor speziell für tragbare Computer (geringer Stromverbrauch). Hochintegriert, enthält Cache-, Bus- und Memory-Controller.
+
+Entspricht dem i486DX, aber mit fehlendem mathematischen Koprozessor (FPU) und wurde im Einstiegssegment der 486er Desktop-PC eingesetzt. Er ist erweiterbar mit dem i487-Koprozessor.
+
+Verwendet für schnelle, aber preiswerte Desktop-PC. Der Prozessor arbeitet intern mit der doppelten Frequenz des externen Busses.
+
+Eingesetzt in Notebook-PCs.
+
+Fünffache Geschwindigkeit des 33-MHz-486DX-Prozessors durch superskalare Architektur, eingesetzt in Desktop-PCs. Intern mit RISC-Kern; vorgesehene Erweiterungen für Mehrprozessorbetrieb erst später relevant. CPUID-Kennung ermöglicht nun Spezialvarianten in schnellerer Folge.
+
+Eingesetzt in schnellen Einstiegs-Desktop-PCs und Mittelklasse-Notebooks. Der Systemtakt betrug ein Drittel (nicht ein Viertel!) des Prozessortaktes, also 25 bzw. 33 MHz.
+
+Einführung der MMX-Technologie und Vergrößerung des Level-1-Caches von 16 KiByte auf 32 KiByte zur Leistungssteigerung
+
+Der Pentium II besitzt die Mikroarchitektur des Pentium Pro, die etwas verbessert und darüber hinaus um den MMX-Befehlssatz erweitert wurde. Der Klamath wurde sogar in derselben Technologie gefertigt wie der Pentium Pro, aber – wie u. a. seine Nachfolger Deschutes und Katmai auch – in einem kostengünstigeren Einsteckmodul ausgeliefert.
+
+Der Deschutes war der erste Prozessor mit der Bezeichnung „Pentium“, der auch in einer Variante mit 100 MHz Bustakt verfügbar war.
+
+Auf Deschutes-Basis.
+
+Der erste Celeron-Prozessor verwendet den Kern der ersten Pentium-II-Variante mit der Bezeichnung Deschutes. Ihm fehlt jedoch der L2-Cache, wodurch die Leistungsfähigkeit deutlich verringert ist. Da der L2 auch nicht wie beim Pentium MMX auf der Hauptplatine
+implementiert war, konnte er sich in vielen Anwendungsbereichen nicht einmal gegen den niedriger getakteten und preiswerteren Pentium MMX behaupten. Die Gleitkomma-Performance war allerdings deutlich besser als beim Pentium MMX.
+
+Der erste Xeon-Prozessor verfügt über 512, 1024 oder 2048 KiB L2-Cache. Die 2048 KiB Variante war nur beim 450 MHz Modell erhältlich.
+
+Erster Intel-Prozessor mit im Prozessor-Die integriertem L2-Cache. Er war ein guter wirtschaftlicher Kompromiss zwischen ursprünglichem Celeron und Pentium II. Später wurde der Celeron dann auch im kostengünstigeren Sockel-370-Gehäuse vertrieben, da der Slot 1 durch den integrierten L2-Cache nicht mehr nötig war. Sehr beliebt war dieser Prozessor in der PPGA-Sockel-Ausführung, mit welcher er z. B. auf dem Motherboard ABIT BP6 als günstiges Zwei-Prozessor-System tauglich war. Alle folgenden Celeron-Kerne sind dieser Fähigkeit beraubt.
+
+Streaming SIMD Extensions. Erstmals mit Prozessor-GUID (was Datenschutzbedenken hervorrief).
+
+Eingesetzt in Business-PCs, two-, four- und eight-way- (und höheren) Servern und Workstations.
+
+Verwendet für Two-Way-Server und Workstations.
+
+Erster Intel-Prozessor in 180-nm-Fertigung. Der Coppermine hat einen auf dem Chip integrierten L2-Cache („Advanced Transfer Cache“), der gegenüber seinem Vorgänger, dem Katmai, zwar von 512 KiB auf 256 KiB verkleinert wurde, aber durch eine Überarbeitung des L2-Cache-Interface einen erheblich höheren Durchsatz hat. In den meisten Anwendungsfällen ist er sogar etwas schneller als sein Vorgänger.
+
+Erster Intel-Prozessor in 130-nm-Fertigung. 1,25 V statt 1,5 V Bus-Spannung (AGTL- statt AGTL+-Pegel), weshalb der Pentium III mit Tualatin-Kern ohne Adapter nur auf Mainboards mit dafür geeigneten Chipsätzen läuft, z. B. dem Intel i815 (B-Step) oder dem VIA 694T.
+
+Wie der Pentium III mit Tualatin-Kern in der Desktop-Variante hat der Tualatin-Celeron 256 KiB L2-Cache, wird aber nur mit 100 MHz FSB-Takt getaktet.
+
+Erster Prozessor in 90-nm-Fertigung.
+
+Erster Prozessor in 65-nm-Fertigung.
+
+Nicht-x86-Prozessoren:
+4004 |
+4040 |
+8008 |
+8080 |
+8085 |
+iAPX 432 |
+i860 |
+i960 |
+Itanium |
+Itanium 2 |
+XScale
+
+Bis 4. Generation:
+8086 |
+8088 |
+80186 |
+80188 |
+80286 |
+i386 |
+i486DX |
+i486DX2 |
+DX4 |
+i486GX |
+i486SL/SL-NM |
+i486SX |
+i486SX2 |
+Overdrive-Versionen
+
+Pentium-Serie: 
+Desktop:
+Pentium (MMX) |
+Pentium II |
+Pentium III |
+Pentium 4 |
+Pentium 4 XE |
+Pentium D |
+Pentium XE |
+Pentium Dual-Core |
+Overdrive-Versionen  
+
+Mobil:
+Mobile Pentium 4 |
+Pentium M |
+Pentium Dual-Core  
+Server:
+Pentium Pro
+
+Atom-Serie: 
+Atom  
+
+Celeron-Serie: 
+Desktop:
+Celeron (P6) |
+Celeron (NetBurst) |
+Celeron D |
+Celeron (Core) |
+Celeron Dual-Core  
+Mobil:
+Mobile Celeron |
+Celeron M
+
+Core-Serie: 
+Core Solo |
+Core Duo |
+Core 2 |
+Intel-Core-i-Serie: Core i3, Core i5, Core i7 (Liste)
+
+Xeon-Serie: 
+Server:
+Xeon (P6) |
+Xeon (NetBurst) |
+Xeon (Core) |
+Xeon (Nehalem) |
+Xeon (Sandy Bridge) |
+Xeon (Ivy Bridge) |
+Xeon (Haswell) |
+Xeon (Broadwell) |
+Xeon (Skylake) |
+Xeon (Kaby Lake) |
+Xeon (Coffee Lake)
+
+x86-kompatible SoCs: Quark |
+Edison
+

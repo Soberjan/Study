@@ -1,0 +1,29 @@
+
+
+
+Le NASDAQ (sigle de National Association of Securities Dealers Automated Quotations) est une bourse de valeurs ouverte en 1971, actuellement[Quand ?] le deuxième plus important marché d'actions des États-Unis, en volume traité, derrière le New York Stock Exchange. Il est le plus grand marché électronique d'actions du monde. Depuis début 2008, la bourse appartient au groupe européano-américain Nasdaq.
+
+L’indice NASDAQ, aussi appelé « le NASDAQ », est l'indice boursier qui mesure la performance des entreprises qui y sont inscrites et cotées.
+
+Le 2 août 2018, Apple dépasse la barre des 1000 milliards de capital boursier au Nasdaq.
+
+Le NASDAQ a été lancé en février 1971[2], grâce aux techniques de communication reliant les courtiers, mises en place originellement par l'Agence Reuters — qui cependant reposent sur un vieux concept mis en place dès les années 1890-1900 grâce au télégraphe et dont les premiers utilisateurs furent justement les agents de change.
+
+C'est le premier marché boursier électronique à ouvrir dans le monde et le seul à fonctionner ainsi durant quinze ans. Il a été fondé par la National Association of Securities Dealers (NASD) (que l'on peut traduire par « Association nationale des agents de change »). Son nom est, au départ, l'acronyme de « National Association of Securities Dealers Automated Quotations » (« cotations automatisées de la NASD »).
+
+Parfois considéré comme une antichambre du New York Stock Exchange (NYSE) pour les entreprises pas encore assez importantes pour être cotées sur ce dernier, il a en réalité conservé en son sein la plupart des compagnies technologiques naissantes qu'il avait accueillies dans les années[3] 1980 et 1990.
+
+Sa forme juridique est ensuite devenue celle d'une entreprise commerciale, sous le nom de The Nasdaq Stock Market, Inc. La NASD a vendu une partie de sa participation dans l'entreprise en 2000 et 2001 et l'action Nasdaq (code : NDAQ[4]) a été introduite en 2002 sur le NASDAQ.
+
+Il cote aujourd'hui[Quand ?] environ 3 200 valeurs, dont beaucoup ont vu leurs cours s'effondrer lorsque leurs paris technologiques ont échoué, sans compter l'éclatement de bulles spéculatives ou conjoncturelles (1995, 2001, 2007…). Les échanges — en continu — se font sur plusieurs serveurs regroupés dans une pièce unique. Les systèmes de cotation du NASDAQ sont abrités par le Joseph R. Hardiman Technology Center, un bâtiment tout en verre dans la zone industrielle de Trumbull, ville du Connecticut. Sa capacité à traiter les échanges en continu vient de serveurs, installés au sous-sol du bâtiment, qui peuvent enregistrer jusqu'à 900 transactions à la seconde.
+
+Si les sociétés cotées au NASDAQ sont souvent liées au monde de l'Internet ou de l'informatique, il n'en demeure pas moins que celles-ci peuvent couvrir d'autres secteurs économiques. Il arrive ainsi de trouver sur le NASDAQ de grandes entreprises concernant des secteurs d'activité tels que banque, distribution, biotechnologies, industrie, transports, etc.
+
+Le NASDAQ sert de débouché naturel pour les fonds de capital-risque, un mode de financement qui consiste à accepter de prendre le risque de perdre de l'argent dans trois dossiers sur quatre mais de compenser avec le quatrième, une société capable de multiplier sa taille par plus de quatre sur un horizon de sept à huit ans.
+
+L'indice boursier NASDAQ est calculé en tenant compte de toutes les compagnies inscrites au marché d'actions NASDAQ et non en tenant compte uniquement d'un sous-ensemble de ces compagnies comme c'est le cas pour plusieurs autres indices boursiers. Dans l'indice NASDAQ, l'importance de chaque compagnie est proportionnelle à sa capitalisation boursière. Cet indice est assez volatile car le marché d'actions NASDAQ contient plusieurs compagnies de haute technologie dont la valeur des actions est plus volatile que la valeur des actions des compagnies de l'économie traditionnelle.
+
+Le succès du Nasdaq a amené la Bourse de Londres à créer dans les années 1980, le SEAQ, un système électronique de cotation pour coter les grandes sociétés d'autres pays d'Europe.
+
+Un peu plus tard, l'association des spécialistes européens du capital-risque a créé l'EASDAQ, un projet de marché boursier électronique paneuropéen pour les jeunes sociétés en forte croissance, afin de faciliter les levées de fond des entrepreneurs via le capital-risque.
+

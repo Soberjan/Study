@@ -1,0 +1,20 @@
+
+Genba (現場, also romanized as gemba) is a Japanese term meaning "the actual place". Japanese detectives call the crime scene genba, and Japanese TV reporters may refer to themselves as reporting from genba. In business, genba refers to the place where value is created; in manufacturing the genba is the factory floor. It can be any "site" such as a construction site, sales floor or where the service provider interacts directly with the customer.[1]
+
+In lean manufacturing, the idea of genba is that the problems are visible, and the best improvement ideas will come from going to the genba. The gemba walk, much like Management By Walking Around (MBWA), is an activity that takes management to the front lines to look for waste and opportunities to practice genba kaizen, or practical shop floor improvement.
+
+In quality management, genba means the manufacturing floor and the idea is that if a problem occurs, the engineers must go there to understand the full impact of the problem, gathering data from all sources. Unlike focus groups and surveys, genba visits are not scripted or bound by what one wants to ask.
+
+Glenn Mazur[2] introduced this term into Quality Function Deployment (QFD, a quality system for new products where manufacturing has not begun) to mean the customer's place of business or lifestyle.  The idea is that to be customer-driven, one must go to the customer's genba to understand his problems and opportunities, using all one's senses to gather and process data.
+
+Gemba walks denote the action of going to see the actual process, understand the work, ask questions, and learn.[3][4] It is also known as one fundamental part of Lean management philosophy.[5]
+
+Taiichi Ohno,[6] an executive at Toyota, led the development of the concept of the Gemba Walk. The Gemba Walk is an opportunity for staff to stand back from their day-to-day tasks to walk the floor of their workplace to identify wasteful activities.[7] The objective of Gemba Walk is to understand the value stream and its problems rather than review results or make superficial comments.[8] Along with Genchi Genbutsu or "Go, Look, See", Gemba Walk is one of the 5 Lean guiding principles that should be practiced by Lean leaders on a daily basis.
+The gemba walk, is an activity that takes management to the front lines to look for waste and opportunities to practice gemba kaizen, or practical shopfloor improvement. [1]
+
+The practice of regularly going to the Lean workplace to see the actual practices is known as gemba walking.[9] Executives should expect to spend 45 to 60 minutes every week or two gemba walking with a Lean teacher, or Sensei, for six months to a year. Thereafter, they should regularly gemba walk on their own. Gemba walks are crucial to maintaining the disciplined adherence to Lean process designs, part of the Lean support role permeating all leadership positions. Gemba walks form the connective tissue that maintains the gains from Lean and the muscle that drives further improvement.
+
+Executives should read about Lean tools and principles and attend a Lean event annually. However, the principal Lean education for executives comes via structured gemba walking with a sensei-coach.[10]
+
+The term "going to the gemba" or, more appropriately, the Japanese term "genchi gembutsu" is also perceived to be comparable to management by walking around. The method bears much resemblance to the time and motion studies of Frederick Winslow Taylor, or even the more recent contextual inquiry and Contextual design methods, which are based in context-specific learning of work practices, in order to produce design-relevant process and product insights.
+

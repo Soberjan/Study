@@ -1,0 +1,23 @@
+
+Napster var ett P2P-fildelningsprogram skapat 1999 av den då 18-årige Shawn Fanning, John Fanning och Sean Parker. Napster var det första fildelningsprogram som blev spritt och använt av en stor publik, till en början främst studenter som använde universitetens snabba Internetkopplingar för att ladda ner gratis musik i form av mp3-filer. Till följd av stämningsansökningar från flera stora skivbolag stängdes Napster sommaren 2001, för att sedan åter öppnas som betaltjänst.
+
+Shawn Fanning var student vid Northeastern University i Boston när han skapade programmet Napster och, tillsammans med sin morbror, företaget Napster. Liksom många av hans kamrater sökte Shawn efter musik att ladda ner från internet, men han hade tröttnat på de existerande kanalerna, framför allt IRC, nyhetsgrupper och webbplatser med mp3-filer som mp3.com. Han ville istället skapa ett program som fungerade som en söktjänst för mp3-filer, där man kunde dela med sig av sin mp3-samling och samtidigt kunna chatta med andra användare. Han utvecklade programmet och hösten 1999 laddade han upp en första betaversion på download.com.
+
+Redan i december samma år kom den första stämningsansökan, då flera skivbolag ville försvara upphovsrätten till den musik som flödade på nätverket. Uppmärksamheten ledde dock bara till att fildelandet sköt i höjden då fler användare strömmade till.
+
+Året därpå stämde Lars Ulrich från musikgruppen Metallica Napster, då de upptäckt att en av deras outgivna låtar spreds via Napster. Deras stämning gick inte igenom, men 300 000 Napster-användare blockerades för att de hade spridit Metallica-låtar.
+
+I mars 2001 tvingades Napster av domstol att stoppa och förhindra spridning av upphovsrättsskyddad musik via sitt nätverk. För att infria detta stängdes Napster ner helt och hållet i juli samma år. I september gick Napster med på att betala upphovsrättsägarna 26 miljoner US-dollar i kompensation både för musik som redan överförts via nätverket och som licensavgift för kommande överföringar. För att ha råd med detta övergick Napster till en betaltjänst. En prototyp kallad Napster 3.0 Alpha släpptes våren 2002, men hade svårt att erhålla licenser till de stora musikförlagens bibliotek. I maj 2002 tillkännagav Napster att företaget skulle köpas av den tyska mediajätten Bertelsmann, men uppköpet stoppades av amerikansk domstol.
+
+Napsters konkursbo köptes 2002 upp av Roxio, som avsåg att starta en laglig musikdistributionstjänst utifrån Napster. Tjänsten introducerades i oktober 2003, men inte mycket av det ursprungliga Napster återstod, annat än namnet och sökningen. För 9,95 US-dollar i månaden kan abonnenter hyra låtar, och för ytterligare 99 cent per låt ladda ner dem permanent.
+
+Under andra halvan av 2004 sålde Roxio av all verksamhet utom Napster, och bytte namn till Napster Inc. En ny version av Napster släpptes i samma veva, Napster 3.0. Under våren 2005 satsade Napster Inc. 30 miljoner US-dollar på reklam, bland annat med halvtidsreklam i Super Bowl.
+
+Napster har inte nått upp i Itunes popularitet, och går ännu inte med vinst, men är med 270 000 abonnenter en av de ledande försäljarna av musik för nedladdning.
+
+Det ursprungliga Napster var inget äkta p2p-program, eftersom filsökningar gjordes mot en central server som hade kontroll över alla användares listor av utdelade filer. Napster var heller ingen generell fildelningstjänst, utan tillät bara utdelning av ljudfiler, främst mp3-filer.
+
+Roxios betaltjänst är över huvud taget inget fildelningsprogram, utan en nedladdningstjänst.
+
+Den marknad som Napster dominerade under sin tid som gratisprogram populeras nu främst av fildelningsnätverken Fasttrack (med programmet Kazaa), Overnet med eDonkey 2000 i spetsen och Bittorrent med diverse klienter såsom: BitComet, Azureus och µTorrent
+

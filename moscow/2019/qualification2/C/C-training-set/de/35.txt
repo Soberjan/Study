@@ -1,0 +1,142 @@
+
+Intel-Atom-Mikroarchitektur ist eine Sammelbezeichnung für verschiedene stromsparende Hauptprozessor-Mikroarchitekturen des Herstellers Intel. Die Energieeffizienz wird unter anderem durch eine im Vergleich zu Hochleistungsentwürfen geringere Komplexität der Mikroarchitekturen erreicht. Die Atom-Mikroarchitekturfamilie umfasst aktuell die Generationen Bonnell, Saltwell, Silvermont, Airmont und Goldmont. Sie kam ursprünglich nur in Intel-Produkten der Marke Atom zum Einsatz.
+
+Ab dem Jahr 2007 zeigte sich, dass Intel für den Einsatz in Nettops und Netbooks eine stromsparende, preisgünstig zu implementierende Mikroarchitektur benötigt. Man entschied sich für „vereinfachte“ CPU-Kerne auf Basis des eigenen x86-64 Befehlssatzes, für den bereits ein sehr breites Softwareangebot existierte. Später kamen Mobile internet devices (MID), Smartphones und Tablets sowie Ultrabooks und Mikroserver als Einsatzgebiete hinzu. Allerdings gelang es nicht, ein System-on-a-Chip mit integriertem Mobilfunkmodem zu entwickeln.
+
+2008 stellte Intel erste Implementierungen der Generation Bonnell vor. Bei Bonnell handelt es sich um eine Mikroarchitektur mit In-Order-Ausführung. Sie ähnelt damit der Mikroarchitektur der Prozessoren IDT WinChip, VIA C3 und VIA C7 der Firma Centaur Technology; bei Intel selbst war die für die Intel Pentium-1-Familie entwickelte Mikroarchitektur der letzte Entwurf dieser Art. Moderne Out-of-Order-Architekturen wie die Intel-Core-Mikroarchitektur oder AMD64 erreichen ihre hohe Pro-Takt-Leistung (IPC) mit vielen zusätzlichen Funktionen wie Registerumbenennung oder Speculative execution. Für die Implementation dieser Funktionen sind allerdings viele zusätzliche Transistoren nötig, die neben der Vergrößerung der Die-Größe und damit der Produktionskosten auch für eine Erhöhung der Verlustleistung verantwortlich sind. Eine In-Order-Architektur verzichtet auf derartige Funktionen und arbeitet alle Befehle strikt in Reihenfolge ab, die IPC ist deswegen um einiges geringer. Allerdings sind dadurch stromsparende Prozessoren mit einer sehr kleinen Die-Größe möglich, die somit auch kostengünstiger zu produzieren sind. Der Nachteil der geringeren Leistungsfähigkeit spielt in dem Einsatzgebiet dieser Prozessoren eine untergeordnete Rolle. Bonnell wurde für die Fertigung im 45-nm-Prozess entwickelt. Der Shrink auf 32 nm folgte im Jahr 2011 und bekam den Namen Saltwell.
+
+Bei einigen Implementierungen der Generationen Bonell und Saltwell wirkt Intel für Multithreaded-Programme der geringen IPC mit dem bereits von der NetBurst-Architektur (z. B. Intel Pentium 4) bekannten Hyper-Threading entgegen. Hyper-Threading bzw. Simultaneous Multithreading ermöglicht eine bessere Auslastung der Ausführungseinheiten eines Prozessors, wodurch je nach Anwendungsfall die Ausführungsgeschwindigkeit verbessert werden kann.
+
+Für die Generation Silvermont (ab 2013) veränderte Intel die Mikroarchitektur hin zur Out-of-Order-Ausführung.[1] Durch die Out-of-order-Befehlsausführung können Maschinenbefehle in den Ausführungseinheiten des Prozessors in einer anderen Reihenfolge ausgeführt werden, als sie im Programmcode stehen. Dadurch können die Stufen der Pipeline besser ausgelastet werden. Aufgrund der Forderung, dass das Ergebnis dieser Operationen das gleiche sein muss wie bei Ausführung in Programmreihenfolge, ist Out-of-Order-Befehlsausführung nur bei Befehlsfolgen möglich, die nicht voneinander abhängig sind. Die Out-of-Order-Befehlsausführung führt zu einer höheren Leistungsaufnahme und größerem Flächenbedarf auf dem Chip, da die entsprechende Logik in Form von zusätzlichen Transistoren implementiert werden muss. Dies war ein Grund dafür, dass sie erst mit der 22-nm-Fertigung eingeführt wurde. Die Implementierung führt im Vergleich zur Generation Bonnell zu einer rund 30%igen Steigerung der Rechenleistung pro Thread.[1]
+
+Seit der Generation Silvermont hat Intel genug Chipfläche, um zusätzliche Prozessorkerne zu implementieren, statt auf Hyper-Threading setzen zu müssen – Multi-Core statt Multi-Threading. Die Energieersparnis durch den Entfall des Hyper-Threadings wurde in das Out-of-Order-Design investiert, das wiederum half, die Ressourcen optimal auszunutzen. Es stellte sich heraus, dass Intel für Hyper-Threading bei der 22-nm-Fertigung ungefähr die gleiche Chipfläche benötigt hätte, wie Silvermont für die Re-Order-Puffer und Out-of-Order-Logik belegt, so gab es nicht einmal einen kleinen Nachteil durch den Wechsel von Hyper-Threading zu Out-of-Order-Befehlsausführung. Gerade unter Berücksichtigung der Tatsache, dass die meisten Apps für Smartphones und Tablets für Multithreading nur bedingt geeignet sind, ist dies eine weitere große Verbesserung, da jedes Programm, auch wenn es nur für Single-Threading entwickelt wurde, von der Out-of-Order-Befehlsausführung profitiert.[1]
+
+Während Medfield und frühere Plattformen für kohärente on-Chip-Kommunikation die alten FSB-Infrastruktur nutzen, kommt in auf den neuen Silvermont-basierten SoCs die sogenannte In-Die-Schnittstelle (IDI) aus Nehalem und Westmere zum Einsatz.[2]
+
+Der Shrink auf 14 nm folgte im Jahr 2014 und bekam den Namen Airmont.
+
+Goldmont wurde weiterhin auf Basis der 14-nm-Fertigungstechnologie entwickelt und im Jahr 2016 vorgestellt. Goldmont erreicht eine um rund 50 % höhere Integer-Rechenleistung als Silvermont. Bei Ver- und Entschlüsselungsaufgaben ist die neue Architektur rund 290 % schneller als der Vorgänger. Die Pro-MHz-Rechenleistung eines Goldmont-Kerns liegt damit auf dem Niveau des ARM Cortex-A72. Als maximale Taktfrequenz sind 2,6 GHz vorgesehen.[3] Es erscheint erstmals eine Denverton genannte Variante (C3xxx Modellbezeichnungen) mit bis zu 16 Kernen für den Einsatz in Mikroservern. Es werden keine SoC-Varianten für Smartphones und Tablets mehr entwickelt, da es nicht gelang Abnehmer dafür zu finden. Weitere Varianten sind: "Apollo Lake"-CPUs für Mobilgeräte: Pentium N4xxx, N3xxx mit Prozessorgrafik, Desktop-CPUs Pentium J4205 und Celeron J3x55 mit Prozessorgrafik, Embedded (E39xx)
+
+Grundsätzlich ist die Atom-Mikroarchitektur eine 64-Bit-Architektur und kann somit Intel 64 bzw. AMD64 unterstützen. Mit Ausnahme der Atom-Prozessoren 230, 330, sowie N450 bis N550 und D410 bis D525 sind die Bonnell-Implementierungen auf 32 Bit beschränkt.[4] Die Befehlssatzerweiterungen MMX, SSE, SSE2, SSE3 und SSSE3 sind implementiert. Silvermont brachte zusätzlich die Unterstützung von SSE4.1, SSE4.2, POPCNT und AES-NI, nicht jedoch AVX.[1]
+
+Die Bonnell-Mikroarchitektur und ihr Shrink Saltwell wurden lediglich in CPUs und SoCs der Marke Intel Atom implementiert. Seit der Generation Silvermont kommen die Entwürfe darüber hinaus auch in den Produktreihen Intel Celeron Nxxxx und Jxxxx sowie Intel Pentium Nxxxx und Jxxxx zum Einsatz. Intel nutzte zudem den Airmont-Kern als Basis für seine Intel-Xeon-Phi-Reihe.
+
+Nicht-x86-Prozessoren:
+4004 |
+4040 |
+8008 |
+8080 |
+8085 |
+iAPX 432 |
+i860 |
+i960 |
+Itanium |
+Itanium 2 |
+XScale
+
+Bis 4. Generation:
+8086 |
+8088 |
+80186 |
+80188 |
+80286 |
+i386 |
+i486DX |
+i486DX2 |
+DX4 |
+i486GX |
+i486SL/SL-NM |
+i486SX |
+i486SX2 |
+Overdrive-Versionen
+
+Pentium-Serie: 
+Desktop:
+Pentium (MMX) |
+Pentium II |
+Pentium III |
+Pentium 4 |
+Pentium 4 XE |
+Pentium D |
+Pentium XE |
+Pentium Dual-Core |
+Overdrive-Versionen  
+
+Mobil:
+Mobile Pentium 4 |
+Pentium M |
+Pentium Dual-Core  
+Server:
+Pentium Pro
+
+Atom-Serie: 
+Atom  
+
+Celeron-Serie: 
+Desktop:
+Celeron (P6) |
+Celeron (NetBurst) |
+Celeron D |
+Celeron (Core) |
+Celeron Dual-Core  
+Mobil:
+Mobile Celeron |
+Celeron M
+
+Core-Serie: 
+Core Solo |
+Core Duo |
+Core 2 |
+Intel-Core-i-Serie: Core i3, Core i5, Core i7 (Liste)
+
+Xeon-Serie: 
+Server:
+Xeon (P6) |
+Xeon (NetBurst) |
+Xeon (Core) |
+Xeon (Nehalem) |
+Xeon (Sandy Bridge) |
+Xeon (Ivy Bridge) |
+Xeon (Haswell) |
+Xeon (Broadwell) |
+Xeon (Skylake) |
+Xeon (Kaby Lake) |
+Xeon (Coffee Lake)
+
+x86-kompatible SoCs: Quark |
+Edison
+
+x86-Mikroarchitekturen:
+8086 |
+80186 |
+80286 |
+80386 |
+80486 |
+P5 |
+P6 |
+NetBurst |
+Core Solo/Core Duo |
+Core 2 |
+Nehalem/Westmere |
+Sandy Bridge/Ivy Bridge |
+Haswell |
+Broadwell |
+Skylake |
+Kaby Lake |
+Coffee Lake |
+Whiskey Lake |
+Cannon Lake |
+Ice Lake  •  
+Atom
+
+Non-x86-Mikroarchitekturen:
+Mikrocontroller: MCS-48 |
+MCS-51 |
+MCS-96  •  
+Server: Itanium |
+Itanium 2
+
+GPU-Mikroarchitekturen:
+Larrabee |
+Intel HD Graphics
+

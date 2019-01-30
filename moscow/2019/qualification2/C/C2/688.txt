@@ -1,0 +1,73 @@
+
+Améliorez sa vérifiabilité en les associant par des références à l'aide d'appels de notes.
+
+La photographie aérienne est un domaine vaste tant sur le plan de la variété des documents que des techniques employées.
+
+La première photographie aérienne date de 1858, elle est l'œuvre du photographe et aérostier Félix Nadar qui a pris un cliché du Petit-Bicêtre (actuel Petit-Clamart), au sud de Paris, à proximité de Bièvres depuis un ballon captif.
+
+En 1888, c'est la première photographie aérienne par cerf-volant (ou photo cervolisme) par Arthur Batut. Émile Wenz perfectionne le système trop tributaire des mouvements du cerf-volant. De nombreux systèmes apparaissent : déclenchement par fil, chariot pour monter la nacelle photo, etc.
+
+Au début du XXe siècle les militaires s'y intéressent : « L'aérophotométrie [...] est le nom qu'il convient de donner à la science nouvelle, laquelle consiste, dans une heureuse combinaison, de l'aérostation et de la photographie pour faire des levées [sic] topographiques extra rapides[1] ».
+
+Mais la photographie aérienne prend réellement son essor lors de la Première Guerre mondiale avec le développement combiné des ballons d'observation et de l'aéroplane, dopé par des besoins en renseignements militaires.
+
+C'est pendant cette période que Julius Neubronner développe la technique des pigeons photographes, cependant, après la guerre, l'intérêt n'y est plus, et malgré de nouveaux essais dans les années 1930, la méthode n'est plus utilisée qu'à petite échelle. En 1925 est pris le premier cliché photogrammétrique.
+
+La Seconde Guerre mondiale va déclencher un développement considérable de la photographie aérienne toujours sous l'impulsion des militaires.
+
+En 1946 a lieu le premier cliché spatial avec une fusée V2 qui monte à une altitude de 130 kilomètres, ce sont les débuts de la photographie spatiale qui ne sera effective qu'avec les premiers satellites dédiés. Cette dernière ne concurrence pas totalement la photographie aérienne mais la complète sauf peut-être dans le domaine du renseignement militaire.
+
+Des sociétés commerciales et des organismes d'État commandent des photographies de bâtiments industriels, de monuments, de villes ou de paysages, pour des usages variés, allant de la publicité aux études prospectives.
+Les États-Unis se prêtent également bien à ce style de photos, avec de grandes étendues et des constructions très géométriques.
+Il y eut même un intérêt particulier à la photographie aérienne impulsé par le géographe John Brinckerhoff Jackson autour de sa revue Landscape. Il s'est montré l'héritier de la géographie humaine française qui constitua le premier atlas aérien de son territoire. 
+
+Un travail documentaire pour le géographe, et de style documentaire pour ses acceptions esthétiques est très repérable chez Alex S. Maclean. Il travaille à des fins commerciales et juridiques sans renier l'aspect artistique d'une vue aérienne.
+Toujours aux États-Unis, grâce aux qualités heuristiques du médium photographique, l'artiste Ed Rusha va se réaproprier des photographies aériennes de parkings de Art Alanis pour créer un livre d'art contemporain (1967).
+On peut aussi rencontrer une approche artistique de la photographie aérienne avec par exemple l'ouvrage La Terre vue du ciel de Yann Arthus-Bertrand.
+
+Techniquement, il s'agit essentiellement de photographie oblique à basse altitude. Les appareils photographiques sont de divers types mais ont en commun un objectif lumineux et un temps de pose très court.
+
+Les moyens volants sont très divers : à côté des appareils d'aviation générale (comme les avions d'aéro-club) et les hélicoptères, on trouve également des ULM, et de plus en plus de paramoteurs. Pour des raisons de moindre coût et de conditions difficiles ou à l'étranger dans des pays sans une grosse infrastructure aéronautique, le ballon captif ou le cerf-volant reviennent sur le devant de la scène. L'avantage de la photographie aérienne sous ballon captif réside de plus dans l'immobilité de l'appareil (pas de translation et stabilisation gyroscopique), ce qui autorise un temps de pose plus long et élargit les possibilités de prises de vue. En revanche, l'altitude maximale est limitée à 150 mètres (500 pieds), limite basse de la zone de vol des avions et ULM. Pour les photographies aériennes à très basse altitude (30 mètres), il est possible d'utiliser un mât télescopique pneumatique.
+
+Le renseignement militaire se faisant bien souvent au-dessus du territoire « ennemi », l'aéronef que les militaires vont utiliser doit surtout pouvoir revenir entier de sa mission. Pour cela, les stratégies principales sont soit le vol à basse altitude à très grande vitesse soit le vol à très haute altitude. Selon le choix effectué, l'équipement photographique est très différent, pour pouvoir avoir des photos nettes dans le cas de la basse altitude où le paysage défile très vite ou pour pouvoir avoir des détails dans le cas de la haute altitude, d'où l'emploi alors de puissants téléobjectifs à très grande focale.
+
+Aux États-Unis, au moment de la Guerre froide, des avions spécifiques ont été développés, comme le U-2 ou le SR-71 Blackbird. Les autres pays déclinant leurs avions de chasse dans des versions « reconnaissance ». C'est le cas par exemple de la France qui a utilisé des versions de Mirage III (le Mirage IIIR), puis de Mirage F1CR, de Mirage 2000R et même dernièrement (2004) de Mirage IVP conçu initialement pour porter la bombe nucléaire. Ces avions peuvent voler à plus de Mach 2 à des altitudes de plus de 50 000 pieds (15,2 kilomètres).
+
+Les satellites d'observation militaire viennent concurrencer directement la photographie aérienne avec des précisions de plus en plus fines.
+
+Les drones sont également de plus en plus employés, permettant de limiter le risque de pertes humaines, et la transmission des photos et films par radio permet d'obtenir les résultats en temps réel.
+
+En France, la photographie aérienne civile est subordonnée à la possession d'une licence délivrée par le Ministère de l'Intérieur.
+
+La photographie aérienne a été, jusqu'aux dernières années, la seule base pour les cartes détaillées modernes que nous avons à notre disposition, avant d'être complétée par des images spatiales à petit pixel (en dessous du mètre, et jusqu'à 40 cm environ), disponibles depuis peu pour les applications civiles. Il s'agit de couvrir de vastes zones de territoires avec des images prises avec un axe vertical. Ces images aériennes sont souvent exploitées par photogrammétrie, afin de permettre la production de bases de données géographiques puis de cartes. Elles sont aussi employées après ortho-rectification et mosaïquage, on parle alors d'orthophotographies, désormais devenues des couches essentielles dans les systèmes d'information géographique.
+
+Les photographies aériennes ont pendant longtemps été disponibles seulement en noir et blanc, la couleur ne s'est généralisée qu'au cours des années 1990, ce qui permettait d'accentuer les contrastes et de faciliter l'interprétation par la méthode photogrammétrique tout en autorisant aussi la réalisation d'orthophotographies bien plus agréables à l'œil. L'emploi désormais de plus en plus systématique de caméras aériennes numériques s'accompagne maintenant de mesures sur 4 canaux (schématiquement : rouge, vert, bleu, proche infra-rouge). Le canal infra-rouge est très utile pour évaluer la vitalité de la végétation, et à ce titre est beaucoup employé pour aider à la gestion des arbres d'alignement dans les zones urbaines, en complément de ses usages traditionnels en agronomie et foresterie.
+
+Les avions sont spécifiques à ce genre de mission, avec un hublot spécial dans le plancher pour les chambres photographiques. Un pilotage précis est nécessaire pour garder une altitude constante et une route rectiligne, et ce guidage selon le plan de vol est maintenant essentiellement assuré grâce au GPS. En France, l'Institut national de l'information géographique et forestière a reçu de l'État la mission de photographier le pays entier sur un cycle de cinq années, et une bonne dizaine d'entreprises privées ont par ailleurs les moyens (avion, caméra numérique) de réaliser aussi de gros chantiers, la clientèle étant surtout issue des diverses collectivités territoriales.
+
+Un problème de plus en plus important rencontré actuellement en photographie aérienne est l'encombrement du ciel par le trafic aérien commercial, et le survol de certaines grandes villes est ainsi devenu de plus en plus problématique, pour des questions de sécurité.
+
+C'est en 1925, en Syrie, qu'un observateur aéronautique, Antoine Poidebard a remarqué qu'au soleil couchant, avec la lumière rasante, des reliefs infimes du sol apparaissaient. L'archéologie aérienne était née.
+Sous les latitudes européennes d'autres signes peuvent être utilisés, comme les couleurs différentes dans les champs, indiquant des fossés ou des trous de pieux, les anomalies de formes de relief ou encore des phénomènes liés à la température (neige, givre à certains endroits et pas à d'autres) permettant de repérer des sites anciens.
+En France les grandes figures de l'archéologie aérienne sont Jacques Dassié et Roger Agache. 
+En région Provence-Alpes-Côte d'Azur, Louis Monguilan, pilote-instructeur militaire d'hélicoptère, survole dès les années 1970 des sites antiques où il repère des villas, norias, voies, etc., et établit une typologie des circonstances favorables au repérage de structures enfouies (stades de la végétation, hygrométrie, lumière…). Toujours en Provence, Marc Heller (pilote ; ingénieur pour l'étude et la valorisation du patrimoine) associé aux photographes du Service régional de l'Archéologie : Christian Hussy et Michel Olive pratiquent la recherche la prospection archéologique aérienne ainsi que le suivi des chantiers de fouilles.
+
+L'appareil et la technique photographique pouvant être utilisés sont les mêmes que pour la photographie documentaire. Pour des raisons de confort et de vitesse, lorsque de larges parties de territoires doivent être scrutées, c'est l'avion ou l'ULM qui sont préférés. Pour le suivi des fouilles le photo cervolisme (photographie aérienne par cerf-volant) s'avère très utile car cette méthode permet d'obtenir à la fois des vues d'ensemble verticales ou obliques mais aussi des vues de détail de structures.
+
+Depuis le début du XXIe siècle, la photographie aérienne depuis des modèles réduits aériens prend un essor remarquable pour au moins deux raisons : le développement d'appareils photos numériques légers, petits et offrant de bonnes performances, avec de grandes capacités de stockage numérique à très faible coût, l'avènement de propulsions électriques performantes pour les drones avions ou hélicoptères (basées sur les moteurs sans balais), des batteries de plus en plus efficaces (comme celles de type Lithium-Polymère), et enfin des aides de navigation remarquablement industrialisées à très faible coût (GPS, gyroscopes, etc.). Ces nouvelles possibilités techniques permettent d'obtenir des ensembles de l'ordre de 800 g en ordre de vol, offrant une dizaine de minutes d'autonomie, relativement silencieux, aux capacités photographiques importantes ; tout ceci permettant une mise en œuvre depuis des zones urbaines (avec autorisations), se contentant d'aires de décollage et d'atterrissage exigües, ne générant qu'un niveau limité de nuisances, et ceci pour une dépense considérablement plus réduite qu'avec un véritable avion. Les développements récents de la reconnaissance militaire utilisant des drones ont été considérables, créant un marché très important dont le marché civil commence à bénéficier aussi.
+
+Certains pilotes équipent leur modèle d'une transmission HF vers le sol, permettant une prévisualisation d'image en direct, ce qui est une aide certaine lors du cadrage. D'autres préfèrent prendre un nombre important d'images « en aveugle », et faire le tri sur ordinateur. Il est également possible de réaliser des images vidéo de cette façon.
+
+La France s'est dotée d'une législation en mai 2012 qui encadre cette activité[2]. Elle oblige à posséder du matériel fiable et performant avec de nombreux systèmes de sécurité. La pratique de cette activité sans autorisation est illégale.
+
+Longtemps réservé aux ballons captifs, le marché de la photographie aérienne à basse altitude est maintenant convoité par des professionnels équipés de drones, plus faciles à mettre en œuvre qu'un ballon captif. Les retombés économiques de cette activité sont pour l'instant essentiellement limitées à la publicité immobilière, et à diverses recherches expérimentales (agronomie, géologie, archéologie, etc.). 
+
+Apparu dans les années 1980, le paramoteur ou parapente motorisé a été adopté par de nombreux photographes pour réaliser des  vues aériennes. Facilement transportable dans le coffre d'une voiture, cet aéronef peut décoller de n'importe quel champ dégagé. Sa faible vitesse d'évolution, 20 à 50 km/h et sa maniabilité permettent au pilote, assis dans sa sellette de réaliser lui-même les photographies à moindre coût par rapport aux autres techniques de vol motorisé. La photographie en paramoteur doit être réalisée par temps calme (moins de 25 km/h de vent) et ne permet pas le survol à basse altitude de zones urbaines. Le paramoteur permet de réaliser des prises de vue entre 150 et 1 500 mètres pour différents domaines tels que le tourisme, l'industrie, l'immobilier, l'aménagement du territoire, les systèmes d'information géographique (SIG).
+
+Il existe depuis 1999 un paramoteur télépiloté opérant de 0 à 150 m et préfigurant l'avenir des drones civils adaptés aux prises de vues aériennes.
+
+Le ballon captif moderne a été adopté par quelques photographes pour réaliser des  vues aériennes. Le dispositif, à la fois non-polluant et silencieux, se compose d’un ballon de diamètre et de forme variable, gonflé à l’hélium et équipé d’une nacelle sur laquelle repose un appareil photo numérique haute résolution. L’ensemble est dirigé du sol à l’aide d’une console dotée d’un écran de visualisation qui permet au photographe de composer l'image, les treuils électriques font évoluer le ballon et les commandes contrôlent la rotation, le zoom et le déclenchement de l’appareil photographique.
+
+La photographie aérienne par ballon captif doit être réalisée par temps calme (moins de 25 km/h de vent) et permet le survol à basse altitude de zones urbaines. Le ballon captif permet de réaliser des prises de vue entre 10 et 150 mètres.
+
+Sur les autres projets Wikimedia :

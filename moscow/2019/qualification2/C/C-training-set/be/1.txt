@@ -1,0 +1,379 @@
+
+Intel Corporation (вымаўляецца «Інтэл Карпэрэйшн») — амерыканская карпарацыя, якая вырабляе шырокі спектр электронных прылад і камп'ютарных кампанентаў, уключаючы мікрапрацэсары, наборы сістэмнай логікі (чыпсэты) і інш. Штаб-кватэра — у горадзе Санта-Клара, штат Каліфорнія, ЗША.
+
+4 біта:
+4004 •
+4040 •
+8 біт:
+8008 •
+8080 •
+8085 •
+x86-16 (16 біт):
+8086 •
+8088 •
+80186 •
+80188 •
+80286 •
+x86-32/IA-32 (32 біта):
+80386 •
+80486 •
+Pentium
+(OverDrive •
+Pro •
+II •
+II OverDrive •
+III •
+4 •
+M) •
+Celeron
+(M •
+D) •
+Core •
+Intel A100/A110 •
+x86-64/EM64T (64 біта):
+Pentium 4 (некаторыя) •
+Pentium D •
+Pentium EE •
+Celeron D (некаторыя) •
+IA-64 (64 біта):
+Itanium •
+Іншыя:
+iAPX 432 •
+RISC:
+i860 •
+i960 •
+StrongARM •
+XScale
+
+x86-32:
+EP80579 •
+Intel CE •
+Atom •
+x86-64:
+Atom (некаторыя) •
+Celeron •
+Pentium Dual-Core •
+Core
+(2
+(Solo •
+Duo •
+Quad •
+Extreme) •
+i3 •
+i5 •
+i7) •
+Xeon •
+Іншыя: Itanium 2/Itanium 9300
+
+Раздым працэсара •
+Тыпы карпусоў •
+Кодавыя імёны •
+Чыпсеты •
+Будучыя працэсары •
+Па маркам:
+Atom •
+Celeron •
+Pentium
+(II •
+III •
+M •
+4 •
+D и EE •
+Dual-Core і наступныя) •
+Core
+(2 •
+i3 •
+i5 •
+i7) •
+Xeon •
+Itanium
+
+0,90 мкм: P5 •
+0,60 мкм: P54C •
+0,35 мкм:
+P54CS •
+P55C •
+0,25 мкм: Tillamook
+
+0,50 мкм: P6 •
+0,35 мкм: Klamath •
+0,25 мкм:
+Mendocino •
+Dixon •
+Tonga •
+Covington •
+Deschutes •
+Katmai •
+Drake •
+Tanner •
+180 нм:
+Coppermine •
+Coppermine T •
+Cascades •
+130 нм:
+Tualatin •
+Banias •
+90 нм:
+Dothan •
+Stealey •
+65 нм:
+Tolapai •
+Yonah •
+Sossaman
+
+180 нм:
+Willamette •
+Foster •
+130 нм:
+Northwood •
+Gallatin •
+Prestonia •
+90 нм:
+Tejas і Jayhawk •
+Prescott •
+Smithfield •
+Nocona •
+Irwindale •
+Cranford •
+Potomac •
+Paxville •
+65 нм:
+Cedar Mill •
+Presler •
+Dempsey •
+Tulsa
+
+65 нм:
+Merom-L •
+Merom •
+Conroe-L •
+Allendale •
+Conroe •
+Kentsfield •
+Woodcrest •
+Clovertown •
+Tigerton •
+45 нм:
+Penryn •
+Penryn-QC •
+Wolfdale •
+Yorkfield •
+Wolfdale-DP •
+Harpertown •
+Dunnington
+
+45 нм:
+Silverthorne •
+Diamondville •
+Pineview •
+Lincroft
+
+45 нм:
+Clarksfield •
+Lynnfield •
+Jasper Forest •
+Bloomfield •
+Gainestown (Nehalem-EP) •
+Beckton (Nehalem-EX) •
+32 нм (Westmere):
+Arrandale •
+Clarkdale •
+Gulftown (Westmere-EP)
+
+32 нм: Sandy Bridge •
+22 нм: Ivy Bridge
+
+Larrabee •
+Haswell •
+Broadwell •
+Rockwell •
+Atom
+(Saltwell •
+Silvermont •
+Airmont)
+
+3M •
+Alcoa •
+American Express •
+AT&T •
+Bank of America •
+Boeing •
+Caterpillar •
+Chevron •
+Cisco Systems •
+Coca-Cola •
+DuPont •
+ExxonMobil •
+General Electric •
+Hewlett-Packard •
+Home Depot •
+Intel •
+IBM •
+Johnson & Johnson •
+JPMorgan Chase •
+Kraft Foods •
+McDonald’s •
+Merck & Co. •
+Microsoft •
+Pfizer •
+Procter & Gamble •
+The Travelers Companies •
+United Technologies •
+Verizon Communications •
+Wal-Mart •
+Walt Disney
+
+Activision Blizzard ·
+Adobe Systems Incorporated ·
+Akamai Technologies, Inc. ·
+Altera Corporation ·
+Amazon.com, Inc. ·
+Amgen Inc. ·
+Apollo Group, Inc. ·
+Apple Inc. ·
+Applied Materials, Inc. ·
+Autodesk, Inc. ·
+Automatic Data Processing, Inc. ·
+Baidu.com, Inc. ·
+Bed Bath & Beyond Inc. ·
+Biogen Idec Inc ·
+Broadcom Corporation ·
+C.H. Robinson Worldwide, Inc. ·
+CA, Inc. ·
+Celgene Corporation ·
+Cephalon, Inc. ·
+Cerner Corporation (CERN)
+Check Point Software Technologies Ltd. ·
+Cintas Corporation ·
+Cisco Systems, Inc. ·
+Citrix Systems, Inc. ·
+Cognizant Technology Solutions Corporation ·
+Comcast Corporation ·
+Costco Wholesale Corporation ·
+Dell Inc. ·
+DENTSPLY International Inc. ·
+DISH Network Corporation ·
+eBay Inc. ·
+Electronic Arts Inc. ·
+Expedia, Inc. ·
+Expeditors International of Washington, Inc. ·
+Express Scripts, Inc. ·
+Fastenal Company ·
+First Solar, Inc. ·
+Fiserv, Inc. ·
+Flextronics International Ltd. ·
+FLIR Systems, Inc. ·
+Foster Wheeler Corporation ·
+Garmin Ltd. ·
+Genzyme Corporation ·
+Gilead Sciences, Inc. ·
+Google Inc. ·
+Hansen Natural Corporation ·
+Henry Schein, Inc. ·
+Hologic, Inc. ·
+InterActiveCorp ·
+Illumina, Inc. ·
+Infosys Technologies ·
+Intel Corporation ·
+Intuit, Inc. ·
+Intuitive Surgical Inc. ·
+J.B. Hunt Transport Services ·
+Joy Global Inc. ·
+Juniper Networks, Inc. ·
+KLA-Tencor Corporation ·
+Lam Research Corporation ·
+Liberty Global, Inc. ·
+Liberty Media Corporation, Interactive Series A ·
+Life Technologies Corporation ·
+Linear Technology Corporation ·
+Logitech International, SA ·
+Marvell Technology Group, Ltd. ·
+Maxim Integrated Products ·
+Microchip Technology Incorporated ·
+Microsoft Corporation ·
+Millicom International Cellular S.A. ·
+NetApp, Inc. ·
+News Corporation, Ltd. ·
+NII Holdings, Inc. ·
+NVIDIA Corporation ·
+O’Reilly Automotive, Inc. ·
+Oracle Corporation ·
+PACCAR Inc. ·
+Patterson Companies Inc. ·
+Paychex, Inc. ·
+Pharmaceutical Product Development, Inc. ·
+QUALCOMM Incorporated ·
+Research in Motion Limited ·
+Ross Stores, Inc. ·
+Ryanair Holdings, PLC ·
+Seagate Technology Holdings ·
+Sears Holdings Corporation ·
+Sigma-Aldrich Corporation ·
+Staples, Inc. ·
+Starbucks Corporation ·
+Steel Dynamics, Inc. ·
+Stericycle, Inc ·
+Symantec Corporation ·
+Teva Pharmaceutical Industries Ltd. ·
+The DIRECTV Group, Inc. ·
+Urban Outfitters, Inc. ·
+VeriSign, Inc. ·
+Vertex Pharmaceuticals ·
+Warner Chilcott, Ltd. ·
+Wynn Resorts Ltd. ·
+Xilinx, Inc. ·
+Yahoo! Inc.
+
+Abbott Laboratories ·
+Allianz ·
+Apple ·
+AT&T ·
+Banco Santander ·
+Bank of America ·
+BHP Billiton ·
+BNP Paribas ·
+BP ·
+Chevron ·
+Cisco Systems ·
+Coca-Cola ·
+ConocoPhillips ·
+E.ON ·
+Eni ·
+Exxon Mobil ·
+France Télécom ·
+General Electric ·
+GlaxoSmithKline ·
+Google ·
+Hewlett-Packard ·
+HSBC ·
+IBM ·
+Intel ·
+Johnson & Johnson ·
+JPMorgan Chase ·
+Merck & Co. ·
+Microsoft ·
+Mitsubishi UFJ Financial Group ·
+Nestlé ·
+Nokia ·
+Novartis ·
+Oracle ·
+PepsiCo ·
+Petrobras ·
+Pfizer ·
+Philip Morris International ·
+Procter & Gamble ·
+Roche ·
+Royal Dutch Shell ·
+Samsung Electronics ·
+Sanofi-Aventis ·
+Schlumberger ·
+Siemens ·
+Telefónica ·
+Total ·
+Toyota ·
+Verizon Communications ·
+Vodafone ·
+Wal-Mart
+
+Шаблон:PHLX Semiconductor Sector
+

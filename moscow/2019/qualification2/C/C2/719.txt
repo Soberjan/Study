@@ -1,0 +1,20 @@
+
+Il Dolby Surround Pro Logic, spesso abbreviato in Dolby Pro Logic, è un decoder/processore audio sviluppato dalla Dolby Laboratories. Appartiene alla famiglia di decoder/processori audio Pro Logic sviluppata dalla Dolby Laboratories per l'home theater e alla quale appartengono anche i decoder/processori Dolby Surround Pro Logic II e Dolby Surround Pro Logic IIx. Introdotto sul mercato nel 1987, è il primo di tale famiglia ad essere stato sviluppato ed è il meno potente.
+
+Per segnalare che un apparecchio, o un dispositivo, elettronico, ad esempio un amplificatore audio, è dotato di decoder/processore Dolby Surround Pro Logic viene apposto esternamente il logo del Dolby Surround Pro Logic. 
+
+Il decoder/processore Dolby Surround Pro Logic, oltre che decodificare l'audio Dolby Surround, è in grado di decodificare l'audio Dolby Surround Pro Logic II in quanto evoluzione retrocompatibile dell'audio Dolby Surround. Il decoder/processore Dolby Surround Pro Logic è inoltre in grado di elaborare l'audio stereofonico. 
+
+Essendo il Dolby Surround derivato dal Dolby Stereo, un decoder/processore Dolby Surround Pro Logic è anche in grado, come il decoder Dolby Surround, di decodificare l'audio Dolby Stereo, con qualità audio inferiore a quella permessa però da tale standard. Tutto ciò è valido anche per l'audio Dolby Stereo Spectral Recording, evoluzione retrocompatibile dell'audio Dolby Stereo.
+
+Ci si può trovare nella condizione di riprodurre l'audio Dolby Stereo o Dolby Stereo Spectral Recording quando un film uscito al cinema in tali standard audio (la maggior parte dei film prodotti negli ultimi decenni) viene trasmesso in televisione. La trasmissione deve essere però stereofonica e l'apparecchio televisivo ricevente in grado di riceverla in stereofonia e non in monofonia (per quanto riguarda la televisione digitale tutti gli standard di televisione digitale prevedono l'audio stereofonico quindi tutti gli apparecchi televisivi compatibili con la televisione digitale sono compatibili con l'audio stereofonico, per quanto riguarda invece la televisione analogica l'audio stereofonico è un'opzione, è quindi necessario verificare che il proprio apparecchio televisivo sia compatibile con tale standard opzionale che in Italia è l'A2). Anche l'audio Dolby Stereo e Dolby Stereo Spectral Recording infatti si presentano come audio stereofonico e, come l'audio Dolby Surround e Dolby Surround Pro Logic II, per poter essere decodificati devono presentarsi come audio stereofonico, se sono missati in audio monofonico non sono più decodificabili come audio Dolby Stereo e Dolby Stereo Spectral Recording.
+
+Inoltre i film usciti al cinema con audio Dolby Stereo o Dolby Stereo Spectral Recording in realtà sono pubblicati in home video in tali standard audio e non in Dolby Surround come invece viene normalmente indicato sulla copertina della pubblicazione. L'audio Dolby Stereo e Dolby Stereo Spectral Recording si possono quindi trovare in pubblicazioni home video in standard VHS, S-VHS e LaserDisc come audio stereofonico analogico, in standard Video CD come audio stereofonico
+MPEG-1 Audio Layer II, e in standard DVD-Video quasi sempre come audio stereofonico Dolby Digital.
+
+La seguente tabella riassume come vengono decodificati e/o elaborati da un decoder/processore Dolby Surround Pro Logic i vari standard audio che è in grado di decodificare e/o elaborare:
+
+Come si può vedere dalla tabella l'unico caso in cui il decoder/processore Dolby Surround Pro Logic si comporta da processore audio è con l'audio stereofonico, creando un canale anteriore centrale. Con l'audio Dolby Surround Pro Logic II perde invece le informazioni sonore dei canali posteriore sinistro e posteriore destro unendole in un unico canale posteriore in quanto non in grado di decodificare tali canali audio.
+
+Normalmente gli apparecchi, o dispositivi, elettronici dotati di decoder/processore Dolby Surround Pro Logic duplicano il canale posteriore in modo che sia riprodotto da una coppia di diffusori audio, e creano anche un canale LFE. Tali elaborazioni audio non appartengono però al decoder/processore Dolby Surround Pro Logic.
+

@@ -1,0 +1,135 @@
+
+Vous pouvez partager vos connaissances en l’améliorant (comment ?) selon les recommandations des projets correspondants.
+
+Une base forte est une base qui se dissocie totalement au cours de sa réaction avec l'eau.
+
+Souvent, les bases fortes sont des oxydes métalliques et des hydroxydes métalliques et surtout des oxydes et hydroxydes des métaux alcalins et des métaux alcalino-terreux suivants[1] :
+
+Un autre exemple de base forte : l'ion amidure (NH2−).
+
+Lorsqu'une base quelconque B est mise en présence d'eau, la réaction suivante a lieu :
+
+Il y a transfert d'un proton 
+
+
+
+
+
+
+H
+
++
+
+
+
+
+
+
+{\displaystyle {\rm {H^{+}}}}
+
+ d'une molécule 
+
+
+
+
+
+
+H
+
+2
+
+
+O
+
+
+
+
+{\displaystyle {\rm {H_{2}O}}}
+
+ sur l'espèce chimique 
+
+
+
+
+
+B
+
+
+
+
+{\displaystyle {\rm {B}}}
+
+. La réaction peut se scinder en :
+
+Or, si la base B est forte – et c'est ce qui fait la spécificité de ce type de base –, cette réaction est totale : tous les réactifs sont consommés lors de la réaction, et celle-ci est donc quantitative. Lorsqu'une base forte B est mise en présence d'eau, une mole de base forte entraîne toujours la libération d'une mole d'ion hydroxyde.
+
+Les oxydes métalliques contiennent les ions oxyde 
+
+
+
+
+
+
+O
+
+2
+−
+
+
+
+
+
+
+{\displaystyle {\rm {O^{2-}}}}
+
+. L'ion oxyde est une base forte, il réagit totalement avec l'eau pour donner des ions hydroxyde 
+
+
+
+
+
+O
+
+H
+
+−
+
+
+
+
+
+
+{\displaystyle {\rm {OH^{-}}}}
+
+[1],[2] :
+
+Comme précédemment, la réaction peut se scinder en[2] :
+
+Avec les hydroxydes métalliques (
+
+
+
+
+M
+
+(
+
+O
+
+
+H
+
+
+)
+
+n
+
+
+
+
+{\displaystyle \mathrm {M} (\mathrm {O} \mathrm {H} )_{n}}
+
+), la réaction suivante a lieu :
+
+Une base forte est un composé chimique qui a une très forte affinité pour le proton H+. Dans un couple acide/base, une base forte est associée à un acide de force nulle. Une base forte, après avoir capté un proton H+, se transforme en un acide de force nulle. Un tel couple est caractérisé, en solution aqueuse, par un pKa supérieur à 14.
+
