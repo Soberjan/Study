@@ -1,9 +1,10 @@
 #include <cstdio>
 #include <iostream>
 #include <cstring>
+#include <string>
 using namespace std;
 
-char* minint(char l[100], char r[100]){
+string minint(string l, string r){
     bool ms1 = 0, ms2 = 0;
     ms1 = l[0] == '-' ? 1 : 0;
     ms2 = r[0] == '-' ? 1 : 0;
@@ -18,24 +19,25 @@ char* minint(char l[100], char r[100]){
     return (int)strlen(l) < (int)strlen(l) ? l : r;
 }
 
-char* min (char l[100], char r[100]){
-    int dot = 0, alp = 0;
-    for (int i = 0; i < (int)strlen(l); i++){
-        dot = dot || (l[i] == '.');
+string d;
+string min (string l, string r){
+    bool alp = 0;
+    for (unsigned int i = 0; i < d.size(); i++)
         alp = alp || (isalpha(l[i]));
-    }
+
     if (alp)
-        return (strcmp(l, r) < 0) ? l : r;
-    if (!dot)
-        return (minint(l, r));
+        return strcmp(l, r) < 0 ? l : r;
+
+    if (l.find('.') == npos)
+        return minint(l, r);
 
 }
 
 int main(){
     //freopen("tests/01", "r", stdin);
-    char a[100], b[100], c[100];
+    string a, b, c;
     while (cin >> a >> b >> c){
-        cout << a << " " << b << " " << c << "\n";
+        d = a + b + c;
         cout << min(min(a, b), c);
     }
 
