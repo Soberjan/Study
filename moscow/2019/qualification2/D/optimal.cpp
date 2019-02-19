@@ -6,7 +6,7 @@ int a[100000000], n, k;
 
 int main()
 {
-    //freopen("tests/03", "r", stdin);
+    freopen("tests/00", "r", stdin);
     cin >> n >> k;
     for (int i = 0; i < n; i++)
         cin >> a[i];
