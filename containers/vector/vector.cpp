@@ -34,6 +34,6 @@ int main()
     v.change(0, 123123);
     for (int i = 0; i < 130; i++)
         cout << v.get_value(i) << " ";
-    cout << "\n" << v.size << " " << v.capacity;
+    cout << "\n" << v.size << " " << v.capacity; //провер€ю, правильно ли расшир€етс€ вектор на больших значыени€х
     return 0;
 }
