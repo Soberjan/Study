@@ -9,12 +9,13 @@ struct MyVector{
         if (size < capacity)
             a[size++] = i;
         else if (size == capacity){
+            capacity *= 2;
             int *b = new int[capacity];
             memcpy(b, a, 4 * capacity);
-            capacity *= 2;
-            delete[] a;
-            a = new int[capacity];
-            memcpy(a, b, 4 * capacity);
+            int *f = a;
+            a = b;
+            b = f;
+            delete[] b;
             a[size++] = i;
         }
     }
@@ -34,6 +35,6 @@ int main()
     v.change(0, 123123);
     for (int i = 0; i < 130; i++)
         cout << v.get_value(i) << " ";
-    cout << "\n" << v.size << " " << v.capacity; //провер€ю, правильно ли расшир€етс€ вектор на больших значыени€х
+    cout << "\n" << v.size << " " << v.capacity;
     return 0;
 }
