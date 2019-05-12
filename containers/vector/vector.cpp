@@ -5,6 +5,8 @@ using namespace std;
 struct MyVector{
     int size = 0, capacity = 4;
     int *a = new int[capacity];
+    int* begin(){ return &a[0]; }
+    int* end() { return &a[size]; }
     void push_back(int i){
         if (size < capacity)
             a[size++] = i;
@@ -19,12 +21,9 @@ struct MyVector{
             a[size++] = i;
         }
     }
-    void change(int id, int value){
-        a[id] = value;
-    }
-    int get_value(int id){
-        return a[id];
-    }
+
+    void change(int id, int value){ a[id] = value; }
+    int get_value(int id){ return a[id]; }
 };
 
 int main()
@@ -33,8 +32,8 @@ int main()
     for (int i = 0; i < 130; i++)
         v.push_back(i);
     v.change(0, 123123);
-    for (int i = 0; i < 130; i++)
-        cout << v.get_value(i) << " ";
+    for (int *it = v.begin(); it < v.end(); it++)
+        cout << *it << " ";
     cout << "\n" << v.size << " " << v.capacity;
     return 0;
 }
