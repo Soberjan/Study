@@ -3,10 +3,21 @@
 using namespace std;
 
 struct MyVector{
+    struct iterator {
+        int *p;
+    };
     int size = 0, capacity = 4;
     int *a = new int[capacity];
-    int* begin(){ return &a[0]; }
-    int* end() { return &a[size]; }
+    iterator begin(){
+        iterator it;
+        it.p = a;
+        return it;
+    }
+    iterator end(){
+        iterator it;
+        it.p = a + size;
+        return it;
+    }
     void push_back(int i){
         if (size < capacity)
             a[size++] = i;
@@ -32,7 +43,7 @@ int main()
     for (int i = 0; i < 130; i++)
         v.push_back(i);
     v.change(0, 123123);
-    for (int *it = v.begin(); it < v.end(); it++)
+    for (MyVector::iterator it = v.begin(); it < v.end(); ++it)
         cout << *it << " ";
     cout << "\n" << v.size << " " << v.capacity;
     return 0;
