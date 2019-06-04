@@ -3,17 +3,27 @@
 using namespace std;
 
 struct MyVector{
-    struct iterator {
+    struct iterator{
         int *p;
+        bool operator!=(iterator& it){
+            return (&p != &it.p);
+        }
+        bool operator*(){
+            return *p;
+        }
+        iterator& operator++(){
+            p++;
+            return *this;
+        }
     };
     int size = 0, capacity = 4;
     int *a = new int[capacity];
-    iterator begin(){
+    iterator& begin(){
         iterator it;
         it.p = a;
         return it;
     }
-    iterator end(){
+    iterator& end(){
         iterator it;
         it.p = a + size;
         return it;
@@ -32,9 +42,13 @@ struct MyVector{
             a[size++] = i;
         }
     }
-
     void change(int id, int value){ a[id] = value; }
     int get_value(int id){ return a[id]; }
+
+    int* operator[](int id){
+        int *q = a + id;
+        return q;
+    }
 };
 
 int main()
@@ -43,7 +57,7 @@ int main()
     for (int i = 0; i < 130; i++)
         v.push_back(i);
     v.change(0, 123123);
-    for (MyVector::iterator it = v.begin(); it < v.end(); ++it)
+    for (MyVector::iterator it = v.begin(); it != v.end(); ++it)
         cout << *it << " ";
     cout << "\n" << v.size << " " << v.capacity;
     return 0;
