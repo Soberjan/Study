@@ -5,25 +5,25 @@ using namespace std;
 struct MyVector{
     struct iterator{
         int *p;
-        bool operator!=(iterator& it){
-            return (&p != &it.p);
-        }
-        bool operator*(){
-            return *p;
-        }
-        iterator& operator++(){
-            p++;
-            return *this;
-        }
     };
+    bool operator!=(iterator& it){
+        return (&iterator.p != &it.p);
+    }
+    bool operator*(){
+        return *iterator.p;
+    }
+    iterator& operator++(){
+        iterator.p++;
+        return *this;
+    }
     int size = 0, capacity = 4;
     int *a = new int[capacity];
-    iterator& begin(){
+    iterator begin(){
         iterator it;
         it.p = a;
         return it;
     }
-    iterator& end(){
+    iterator end(){
         iterator it;
         it.p = a + size;
         return it;
