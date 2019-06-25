@@ -6,7 +6,7 @@ int n, k, *a = new int [100000];
 
 int main()
 {
-    freopen("tests/01", "r", stdin);
+   // freopen("tests/01", "r", stdin);
     cin >> n >> k;
     int *b = new int [n - k + 1];
     for (int i = 0; i < n; i++)

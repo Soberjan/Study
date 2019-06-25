@@ -6,16 +6,6 @@ struct MyVector{
     struct iterator{
         int *p;
     };
-    bool operator!=(iterator& it){
-        return (&iterator.p != &it.p);
-    }
-    bool operator*(){
-        return *iterator.p;
-    }
-    iterator& operator++(){
-        iterator.p++;
-        return *this;
-    }
     int size = 0, capacity = 4;
     int *a = new int[capacity];
     iterator begin(){
@@ -50,6 +40,17 @@ struct MyVector{
         return q;
     }
 };
+
+bool operator!=(MyVector::iterator l, MyVector::iterator r){
+    return l.p != r.p;
+}
+int operator*(MyVector::iterator& l){
+    return *l.p;
+}
+MyVector::iterator& operator++(MyVector::iterator& l){
+    l.p++;
+    return l;
+}
 
 int main()
 {
