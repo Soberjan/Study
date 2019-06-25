@@ -20,14 +20,14 @@ int* optimal(){
         c[i] = tmp[k/2];
         print(tmp, k);
         int *idx = lower_bound(tmp, tmp + k, a[fst]);
-        cout << a[fst];
-        cout << idx;
-        for (int* j = idx + 1; j < k; j++)
-            tmp[j - 1] = tmp[j];
+        cout << *idx;
+        for (int* j = idx + 1; j != tmp + k; j++)
+            *(j - 1) = *j;
         idx = lower_bound(tmp, tmp + k, a[lst]);
-        for (int j = *idx + 1; j < k - 1; j++)
-            tmp[j + 1] = tmp[j];
-        tmp[*idx] = a[lst];
+        cout << *idx;
+        for (int* j = idx + 1; j != tmp + k; j++)
+            *(j + 1) = *j;
+        *idx = a[lst];
     }
     return c;
 }
