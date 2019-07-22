@@ -4,26 +4,24 @@ using namespace std;
 
 template <typename T>
 struct MyVector{
-    int size = 0, capacity = 0;
+    int size, capacity;
     T *a = new T[capacity];
     struct iterator{
         T *p;
+        iterator(int add = 0){ p = a + add; }
         bool operator!=(MyVector::iterator r){ return p != r.p; }
         T operator*(){ return *p; }
         MyVector::iterator operator++(){ p++; return *this; }
     };
-    MyVector(){
-        size = 0;
-        capacity = 4;
-    }
+
+    MyVector(): size(0), capacity(2){}
+
     iterator begin(){
         iterator it;
-        it.p = a;
         return it;
     }
     iterator end(){
-        iterator it;
-        it.p = a + size;
+        iterator it(size);
         return it;
     }
     void push_back(T i){
@@ -38,23 +36,10 @@ struct MyVector{
             a[size++] = i;
         }
     }
-    int get_value(int id){ return a[id]; }
-
     T& operator[](int id){
         return *(a + id);
     }
 };
-
-//template<class T> bool operator!=(MyVector::iterator l, MyVector::iterator r){
-//    return l.p != r.p;
-//}
-//template<class T> T operator*(MyVector::iterator& l){
-//    return *l.p;
-//}
-//MyVector::iterator& operator++(MyVector::iterator& l){
-//    l.p++;
-//    return l;
-//}
 
 int main()
 {
