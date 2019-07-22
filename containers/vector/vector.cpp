@@ -2,12 +2,20 @@
 #include <cstring>
 using namespace std;
 
+template <typename T>
 struct MyVector{
+    int size = 0, capacity = 0;
+    T *a = new T[capacity];
     struct iterator{
-        int *p;
+        T *p;
+        bool operator!=(MyVector::iterator r){ return p != r.p; }
+        T operator*(){ return *p; }
+        MyVector::iterator operator++(){ p++; return *this; }
     };
-    int size = 0, capacity = 4;
-    int *a = new int[capacity];
+    MyVector(){
+        size = 0;
+        capacity = 4;
+    }
     iterator begin(){
         iterator it;
         it.p = a;
@@ -18,47 +26,43 @@ struct MyVector{
         it.p = a + size;
         return it;
     }
-    void push_back(int i){
+    void push_back(T i){
         if (size < capacity)
             a[size++] = i;
         else if (size == capacity){
             capacity *= 2;
-            int *b = new int[capacity];
+            T *b = new T[capacity];
             memcpy(b, a, 4 * capacity);
-            int *f = a;
+            delete[] a;
             a = b;
-            b = f;
-            delete[] b;
             a[size++] = i;
         }
     }
-    void change(int id, int value){ a[id] = value; }
     int get_value(int id){ return a[id]; }
 
-    int* operator[](int id){
-        int *q = a + id;
-        return q;
+    T& operator[](int id){
+        return *(a + id);
     }
 };
 
-bool operator!=(MyVector::iterator l, MyVector::iterator r){
-    return l.p != r.p;
-}
-int operator*(MyVector::iterator& l){
-    return *l.p;
-}
-MyVector::iterator& operator++(MyVector::iterator& l){
-    l.p++;
-    return l;
-}
+//template<class T> bool operator!=(MyVector::iterator l, MyVector::iterator r){
+//    return l.p != r.p;
+//}
+//template<class T> T operator*(MyVector::iterator& l){
+//    return *l.p;
+//}
+//MyVector::iterator& operator++(MyVector::iterator& l){
+//    l.p++;
+//    return l;
+//}
 
 int main()
 {
-    MyVector v;
+    MyVector<int> v;
     for (int i = 0; i < 130; i++)
         v.push_back(i);
-    v.change(0, 123123);
-    for (MyVector::iterator it = v.begin(); it != v.end(); ++it)
+    v[0] = 123123;
+    for (MyVector<int>::iterator it = v.begin(); it != v.end(); ++it)
         cout << *it << " ";
     cout << "\n" << v.size << " " << v.capacity;
     return 0;
