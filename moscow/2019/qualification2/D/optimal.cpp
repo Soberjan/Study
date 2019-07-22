@@ -16,18 +16,24 @@ int* optimal(){
     memcpy(tmp, a, 4 * k);
     sort(tmp, tmp + k);
     int fst = 0, lst = k;
-    for (int i = 0; i < n - k + 1; i++){
+    for (int i = 0; i < n - k + 1; fst++, lst++, i++){
         c[i] = tmp[k/2];
         print(tmp, k);
         int *idx = lower_bound(tmp, tmp + k, a[fst]);
-        cout << *idx;
+        cout << *idx << "\n";
         for (int* j = idx + 1; j != tmp + k; j++)
             *(j - 1) = *j;
+        print(tmp, k);
         idx = lower_bound(tmp, tmp + k, a[lst]);
-        cout << *idx;
-        for (int* j = idx + 1; j != tmp + k; j++)
-            *(j + 1) = *j;
+        cout << *idx << "\n";
+        for (int* j = idx + 1, t = *idx; j != tmp + k; j++){
+            int t1
+            t = *j;
+            *j =
+        }
+        print(tmp, k);
         *idx = a[lst];
+        print(tmp, k);
     }
     return c;
 }
