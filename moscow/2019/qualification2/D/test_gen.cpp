@@ -8,7 +8,7 @@ const int VLIM = 30;
 
 int main(int c, char* v[])
 {
-    srand(int(v[1]) + time(0));
+    srand(atoi(v[1]) + time(0));
     int n = NLIM - rand() % (NLIM / 2);
     int k = rand() % (n / 2) + 2;
     cout << n << " " << k << "\n";
