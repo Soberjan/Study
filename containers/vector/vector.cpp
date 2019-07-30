@@ -8,20 +8,21 @@ struct MyVector{
     T *a = new T[capacity];
     struct iterator{
         T *p;
-        iterator(int add = 0){ p = a + add; }
+        iterator(int *a, int add = 0){ p = a + add; }
         bool operator!=(MyVector::iterator r){ return p != r.p; }
         T operator*(){ return *p; }
         MyVector::iterator operator++(){ p++; return *this; }
     };
 
     MyVector(): size(0), capacity(2){}
+    MyVector(int n): size(0), capacity(n){}
 
     iterator begin(){
-        iterator it;
+        iterator it(a, 0);
         return it;
     }
     iterator end(){
-        iterator it(size);
+        iterator it(a, size);
         return it;
     }
     void push_back(T i){
@@ -43,7 +44,7 @@ struct MyVector{
 
 int main()
 {
-    MyVector<int> v;
+    MyVector<int> v(16);
     for (int i = 0; i < 130; i++)
         v.push_back(i);
     v[0] = 123123;
