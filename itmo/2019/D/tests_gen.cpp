@@ -2,17 +2,16 @@
 #include <time.h>
 using namespace std;
 
-const int NLIM = 15;
-const int VLIM = 20;
-int n, *a = new int [100000];
-
-int main(){
-    srand(time(0));
-    
-    int b = rand()%15000;
-    int a = rand()%b;
-    int c = rand()%100;
-    cout << a << endl << b << endl << c << endl;
-
+int main(int c, char** v){
+//    srand(atoi(v[1]) + time(0));
+//    int n = rand() % atoi(v[2]) + 1, m = rand() % atoi(v[3]) + 1, p = rand() % atoi(v[4]) + 10;
+//    printf("%d %d %d\n", n, m, p);
+//    for (int i = 0; i < n; i++){
+//        for (int j = 0; j < m; j++)
+//            printf("%3d", rand() % p);
+//    printf("\n");
+//    }
+    for (int i = 10; i <= 100; i++)
+        cout << i * 11 << " ";
     return 0;
     }

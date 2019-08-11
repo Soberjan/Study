@@ -3,16 +3,12 @@
 #include <time.h>
 using namespace std;
 
-const int NLIM = 50;
-const int VLIM = 30;
-
-int main(int c, char* v[])
-{
+int main(int c, char** v){
     srand(atoi(v[1]) + time(0));
-    int n = NLIM - rand() % (NLIM / 2);
-    int k = rand() % (n / 2) + 2;
+    int n = atoi(v[2]);
+    int k = atoi(v[3]);
     cout << n << " " << k << "\n";
     for (int i = 0; i < n; i++)
-        cout << rand() % VLIM + 1 << " ";
+        cout << rand() % atoi(v[4]) + 1 << " ";
     return 0;
 }
