@@ -3,7 +3,7 @@
 using namespace std;
 
 template <typename T>
-struct rbbst{
+struct bst{
     struct node{
         node *left_child = nullptr, *right_child = nullptr, *parent = nullptr;
         T key;
@@ -12,12 +12,12 @@ struct rbbst{
     };
     node *root, *nil = new node;
 
-    rbbst(T a = 10){
+    bst(T a = 10){
         node* n = new node(a);
         n->left_child = n->right_child = n->parent = nil;
         root = n;
     }
-    rbbst (int *a, int m) : rbbst(a[0]){
+    bst (int *a, int m) : bst(a[0]){
         for (int i = 1; i < m; i++)
             insert(a[i]);
     }
@@ -252,7 +252,7 @@ struct rbbst{
     }
 };
 
-void print(rbbst<int> t, rbbst<int>::node* n){
+void print(bst<int> t, bst<int>::node* n){
     if (n->left_child != t.nil)
         print(t, n->left_child);
     cout << n->key << " ";
@@ -262,7 +262,7 @@ void print(rbbst<int> t, rbbst<int>::node* n){
 
 int main(){
     int a[10] = {34, 2, 5, 8, 91, 5, 54, 27, 9, 5};
-    rbbst<int> b(a, 10);
+    bst<int> b(a, 10);
     b.delete_node(34);
     print(b, b.root);
     return 0;
