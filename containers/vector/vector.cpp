@@ -25,16 +25,25 @@ struct MyVector{
         iterator it(a, size);
         return it;
     }
+    void reloc(){
+        T *b = new T[capacity];
+        memcpy(b, a, sizeof(T) * capacity);
+        delete[] a;
+        a = b;
+    }
     void push_back(T i){
         if (size < capacity)
             a[size++] = i;
         else if (size == capacity){
             capacity *= 2;
-            T *b = new T[capacity];
-            memcpy(b, a, 4 * capacity);
-            delete[] a;
-            a = b;
+            reloc();
             a[size++] = i;
+        }
+    }
+    void pop_back(){
+        if (size-- < capacity / 4){
+            capacity /= 2;
+            reloc();
         }
     }
     T& operator[](int id){
@@ -48,6 +57,8 @@ int main()
     for (int i = 0; i < 130; i++)
         v.push_back(i);
     v[0] = 123123;
+    for (int i = 0; i < 100; i++)
+        v.pop_back();
     for (MyVector<int>::iterator it = v.begin(); it != v.end(); ++it)
         cout << *it << " ";
     cout << "\n" << v.size << " " << v.capacity;

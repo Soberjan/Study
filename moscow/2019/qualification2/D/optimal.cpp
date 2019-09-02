@@ -12,28 +12,28 @@ void print(int* a, int n){
 }
 
 void optimal(int *b){
-    int *tmp = new int[k];
+    int *tmp = new int[k + 1];
     memcpy(tmp, a, sizeof(int) * k);
     sort(tmp, tmp + k);
-    int fst = 0, lst = k;
-    for (int i = 0; i <= n - k + 1; fst++, lst++, i++){
+    for (int i = 0; i <= n - k + 1; i++){
         b[i] = tmp[k/2];
-        int *idx1 = lower_bound(tmp, tmp + k, a[fst]);
-        for (int j = idx1 - tmp + 1; j < k; j++)
-            tmp[j - 1] = tmp[j];
-        int *idx2 = lower_bound(tmp, tmp + k, a[lst]);
-        for (int j = k - 1; j > idx2 - tmp; j--)
-            tmp[j] = tmp[j - 1];
-        if (idx2 - tmp == k)
-            tmp[k - 1] = a[lst];
+        int *idx1 = lower_bound(tmp, tmp + k, a[i]);
+        int *idx2 = lower_bound(tmp, tmp + k, a[i + k]);
+        if (idx2 > idx1)
+            memmove(idx1, idx1 + 1, (idx2 - idx1) * sizeof(int));
         else
-            tmp[idx2 - tmp] = a[lst];
+            memmove(idx2 + 1, idx2, (idx1 - idx2) * sizeof(int));
+        idx2 = lower_bound(tmp, tmp + k, a[i + k]);
+        if (idx2 - tmp == k)
+            tmp[k - 1] = a[i + k];
+        else
+            tmp[idx2 - tmp] = a[i + k];
     }
 }
 
 int main()
 {
-    //freopen("tests/02", "r", stdin);
+    //freopen("tests/00", "r", stdin);
     cin >> n >> k;
     for (int i = 0; i < n; i++)
         cin >> a[i];

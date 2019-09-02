@@ -15,25 +15,24 @@ void optimal(int *b){
     int *tmp = new int[k];
     memcpy(tmp, a, sizeof(int) * k);
     sort(tmp, tmp + k);
-    int fst = 0, lst = k;
-    for (int i = 0; i <= n - k + 1; fst++, lst++, i++){
+    for (int i = 0; i <= n - k + 1; i++){
         b[i] = tmp[k/2];
-        int *idx1 = lower_bound(tmp, tmp + k, a[fst]);
+        int *idx1 = lower_bound(tmp, tmp + k, a[i]);
         for (int j = idx1 - tmp + 1; j < k; j++)
             tmp[j - 1] = tmp[j];
-        int *idx2 = lower_bound(tmp, tmp + k, a[lst]);
+        int *idx2 = lower_bound(tmp, tmp + k, a[i + k]);
         for (int j = k - 1; j > idx2 - tmp; j--)
             tmp[j] = tmp[j - 1];
         if (idx2 - tmp == k)
-            tmp[k - 1] = a[lst];
+            tmp[k - 1] = a[i + k];
         else
-            tmp[idx2 - tmp] = a[lst];
+            tmp[idx2 - tmp] = a[i + k];
     }
 }
 
 int main()
 {
-    //freopen("tests/02", "r", stdin);
+//    freopen("tests/02", "r", stdin);
     cin >> n >> k;
     for (int i = 0; i < n; i++)
         cin >> a[i];
