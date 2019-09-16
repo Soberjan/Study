@@ -25,25 +25,25 @@ struct MyVector{
         iterator it(a, size);
         return it;
     }
-    void reloc(){
+    int* reloc(){
         T *b = new T[capacity];
         memcpy(b, a, sizeof(T) * capacity);
         delete[] a;
-        a = b;
+        return b;
     }
     void push_back(T i){
         if (size < capacity)
             a[size++] = i;
         else if (size == capacity){
             capacity *= 2;
-            reloc();
+            a = reloc();
             a[size++] = i;
         }
     }
     void pop_back(){
         if (size-- < capacity / 4){
             capacity /= 2;
-            reloc();
+            a = reloc();
         }
     }
     T& operator[](int id){
