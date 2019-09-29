@@ -26,7 +26,7 @@ int FindNextZ(bitset<202> bs, int i){
 
 int main()
 {
-    freopen("tests/00", "r", stdin);
+//    freopen("tests/00", "r", stdin);
     string river;
     cin >> river;
 
