@@ -1,32 +1,29 @@
 #include <iostream>
-#include <cmath>
 using namespace std;
 
 int n;
 
 int main()
 {
-    //freopen("check/01", "r", stdin);
+//    freopen("tests/00", "r", stdin);
     cin >> n;
-    int a[11]; float q;
-    for (int i = 0; i < 11; i++)
-        a[i] = 0;
-    for (int i = 0; i < n; i++){
-        cin >> q;
-        int r = q <= 36 ? ceil(q / 4) : 10 - ceil((q - 36) / 2);
-        a[r]++;
+
+    if ((n % 2 == 0) || (n == 1))
+        cout << "IMPOSSIBLE";
+    else{
+        char s[n];
+        for (int i = 0; i < n / 2; i++)
+            s[i] = s[n - i - 1] = i % 2 == 0 ? '+' : '-';
+        s[n/2] = '+';
+        s[n/2-1] = s[n/2+1] = '-';
+        for (int i = 0; i < n / 2; i++)
+            if (n - i - 1 - i - 1 == n / 2){
+                s[i] = '+';
+                s[n-i-1] = '-';
+            }
+        for (int i = 0; i < n; i++)
+            cout << s[i];
     }
 
-    int smax = 0, s = 0;
-    for (int i = 0; i < 10; i++){
-        if (a[i] == 6)
-            s++;
-        else if (s != 0){
-            smax = s;
-            s = 0;
-        }
-    }
-
-    cout << max(s, smax);
     return 0;
 }
