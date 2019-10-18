@@ -7,7 +7,7 @@ int m;
 
 int main()
 {
-    //freopen("tests/02", "r", stdin);
+    freopen("check/15", "r", stdin);
     cin >> m;
     list<int> p(1, 1);
     int q = 2, n = m;
@@ -16,7 +16,7 @@ int main()
             p.push_back(q);
             n /= q;
         }
-        else if (q == n / 2){
+        else if (q >= sqrt(n)){
             p.push_back(n);
             n = 1;
         }
