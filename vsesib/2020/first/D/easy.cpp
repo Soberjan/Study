@@ -7,12 +7,13 @@ int n, a, b;
 
 int main()
 {
-    //freopen("tests/03", "r", stdin);
+    //freopen("tests/04", "r", stdin);
     cin >> n >> a >> b;
     ll q = 0;
-    for (int i = 0; i * 3 <= b * 3; i++)
-        for (int j = 0; j <= a * 2; j++)
-            q += (i * 3 + j * 2 == n);
+    for (int i = 0; i <= a; i++)
+        for (int j = 0; j <= b; j++)
+            if (i * 2 + j * 3 == n)
+                q++;
     ll p = (a + 1) * (b + 1);
     if (q == 0)
         cout << 0;

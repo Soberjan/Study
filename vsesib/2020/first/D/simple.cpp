@@ -6,7 +6,7 @@ using namespace std;
 int n, a, b;
 
 int main(){
-//    freopen("tests/02", "r", stdin);
+//    freopen("tests/04", "r", stdin);
     cin >> n >> a >> b;
     ll q = 0;
     for (int i = n % 2; (i <= b) && (i * 3 <= n); i+=2)
