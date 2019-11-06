@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cstdio>
 #include <vector>
 #include <queue>
 using namespace std;
@@ -15,11 +16,11 @@ void h(queue<int>& que, int c){
     if (a[c - 1] == 0)
         que.push(c - 1);
     if (a[c + 1] == 0)
-        que.push(c - 1);
-    if (a[c - m] == 0)
-        que.push(c - 1);
-    if (a[c + m] == 0)
-        que.push(c - 1);
+        que.push(c + 1);
+    if (a[c - (m + 2)] == 0)
+        que.push(c - (m + 2));
+    if (a[c + (m + 2)] == 0)
+        que.push(c + (m + 2));
 }
 
 int i(int c){
@@ -39,7 +40,16 @@ int g(int c, int n){
         a[fst] = n;
         que.pop();
     }
+
     return sum;
+}
+
+void print(int k){
+    for (int i = 0; i < k; i++)
+        if (i % (m + 2) == 0)
+            printf("\n%3d ", a[i]);
+        else
+            printf("%3d ", a[i]);
 }
 
 int main(){
@@ -60,18 +70,19 @@ int main(){
         }
     for (int i = 0; i < q; i++){
         cin >> x >> y >> b[i].first;
-        b[i].Y = f(x, y);
+        b[i].Y = f(x - 1, y - 1);
     }
 
     for (int i = 0; i < q; i++)
-        a[b[i].Y] = b[i].X < 0 ? -1 : a[b[i].Y];
+        a[b[i].Y] = b[i].X < 0 ? -1 : 0;
     int num = 1;
     vector<int> v;
     for (int i = 0; i < k; i++)
         if (a[i] == 0)
             v.push_back(g(i, num++));
-
-
-
+    print(k);
+    cout << "\n\n";
+    for (int x : v)
+        cout << x << " ";
     return 0;
 }
