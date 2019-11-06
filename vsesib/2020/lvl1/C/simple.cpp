@@ -31,6 +31,7 @@ ll G(int x){
 int main(){
 //    freopen("tests/00", "r", stdin);
     cin >> n;
+
     for (int i = 0; i < n - 1; i++){
         int u, v;
         cin >> u >> v;
