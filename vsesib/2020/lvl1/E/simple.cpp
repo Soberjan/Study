@@ -2,13 +2,14 @@
 #include <cstdio>
 #include <vector>
 #include <queue>
+#include <bitset>
 using namespace std;
 #define f(x, y) (m + 2) * (x + 1) + (y + 1)
 #define fst que.front()
 #define X first
 #define Y second
 
-int n, m, q, s;
+int n, m, q, S;
 pair<int, int> *b;
 int *a;
 
@@ -44,6 +45,46 @@ int g(int c, int n){
     return sum;
 }
 
+vector<int>* fk(int num){
+    vector<int> *A = new vector<int>[num - 1];
+    for (int i = 0; i < q; i++)
+        if (b[i].X < 0){
+            if (a[b[i].Y-1] != -1){
+                A[a[b[i].Y]-1].push_back(a[b[i].Y-1] - 1);
+                A[a[b[i].Y-1]-1].push_back(a[b[i].Y]-1);
+            }
+            if (a[b[i].Y+1] != -1){
+                A[a[b[i].Y]-1].push_back(a[b[i].Y+1] - 1);
+                A[a[b[i].Y+1] - 1].push_back(a[b[i].Y]-1);
+            }
+            if (a[b[i].Y - (m + 2)] != -1){
+                A[a[b[i].Y]-1].push_back(a[b[i].Y-(m + 2)] - 1);
+                A[a[b[i].Y-(m + 2)] - 1].push_back(a[b[i].Y]-1);
+            }
+            if (a[b[i].Y + (m + 2)] != -1){
+                A[a[b[i].Y]-1].push_back(a[b[i].Y+(m + 2)] - 1);
+                A[a[b[i].Y+(m + 2)] - 1].push_back(a[b[i].Y]-1);
+            }
+        }
+    return A;
+}
+
+int e(vector<int> *A, vector<int>& v, int c, int s){
+    bitset<19> blocked_nodes(c);
+    queue<int> que;
+    que.push(s);
+    int sum = 0;
+    while (!que.empty()){
+        sum += v[fst];
+        for (int i : A[fst])
+            if (!blocked_nodes[i])
+                que.push(i);
+        blocked_nodes[fst] = 1;
+        que.pop();
+    }
+    return sum;
+}
+
 void print(int k){
     for (int i = 0; i < k; i++)
         if (i % (m + 2) == 0)
@@ -57,7 +98,7 @@ int main(){
     cin >> n >> m >> q;
     int x, y;
     cin >> x >> y;
-    s = f(x - 1, y - 1);
+    S = f(x - 1, y - 1);
     int k = (n + 2) * (m + 2);
     a = new int[k];
     b = new pair<int, int>[q];
@@ -73,16 +114,35 @@ int main(){
         b[i].Y = f(x - 1, y - 1);
     }
 
-    for (int i = 0; i < q; i++)
-        a[b[i].Y] = b[i].X < 0 ? -1 : 0;
     int num = 1;
     vector<int> v;
+    for (int i = 0; i < q; i++)
+        if (b[i].X < 0){
+            v.push_back(b[i].X);
+            a[b[i].Y] = num++;
+        }
     for (int i = 0; i < k; i++)
         if (a[i] == 0)
             v.push_back(g(i, num++));
-    print(k);
-    cout << "\n\n";
-    for (int x : v)
-        cout << x << " ";
+    vector<int> *A = fk(num);
+    int m = 0, s = a[S];
+    int n_a = 0;
+    for (int i : v)
+        n_a += (i > 0);
+    n_a = 1 << n_a;
+    for (int c = 0;  c <= n_a; c++)
+        m = max(e(A, v, c, s), m);
+    cout << m;
     return 0;
 }
+//    print(k);
+//    cout << "\n\n";
+//    for (int x : v)
+//        cout << x << " ";
+//    cout << "\n\n";
+//    for (int i = 0; i < num; i++){
+//        for (int x : A[i])
+//            cout << x << " ";
+//        cout << "\n";
+//    }
+
