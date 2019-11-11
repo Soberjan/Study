@@ -1,5 +1,4 @@
 #include <iostream>
-#include <map>
 #include <vector>
 using namespace std;
 #define ll long long
@@ -7,7 +6,7 @@ using namespace std;
 #define Y second
 
 int n;
-map<int, vector<int>> g;
+vector<int> *g;
 
 inline ll sqr(ll a){
     return a * a;
@@ -31,6 +30,7 @@ ll G(int x){
 int main(){
 //    freopen("tests/00", "r", stdin);
     cin >> n;
+    g = new vector<int>[n];
 
     for (int i = 0; i < n - 1; i++){
         int u, v;
@@ -39,11 +39,8 @@ int main(){
         g[v - 1].push_back(u - 1);
     }
     pair<ll, int> m = {G(0), 0};
-    for (int i = 1; i < n; i++){
-        pair<ll, int> t = {G(i), i};
-        if (t < m)
-            m = t;
-    }
+    for (int i = 1; i < n; i++)
+        m = min(m, {G(i), i});
 
     cout << m.X << " " << m.Y + 1;
     return 0;

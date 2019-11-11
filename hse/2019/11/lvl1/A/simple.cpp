@@ -20,8 +20,6 @@ int main(){
     cin >> s1 >> s2 >> s3;
     string s;
     s = max(findmax(s1, s2, s3), s);
-    s = max(findmax(s2, s1, s3), s);
-    s = max(findmax(s3, s1, s2), s);
     cout << s;
     return 0;
 }
