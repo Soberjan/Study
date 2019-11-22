@@ -7,12 +7,11 @@ using namespace std;
 #define Y second
 
 int n;
-map<string, ll> m;
-vector<pair<string, int>> v;
 
-int main()
-{
+int main(){
     //freopen("tests/00", "r", stdin);
+    map<string, ll> m;
+    vector<pair<string, int>> v;
     cin >> n;
     int amount;
     string command, type;

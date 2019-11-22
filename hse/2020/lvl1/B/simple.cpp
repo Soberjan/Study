@@ -19,8 +19,8 @@ void f(int p, int q, int s){
             s += (a[i].X + a[i].Y);
             if (s > smax)
                 memcpy(b, c, sizeof(pair<int, int>) * n), smax = s;
-//            print(c);
-//            cout << s << " " << smax << "\n\n";
+            print(c);
+            cout << s << " " << smax << "\n\n";
             f(i + 1, q + 1, s);
             c[i].X = c[i].Y = 0;
             s -= (a[i].X + a[i].Y);
@@ -30,8 +30,8 @@ void f(int p, int q, int s){
             s += (a[i].Y + a[i+1].Y);
             if (s > smax)
                 memcpy(b, c, sizeof(pair<int, int>) * n), smax = s;
-//            print(c);
-//            cout << s << " " << smax << "\n\n";
+            print(c);
+            cout << s << " " << smax << "\n\n";
             f(i + 1, q + 1, s);
             c[i].Y = c[i+1].Y = 0;
             s -= (a[i].Y + a[i+1].Y);
@@ -41,8 +41,8 @@ void f(int p, int q, int s){
             s += (a[i].X + a[i+1].X);
             if (s > smax)
                 memcpy(b, c, sizeof(pair<int, int>) * n), smax = s;
-//            print(c);
-//            cout << s << " " << smax << "\n\n";
+            print(c);
+            cout << s << " " << smax << "\n\n";
             f(i + 1, q + 1, s);
             c[i].X = c[i+1].X = 0;
             s -= (a[i].X + a[i+1].X);
@@ -51,7 +51,7 @@ void f(int p, int q, int s){
 }
 
 int main(){
-//    freopen("tests/02", "r", stdin);
+    freopen("tests/00", "r", stdin);
     cin >> n >> k;
     a = new pair<int, int>[n];
     for (int i = 0; i < n; i++)
