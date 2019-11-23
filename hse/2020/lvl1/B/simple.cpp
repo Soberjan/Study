@@ -1,67 +1,37 @@
 #include <iostream>
-#include <cstring>
+#include <vector>
+#include <set>
 using namespace std;
+#define ll long long
 #define X first
 #define Y second
 
-int n, k, smax;
-pair<int, int> *a, *b, *c;
+int n, k;
+vector<int> a, b;
 
-void print(pair<int, int> *c){
-    for (int i = 0; i < n; i++)
-        cout << c[i].X << " " << c[i].Y << "\n";
-}
-
-void f(int p, int q, int s){
-    for (int i = p; (i < n) && (q <= k); i++){
-        if ((c[i].X == 0) && (c[i].Y == 0)){
-            c[i].X = c[i].Y = q;
-            s += (a[i].X + a[i].Y);
-            if (s > smax)
-                memcpy(b, c, sizeof(pair<int, int>) * n), smax = s;
-            print(c);
-            cout << s << " " << smax << "\n\n";
-            f(i + 1, q + 1, s);
-            c[i].X = c[i].Y = 0;
-            s -= (a[i].X + a[i].Y);
-        }
-        if ((i + 1 < n) && (c[i].Y == 0)){
-            c[i].Y = c[i+1].Y = q;
-            s += (a[i].Y + a[i+1].Y);
-            if (s > smax)
-                memcpy(b, c, sizeof(pair<int, int>) * n), smax = s;
-            print(c);
-            cout << s << " " << smax << "\n\n";
-            f(i + 1, q + 1, s);
-            c[i].Y = c[i+1].Y = 0;
-            s -= (a[i].Y + a[i+1].Y);
-        }
-        if ((i + 1 < n) && (c[i].X == 0)){
-            c[i].X = c[i+1].X = q;
-            s += (a[i].X + a[i+1].X);
-            if (s > smax)
-                memcpy(b, c, sizeof(pair<int, int>) * n), smax = s;
-            print(c);
-            cout << s << " " << smax << "\n\n";
-            f(i + 1, q + 1, s);
-            c[i].X = c[i+1].X = 0;
-            s -= (a[i].X + a[i+1].X);
-        }
-    }
+ll f(int i, int j, int h){
+    if (j == 0)
+        return 0;
+    set<int> s;
+    if (n - i > j)
+        s.insert(f(i+1, j, 0));
+    if ((n - i > j) && (h != 1))
+        s.insert(b[i] + b[i+1] + f(i+1, j-1, 1));
+    if ((n - i > j) && (h != 2))
+        s.insert(a[i] + a[i+1] + f(i+1, j-1, 2));
+    if ((h != 1) && (h != 2))
+        s.insert(a[i] + b[i] +   f(i+1, j-1, 3));
+    return *(--s.end());
 }
 
 int main(){
-    freopen("tests/00", "r", stdin);
+    freopen("tests/03", "r", stdin);
     cin >> n >> k;
-    a = new pair<int, int>[n];
+    a.resize(n), b.resize(n);
     for (int i = 0; i < n; i++)
-        cin >> a[i].X >> a[i].Y;
+        cin >> a[i] >> b[i];
 
-    b = new pair<int, int>[n];
-    c = new pair<int, int>[n];
-    f(0, 1, 0);
+    cout << f(0, k, 0);
 
-    for (int i = 0; i < n; i++)
-        cout << b[i].X << " " << b[i].Y << "\n";
     return 0;
 }
