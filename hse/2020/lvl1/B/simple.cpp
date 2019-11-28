@@ -1,60 +1,61 @@
 #include <iostream>
-#include <vector>
 #include <set>
+#include <map>
 using namespace std;
-#define ll long long
 #define X first
 #define Y second
+#define ll long long
 
 int n, k;
-vector<int> a, b;
+pair<ll, int> *a;
 
-ll f(int i, int j, int h);
-pair<ll, int> g(int i, int j, int h) {
+struct trio{
+    ll x, y, z;
+    trio(ll i, ll j, ll q) : x(i), y(j), z(q) {}
+};
+bool operator<(const trio& l, const trio& r) { return (l.x < r.x) || ((l.x == r.x) && (l.y < r.y)) || ((l.x == r.x) && (l.y == r.y) && (l.z < r.z)); }
+map<trio, pair<ll, int>> cache;
+
+
+pair<ll, int> f(ll i, ll j, int q){
+    if (j <= 0)
+        return {0, 0};
+    trio t(i, j, q);
+    if (cache.find(t) != cache.end())
+        return cache[t];
     set<pair<ll, int>> s;
     if (n - i > j)
-        s.insert({f(i + 1, j, 0), 0});
-    if ((n - i > j) && (h != 1))
-        s.insert({b[i] + b[i+1] + f(i + 1, j - 1, 1), 1});
-    if ((n - i > j) && (h != 2))
-        s.insert({a[i] + a[i+1] + f(i + 1, j - 1, 3), 2});
-    if ((h != 1) && (h != 2))
-        s.insert({a[i] + b[i]   + f(i + 1, j - 1, 3), 3});
+        s.insert({f(i+1, j, 0).X, 0});
+    if ((n - i > j) && (q != 1))
+        s.insert({a[i].Y + a[i+1].Y + f(i+1, j-1, 1).X, 1});
+    if ((n - i > j) && (q != 2))
+        s.insert({a[i].X + a[i+1].X + f(i+1, j-1, 2).X, 2});
+    if ((q != 1) && (q != 2))
+        s.insert({a[i].X +   a[i].Y + f(i+1, j-1, 3).X, 3});
+    cache[t] = *(--s.end());
     return *(--s.end());
 }
-ll f(int i, int j, int h) { return j > 0 ? g(i, j, h).X : 0; }
 
 int main(){
-    freopen("tests/03", "r", stdin);
+ //  freopen("tests/03", "r", stdin);
+    cin.tie(0);
+    cout.tie(0);
+    ios_base::sync_with_stdio(0);
     cin >> n >> k;
-    a.resize(n), b.resize(n);
+    a = new pair<ll, int>[n];
     for (int i = 0; i < n; i++)
-        cin >> a[i] >> b[i];
+        cin >> a[i].X >> a[i].Y;
 
-    pair<int,int> *r = new pair<int, int>[n] {};
-    for (int i = 0, j = k, h = 0, m = 0; j > 0; i++)
-        switch (h = g(i, j, h).Y) {
-            case 1: --j; r[i].Y = r[i+1].Y = ++m; break;
-            case 2: --j; r[i].X = r[i+1].X = ++m; break;
-            case 3: --j; r[i].X =   r[i].Y = ++m; break;
+    pair<int, int> *b = new pair<int, int>[n];
+    fill(b, b + n, make_pair(0, 0));
+    for (int i = 0, q = 1, c = 0; q <= k; i++)
+        switch (c = f(i, k - q + 1, c).Y){
+            case 1: b[i].Y = b[i+1].Y = q++; break;
+            case 2: b[i].X = b[i+1].X = q++; break;
+            case 3: b[i].X = b[i].Y   = q++; break;
         }
 
     for (int i = 0; i < n; i++)
-        cout << r[i].X << " " << r[i].Y << "\n";
+        cout << b[i].X << " " << b[i].Y << "\n";
     return 0;
 }
-
-//ll f(int i, int j, int h){
-//    if (j == 0)
-//        return 0;
-//    set<int> s;
-//    if (n - i > j)
-//        s.insert(f(i+1, j, 0));
-//    if ((n - i > j) && (h != 1))
-//        s.insert(b[i] + b[i+1] + f(i+1, j-1, 1));
-//    if ((n - i > j) && (h != 2))
-//        s.insert(a[i] + a[i+1] + f(i+1, j-1, 2));
-//    if ((h != 1) && (h != 2))
-//        s.insert(a[i] + b[i] +   f(i+1, j-1, 3));
-//    return *(--s.end());
-//}
