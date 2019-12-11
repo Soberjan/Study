@@ -1,5 +1,5 @@
 #include <iostream>
-#include <time.h>
+#include <ctime>
 using namespace std;
 
 int main(int c, char* v[]){

@@ -2,51 +2,52 @@
 #include <set>
 #include <map>
 using namespace std;
+#define X first
+#define Y second
 #define ll long long
-#define X  first
-#define Y  second
 
 int n, k;
 pair<int, int> *a;
 
-struct trio {int i, j, h;};
-inline int idx(trio t) { return t.i * k * 4 + t.j * 4 + t.h; }
-bool operator<(const trio &l, const trio &r) {return idx(l) < idx(r);}
+struct trio{int i, j, h; };
+ll idx(const trio& t){ return t.i*(k+1)*4 + t.j*4 + t.h; }
+bool operator<(const trio& l, const trio& r) {return idx(l) < idx(r); }
 map<trio, ll> cache;
 
 pair<ll, int> g(int i, int j, int h);
-ll f(int i, int j, int h) {
-    trio t={i,j,h};
-    return j > 0 ? (cache.count(t)>0?cache[t]:cache[t]=g(i,j,h).X) : 0;}
+ll f(int i, int j, int h){
+    trio t {i, j, h};
+    return cache.count(t) > 0 ? cache[t] : cache[t] = g(i, j, h).X;
+}
 pair<ll, int> g(int i, int j, int h){
+//    cout << i << " " << j << " " << h << endl;
+    if (j == 0)
+        return {0, 0};
     set<pair<ll, int>> s;
     if (n - i > j)
-        s.insert({f(i + 1, j, 0), 0});
+        s.insert({f(i+1, j  , 0)                    , 0});
     if ((n - i > j) && (h != 1))
-        s.insert({a[i].Y + a[i+1].Y + f(i + 1, j - 1, 1), 1});
+        s.insert({f(i+1, j-1, 1) + a[i].Y + a[i+1].Y, 1});
     if ((n - i > j) && (h != 2))
-        s.insert({a[i].X + a[i+1].X + f(i + 1, j - 1, 2), 2});
+        s.insert({f(i+1, j-1, 2) + a[i].X + a[i+1].X, 2});
     if ((h != 1) && (h != 2))
-        s.insert({a[i].X + a[i].Y   + f(i + 1, j - 1, 3), 3});
-    return *(--s.end());
+        s.insert({f(i+1, j-1, 3) + a[i].X + a[i]  .Y, 3});
+    return s.size() > 0 ? *(--s.end()) : (pair<ll, int>) {0, 0};
 }
 
 int main(){
-//    freopen("tests/03", "r", stdin);
+//    freopen("tests/10", "r", stdin);
     cin >> n >> k;
     a = new pair<int, int>[n];
     for (int i = 0; i < n; i++)
         cin >> a[i].X >> a[i].Y;
 
-    pair <int, int>*r = new pair<int, int>[n] {};
-    for (int i = 0, j = k, h = 0, m = 0; j > 0; i++)
-        switch(h = g(i, j, h).Y) {
-            case 1: --j; r[i].Y = r[i+1].Y = ++m; break;
-            case 2: --j; r[i].X = r[i+1].X = ++m; break;
-            case 3: --j; r[i].X =   r[i].Y = ++m; break;
-        }
+    ll *c = new ll[(n+1)*(k+1)*4]{0};
+    for (int i = n - 1; i >= 0; i--)
+        for (int j = 1; j <= k; j++)
+            for (int h = 0; h < 4; h++)
+                c[(i)*(k+1)*4+(j)*4+(h)] = g(i, j, h).X;
 
-    for (int i = 0; i < n; i++)
-        cout << r[i].X << " " << r[i].Y << "\n";
     return 0;
 }
+
