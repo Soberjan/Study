@@ -1,5 +1,4 @@
 #include <iostream>
-#include <queue>
 #include <stack>
 using namespace std;
 #define X first
@@ -19,18 +18,10 @@ void print(){
     cout << endl;
 }
 pair<int, int> moves[8]{ {1, 2}, {2, 1}, {2, -1}, {1, -2}, {-1, -2}, {-2, -1}, {-2, 1}, {-1, 2} };
-void f(){
-    queue<pair<int,int>> s;
-    s.push({0,0});
-    a[0][0] = 1;
-    while (s.size() != 0){
-        pair<int, int> p = s.front();
-        for (int i = 0; i < 8; i++)
-            if ( ( p.X + moves[i].X >= 0) && (p.X + moves[i].X < n) && (p.Y + moves[i].Y >= 0) && (p.Y + moves[i].Y < m) && (a[p.X+moves[i].X][p.Y+moves[i].Y] == 0) )
-                a[p.X+moves[i].X][p.Y+moves[i].Y] = a[p.X][p.Y]+1, s.push({p.X+moves[i].X, p.Y+moves[i].Y});
-        s.pop();
-    }
-//    print();
+void f(int x, int y){
+    for (int i = 0; i < 8; i++)
+        if ( ( x + moves[i].X >= 0) && (x + moves[i].X < n) && (y + moves[i].Y >= 0) && (y + moves[i].Y < m) && (a[x+moves[i].X][y+moves[i].Y] == 0) )
+            a[x+moves[i].X][y+moves[i].Y] = a[x][y]+1, f(x+moves[i].X, y+moves[i].Y);
 }
 
 int main(){
@@ -38,7 +29,8 @@ int main(){
     cin >> x >> y;
 
     n = abs(x) + 3, m = abs(y) + 3;
-    f();
+    a[0][0] = 1;
+    f(0, 0);
 
     stack<pair<int, int>> ans;
     for (int x1 = abs(x), y1 = abs(y), q = a[x1][y1]; q > 1; q--)
