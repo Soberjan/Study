@@ -1,56 +1,67 @@
 #include <iostream>
-#include <queue>
+#include <deque>
 #include <stack>
 using namespace std;
 #define X first
 #define Y second
 
+struct trio{
+    int x, y, q;
+    trio(int a, int b, int c) : x(a), y(b), q(c) {}
+};
 const int LIM = 100;
-int x, y;
+int a, b;
 
-int n, m;
-int a[LIM+3][LIM+3]{};
+
+int c, d;
+int e[LIM+3][LIM+3]{};
+pair<int, int> moves[8]{ {1, 2}, {2, 1}, {2, -1}, {1, -2}, {-1, -2}, {-2, -1}, {-2, 1}, {-1, 2} };
+
 void print(){
-    for (int i = 0; i < n; i++){
-        for (int j = 0; j < m; j++)
-            cout << a[i][j] << " ";
+    for (int i = 0; i < c + 3; i++){
+        for (int j = 0; j < d + 3; j++)
+            cout << e[i][j] << " ";
         cout << endl;
     }
     cout << endl;
 }
-pair<int, int> moves[8]{ {1, 2}, {2, 1}, {2, -1}, {1, -2}, {-1, -2}, {-2, -1}, {-2, 1}, {-1, 2} };
+
 void f(){
-    queue<pair<int,int>> s;
-    s.push({0,0});
-    a[0][0] = 1;
+    deque<trio> s;
+    s.push_front(trio(0,0,1));
     while (s.size() != 0){
-        pair<int, int> p = s.front();
-        for (int i = 0; i < 8; i++)
-            if ( ( p.X + moves[i].X >= 0) && (p.X + moves[i].X < n) && (p.Y + moves[i].Y >= 0) && (p.Y + moves[i].Y < m) && (a[p.X+moves[i].X][p.Y+moves[i].Y] == 0) )
-                a[p.X+moves[i].X][p.Y+moves[i].Y] = a[p.X][p.Y]+1, s.push({p.X+moves[i].X, p.Y+moves[i].Y});
-        s.pop();
+        trio r = s.front();
+        if ( (e[r.x][r.y] != 0) || (r.x < 0) || (r.x > c + 3) || (r.y < 0) || (r.y > d + 3) ){
+            s.pop_front();
+            continue;
+        }
+        e[r.x][r.y] = r.q;
+        for (pair<int, int> p : moves)
+            s.push_back(trio(r.x+p.X, r.y+p.Y, r.q+1));
+        s.pop_front();
     }
 //    print();
 }
 
 int main(){
     //freopen("tests/00", "r", stdin);
-    cin >> x >> y;
 
-    n = abs(x) + 3, m = abs(y) + 3;
+    cin >> a >> b;
+
+    c = abs(a), d = abs(b);
     f();
 
-    stack<pair<int, int>> ans;
-    for (int x1 = abs(x), y1 = abs(y), q = a[x1][y1]; q > 1; q--)
-        for (int i = 0; i < 8; i++)
-            if (a[x1+moves[i].X][y1+moves[i].Y] == q - 1){
-                ans.push({x1,y1});
-                x1 += moves[i].X;
-                y1 += moves[i].Y;
+    print();
+    deque<pair<int, int>> ans;
+    for (int x = c, y = d, q = e[x][y]; q > 1; q--)
+        for (pair<int, int> p : moves)
+            if (e[x+p.X][y+p.Y] == q - 1){
+                ans.push_front({x,y});
+                x += p.X, y += p.Y;
+                break;
             }
-    while (!ans.empty()){
-        cout << (x < 0 ? -1 * ans.top().X : ans.top().X) << " " << (y < 0 ? -1 * ans.top().Y : ans.top().Y) << endl;
-        ans.pop();
-    }
+    int u = (a > 0) - (a < 0), v = (b > 0) - (b < 0);
+    for (pair<int, int> p : ans)
+        cout << u * p.X << " " << v * p.Y << endl;
     return 0;
 }

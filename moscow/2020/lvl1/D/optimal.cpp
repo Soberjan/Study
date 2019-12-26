@@ -7,9 +7,10 @@ const int LIM = 100;
 int x, y;
 
 int main(){
-    //freopen("tests/01", "r", stdin);
+    //freopen("tests/00", "r", stdin);
     cin >> x >> y;
 
+    int u = (x > 0) - (x < 0), v = (y > 0) - (y < 0);
     int n = abs(x), m = abs(y);
     int i, j;
     for (i = 0, j = 0; ; ){
@@ -19,17 +20,16 @@ int main(){
             i+=1, j+=2;
         else
             i+=2, j+=1;
-        cout << (x < 0 ? -1 * i : i) << " " << (y < 0 ? -1 * j : j) << endl;
-
+        cout << u * i << " " << v * j << endl;
     }
 
     if ( (i == n)   && (j == m) )
         cout << x << " " << y;
     if ( (i == n)   && (j == m+1) )
-        cout << (x < 0 ? -1*(i+1) : i+1) << " " << (y < 0 ? -1*(j+2) : j+2) << endl << (x < 0 ? -1*(i+2) : i+2) << " " << (y < 0 ? -1* j    : j  ) << endl << x << " " << y;
+        cout << u * (i+1) << " " << v * (j+2) << endl << u * (i+2) << " " << v * j << endl <<     x << " " << y;
     if ( (i == n+1) && (j == m) )
-        cout << (x < 0 ? -1*(i+2) : i+2) << " " << (y < 0 ? -1*(j+1) : j+1) << endl << (x < 0 ? -1* i    : i  ) << " " << (y < 0 ? -1*(j+2) : j+2) << endl << x << " " << y;
+        cout << u * (i+2) << " " << v * (j+1) << endl << u *  i << " " <<    v * (j+2) << endl << x << " " << y;
     if ( (i == n+1) && (j == m+1) )
-        cout << i+1 << " " << j-2 << endl << x << " " << y;
+        cout << u * (i+1) << " " << v * (j-2) << endl << x << " " << y;
     return 0;
 }

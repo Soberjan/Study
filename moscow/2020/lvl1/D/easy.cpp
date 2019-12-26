@@ -1,48 +1,42 @@
 #include <iostream>
-#include <stack>
+#include <deque>
 using namespace std;
 #define X first
 #define Y second
-
 const int LIM = 100;
-int x, y;
 
-int n, m;
-int a[LIM+3][LIM+3]{};
-void print(){
-    for (int i = 0; i < n; i++){
-        for (int j = 0; j < m; j++)
-            cout << a[i][j] << " ";
-        cout << endl;
-    }
-    cout << endl;
-}
+int a, b;
+int c, d;
+int e[LIM+3][LIM+3]{};
+
 pair<int, int> moves[8]{ {1, 2}, {2, 1}, {2, -1}, {1, -2}, {-1, -2}, {-2, -1}, {-2, 1}, {-1, 2} };
-void f(int x, int y){
-    for (int i = 0; i < 8; i++)
-        if ( ( x + moves[i].X >= 0) && (x + moves[i].X < n) && (y + moves[i].Y >= 0) && (y + moves[i].Y < m) && (a[x+moves[i].X][y+moves[i].Y] == 0) )
-            a[x+moves[i].X][y+moves[i].Y] = a[x][y]+1, f(x+moves[i].X, y+moves[i].Y);
+void f(int x, int y, int z){
+    if ( (e[x][y] != 0) || (x < 0) || (x > c + 2) || (y < 0) || (y > d + 2) )
+        return;
+    e[x][y] = z;
+    if ( (x == c) && (y == d) )
+        return;
+    for (pair<int, int> p : moves)
+        f(x+p.X, y+p.Y, z+1);
 }
 
 int main(){
-    //freopen("tests/00", "r", stdin);
-    cin >> x >> y;
+//    freopen("tests/00", "r", stdin);
+    cin >> a >> b;
 
-    n = abs(x) + 3, m = abs(y) + 3;
-    a[0][0] = 1;
-    f(0, 0);
+    c = abs(a), d = abs(b);
+    f(0, 0, 1);
 
-    stack<pair<int, int>> ans;
-    for (int x1 = abs(x), y1 = abs(y), q = a[x1][y1]; q > 1; q--)
-        for (int i = 0; i < 8; i++)
-            if (a[x1+moves[i].X][y1+moves[i].Y] == q - 1){
-                ans.push({x1,y1});
-                x1 += moves[i].X;
-                y1 += moves[i].Y;
+    deque<pair<int, int>> ans;
+    for (int x = c, y = d, q = e[x][y]; q > 1; q--)
+        for (pair<int, int> p : moves)
+            if (e[x+p.X][y+p.Y] == q - 1){
+                ans.push_front({x,y});
+                x += p.X, y += p.Y;
+                break;
             }
-    while (!ans.empty()){
-        cout << (x < 0 ? -1 * ans.top().X : ans.top().X) << " " << (y < 0 ? -1 * ans.top().Y : ans.top().Y) << endl;
-        ans.pop();
-    }
+    int u = (a > 0) - (a < 0), v = (b > 0) - (b < 0);
+    for (pair<int, int> p : ans)
+        cout << u * p.X << " " << v * p.Y << endl;
     return 0;
 }
