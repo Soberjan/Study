@@ -14,8 +14,7 @@ int optimal(){
 
 }
 
-int main()
-{                                                   
+int main(){                                                   
     srand(time(0));
     for (int i = 0; i < 10000; i++){
         n = rand() % 15 + 5;
