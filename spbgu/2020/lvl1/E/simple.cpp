@@ -1,25 +1,25 @@
 #include <iostream>
-#include <vector>
 #include <algorithm>
+#include <vector>
 using namespace std;
-#define ll long long
 #define X first
 #define Y second
+#define ll long long
 
 ll a, b, c, d, N, n;
 
 int main(){
-    //freopen("tests/01", "r", stdin);
+    //freopen("tests/00", "r", stdin);
     cin >> a >> b >> c >> d >> N >> n;
 
-    vector<pair<ll, ll>> v;
-    for (ll i = 1; i <= N; i++)
-        for (ll j = 1; (j < N) && (j * d < c * i); j++)
-            if ( (__gcd(i, j) == 1) && (j * b > a * i) && (j * d < c * i) && ((int)v.size() < n) )
-                v.push_back({j, i});
+    vector<pair<ll, ll>> ans;
+    for (ll f = 1; (f <= N) && ((ll)ans.size() < n); f++)
+        for (ll e = 1; (e <= N) && ((ll)ans.size() < n) && (e * d < f * c); e++)
+            if ( (__gcd(e, f) == 1) && (e * b > f * a))
+                ans.push_back({e, f});
 
-    cout << v.size() << endl;
-    for (pair<ll, ll> x : v)
-        cout << x.X << " " << x.Y << endl;
+    cout << ans.size() << "\n";
+    for (auto p : ans)
+        cout << p.X << " " << p.Y << "\n";
     return 0;
 }
