@@ -1,34 +1,56 @@
 #include <iostream>
 using namespace std;
+#define idx(i, j) (i)*n + (j)
 
 string s;
+int n;
 
-int f(string s){
-//    cout << s << endl;
-    int n = s.size(), m = n;
-    bool u = 0;
-    for (int i = 1; i <= n/2; i++){
-        string s1 = s.substr(0, i);
-        string s2 = s.substr(n-i, i);
-        if (s1 == s2){
-            u = 1;
-            s1 = s.substr(i, n - i);
-            s2 = s.substr(0, n - i);
-            int m1 = f(s1);
-            int m2 = f(s2);
-            m = min(m, min (m1, m2));
-
-        }
+int *l_true, *l_numb;
+int *r_true, *r_numb;
+void print(int *a){
+    for (int i = 0; i < n; i++){
+        for (int j = 0; j < n; j++)
+            cout << a[idx(i,j)] << " ";
+        cout << endl;
     }
-    if (!u)
-        return n;
-    return m;
+    cout << endl;
+}
+void build_g(){
+    l_true = new int[n*n]{}; l_numb = new int[n*n]{};
+    for (int i = 1; i <= n; i++){
+        string t = s.substr(n - i, i);
+        for (int j = 0, amt = 0; j < (int)t.size(); j++)
+            if (s[j] == t[j])
+                l_true[idx(i-1, j)] = 1, l_numb[idx(i-1, j)] = ++amt;
+            else
+                l_true[idx(i-1, j)] = 0, l_numb[idx(i-1, j)] = amt;
+    }
+
+    r_true = new int[n*n]{}; r_numb = new int[n*n]{};
+    for (int i = 1; i <= n; i++){
+        string t = s.substr(0, i);
+        int m = (int)t.size();
+        for (int j = 0, amt = 0; j < m; j++)
+            if (s[n-j-1] == t[m-j-1])
+                r_true[idx(i-1, j)] = 1, r_numb[idx(i-1, j)] = ++amt;
+            else
+                r_true[idx(i-1, j)] = 0, r_numb[idx(i-1, j)] = amt;
+    }
+}
+bool g(int i, int j, int k){
+    if (k > n - (i + j))
+        return 0;
+    if ( (l_true[idx(n-i-1,k-1)] == 1) && (l_numb(idx(n-i-1,k-1) == k) && (r_true[idx(n-j-1,k-1)] == 1) && (r_true[idx(n-j-1,k-1] == k) )
+        return 1;
+    return 0;
 }
 
 int main(){
-   // freopen("tests/04", "r", stdin);
+    freopen("tests/05", "r", stdin);
     cin >> s;
-    cout << f(s);
+    n = (int)s.size();
+
+    build_g();
 
     return 0;
 }
